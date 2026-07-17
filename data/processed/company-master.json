@@ -40,7 +40,9 @@
       "website_contact_method": "",
       "email_validation_reasons": "",
       "email_validation_source": "UpKuajing /agent/validation/email (2026-07-17)",
-      "email_validation_summary": "有有效邮箱"
+      "email_validation_summary": "有有效邮箱",
+      "phone_statuses": "",
+      "phone_validation_summary": "无电话或接口未检测"
     },
     {
       "company_id": 13957403,
@@ -79,7 +81,9 @@
       "website_contact_method": "",
       "email_validation_reasons": "",
       "email_validation_source": "UpKuajing /agent/validation/email (2026-07-17)",
-      "email_validation_summary": "有有效邮箱"
+      "email_validation_summary": "有有效邮箱",
+      "phone_statuses": "",
+      "phone_validation_summary": "无电话或接口未检测"
     },
     {
       "company_id": 229078,
@@ -118,7 +122,9 @@
       "website_contact_method": "Website inquiry form",
       "email_validation_reasons": "jtaub@pacoa.com: [{550: b'5.7.1 Service unavailable, Client host [119.29.247.72] blocked using Spamhaus. To request removal from this list see https://www.spamhaus.org/query/ip/119.29.247.72 AS(1440) [BN3PEPF0000B374.namprd21.prod.outlook.com 2024-07-12T03:36:32.050Z 08DCA1E65F80C200]'}]",
       "email_validation_source": "UpKuajing /agent/validation/email (2026-07-17)",
-      "email_validation_summary": "验证不确定-需官网补充"
+      "email_validation_summary": "验证不确定-需官网补充",
+      "phone_statuses": "+1 516-284-3000:状态1/类型3/WhatsApp2; 888.284.3000:状态3/类型0/WhatsApp0; 516.284.3000:状态1/类型1/WhatsApp2",
+      "phone_validation_summary": "有有效电话"
     },
     {
       "company_id": 209484,
@@ -157,7 +163,9 @@
       "website_contact_method": "Official email and website inquiry form",
       "email_validation_reasons": "support@frostking.com: [{550: b'5.7.1 Service unavailable, Client host [43.138.195.128] blocked using Spamhaus. To request removal from this list see https://www.spamhaus.org/query/ip/43.138.195.128 AS(1450) [SJ5PEPF000001CB.namprd05.prod.outlook.com 2024-07-21T16:53:06.536Z 08DCA6782794B9D5]'}]",
       "email_validation_source": "UpKuajing /agent/validation/email (2026-07-17)",
-      "email_validation_summary": "验证不确定-需官网补充"
+      "email_validation_summary": "验证不确定-需官网补充",
+      "phone_statuses": "+1 201-684-4400:状态1/类型2/WhatsApp2; 201-684-4400:状态2/类型3/WhatsApp2; 775-331-5291:状态3/类型0/WhatsApp0",
+      "phone_validation_summary": "有有效电话"
     },
     {
       "company_id": 71495262,
@@ -180,7 +188,7 @@
       "product_superordinate": "",
       "product_downstream": "",
       "emails": "r1@tplogix.com",
-      "email_statuses": "r1@tplogix.com:2",
+      "email_statuses": "r1@tplogix.com:2; csr1@tplogix.com:3; csr5@tplogix.com:3",
       "phones": "+1 562-474-8460; 5624748460",
       "whatsapp": "",
       "websites": "",
@@ -196,7 +204,9 @@
       "website_contact_method": "Official customer-service emails, phone and inquiry form",
       "email_validation_reasons": "r1@tplogix.com: {\"invalid_input\":false,\"input\":[\"r1@tplogix.com\"],\"domainMap\":{\"tplogix.com\":\"r1@tplogix.com\"},\"results\":{\"tplogix.com\":{\"r1@tplogix.com\":{\"reason\":\"550-5.1.1 The email account that you tried to reach does not exist. Please try\\r\\n550-5.1.1 double-checking the recipient's email address for typos or\\r\\n550-5.1.1 unnecessary spaces. For more information, go to\\r\\n550 5.1.1  https://support.google.com/mail/?p=NoSuchUser d9443c01a7336-1f49b487b11si47414765ad.359 - gsmtp\\r\\n\",\"status\":550}}}}; csr1@tplogix.com: 检测状态未知; csr5@tplogix.com: 检测状态未知",
       "email_validation_source": "UpKuajing /agent/validation/email (2026-07-17)",
-      "email_validation_summary": "无有效邮箱-需官网补充"
+      "email_validation_summary": "验证不确定-需官网补充",
+      "phone_statuses": "+1 562-474-8460:状态1/类型3/WhatsApp2; 5624748460:状态3/类型0/WhatsApp0; 562-474-8460:状态2/类型3/WhatsApp2",
+      "phone_validation_summary": "有有效电话"
     },
     {
       "company_id": 20189222,
@@ -235,7 +245,9 @@
       "website_contact_method": "",
       "email_validation_reasons": "",
       "email_validation_source": "UpKuajing /agent/validation/email (2026-07-17)",
-      "email_validation_summary": "有有效邮箱"
+      "email_validation_summary": "有有效邮箱",
+      "phone_statuses": "+91 120 473 7200:状态1/类型1/WhatsApp2",
+      "phone_validation_summary": "有有效电话"
     },
     {
       "company_id": 1945196,
@@ -274,7 +286,9 @@
       "website_contact_method": "",
       "email_validation_reasons": "",
       "email_validation_source": "UpKuajing /agent/validation/email (2026-07-17)",
-      "email_validation_summary": "有有效邮箱"
+      "email_validation_summary": "有有效邮箱",
+      "phone_statuses": "+593 2-396-0000:状态1/类型1/WhatsApp2",
+      "phone_validation_summary": "有有效电话"
     },
     {
       "company_id": 20189128,
@@ -313,7 +327,9 @@
       "website_contact_method": "",
       "email_validation_reasons": "komal.neb@samsung.com: 邮箱地址错误-使用了无效字符或无效域",
       "email_validation_source": "UpKuajing /agent/validation/email (2026-07-17)",
-      "email_validation_summary": "有有效邮箱"
+      "email_validation_summary": "有有效邮箱",
+      "phone_statuses": "+91 124 488 1234:状态1/类型1/WhatsApp2",
+      "phone_validation_summary": "有有效电话"
     },
     {
       "company_id": 20195417,
@@ -352,7 +368,9 @@
       "website_contact_method": "",
       "email_validation_reasons": "",
       "email_validation_source": "UpKuajing /agent/validation/email (2026-07-17)",
-      "email_validation_summary": "有有效邮箱"
+      "email_validation_summary": "有有效邮箱",
+      "phone_statuses": "01206283388:状态2/类型1/WhatsApp2; 18001023388:状态2/类型0/WhatsApp2; 18002083388:状态1/类型3/WhatsApp2; 18002084488:状态2/类型0/WhatsApp2; +91 120 628 3388:状态1/类型1/WhatsApp2",
+      "phone_validation_summary": "有有效电话"
     },
     {
       "company_id": 80133,
@@ -391,7 +409,9 @@
       "website_contact_method": "",
       "email_validation_reasons": "",
       "email_validation_source": "UpKuajing /agent/validation/email (2026-07-17)",
-      "email_validation_summary": "有有效邮箱"
+      "email_validation_summary": "有有效邮箱",
+      "phone_statuses": "",
+      "phone_validation_summary": "无电话或接口未检测"
     },
     {
       "company_id": 4421112,
@@ -414,7 +434,7 @@
       "product_superordinate": "",
       "product_downstream": "",
       "emails": "hue.dt@honestcom.vn",
-      "email_statuses": "hue.dt@honestcom.vn:2",
+      "email_statuses": "hue.dt@honestcom.vn:2; hue.dt@honestvietnam.com.vn:3",
       "phones": "",
       "whatsapp": "",
       "websites": "",
@@ -424,13 +444,15 @@
       "website_research_notes": "政府公开文件；2025 年企业环境许可文件列出的副总经理邮箱和公司电话 024 35822456。 验证状态=3。",
       "research_status": "API联系方式已获取",
       "market_priority": "常规-全球",
-      "website_emails": "",
+      "website_emails": "hue.dt@honestvietnam.com.vn",
       "website_phones": "",
       "website_address": "",
       "website_contact_method": "",
       "email_validation_reasons": "hue.dt@honestcom.vn: 邮箱地址错误-使用了无效字符或无效域; hue.dt@honestvietnam.com.vn: 检测状态未知",
       "email_validation_source": "UpKuajing /agent/validation/email (2026-07-17)",
-      "email_validation_summary": "无有效邮箱-需官网补充"
+      "email_validation_summary": "验证不确定-需官网补充",
+      "phone_statuses": "",
+      "phone_validation_summary": "无电话或接口未检测"
     },
     {
       "company_id": 369752,
@@ -469,7 +491,9 @@
       "website_contact_method": "",
       "email_validation_reasons": "sales@divicon.com: failed_domains",
       "email_validation_source": "UpKuajing /agent/validation/email (2026-07-17)",
-      "email_validation_summary": "有有效邮箱"
+      "email_validation_summary": "有有效邮箱",
+      "phone_statuses": "+91 2836 240 872:状态1/类型1/WhatsApp2; +91 99789 59714:状态1/类型2/WhatsApp1; +91 99789 59735:状态1/类型2/WhatsApp1",
+      "phone_validation_summary": "有有效电话"
     },
     {
       "company_id": 67944548,
@@ -508,7 +532,9 @@
       "website_contact_method": "",
       "email_validation_reasons": "sim291@hanmail.net: 邮箱地址错误-使用了无效字符或无效域",
       "email_validation_source": "UpKuajing /agent/validation/email (2026-07-17)",
-      "email_validation_summary": "无有效邮箱-需官网补充"
+      "email_validation_summary": "无有效邮箱-需官网补充",
+      "phone_statuses": "+82 51-266-7110:状态1/类型1/WhatsApp2",
+      "phone_validation_summary": "有有效电话"
     },
     {
       "company_id": 1005206,
@@ -547,7 +573,9 @@
       "website_contact_method": "",
       "email_validation_reasons": "",
       "email_validation_source": "UpKuajing /agent/validation/email (2026-07-17)",
-      "email_validation_summary": "有有效邮箱"
+      "email_validation_summary": "有有效邮箱",
+      "phone_statuses": "+82 31-456-8001:状态1/类型1/WhatsApp2",
+      "phone_validation_summary": "有有效电话"
     },
     {
       "company_id": 28403,
@@ -586,7 +614,9 @@
       "website_contact_method": "",
       "email_validation_reasons": "",
       "email_validation_source": "UpKuajing /agent/validation/email (2026-07-17)",
-      "email_validation_summary": "无有效邮箱-需官网补充"
+      "email_validation_summary": "无有效邮箱-需官网补充",
+      "phone_statuses": "+52 55 5365 2626:状态1/类型3/WhatsApp2",
+      "phone_validation_summary": "有有效电话"
     },
     {
       "company_id": 368379,
@@ -609,7 +639,7 @@
       "product_superordinate": "",
       "product_downstream": "",
       "emails": "info@haierindia.com; chuktiii@gmail.com",
-      "email_statuses": "info@haierindia.com:3; chuktiii@gmail.com:1",
+      "email_statuses": "info@haierindia.com:3; chuktiii@gmail.com:1; customercare@haierindia.com:3",
       "phones": "",
       "whatsapp": "",
       "websites": "www.haier.com",
@@ -619,13 +649,15 @@
       "website_research_notes": "企业官网；Haier India 官网公布的客服邮箱；同时公布电话 1800-419-9999、1800-102-9999 和 WhatsApp 8553049999。 验证状态=3。; 人物补充：Madhumay Panigrahi（Branch Logistics Manager）；物流岗位，且公司精确匹配 Haier India。 排除 madhumay.panigrahi@havells.com：邮箱域名属于 Havells，与当前 Haier 实体不一致",
       "research_status": "已补充有效决策人邮箱",
       "market_priority": "常规-全球",
-      "website_emails": "",
+      "website_emails": "customercare@haierindia.com",
       "website_phones": "",
       "website_address": "",
       "website_contact_method": "",
       "email_validation_reasons": "info@haierindia.com: [{550: b'5.7.1 Service unavailable, Client host [123.207.249.63] blocked using Spamhaus. To request removal from this list see https://www.spamhaus.org/query/ip/123.207.249.63 AS(1440) [HK3PEPF0000021E.apcprd03.prod.outlook.com 2024-07-24T12:49:52.510Z 08DCAAAE078242B2]'}]; customercare@haierindia.com: 检测状态未知",
       "email_validation_source": "UpKuajing /agent/validation/email (2026-07-17)",
-      "email_validation_summary": "有有效邮箱"
+      "email_validation_summary": "有有效邮箱",
+      "phone_statuses": "",
+      "phone_validation_summary": "无电话或接口未检测"
     },
     {
       "company_id": 22316517,
@@ -664,7 +696,9 @@
       "website_contact_method": "",
       "email_validation_reasons": "",
       "email_validation_source": "UpKuajing /agent/validation/email (2026-07-17)",
-      "email_validation_summary": "有有效邮箱"
+      "email_validation_summary": "有有效邮箱",
+      "phone_statuses": "",
+      "phone_validation_summary": "无电话或接口未检测"
     },
     {
       "company_id": 20410195,
@@ -703,7 +737,9 @@
       "website_contact_method": "",
       "email_validation_reasons": "",
       "email_validation_source": "UpKuajing /agent/validation/email (2026-07-17)",
-      "email_validation_summary": "有有效邮箱"
+      "email_validation_summary": "有有效邮箱",
+      "phone_statuses": "+84 274 2742 464:状态1/类型1/WhatsApp2; +84 274 3742 464:状态1/类型1/WhatsApp2; +84 274 3742 594:状态1/类型1/WhatsApp2; 84274742464:状态2/类型3/WhatsApp2",
+      "phone_validation_summary": "有有效电话"
     },
     {
       "company_id": 8206989,
@@ -742,7 +778,9 @@
       "website_contact_method": "",
       "email_validation_reasons": "",
       "email_validation_source": "UpKuajing /agent/validation/email (2026-07-17)",
-      "email_validation_summary": "有有效邮箱"
+      "email_validation_summary": "有有效邮箱",
+      "phone_statuses": "+91 44 2842 0743:状态1/类型1/WhatsApp2",
+      "phone_validation_summary": "有有效电话"
     },
     {
       "company_id": 78071611,
@@ -781,7 +819,9 @@
       "website_contact_method": "",
       "email_validation_reasons": "cosmotech@korea.com: 错误/超时",
       "email_validation_source": "UpKuajing /agent/validation/email (2026-07-17)",
-      "email_validation_summary": "验证不确定-需官网补充"
+      "email_validation_summary": "验证不确定-需官网补充",
+      "phone_statuses": "+82 32-817-6552:状态1/类型1/WhatsApp2",
+      "phone_validation_summary": "有有效电话"
     },
     {
       "company_id": 5141777,
@@ -820,7 +860,9 @@
       "website_contact_method": "",
       "email_validation_reasons": "",
       "email_validation_source": "UpKuajing /agent/validation/email (2026-07-17)",
-      "email_validation_summary": "有有效邮箱"
+      "email_validation_summary": "有有效邮箱",
+      "phone_statuses": "+1 212-764-4270:状态1/类型3/WhatsApp2",
+      "phone_validation_summary": "有有效电话"
     },
     {
       "company_id": 20482013,
@@ -859,7 +901,9 @@
       "website_contact_method": "",
       "email_validation_reasons": "",
       "email_validation_source": "UpKuajing /agent/validation/email (2026-07-17)",
-      "email_validation_summary": "有有效邮箱"
+      "email_validation_summary": "有有效邮箱",
+      "phone_statuses": "01149010101:状态2/类型0/WhatsApp0; +91 80 6882 0110:状态1/类型1/WhatsApp2; +91 82879 48064:状态1/类型2/WhatsApp1; +91 95996 77993:状态1/类型2/WhatsApp1",
+      "phone_validation_summary": "有有效电话"
     },
     {
       "company_id": 86190,
@@ -882,7 +926,7 @@
       "product_superordinate": "",
       "product_downstream": "",
       "emails": "aruna.sharma@vivoglobal.com",
-      "email_statuses": "aruna.sharma@vivoglobal.com:3",
+      "email_statuses": "aruna.sharma@vivoglobal.com:3; support.in@vivo.com:1; vcare@vivo.com:1",
       "phones": "",
       "whatsapp": "",
       "websites": "",
@@ -898,7 +942,9 @@
       "website_contact_method": "",
       "email_validation_reasons": "aruna.sharma@vivoglobal.com: [{550: b'5.7.1 Service unavailable, Client host [123.207.249.63] blocked using Spamhaus. To request removal from this list see https://www.spamhaus.org/query/ip/123.207.249.63 AS(1440) [SG2PEPF000B66CC.apcprd03.prod.outlook.com 2024-07-24T21:17:12.040Z 08DCAAEDDCA78B76]'}]",
       "email_validation_source": "UpKuajing /agent/validation/email (2026-07-17)",
-      "email_validation_summary": "验证不确定-需官网补充"
+      "email_validation_summary": "有有效邮箱",
+      "phone_statuses": "",
+      "phone_validation_summary": "无电话或接口未检测"
     },
     {
       "company_id": 20432358,
@@ -921,7 +967,7 @@
       "product_superordinate": "",
       "product_downstream": "",
       "emails": "contact.india@tesa.com; arorarajeev2001@yahoo.com",
-      "email_statuses": "contact.india@tesa.com:2; arorarajeev2001@yahoo.com:0",
+      "email_statuses": "contact.india@tesa.com:2; arorarajeev2001@yahoo.com:0; marketing.india@tesa.com:3",
       "phones": "",
       "whatsapp": "",
       "websites": "www.tesa.in",
@@ -931,13 +977,15 @@
       "website_research_notes": "企业官网；tesa India 官网明确标注的业务联系邮箱和电话 +91 22 4741 9200。 验证状态=3。; 人物补充：Rajeev Arora（Head of Operations）；运营负责人，且公司精确匹配 tesa India。",
       "research_status": "API联系方式已获取",
       "market_priority": "常规-全球",
-      "website_emails": "",
+      "website_emails": "marketing.india@tesa.com",
       "website_phones": "",
       "website_address": "",
       "website_contact_method": "",
       "email_validation_reasons": "contact.india@tesa.com: {\"invalid_input\":false,\"input\":[\"contact.india@tesa.com\"],\"domainMap\":{\"tesa.com\":\"contact.india@tesa.com\"},\"results\":{\"tesa.com\":{\"contact.india@tesa.com\":{\"reason\":\"550 5.4.1 Recipient address rejected: Access denied. [AMS0EPF000001B1.eurprd05.prod.outlook.com 2023-09-12T13:48:46.253Z 08DBB31C425B7BAA]\\r\\n\",\"status\":550}}}}; marketing.india@tesa.com: 检测状态未知",
       "email_validation_source": "UpKuajing /agent/validation/email (2026-07-17)",
-      "email_validation_summary": "无有效邮箱-需官网补充"
+      "email_validation_summary": "验证不确定-需官网补充",
+      "phone_statuses": "",
+      "phone_validation_summary": "无电话或接口未检测"
     },
     {
       "company_id": 28739610,
@@ -976,7 +1024,9 @@
       "website_contact_method": "",
       "email_validation_reasons": "",
       "email_validation_source": "UpKuajing /agent/validation/email (2026-07-17)",
-      "email_validation_summary": "有有效邮箱"
+      "email_validation_summary": "有有效邮箱",
+      "phone_statuses": "+91 1923 222 814:状态1/类型1/WhatsApp2",
+      "phone_validation_summary": "有有效电话"
     },
     {
       "company_id": 20208403,
@@ -1015,7 +1065,9 @@
       "website_contact_method": "",
       "email_validation_reasons": "",
       "email_validation_source": "UpKuajing /agent/validation/email (2026-07-17)",
-      "email_validation_summary": "有有效邮箱"
+      "email_validation_summary": "有有效邮箱",
+      "phone_statuses": "+91 124 464 2200:状态1/类型1/WhatsApp2",
+      "phone_validation_summary": "有有效电话"
     },
     {
       "company_id": 22311398,
@@ -1054,7 +1106,9 @@
       "website_contact_method": "",
       "email_validation_reasons": "",
       "email_validation_source": "UpKuajing /agent/validation/email (2026-07-17)",
-      "email_validation_summary": "有有效邮箱"
+      "email_validation_summary": "有有效邮箱",
+      "phone_statuses": "+91 40 2773 7001:状态1/类型1/WhatsApp2",
+      "phone_validation_summary": "有有效电话"
     },
     {
       "company_id": 370961,
@@ -1093,7 +1147,9 @@
       "website_contact_method": "",
       "email_validation_reasons": "aipl.sunsui@ajitindustries.com: 邮箱地址错误-使用了无效字符或无效域",
       "email_validation_source": "UpKuajing /agent/validation/email (2026-07-17)",
-      "email_validation_summary": "有有效邮箱"
+      "email_validation_summary": "有有效邮箱",
+      "phone_statuses": "+91 11 4901 0101:状态1/类型1/WhatsApp2",
+      "phone_validation_summary": "有有效电话"
     },
     {
       "company_id": 27951674,
@@ -1132,7 +1188,9 @@
       "website_contact_method": "",
       "email_validation_reasons": "info@modularfurniturebpl.com: {\"invalid_input\":false,\"input\":[\"info@modularfurniturebpl.com\"],\"domainMap\":{\"modularfurniturebpl.com\":\"info@modularfurniturebpl.com\"},\"results\":{\"modularfurniturebpl.com\":{\"info@modularfurniturebpl.com\":{\"reason\":\"550 5.1.1 <info@modularfurniturebpl.com> User unknown\\r\\n\",\"status\":550}}}}",
       "email_validation_source": "UpKuajing /agent/validation/email (2026-07-17)",
-      "email_validation_summary": "有有效邮箱"
+      "email_validation_summary": "有有效邮箱",
+      "phone_statuses": "919425:状态2/类型0/WhatsApp2; +91 94250 08422:状态1/类型2/WhatsApp1; +91 94250 08433:状态1/类型2/WhatsApp2; +91 94250 26178:状态1/类型2/WhatsApp1",
+      "phone_validation_summary": "有有效电话"
     },
     {
       "company_id": 20199535,
@@ -1171,7 +1229,9 @@
       "website_contact_method": "",
       "email_validation_reasons": "",
       "email_validation_source": "UpKuajing /agent/validation/email (2026-07-17)",
-      "email_validation_summary": "有有效邮箱"
+      "email_validation_summary": "有有效邮箱",
+      "phone_statuses": "00975261212261166:状态2/类型0/WhatsApp0; 01204061800899:状态2/类型0/WhatsApp0; 016124236502425851:状态2/类型0/WhatsApp0; 0202551089193:状态2/类型0/WhatsApp0; 0222723002126:状态2/类型0/WhatsApp0; 0224013257825852590:状态2/类型0/WhatsApp0; 04027713040:状态2/类型1/WhatsApp0; 065722254152228432:状态2/类型0/WhatsApp0; 07104676464:状态2/类型0/WhatsApp0; 079400399010203:状态2/类型0/WhatsApp0; 0802559400425587248:状态2/类型0/WhatsApp0; 08030978888:状态2/类型0/WhatsApp0; 0877228573135:状态2/类型0/WhatsApp0; 098050253045:状态2/类型0/WhatsApp0; +91 22 4021 2121:状态1/类型1/WhatsApp2; 9327266444:状态2/类型0/WhatsApp2",
+      "phone_validation_summary": "有有效电话"
     },
     {
       "company_id": 168017,
@@ -1210,7 +1270,9 @@
       "website_contact_method": "",
       "email_validation_reasons": "",
       "email_validation_source": "UpKuajing /agent/validation/email (2026-07-17)",
-      "email_validation_summary": "有有效邮箱"
+      "email_validation_summary": "有有效邮箱",
+      "phone_statuses": "+91 22 4021 2121:状态1/类型1/WhatsApp2",
+      "phone_validation_summary": "有有效电话"
     },
     {
       "company_id": 22315229,
@@ -1249,7 +1311,9 @@
       "website_contact_method": "",
       "email_validation_reasons": "",
       "email_validation_source": "UpKuajing /agent/validation/email (2026-07-17)",
-      "email_validation_summary": "有有效邮箱"
+      "email_validation_summary": "有有效邮箱",
+      "phone_statuses": "",
+      "phone_validation_summary": "无电话或接口未检测"
     },
     {
       "company_id": 28930762,
@@ -1272,7 +1336,7 @@
       "product_superordinate": "Plastic Resin; Adhesive; Polymer; Film Base Material; Tape",
       "product_downstream": "Automotive Painting; Furniture Finishing; Construction Painting; DIY Projects; Industrial Coating",
       "emails": "career@martfury.com; contact@martfury.com; customercare@martfury.com; info@superconduits.com; media@martfury.com; vendorsupport@martfury.com; jain.naman1984@gmail.com",
-      "email_statuses": "career@martfury.com:2; contact@martfury.com:2; customercare@martfury.com:2; info@superconduits.com:2; media@martfury.com:2; vendorsupport@martfury.com:2; jain.naman1984@gmail.com:1",
+      "email_statuses": "career@martfury.com:2; contact@martfury.com:2; customercare@martfury.com:2; info@superconduits.com:2; media@martfury.com:2; vendorsupport@martfury.com:2; jain.naman1984@gmail.com:1; supsalcorp@gmail.com:3",
       "phones": "",
       "whatsapp": "",
       "websites": "superconduits.com",
@@ -1282,13 +1346,15 @@
       "website_research_notes": "域名登记信息聚合；superconduits.com 的域名登记联系人邮箱；只有验证有效才纳入首选邮箱候选。 验证状态=3。; 人物补充：Naman Jain（Executive Partner）；企业合伙人，且公司精确匹配 Super Sales Corporation。",
       "research_status": "已补充有效决策人邮箱",
       "market_priority": "常规-全球",
-      "website_emails": "",
+      "website_emails": "supsalcorp@gmail.com",
       "website_phones": "",
       "website_address": "",
       "website_contact_method": "",
       "email_validation_reasons": "career@martfury.com: failed_domains; contact@martfury.com: failed_domains; customercare@martfury.com: failed_domains; info@superconduits.com: {\"invalid_input\":false,\"input\":[\"info@superconduits.com\"],\"domainMap\":{\"superconduits.com\":\"info@superconduits.com\"},\"results\":{\"superconduits.com\":{\"info@superconduits.com\":{\"reason\":\"550 5.7.1 Service unavailable; client [136.143.177.51] blocked using hostkarma.junkemailfilter.com\\r\\n\",\"status\":550}}}}; media@martfury.com: failed_domains; vendorsupport@martfury.com: failed_domains; supsalcorp@gmail.com: 检测状态未知",
       "email_validation_source": "UpKuajing /agent/validation/email (2026-07-17)",
-      "email_validation_summary": "有有效邮箱"
+      "email_validation_summary": "有有效邮箱",
+      "phone_statuses": "",
+      "phone_validation_summary": "无电话或接口未检测"
     },
     {
       "company_id": 67078,
@@ -1311,7 +1377,7 @@
       "product_superordinate": "",
       "product_downstream": "",
       "emails": "jeff.smith@aquadynamicconsultancy.com; danesh@aquadynamics.lk",
-      "email_statuses": "jeff.smith@aquadynamicconsultancy.com:2; danesh@aquadynamics.lk:2",
+      "email_statuses": "jeff.smith@aquadynamicconsultancy.com:2; danesh@aquadynamics.lk:2; udaya@aquadynamics.lk:3",
       "phones": "",
       "whatsapp": "",
       "websites": "http://www.aquadynamicconsultancy.com",
@@ -1321,13 +1387,15 @@
       "website_research_notes": "本地商业目录；Sri Lanka Rainbow Pages 列出的公司邮箱；只有验证有效才纳入首选邮箱候选。 验证状态=3。; 人物补充：Danesh Weerarathne（Production Manager）；生产负责人，且公司精确匹配 Aqua Dynamics。",
       "research_status": "API联系方式已获取",
       "market_priority": "常规-全球",
-      "website_emails": "",
+      "website_emails": "udaya@aquadynamics.lk",
       "website_phones": "",
       "website_address": "",
       "website_contact_method": "",
       "email_validation_reasons": "jeff.smith@aquadynamicconsultancy.com: 邮箱地址错误-使用了无效字符或无效域; udaya@aquadynamics.lk: 检测状态未知",
       "email_validation_source": "UpKuajing /agent/validation/email (2026-07-17)",
-      "email_validation_summary": "无有效邮箱-需官网补充"
+      "email_validation_summary": "验证不确定-需官网补充",
+      "phone_statuses": "",
+      "phone_validation_summary": "无电话或接口未检测"
     },
     {
       "company_id": 381348,
@@ -1366,7 +1434,9 @@
       "website_contact_method": "",
       "email_validation_reasons": "",
       "email_validation_source": "UpKuajing /agent/validation/email (2026-07-17)",
-      "email_validation_summary": "有有效邮箱"
+      "email_validation_summary": "有有效邮箱",
+      "phone_statuses": "",
+      "phone_validation_summary": "无电话或接口未检测"
     }
   ]
 }
