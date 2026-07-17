@@ -1,0 +1,810 @@
+{
+  "code": 0,
+  "msg": "success",
+  "data": {
+    "cursor": "eyJjb21wYW55X2lkIjoyMDM4MDY1MX0=",
+    "list": [
+      {
+        "companyId": 20245209,
+        "companyType": 2,
+        "name": "MARKET NINETY NINE PRIVATE LIMITED",
+        "countryCode": "IN",
+        "tradeTotal": 16706,
+        "scope": "",
+        "address": "D-153 OKHLA INDUSTRIAL AREA, PHASE-I, NEW  SOUTH",
+        "tradeMatchTotal": 17,
+        "tradeMatchPercent": 0.1,
+        "latestTradeDate": 1751472000000,
+        "productDesc": "OIL BRUSH (XY507) (HOUSE HOLD ITEMS) (HOUSE HOLD ITEMS)",
+        "productTags": [
+          "Oil Brush",
+          "Household Items"
+        ],
+        "productNames": [
+          "Oil Brush"
+        ],
+        "productAlias": [
+          "Paint Brush",
+          "Coating Brush",
+          "Lubricant Brush",
+          "Grease Brush",
+          "Oil Applicator"
+        ],
+        "productSuperordinate": [
+          "Wood",
+          "Plastic",
+          "Metal",
+          "Bristles",
+          "Fibers"
+        ],
+        "productDownstream": [
+          "Automotive Maintenance",
+          "Home Decor",
+          "Industrial Painting",
+          "Furniture Refinishing",
+          "DIY Projects"
+        ]
+      },
+      {
+        "companyId": 20357282,
+        "companyType": 2,
+        "name": "GRIP TIGHT TOOLS",
+        "countryCode": "US",
+        "tradeTotal": 387,
+        "scope": "rolls,blu,rubber trowel,usag,75 pa,single lever,lldpe granule,paint brushes,aluminium hawk,pc,t 24,hwe,cod,water,item no,ice,hex key,screwdriver tool,contractor,count",
+        "address": "1413 chestnut avenue hillside, n.j. 07205 usa",
+        "tradeMatchTotal": 10,
+        "tradeMatchPercent": 2.58,
+        "latestTradeDate": 1752422400000,
+        "productDesc": "PAINT ROLLER PAINT BRUSH PLASTIC TRAY FOAM BRUSH ",
+        "productTags": [
+          "Paint",
+          "Roller",
+          "Brush",
+          "Plastic",
+          "Foam"
+        ],
+        "productNames": [
+          "Paint Roller",
+          "Paint Brush",
+          "Plastic Tray",
+          "Foam Brush"
+        ],
+        "productAlias": [
+          "Paint Applicator",
+          "Paint Spreaders",
+          "Paint Container",
+          "Paint Applicator Brush"
+        ],
+        "productSuperordinate": [
+          "Plastic Resin",
+          "Foam Material",
+          "Wood",
+          "Metal",
+          "Fiber"
+        ],
+        "productDownstream": [
+          "Home Decoration",
+          "Automobile Painting",
+          "Furniture Painting",
+          "Wall Painting",
+          "Industrial Painting"
+        ]
+      },
+      {
+        "companyId": 20239952,
+        "companyType": 2,
+        "name": "BOBST INDIA PRIVATE LIMITED",
+        "countryCode": "IN",
+        "tradeTotal": 22486,
+        "scope": "Accubraille, angle lock blanking systems, cartonpack gt automatic packers, Gbreak blank separators, handypack GT collecting tables, loader ML, locpack machines, polyjoiner, speed chases, speedwave folder-gluers, autoplaten diecutters, and breaker blank separators; Commercial diecutters, streampacks, visioncut diecutters, flexo folder gluer boxes, folder gluers prefeeders, handyfeeder folder gluers prefeeders, coater and laminator machines, automatic palletizers, GPAL automatic palletizers",
+        "address": "GUT NO. 82 , 124, 126 TO 136 &195 (PART) AT & POST VILLAGE KASAR AMBOLI , GHOTAWADE ROAD, TAL - MULSHI, .PUNE",
+        "tradeMatchTotal": 9,
+        "tradeMatchPercent": 0.04,
+        "latestTradeDate": 1753027200000,
+        "productDesc": "PAINT BRUSH SERIES N 170 4-BSA1027005900 CIRCULAIRE PVC SNR 80150MM 4 RANGS ALESAGE 22MM PARTS FOR FO",
+        "productTags": [],
+        "productNames": [],
+        "productAlias": [],
+        "productSuperordinate": [],
+        "productDownstream": []
+      },
+      {
+        "companyId": 20222822,
+        "companyType": 2,
+        "name": "CARRIER AIRCONDITIONING & REFRIGERATION LIMITED",
+        "countryCode": "IN",
+        "tradeTotal": 43952,
+        "scope": "Air conditioning equipments including window room air conditioners, hi- wall splits, Slimpak splits, cassette splits, ducted splits and chillers",
+        "address": "NO. 9, 3RD FLOOR, 560 029 PRESTIGE BLUE CHIP SOFTWARE PARK , DAIRY COLONY, ADUGODI",
+        "tradeMatchTotal": 6,
+        "tradeMatchPercent": 0.01,
+        "latestTradeDate": 1750953600000,
+        "productDesc": "54-60006-30 BRUSH (PARTS FOR TRUCK REFRIGERATION UNIT) 54-60006-30 BRUSH (PARTS FOR TRUCK REFRIGERATION UNIT)",
+        "productTags": [
+          "brush",
+          "truck refrigeration unit",
+          "parts"
+        ],
+        "productNames": [
+          "Brush"
+        ],
+        "productAlias": [
+          "Bristle brush",
+          "Cleaning brush",
+          "Scrub brush",
+          "Wire brush",
+          "Paint brush"
+        ],
+        "productSuperordinate": [
+          "Bristles",
+          "Handle",
+          "Metal",
+          "Plastic",
+          "Wood"
+        ],
+        "productDownstream": [
+          "Truck refrigeration unit",
+          "Commercial vehicle",
+          "Refrigerated transport",
+          "Cold storage",
+          "Food transportation"
+        ]
+      },
+      {
+        "companyId": 20349339,
+        "companyType": 2,
+        "name": "CRISTALERIA PELDAR S A",
+        "countryCode": "CO",
+        "tradeTotal": 7638,
+        "scope": "Glass containers and glass products",
+        "address": "32 B SUR 139 P 11 , CARRERA 48",
+        "tradeMatchTotal": 6,
+        "tradeMatchPercent": 0.08,
+        "latestTradeDate": 1728576000000,
+        "productDesc": "DO 47442 DECLARACION(3-5) CODIGO UTS: B00551 SHIPMENT: 2301748 ORDEN NO. 4590067676; NOS ACOGEMOS AL DCTO 0925/13 FACTURA NO. 212644 FECHA 2024-09-23; PRODUCTO: ESCOBILLA, MATERIA CONSTITUTIVA: POLIURETANO, USO: INDUSTRIAL PARA PASAR PINTURA EN MAQUINA...",
+        "productTags": [
+          "Escobilla",
+          "Polyurethane",
+          "Industrial",
+          "Paint application"
+        ],
+        "productNames": [
+          "Escobilla"
+        ],
+        "productAlias": [
+          "Brush",
+          "Paint brush",
+          "Industrial brush",
+          "Polyurethane brush",
+          "Escoba"
+        ],
+        "productSuperordinate": [
+          "Polyurethane resin",
+          "Fiber",
+          "Plastic",
+          "Chemical additives",
+          "Solvent"
+        ],
+        "productDownstream": [
+          "Automotive painting",
+          "Furniture painting",
+          "Metal painting",
+          "Wood painting",
+          "Industrial equipment painting"
+        ]
+      },
+      {
+        "companyId": 20405163,
+        "companyType": 2,
+        "name": "EXCELLIGENCE LEARNING CORPORATION",
+        "countryCode": "US",
+        "tradeTotal": 871,
+        "scope": "Furniture and storage items; Tricycles, cots, and buggies; Online Earlychildhood NEWS, an early childhood professional journal; MyCommunity, an information and communication resource for educators; Teacher QuickSource, a comprehensive resource for educators' specific needs and children care; early childhood product catalogs in the arts and crafts category; and curriculum-based products in various categories, including manipulative, language, science, math, puzzles, social awareness, dramatic play, furniture and equipment, environment, special needs, infant and toddler, block play, sand and water, classroom fun",
+        "address": "SUITE 200 , 2, LOWER RAGSDALE DRIVE",
+        "tradeMatchTotal": 6,
+        "tradeMatchPercent": 0.69,
+        "latestTradeDate": 1746633600000,
+        "productDesc": "ARIST BRUSHES ",
+        "productTags": [
+          "Brushes",
+          "ARIST"
+        ],
+        "productNames": [
+          "Brushes"
+        ],
+        "productAlias": [
+          "Bristle Brush",
+          "Paint Brush",
+          "Toothbrush",
+          "Hairbrush",
+          "Scrub Brush"
+        ],
+        "productSuperordinate": [
+          "Bristles",
+          "Wood",
+          "Plastic",
+          "Metal",
+          "Fiber"
+        ],
+        "productDownstream": [
+          "Home Cleaning",
+          "Art Painting",
+          "Personal Hygiene",
+          "Automotive Detailing",
+          "Industrial Cleaning"
+        ]
+      },
+      {
+        "companyId": 20227609,
+        "companyType": 2,
+        "name": "RANI METAL",
+        "countryCode": "IN",
+        "tradeTotal": 11557,
+        "scope": "unbrella,manual breast pump,coin purse,party mask,garment accessorie,plastic resin bead,polishing brush,gear box,sheet,tissue paper roll,buckle,potato,kit,silicon mat,board,silicone mould,wood clip,mini cleaning wipe,hinges,small handy",
+        "address": "vithaldas bldg, 1st flr,j m comp, shop no 13, mumbai.,pin-400002",
+        "tradeMatchTotal": 3,
+        "tradeMatchPercent": 0.03,
+        "latestTradeDate": 1745251200000,
+        "productDesc": "PLASTIC PAINT BRUSH CLEANING NOX PLASTIC PAINT BRUSH CLEANING NOX",
+        "productTags": [
+          "Plastic",
+          "Paint brush cleaning"
+        ],
+        "productNames": [
+          "Plastic Paint Brush Cleaning NOX"
+        ],
+        "productAlias": [
+          "Plastic paint brush cleaner",
+          "Paint brush plastic cleaner",
+          "Plastic cleaner for paint brushes",
+          "Paint brush cleaning solution",
+          "Plastic paint brush degreaser"
+        ],
+        "productSuperordinate": [
+          "Plastic",
+          "Cleaning chemicals",
+          "Solvents",
+          "Surfactants",
+          "Additives"
+        ],
+        "productDownstream": [
+          "Paint shops",
+          "Art studios",
+          "Construction sites",
+          "Automotive repair shops",
+          "DIY enthusiasts"
+        ]
+      },
+      {
+        "companyId": 20221579,
+        "companyType": 2,
+        "name": "AVENUE SUPERMARTS LIMITED",
+        "countryCode": "IN",
+        "tradeTotal": 39878,
+        "scope": "Office supplies, stationery and gift, building materials, garden equipment and supplies, pet foods and supplies, clothing and clothing accessories, and other related products for household and industrial use",
+        "address": "ORCHARD AVENUE, OPP. HIRANANDANI FOUNDATION SCHOOL, POWAI",
+        "tradeMatchTotal": 2,
+        "tradeMatchPercent": 0.01,
+        "latestTradeDate": 1744732800000,
+        "productDesc": "PLASTIC HAIR DYE BRUSH WITH COMB 3PCS SET (RJ-037) PLASTIC HAIR DYE BRUSH WITH COMB 3PCS SET (RJ-037)",
+        "productTags": [
+          "Plastic",
+          "Hair dye brush",
+          "Comb"
+        ],
+        "productNames": [
+          "Plastic hair dye brush with comb"
+        ],
+        "productAlias": [
+          "Plastic hair coloring brush with comb",
+          "Plastic hair dyeing brush with comb",
+          "Plastic hair tinting brush with comb",
+          "Plastic hair paint brush with comb",
+          "Plastic hair treatment brush with comb"
+        ],
+        "productSuperordinate": [
+          "Plastic resin",
+          "Brush bristles",
+          "Comb material",
+          "Molding materials",
+          "Adhesives"
+        ],
+        "productDownstream": [
+          "Hair salons",
+          "Beauty supply stores",
+          "Online beauty retailers",
+          "Personal use",
+          "Professional hair stylists"
+        ]
+      },
+      {
+        "companyId": 20235932,
+        "companyType": 2,
+        "name": "MAKITA POWER TOOLS INDIA PRIVATE LIMITED",
+        "countryCode": "IN",
+        "tradeTotal": 62372,
+        "scope": "Cordless tools, drills, circular saws, jig saws, planers, hammers, grinders, sanders, woodworking machines, garden tools, chain saws and outdoor power equipment",
+        "address": "UNIT II , SY. NOS. 93/3 & 93/4 , KORALUR VILLAGE KASBA HOBLI, HOSKOTE TALUK",
+        "tradeMatchTotal": 2,
+        "tradeMatchPercent": 0.0,
+        "latestTradeDate": 1744732800000,
+        "productDesc": "BRUSH A FORGA5090  743129-6 BRUSH A FORGA5090  743129-6",
+        "productTags": [
+          "Brush"
+        ],
+        "productNames": [
+          "Brush A"
+        ],
+        "productAlias": [
+          "Scrub Brush",
+          "Cleaning Brush",
+          "Broom Brush",
+          "Duster Brush",
+          "Paint Brush"
+        ],
+        "productSuperordinate": [
+          "Plastic",
+          "Wood",
+          "Metal",
+          "Bristles",
+          "Fiber"
+        ],
+        "productDownstream": [
+          "Household Cleaning",
+          "Industrial Cleaning",
+          "Automotive Cleaning",
+          "Painting",
+          "Gardening"
+        ]
+      },
+      {
+        "companyId": 20239430,
+        "companyType": 2,
+        "name": "NILFISK INDIA PRIVATE LIMITED",
+        "countryCode": "IN",
+        "tradeTotal": 25062,
+        "scope": "Accounting, auditing, and bookkeeping services (tax preparation, payroll and other accounting services; and accounting services, including designing accounting systems, developing budgets, and preparing financial statements)",
+        "address": "2ND FLOOR , 2/2, AMAYA ATRIUM , LANGFORD ROAD,LANGFORD TOWN",
+        "tradeMatchTotal": 2,
+        "tradeMatchPercent": 0.01,
+        "latestTradeDate": 1729785600000,
+        "productDesc": "Z7 22047, PAINTBRUSH D50/100 BRISTLES COMPLETE",
+        "productTags": [
+          "Paintbrush",
+          "Bristles",
+          "Painting"
+        ],
+        "productNames": [
+          "Paintbrush"
+        ],
+        "productAlias": [
+          "Paint Brush",
+          "Painting Brush",
+          "Artist Brush",
+          "Decorative Brush",
+          "Household Brush"
+        ],
+        "productSuperordinate": [
+          "Bristles",
+          "Wood",
+          "Plastic",
+          "Metal",
+          "Paint"
+        ],
+        "productDownstream": [
+          "Wall Painting",
+          "Furniture Painting",
+          "Artwork Creation",
+          "Automobile Painting",
+          "Craft Projects"
+        ]
+      },
+      {
+        "companyId": 20254995,
+        "companyType": 2,
+        "name": "TOTO INDIA INDUSTRIES PRIVATE LIMITED",
+        "countryCode": "IN",
+        "tradeTotal": 20748,
+        "scope": "Restrooms, bathroom, kitchen, and lavatory products",
+        "address": "UNIT NO. 1002 , 10TH FLOOR. KAMLA EXECUTIVE PARK OFF ANDHERI KURLA ROAD , MIDC LANE, ANDHERI EAST MUMBAI",
+        "tradeMatchTotal": 2,
+        "tradeMatchPercent": 0.01,
+        "latestTradeDate": 1730131200000,
+        "productDesc": "PAINTING BRUSH (FLAT) 29000038 (ITEM NO. C08279) (SANITARYWARE PLANT USE MATERIALS)- 50 PCS",
+        "productTags": [
+          "Painting Brush",
+          "Sanitaryware Plant Use Materials"
+        ],
+        "productNames": [
+          "Painting Brush"
+        ],
+        "productAlias": [
+          "Paint Brush",
+          "Artist Brush",
+          "Decorative Brush",
+          "House Painting Brush",
+          "Wall Painting Brush"
+        ],
+        "productSuperordinate": [
+          "Wood",
+          "Plastic",
+          "Bristle",
+          "Fiber",
+          "Metal"
+        ],
+        "productDownstream": [
+          "Artwork",
+          "Furniture",
+          "Wall",
+          "Ceiling",
+          "Door"
+        ]
+      },
+      {
+        "companyId": 20384042,
+        "companyType": 2,
+        "name": "ALLWAY TOOLS INC",
+        "countryCode": "US",
+        "tradeTotal": 1711,
+        "scope": "zinc shelf,ys,gh,plastic scrape,bottle opener,pc,scraper,bucket line,silica,bag,knife brush,plug,wood tray,seal,paint mixer,t house,knife,bags,barrel,aluminum strip",
+        "address": "1255 seabury ave.p.o. box 777bronx, ny 10462",
+        "tradeMatchTotal": 2,
+        "tradeMatchPercent": 0.12,
+        "latestTradeDate": 1723305600000,
+        "productDesc": "PAINT APPLICATORS E MAIL: WSHI@SENTRYBROKER COM SHCZT D@FOXMAIL COM",
+        "productTags": [
+          "Paint applicators"
+        ],
+        "productNames": [
+          "Paint applicators"
+        ],
+        "productAlias": [
+          "Paint brush",
+          "Paint roller",
+          "Paint pad",
+          "Paint sprayer",
+          "Paint sponge"
+        ],
+        "productSuperordinate": [
+          "Plastic",
+          "Metal",
+          "Fiber",
+          "Wood",
+          "Rubber"
+        ],
+        "productDownstream": [
+          "Home decoration",
+          "Automobile painting",
+          "Furniture painting",
+          "Industrial painting",
+          "Art creation"
+        ]
+      },
+      {
+        "companyId": 20221916,
+        "companyType": 2,
+        "name": "BSA CORPORATION LIMITED",
+        "countryCode": "IN",
+        "tradeTotal": 8338,
+        "scope": "Management and consultancy services",
+        "address": "18 SUKHWANI FORTUREMOREWADI ROAD PIMPRI",
+        "tradeMatchTotal": 1,
+        "tradeMatchPercent": 0.01,
+        "latestTradeDate": 1727971200000,
+        "productDesc": "KODERA CAS SERIES - BRUSH DF-82 - MCP0991",
+        "productTags": [
+          "Brush",
+          "KODERA",
+          "CAS SERIES",
+          "DF-82",
+          "MCP0991"
+        ],
+        "productNames": [
+          "Brush"
+        ],
+        "productAlias": [
+          "Bristle Brush",
+          "Scrub Brush",
+          "Cleaning Brush",
+          "Paint Brush",
+          "Wire Brush"
+        ],
+        "productSuperordinate": [
+          "Bristles",
+          "Handle Material",
+          "Adhesive",
+          "Metal Parts",
+          "Plastic"
+        ],
+        "productDownstream": [
+          "Automotive Cleaning",
+          "Home Cleaning",
+          "Industrial Cleaning",
+          "Art and Craft",
+          "Painting"
+        ]
+      },
+      {
+        "companyId": 20225761,
+        "companyType": 2,
+        "name": "TPI COMPOSITES INDIA PRIVATE LIMITED",
+        "countryCode": "IN",
+        "tradeTotal": 12063,
+        "scope": "",
+        "address": "NO. 235 1 TO 11 236 1 TO 237 1 SURVEY NO 232 2A 1 2A2 1 TO 11 270 271 SRIPERUMBUDUR TALUK , ECHOOR",
+        "tradeMatchTotal": 1,
+        "tradeMatchPercent": 0.01,
+        "latestTradeDate": 1721232000000,
+        "productDesc": "PAINT ROLLER COVER 25 CM(FORMANUFACTURING WIND TURBINEROTORBLADE)",
+        "productTags": [
+          "Paint Roller Cover",
+          "Paint",
+          "Manufacturing",
+          "Wind Turbine Rotor Blade"
+        ],
+        "productNames": [
+          "Paint Roller Cover"
+        ],
+        "productAlias": [
+          "Paint Roller Sleeve",
+          "Paint Brush Cover",
+          "Roller Cover for Painting",
+          "Painting Roller Cover",
+          "Paint Application Roller Cover"
+        ],
+        "productSuperordinate": [
+          "Fiber",
+          "Plastic",
+          "Paint",
+          "Adhesive",
+          "Metal"
+        ],
+        "productDownstream": [
+          "Construction",
+          "Automotive",
+          "Furniture",
+          "Shipbuilding",
+          "Aerospace"
+        ]
+      },
+      {
+        "companyId": 20253210,
+        "companyType": 2,
+        "name": "EBACO INDIA PRIVATE LIMITED",
+        "countryCode": "IN",
+        "tradeTotal": 1538,
+        "scope": "",
+        "address": "57, 4TH FLOOR DEFENCE COLONY , 100 FT ROAD",
+        "tradeMatchTotal": 1,
+        "tradeMatchPercent": 0.07,
+        "latestTradeDate": 1727366400000,
+        "productDesc": "MASKING TAPE & PAINT BRUSHE (FLOORING SAMPLES) (FOC) (SAMPLE)",
+        "productTags": [
+          "Masking Tape",
+          "Paint Brush",
+          "Flooring Samples"
+        ],
+        "productNames": [
+          "Masking Tape",
+          "Paint Brush"
+        ],
+        "productAlias": [
+          "Painter's Tape",
+          "Decorative Tape",
+          "Coating Brush",
+          "Decorating Brush",
+          "Floor Sample"
+        ],
+        "productSuperordinate": [
+          "Paper",
+          "Plastic",
+          "Bristle",
+          "Wood",
+          "Flooring Material"
+        ],
+        "productDownstream": [
+          "Home Decoration",
+          "Construction",
+          "Automotive Painting",
+          "Art Creation",
+          "Flooring Installation"
+        ]
+      },
+      {
+        "companyId": 20254003,
+        "companyType": 2,
+        "name": "EUROFLEX TRANSMISSIONS (INDIA) PRIVATE LIMITED",
+        "countryCode": "IN",
+        "tradeTotal": 8053,
+        "scope": "Rotor and stator blades for gas and steam turbines; machining small steam turbine rotors; and supplying fully bladed rotors",
+        "address": "PLOT NO: 99 , C.I.E PHASE - II , GANDHI NAGAR, BALANAGAR",
+        "tradeMatchTotal": 1,
+        "tradeMatchPercent": 0.01,
+        "latestTradeDate": 1748620800000,
+        "productDesc": "93715 RULLOTTO MICROFELT, 35 MM, S.937 CM 15 CONTRIBUTO CONAL ASSOL TO OVE DOVUTO (PAINT ROLLERS ART. 937 CM.15)93715 RULLOTTO MICROFELT, 35 MM, S.937 CM 15 CONTRIBUTO CONA",
+        "productTags": [
+          "Paint roller",
+          "Microfelt",
+          "Painting"
+        ],
+        "productNames": [
+          "Paint roller"
+        ],
+        "productAlias": [
+          "Paint brush roller",
+          "Wall paint roller",
+          "Decorative paint roller",
+          "DIY paint roller",
+          "Professional paint roller"
+        ],
+        "productSuperordinate": [
+          "Microfiber",
+          "Felt",
+          "Plastic",
+          "Metal",
+          "Adhesive"
+        ],
+        "productDownstream": [
+          "Wall painting",
+          "Furniture painting",
+          "Automobile painting",
+          "Industrial painting",
+          "Art painting"
+        ]
+      },
+      {
+        "companyId": 20255255,
+        "companyType": 2,
+        "name": "FCA INDIA AUTOMOBILES PRIVATE LIMITED",
+        "countryCode": "IN",
+        "tradeTotal": 46328,
+        "scope": "FIAT vehicles",
+        "address": "OFFICE NO. 401A , GIGA SPACE IT PARK DELTA  I , VIMAN NAGAR",
+        "tradeMatchTotal": 1,
+        "tradeMatchPercent": 0.0,
+        "latestTradeDate": 1724342400000,
+        "productDesc": "(AUTO PARTS FOR CAPTIVE USE) TOUCH UP BRUSH PAINT (PART NO:68623579AA) (QTY: 1) (COO: CA) ",
+        "productTags": [],
+        "productNames": [],
+        "productAlias": [],
+        "productSuperordinate": [],
+        "productDownstream": []
+      },
+      {
+        "companyId": 20351200,
+        "companyType": 2,
+        "name": "FINISH LINE TECHNOLOGIES INC",
+        "countryCode": "US",
+        "tradeTotal": 126,
+        "scope": "psl,odb,pc,sea,cod,grill cover,ice,pro,count,shop apron,seal,floss,white lighting,ppe,bch,brush set,lldpe,lv,dropper,work gloves",
+        "address": "50 wireless blvd hauppauge, ny 11788",
+        "tradeMatchTotal": 1,
+        "tradeMatchPercent": 0.79,
+        "latestTradeDate": 1747584000000,
+        "productDesc": "THE GRUNGE BRUSH HS 9603909090 ",
+        "productTags": [
+          "Grunge brush"
+        ],
+        "productNames": [
+          "Grunge brush"
+        ],
+        "productAlias": [
+          "Grunge paint brush",
+          "Decorative brush",
+          "Art brush",
+          "Scrub brush",
+          "Stipple brush"
+        ],
+        "productSuperordinate": [
+          "Wood",
+          "Plastic",
+          "Bristle",
+          "Fiber",
+          "Metal"
+        ],
+        "productDownstream": [
+          "Paintings",
+          "Decorations",
+          "Furniture",
+          "Automobiles",
+          "Buildings"
+        ]
+      },
+      {
+        "companyId": 20351469,
+        "companyType": 2,
+        "name": "REGENT PRODUCTS CORP",
+        "countryCode": "US",
+        "tradeTotal": 2944,
+        "scope": "diy tote bag,balloon clip,mdf table,swim goggle,plastic salad,fir,scarecrow,compac,kit,cowboy,st b,smore,yu,cleaning ball,patri,tong,f pump,patch set,collar,crystal",
+        "address": "2656 quality ct virginia beach, va 23454, united states",
+        "tradeMatchTotal": 1,
+        "tradeMatchPercent": 0.03,
+        "latestTradeDate": 1745164800000,
+        "productDesc": "PAINT BRUSH SCREWDRIVER CLEAN SPONGE TAPE MEASURE DEODORIZER BALL ",
+        "productTags": [
+          "Paint brush",
+          "Screwdriver",
+          "Clean sponge",
+          "Tape measure",
+          "Deodorizer ball"
+        ],
+        "productNames": [
+          "Paint brush",
+          "Screwdriver",
+          "Clean sponge",
+          "Tape measure",
+          "Deodorizer ball"
+        ],
+        "productAlias": [
+          "Paintbrush",
+          "Screw driver",
+          "Cleaning sponge",
+          "Measuring tape",
+          "Odor eliminator ball"
+        ],
+        "productSuperordinate": [
+          "Wood",
+          "Metal",
+          "Sponge material",
+          "Plastic",
+          "Fragrance"
+        ],
+        "productDownstream": [
+          "Home decoration",
+          "Repair work",
+          "Cleaning services",
+          "Construction",
+          "Household use"
+        ]
+      },
+      {
+        "companyId": 20380651,
+        "companyType": 2,
+        "name": "AMEKOR INDUSTRIES INC",
+        "countryCode": "US",
+        "tradeTotal": 1827,
+        "scope": "",
+        "address": "1810 RITTENHOUSE SQ , APT 508",
+        "tradeMatchTotal": 1,
+        "tradeMatchPercent": 0.05,
+        "latestTradeDate": 1724947200000,
+        "productDesc": "PAINT BRUSHES SYNTHETIC HAIR GOODS",
+        "productTags": [
+          "Paint brush",
+          "Synthetic hair"
+        ],
+        "productNames": [
+          "Paint brush"
+        ],
+        "productAlias": [
+          "Paint roller",
+          "Paint applicator",
+          "Brush for painting",
+          "Painting brush",
+          "Decorative brush"
+        ],
+        "productSuperordinate": [
+          "Synthetic fiber",
+          "Plastic",
+          "Wood",
+          "Metal",
+          "Adhesive"
+        ],
+        "productDownstream": [
+          "Home decoration",
+          "Art painting",
+          "Industrial painting",
+          "Automobile painting",
+          "Furniture painting"
+        ]
+      }
+    ]
+  },
+  "fee": {
+    "apiCost": 150,
+    "accountBalance": 63390,
+    "uuid": "44fd441b-106f-49ab-8215-c89da27e00e7"
+  }
+}
