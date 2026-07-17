@@ -1,0 +1,98 @@
+{
+  "code": 0,
+  "msg": "success",
+  "data": {
+    "list": [
+      {
+        "companyId": 20455714,
+        "contact_data": {
+          "emails": [
+            {
+              "val": "accounts@amirankenya.compr@amirankenya.com",
+              "is_valid": 0,
+              "reason": ""
+            }
+          ],
+          "phones": [
+            {
+              "val": "254719095000",
+              "is_valid": 1,
+              "is_ws": 2,
+              "phone_type": 2,
+              "country_code": "254",
+              "dialing_code": null,
+              "area_code": "",
+              "telephone": "719095000",
+              "national_number": "0719 095000",
+              "international_number": "+254 719 095000"
+            }
+          ],
+          "socials": [
+            {
+              "val": "https://www.linkedin.com/company/baltoncp",
+              "social_url": "company/baltoncp",
+              "social_type": "linkedin",
+              "is_valid": null,
+              "reason": null
+            },
+            {
+              "val": "https://twitter.com/BaltonCPGroup",
+              "social_url": "BaltonCPGroup",
+              "social_type": "twitter",
+              "is_valid": null,
+              "reason": null
+            }
+          ],
+          "websites": [
+            {
+              "val": "www.baltoncp.com/amirankenya",
+              "is_valid": 0,
+              "is_sensitive": null,
+              "reason": null
+            }
+          ]
+        }
+      },
+      {
+        "companyId": 20460497,
+        "contact_data": {
+          "emails": [
+            {
+              "val": "vtorres@skberge.co",
+              "is_valid": 1,
+              "reason": ""
+            }
+          ],
+          "phones": [
+            {
+              "val": "576015190055",
+              "is_valid": 1,
+              "is_ws": 2,
+              "phone_type": 1,
+              "country_code": "57",
+              "dialing_code": null,
+              "area_code": "601",
+              "telephone": "5190055",
+              "national_number": "(601) 5190055",
+              "international_number": "+57 601 5190055"
+            }
+          ],
+          "socials": [],
+          "websites": [
+            {
+              "val": "www.skberge.com.co",
+              "is_valid": 0,
+              "is_sensitive": null,
+              "reason": null
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "fee": {
+    "apiCost": 200,
+    "accountBalance": 69940,
+    "uuid": "ef033edd-15ff-437e-9dbf-4bf01199bce1"
+  }
+}
