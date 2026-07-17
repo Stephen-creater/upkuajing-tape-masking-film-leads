@@ -10,7 +10,7 @@ const sourcePath = path.join(root, "data", "processed", "company-master.json");
 const outputDir = path.join(root, "deliverables");
 const workDir = path.join(root, "work");
 const outputPath = path.join(outputDir, "tape-masking-film-customer-master.xlsx");
-const projectSpend = 300.60;
+const projectSpend = 361.60;
 const projectCap = 500.00;
 
 const source = JSON.parse(await fs.readFile(sourcePath, "utf8"));
@@ -181,10 +181,10 @@ const companiesWithPhoneOnly = companies.filter((_, index) => (
 const companiesWithNoValidContact = companies.length - companiesWithAnyValidContact;
 
 sheet.mergeCells("A1:N1");
-sheet.getRange("A1").values = [["六类产品全球客户总表"]];
+sheet.getRange("A1").values = [["七类产品全球客户总表"]];
 sheet.mergeCells("A2:N2");
 sheet.getRange("A2").values = [[
-  "胶带、遮蔽膜、刷子、猪毛刷、羊毛刷、PVC护角条 · 一行一家公司 · 全球覆盖、欧美优先 · 更新：2026-07-17",
+  "胶带、遮蔽膜、刷子、猪毛刷、羊毛刷、PVC护角条、塑料桶 · 一行一家公司 · 全球覆盖、欧美优先 · 更新：2026-07-17",
 ]];
 
 const cards = [
@@ -386,8 +386,8 @@ costSheet.getRange("A19:C20").values = [
 ];
 costSheet.getRange("A22:C22").values = [["费用构成", "金额（元）", "说明"]];
 costSheet.getRange("A23:C28").values = [
-  ["海关客户搜索", 40.50, "六类产品搜索与同义词翻页"],
-  ["海关公司联系方式", 228.00, "按公司ID去重后的批量联系方式"],
+  ["海关客户搜索", 49.50, "七类产品搜索与同义词翻页"],
+  ["海关公司联系方式", 280.00, "按公司ID去重后的批量联系方式"],
   ["人物搜索", 19.50, "混合搜索1页 + 逐公司12页"],
   ["人物联系方式", 3.00, "人工审查后仅购买6人"],
   ["邮箱验证", 3.00, "API、官网及人物新增邮箱"],
@@ -425,7 +425,7 @@ guideSheet.getRange("A1:D1").format = {
 };
 guideSheet.getRange("A3:D3").values = [["字段", "人话解释", "来源/计算", "是否关键"]];
 const fieldHelp = {
-  "研究状态": "这家公司目前调研到哪一步", "市场优先级": "欧美优先或全球常规", "产品品类（中文）": "六类产品中该公司实际命中的一个或多个品类",
+  "研究状态": "这家公司目前调研到哪一步", "市场优先级": "欧美优先或全球常规", "产品品类（中文）": "七类产品中该公司实际命中的一个或多个品类",
   "公司ID": "跨境魔方中的公司唯一编号", "公司名称": "公司名称；一行只放一家", "国家/地区（中文）": "公司所在国家的中文名称",
   "首选邮箱": "优先取官网补充邮箱，否则取API/人物邮箱", "邮箱可用状态": "有效、无效、不确定或接口未能检测",
   "首选电话": "优先取官网电话，否则取API电话", "官网": "公司网站", "联系完整度": "按有效邮箱、有效电话、官网、社媒加权",
