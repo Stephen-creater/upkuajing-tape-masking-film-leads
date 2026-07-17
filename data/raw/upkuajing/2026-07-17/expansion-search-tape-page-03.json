@@ -1,0 +1,784 @@
+{
+  "code": 0,
+  "msg": "success",
+  "data": {
+    "cursor": "eyJjb21wYW55X2lkIjoyMDQ0MDE5OX0=",
+    "list": [
+      {
+        "companyId": 20438395,
+        "companyType": 2,
+        "name": "SALCOMP TECHNOLOGIES INDIA PRIVATE LIMITED",
+        "countryCode": "IN",
+        "tradeTotal": 24089,
+        "scope": "",
+        "address": "NOKIA TELECOM SEZ , SIPCOT INDUSTRIAL PARK , PHASE III, SRIPERUMBUDUR",
+        "tradeMatchTotal": 941,
+        "tradeMatchPercent": 3.91,
+        "latestTradeDate": 1753891200000,
+        "productDesc": "ST69640 : 110-P18300851030-I - Single-sided adhesive tape ST69640 : 110-P18300851030-I - Single-sided adhesive tape",
+        "productTags": [
+          "Adhesive tape",
+          "Single-sided"
+        ],
+        "productNames": [
+          "Single-sided adhesive tape"
+        ],
+        "productAlias": [
+          "Self-adhesive tape",
+          "Sticky tape",
+          "Pressure-sensitive tape",
+          "Adhesive strip",
+          "Tape"
+        ],
+        "productSuperordinate": [
+          "Plastic",
+          "Resin",
+          "Adhesive",
+          "Paper",
+          "Film"
+        ],
+        "productDownstream": [
+          "Packaging",
+          "Labeling",
+          "Crafts",
+          "Repair",
+          "Decoration"
+        ]
+      },
+      {
+        "companyId": 20438566,
+        "companyType": 2,
+        "name": "K H EXPORTS INDIA PRIVATE LIMITED",
+        "countryCode": "IN",
+        "tradeTotal": 53425,
+        "scope": "Leather goods",
+        "address": "\"KH\" CENTRE, NO. 15/2 COLLEGE ROAD , NUNGAMBAKKAM",
+        "tradeMatchTotal": 633,
+        "tradeMatchPercent": 1.18,
+        "latestTradeDate": 1753718400000,
+        "productDesc": "3M TAPE IN 10MM WIDTH - 80 YDS 3M TAPE IN 5MM WIDTH",
+        "productTags": [
+          "3M",
+          "Tape"
+        ],
+        "productNames": [
+          "3M Tape"
+        ],
+        "productAlias": [
+          "Adhesive tape",
+          "Sticky tape",
+          "Bonding tape",
+          "Self - adhesive tape",
+          "Pressure - sensitive tape"
+        ],
+        "productSuperordinate": [
+          "Plastic",
+          "Adhesive",
+          "Resin",
+          "Paper",
+          "Fiber"
+        ],
+        "productDownstream": [
+          "Packaging",
+          "Electronics",
+          "Automotive",
+          "Construction",
+          "Crafts"
+        ]
+      },
+      {
+        "companyId": 20440796,
+        "companyType": 2,
+        "name": "EGSTON ELECTRONICS (INDIA) PRIVATE LIMITED",
+        "countryCode": "IN",
+        "tradeTotal": 5140,
+        "scope": "",
+        "address": "37/1 & 37/2 , PUDUKOTTAI MAIN ROAD GUNDOR VILLAGE TRICHY",
+        "tradeMatchTotal": 141,
+        "tradeMatchPercent": 2.74,
+        "latestTradeDate": 1753891200000,
+        "productDesc": "TAPE 0.18X20 #79 WT UL (003400648) TAPE 0.18X20 #79 WT UL (003400648)",
+        "productTags": [],
+        "productNames": [],
+        "productAlias": [],
+        "productSuperordinate": [],
+        "productDownstream": []
+      },
+      {
+        "companyId": 20438765,
+        "companyType": 2,
+        "name": "HABASIT INDIA PRIVATE LIMITED",
+        "countryCode": "IN",
+        "tradeTotal": 4636,
+        "scope": "",
+        "address": "S.F.NO. 52/2 , 52/3 & 52/4. ANNUR ROAD , ARASUR",
+        "tradeMatchTotal": 36,
+        "tradeMatchPercent": 0.78,
+        "latestTradeDate": 1753372800000,
+        "productDesc": "F-1 PA MACHINE TAPE (25 NOS) F-1 PA MACHINE TAPE (25 NOS)",
+        "productTags": [
+          "PA",
+          "Machine Tape"
+        ],
+        "productNames": [
+          "PA Machine Tape"
+        ],
+        "productAlias": [
+          "Polyamide Machine Tape",
+          "PA Tape for Machines",
+          "Machine Polyamide Tape",
+          "PA Industrial Tape",
+          "Machine Adhesive PA Tape"
+        ],
+        "productSuperordinate": [
+          "Polyamide Resin",
+          "Plasticizers",
+          "Adhesives",
+          "Fillers",
+          "Stabilizers"
+        ],
+        "productDownstream": [
+          "Automotive Assembly",
+          "Electronics Manufacturing",
+          "Packaging Industry",
+          "Textile Machinery",
+          "Printing Equipment"
+        ]
+      },
+      {
+        "companyId": 20437886,
+        "companyType": 2,
+        "name": "HANSAE CO.,LTD",
+        "countryCode": "KR",
+        "tradeTotal": 675,
+        "scope": "",
+        "address": "-HO, 60, CENTUM BUK-DAERO 815 , HAEUNDAE-GU",
+        "tradeMatchTotal": 31,
+        "tradeMatchPercent": 4.59,
+        "latestTradeDate": 1752595200000,
+        "productDesc": "5cm wide colored elastic band. 100% new product#&VN",
+        "productTags": [
+          "Elastic Band",
+          "Colored",
+          "5cm wide"
+        ],
+        "productNames": [
+          "Colored Elastic Band"
+        ],
+        "productAlias": [
+          "Elastic Ribbon",
+          "Elastic Strap",
+          "Colored Elastic",
+          "Elastic Tape",
+          "Decorative Elastic"
+        ],
+        "productSuperordinate": [
+          "Elastomer",
+          "Fiber",
+          "Polymer",
+          "Rubber",
+          "Yarn"
+        ],
+        "productDownstream": [
+          "Clothing",
+          "Accessories",
+          "Costumes",
+          "Home Decor",
+          "Crafts"
+        ]
+      },
+      {
+        "companyId": 20440032,
+        "companyType": 2,
+        "name": "SUMITOMO CORPORATION INDIA PRIVATE LIMITED",
+        "countryCode": "IN",
+        "tradeTotal": 903,
+        "scope": "Goods and commodities",
+        "address": "302 & 303 , 3RD FLOOR , WORLDMARK 2, ASSET NO.8,AEROCITY HOSPITALITY DISTRICT NEW  SOUTH WEST",
+        "tradeMatchTotal": 28,
+        "tradeMatchPercent": 3.1,
+        "latestTradeDate": 1753891200000,
+        "productDesc": "SURFACE PROTECTION TAPE SUMIRON VE-308WN-600MMX200M (250R/L) SURFACE PROTECTION TAPE SUMIRON VE-308WN-600MMX200M (250R/L)",
+        "productTags": [],
+        "productNames": [],
+        "productAlias": [],
+        "productSuperordinate": [],
+        "productDownstream": []
+      },
+      {
+        "companyId": 20438727,
+        "companyType": 2,
+        "name": "SEIKO WATCH INDIA PRIVATE LIMITED",
+        "countryCode": "IN",
+        "tradeTotal": 13440,
+        "scope": "Watches",
+        "address": "NO.874 , \"TEMPLE VISTA\" , GROUND FLOOR, SRI KRISHNA TEMPLE ROAD, INDIRANAGAR 1ST STAGE",
+        "tradeMatchTotal": 27,
+        "tradeMatchPercent": 0.2,
+        "latestTradeDate": 1744732800000,
+        "productDesc": "R045011J0 RESIN BAND R045011J0 RESIN BAND",
+        "productTags": [
+          "Resin",
+          "Band"
+        ],
+        "productNames": [
+          "Resin Band"
+        ],
+        "productAlias": [
+          "Resin Strap",
+          "Resin Belt",
+          "Resin Loop",
+          "Resin Stripe",
+          "Resin Tape"
+        ],
+        "productSuperordinate": [
+          "Resin Raw Material",
+          "Plasticizer",
+          "Stabilizer",
+          "Pigment",
+          "Filler"
+        ],
+        "productDownstream": [
+          "Watches",
+          "Bracelets",
+          "Necklaces",
+          "Handbags",
+          "Clothing"
+        ]
+      },
+      {
+        "companyId": 20437934,
+        "companyType": 2,
+        "name": "METTLER-TOLEDO INDIA PRIVATE LIMITED",
+        "countryCode": "IN",
+        "tradeTotal": 65242,
+        "scope": "Precision instruments and services for many applications in research and development, quality control, production, logistics and retail to customers around the world",
+        "address": "AMAR HILLSAKI VIHAR ROAD POWAI MUMBAI",
+        "tradeMatchTotal": 7,
+        "tradeMatchPercent": 0.01,
+        "latestTradeDate": 1752508800000,
+        "productDesc": "65975 Ink ribbon (Set of 2 pcs) 65975 Ink ribbon (Set of 2 pcs)",
+        "productTags": [
+          "Ink ribbon",
+          "Printing"
+        ],
+        "productNames": [
+          "Ink ribbon"
+        ],
+        "productAlias": [
+          "Ink cartridge ribbon",
+          "Printer ink ribbon",
+          "Printing ribbon",
+          "Ink tape",
+          "Ribbon cartridge"
+        ],
+        "productSuperordinate": [
+          "Ink",
+          "Plastic",
+          "Paper",
+          "Metal",
+          "Fiber"
+        ],
+        "productDownstream": [
+          "Printers",
+          "Typewriters",
+          "Cash registers",
+          "Label printers",
+          "Ticket printers"
+        ]
+      },
+      {
+        "companyId": 20438638,
+        "companyType": 2,
+        "name": "GENUS POWER INFRASTRUCTURES LIMITED",
+        "countryCode": "IN",
+        "tradeTotal": 27521,
+        "scope": "Equipment for the power sector",
+        "address": "SPL-3 , RIICO INDUSTRIAL AREA, SITAPURA, TONK ROAD",
+        "tradeMatchTotal": 5,
+        "tradeMatchPercent": 0.02,
+        "latestTradeDate": 1748620800000,
+        "productDesc": "RMOTH00001186 G_SEALING BAND GAS METER(SUS430M)E9536_1 (PARTS FOR GAS METER)RMOTH00001186 G_SEALING BAND GAS METER(SUS430M)E9536_1 (PART",
+        "productTags": [
+          "Sealing band",
+          "Gas meter",
+          "SUS430M"
+        ],
+        "productNames": [
+          "G_SEALING BAND GAS METER"
+        ],
+        "productAlias": [
+          "Gas meter sealing band",
+          "Sealing strip for gas meter",
+          "Gas meter seal band",
+          "Sealing tape for gas meter",
+          "Gas meter gasket band"
+        ],
+        "productSuperordinate": [
+          "Stainless steel",
+          "Metal alloy",
+          "Iron",
+          "Chromium",
+          "Nickel"
+        ],
+        "productDownstream": [
+          "Gas meters",
+          "Gas pipelines",
+          "Gas appliances",
+          "Industrial gas systems",
+          "Residential gas installations"
+        ]
+      },
+      {
+        "companyId": 20439852,
+        "companyType": 2,
+        "name": "ALCON ELECTRONICS PRIVATE LIMITED",
+        "countryCode": "IN",
+        "tradeTotal": 2389,
+        "scope": "Aluminum electrolytic capacitors and film capacitors",
+        "address": "34-B MIDC INDL AREA SATPUR",
+        "tradeMatchTotal": 5,
+        "tradeMatchPercent": 0.21,
+        "latestTradeDate": 1751040000000,
+        "productDesc": "(SELF ADHESIVE PAPER TAPE) TAPING MATERIAL IN TAPE, ROLL ORSTRIP FORM WITH OR WITHOUT ADHESIVE FCAP-PAPER MASKING TAPE(SELF ADHESIVE PAPER TAPE) TAPING MATERIAL IN TAPE, ROLL OR",
+        "productTags": [
+          "Self Adhesive",
+          "Paper",
+          "Tape",
+          "Masking",
+          "Taping Material"
+        ],
+        "productNames": [
+          "Self Adhesive Paper Tape",
+          "FCAP-Paper Masking Tape"
+        ],
+        "productAlias": [
+          "Adhesive Tape",
+          "Masking Tape",
+          "Paper Tape",
+          "Self Stick Tape",
+          "Taping Tape"
+        ],
+        "productSuperordinate": [
+          "Paper",
+          "Adhesive",
+          "Cellulose",
+          "Fiber",
+          "Resin"
+        ],
+        "productDownstream": [
+          "Packaging",
+          "Painting",
+          "Crafts",
+          "Labeling",
+          "Repair"
+        ]
+      },
+      {
+        "companyId": 20440694,
+        "companyType": 2,
+        "name": "GLEN APPLIANCES PRIVATE LIMITED",
+        "countryCode": "IN",
+        "tradeTotal": 7755,
+        "scope": "Island chimneys, split chimneys, designer chimneys, straight line chimneys, built-in microwaves, built-in ovens, built-in hobs (induction), built-in hobs (gas), stainless steel hob, cooking appliances, glass and induction cooktops, platinum cooktops, stainless steel cooktops, indian cooking ranges, and international cooking ranges; Food processors, juicer mixer, grinders, mixer grinders, choppers, slow juicers",
+        "address": "I-34, DLF INDUSTRIAL AREA PHASE-I",
+        "tradeMatchTotal": 4,
+        "tradeMatchPercent": 0.05,
+        "latestTradeDate": 1740412800000,
+        "productDesc": "SEALING TAPE 652T/653T MRT-50005488 (SPARE PARTS FOR BUILT-IN OVEN MODEL NO.BO-652MRT)(FOC)SEALING TAPE 652T/653T MRT-50005488 (SPARE PARTS FOR BUILT-I",
+        "productTags": [
+          "Sealing Tape",
+          "Built - in oven",
+          "Spare parts"
+        ],
+        "productNames": [
+          "Sealing Tape"
+        ],
+        "productAlias": [
+          "Adhesive Tape",
+          "Seal Tape",
+          "Oven Sealing Tape",
+          "Sticky Tape",
+          "Gasket Tape"
+        ],
+        "productSuperordinate": [
+          "Plastic",
+          "Rubber",
+          "Adhesive",
+          "Polymer",
+          "Resin"
+        ],
+        "productDownstream": [
+          "Built - in Oven",
+          "Kitchen Appliance",
+          "Home Appliance",
+          "Cooking Equipment",
+          "Oven Repair Kit"
+        ]
+      },
+      {
+        "companyId": 20439265,
+        "companyType": 2,
+        "name": "DIOTEC ELECTRONICS INDIA PRIVATE LIMITED",
+        "countryCode": "IN",
+        "tradeTotal": 19679,
+        "scope": "",
+        "address": "SURVEY NO.614 , HISSA NO. 3 TO 9 , SASWAD VILLAGE , TALUKA PURANDAR DISTRICT",
+        "tradeMatchTotal": 3,
+        "tradeMatchPercent": 0.02,
+        "latestTradeDate": 1727971200000,
+        "productDesc": "CARRIER TAPE MIN MELF 8mm ART. 3210 ( PLASTIC SPOOL - RAW MATERIAL FOR P8 LINE START UP) - 30415 M",
+        "productTags": [
+          "Carrier Tape",
+          "Plastic",
+          "Spool",
+          "Raw material",
+          "P8 line"
+        ],
+        "productNames": [
+          "Carrier Tape"
+        ],
+        "productAlias": [
+          "Carrier Film",
+          "Carrier Strip",
+          "Carrier Web",
+          "Carrier Sheet",
+          "Carrier Band"
+        ],
+        "productSuperordinate": [
+          "Plastic Resin",
+          "Polymer",
+          "Chemical Additives",
+          "Plasticizer",
+          "Filler"
+        ],
+        "productDownstream": [
+          "Electronics Manufacturing",
+          "Semiconductor Packaging",
+          "Component Assembly",
+          "Automotive Electronics",
+          "Consumer Electronics"
+        ]
+      },
+      {
+        "companyId": 20441331,
+        "companyType": 2,
+        "name": "I R TECHNOLOGY SERVICES PRIVATE LIMITED",
+        "countryCode": "IN",
+        "tradeTotal": 13634,
+        "scope": "",
+        "address": "EL-91, TTC Industrial Area,",
+        "tradeMatchTotal": 3,
+        "tradeMatchPercent": 0.02,
+        "latestTradeDate": 1742572800000,
+        "productDesc": "608-591, AGNETIC HI TEMP.06X.50 (MISC PARTS FOR LECO EQUIPMENT)TAPE MAGNETIC HI TEMP .06X.50",
+        "productTags": [
+          "Magnetic",
+          "High temperature",
+          "Tape",
+          "Leco equipment",
+          "Miscellaneous parts"
+        ],
+        "productNames": [
+          "Magnetic high temperature tape"
+        ],
+        "productAlias": [
+          "High temperature magnetic tape",
+          "Magnetic heat - resistant tape",
+          "Heat - resistant magnetic tape",
+          "High - temp magnetic tape",
+          "Magnetic tape for high temperature"
+        ],
+        "productSuperordinate": [
+          "Magnetic materials",
+          "Adhesive",
+          "Plastic film",
+          "Rubber",
+          "Fiber"
+        ],
+        "productDownstream": [
+          "Leco equipment",
+          "Industrial machinery",
+          "Electrical appliances",
+          "Automotive parts",
+          "Aerospace components"
+        ]
+      },
+      {
+        "companyId": 20437943,
+        "companyType": 2,
+        "name": "INTAS PHARMACEUTICALS LIMITED",
+        "countryCode": "IN",
+        "tradeTotal": 15548,
+        "scope": "Pharmaceutical preparations",
+        "address": "MORAIYA SARKHEJ BAWLA ROAD, TAL-SANAND, MO, PLOT NO :423P A GIDC",
+        "tradeMatchTotal": 2,
+        "tradeMatchPercent": 0.01,
+        "latestTradeDate": 1748793600000,
+        "productDesc": "ALUMINIUM STRIP. WIDTH 236.00 mm GUAGE ALUMINIUM 45.00 um. SMAT NO. 3432043, MAT. NO. 3488410.TDSP0970-E.  DULL SIDE LACALUMINIUM STRIP. WIDTH 236.00 mm GUAGE ALUMINIUM 45.00 um. S",
+        "productTags": [
+          "Aluminium",
+          "Strip"
+        ],
+        "productNames": [
+          "Aluminium strip"
+        ],
+        "productAlias": [
+          "Aluminum ribbon",
+          "Aluminum tape",
+          "Aluminum sheet strip",
+          "Aluminum foil strip",
+          "Aluminum alloy strip"
+        ],
+        "productSuperordinate": [
+          "Bauxite",
+          "Alumina",
+          "Electricity",
+          "Carbon anodes",
+          "Cryolite"
+        ],
+        "productDownstream": [
+          "Automobile parts",
+          "Aerospace components",
+          "Electrical appliances",
+          "Building materials",
+          "Packaging materials"
+        ]
+      },
+      {
+        "companyId": 20438465,
+        "companyType": 2,
+        "name": "EMDEP TEST BOARDS PRIVATE LIMITED",
+        "countryCode": "IN",
+        "tradeTotal": 21092,
+        "scope": "",
+        "address": "Plot No. PAP-A-1, 4,",
+        "tradeMatchTotal": 2,
+        "tradeMatchPercent": 0.01,
+        "latestTradeDate": 1743696000000,
+        "productDesc": "PARTS OF TEST BOARD EQUIPMENT Exclusive Ribbon for Zebra (QUALITY) 110mmx74mPARTS OF TEST BOARD EQUIPMENT",
+        "productTags": [
+          "Test board equipment",
+          "Ribbon",
+          "Zebra"
+        ],
+        "productNames": [
+          "Test board equipment parts",
+          "Exclusive ribbon for Zebra"
+        ],
+        "productAlias": [
+          "Test equipment components",
+          "Printing tape",
+          "Zebra ribbon",
+          "Testing parts",
+          "Board equipment accessories"
+        ],
+        "productSuperordinate": [
+          "Plastic",
+          "Ink",
+          "Electronic components",
+          "Metal",
+          "Paper"
+        ],
+        "productDownstream": [
+          "Testing machines",
+          "Printing devices",
+          "Industrial equipment",
+          "Office equipment",
+          "Automation systems"
+        ]
+      },
+      {
+        "companyId": 20438561,
+        "companyType": 2,
+        "name": "THUKRAL ELECTRIC BIKES PRIVATE LIMITED",
+        "countryCode": "IN",
+        "tradeTotal": 633,
+        "scope": "",
+        "address": "PLOT 18 A FLOOR GROUND FLOOR, RAJAN BABU ROAD NEAR ADARSH NAGAR METRO STATION, ADARSH NAGAR NEW  NORTH",
+        "tradeMatchTotal": 2,
+        "tradeMatchPercent": 0.32,
+        "latestTradeDate": 1733846400000,
+        "productDesc": "SILVER BIDDING 50M/ROLL 45 MM (PARTS FOR E RIKSHAW) SILVER BIDDING 50M/ROLL 45 MM (PARTS FOR E RIKSHAW)",
+        "productTags": [
+          "Silver",
+          "Bidding",
+          "E-rickshaw",
+          "Parts"
+        ],
+        "productNames": [
+          "Silver Bidding"
+        ],
+        "productAlias": [
+          "Silver strip",
+          "Silver tape",
+          "Silver ribbon",
+          "Silver binding",
+          "Silver edging"
+        ],
+        "productSuperordinate": [
+          "Silver ore",
+          "Silver alloy",
+          "Silver compound",
+          "Silver powder",
+          "Silver wire"
+        ],
+        "productDownstream": [
+          "E-rickshaw",
+          "Electric vehicle",
+          "Battery-powered vehicle",
+          "Personal transporter",
+          "Urban mobility vehicle"
+        ]
+      },
+      {
+        "companyId": 20440207,
+        "companyType": 2,
+        "name": "MEDEV MEDICAL DEVICES CORPORATION",
+        "countryCode": "PH",
+        "tradeTotal": 3125,
+        "scope": "",
+        "address": "RED FLOWER (MJ46) COMPOUND, SANTA ANA DRIVE, SUN VALLEY, PARANAQUE CITY, METRO",
+        "tradeMatchTotal": 2,
+        "tradeMatchPercent": 0.06,
+        "latestTradeDate": 1773331200000,
+        "productDesc": "30 PCS 0020212000 MEASURING TAPE",
+        "productTags": [],
+        "productNames": [],
+        "productAlias": [],
+        "productSuperordinate": [],
+        "productDownstream": []
+      },
+      {
+        "companyId": 20438114,
+        "companyType": 2,
+        "name": "BOYLES BROS DIAMANTINA S A",
+        "countryCode": "PE",
+        "tradeTotal": 4932,
+        "scope": "detergent,cylinder assembly,fine wire mixer,cono porta,extension bar,vitrified,waste disposer,co2 absorber,cutting wood,impresos,tungsten carbide,extension strip,lima circle,reinforcement,rodillo,metal powder and silicon,exchangeable appliance,dye,lower blade,cutting edge",
+        "address": "santa ana avenue # 186 ate",
+        "tradeMatchTotal": 1,
+        "tradeMatchPercent": 0.02,
+        "latestTradeDate": 1726588800000,
+        "productDesc": "CINTA TRANSPORTADORA, MAZAK, S/M",
+        "productTags": [
+          "Conveyor Belt",
+          "MAZAK"
+        ],
+        "productNames": [
+          "Conveyor Belt"
+        ],
+        "productAlias": [
+          "Conveyor Tape",
+          "Transport Belt",
+          "Conveying Belt",
+          "Belt Conveyor",
+          "Moving Belt"
+        ],
+        "productSuperordinate": [
+          "Rubber",
+          "Plastic",
+          "Fiber",
+          "Metal",
+          "Textile"
+        ],
+        "productDownstream": [
+          "Manufacturing Industry",
+          "Logistics Industry",
+          "Mining Industry",
+          "Food Industry",
+          "Automotive Industry"
+        ]
+      },
+      {
+        "companyId": 20439795,
+        "companyType": 2,
+        "name": "TRONTEK ELECTRONICS PRIVATE LIMITED",
+        "countryCode": "IN",
+        "tradeTotal": 3038,
+        "scope": "",
+        "address": "B-228, 2ND FLOOR , NARAINA INDUSTRIAL AREA , PH-1, NARAINA",
+        "tradeMatchTotal": 1,
+        "tradeMatchPercent": 0.03,
+        "latestTradeDate": 1723392000000,
+        "productDesc": "NICKLE STRIP (PARTS FOR MFG OF LITHIM ION BATTERY)",
+        "productTags": [
+          "Nickle",
+          "Strip",
+          "Lithium Ion Battery",
+          "Battery Parts"
+        ],
+        "productNames": [
+          "Nickle Strip"
+        ],
+        "productAlias": [
+          "Nickel Strap",
+          "Nickel Ribbon",
+          "Nickel Tape",
+          "Nickel Foil Strip",
+          "Nickel Sheet Strip"
+        ],
+        "productSuperordinate": [
+          "Nickel Ore",
+          "Nickel Metal",
+          "Alloying Elements",
+          "Chemical Reagents",
+          "Smelting Materials"
+        ],
+        "productDownstream": [
+          "Lithium Ion Batteries",
+          "Portable Electronics",
+          "Electric Vehicles",
+          "Energy Storage Systems",
+          "Power Tools"
+        ]
+      },
+      {
+        "companyId": 20440199,
+        "companyType": 2,
+        "name": "JEWELEX INDIA PRIVATE LIMITED",
+        "countryCode": "IN",
+        "tradeTotal": 12628,
+        "scope": "Jewelry and relevant products",
+        "address": "401-TRADE CENTRE , BANDRA KURLA COMPLEX , BANDRA (E), MUMBAI",
+        "tradeMatchTotal": 1,
+        "tradeMatchPercent": 0.01,
+        "latestTradeDate": 1722268800000,
+        "productDesc": "SELF ADHESIVE TAPE (M&S QC TAPE-PACKING MATERIAL) VALUE FORCUSTOM PURPOSE ONLY,NO PAYMENT TO BE MADE.SELF ADHESIVE TAPE",
+        "productTags": [
+          "Self Adhesive Tape",
+          "Packing Material"
+        ],
+        "productNames": [
+          "Self Adhesive Tape"
+        ],
+        "productAlias": [
+          "Adhesive Tape",
+          "Sticky Tape",
+          "Self - sticking Tape",
+          "Tape",
+          "Packing Tape"
+        ],
+        "productSuperordinate": [
+          "Plastic Resin",
+          "Adhesive",
+          "Paper",
+          "Polyester",
+          "Acrylic"
+        ],
+        "productDownstream": [
+          "Shipping Industry",
+          "Warehousing",
+          "Retail Packaging",
+          "Office Use",
+          "Home Use"
+        ]
+      }
+    ]
+  },
+  "fee": {
+    "apiCost": 150,
+    "accountBalance": 89690,
+    "uuid": "d1d40859-74f6-49e0-84a3-33fac3fe81e6"
+  }
+}
