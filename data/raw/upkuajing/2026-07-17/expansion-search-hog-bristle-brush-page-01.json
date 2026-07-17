@@ -1,0 +1,114 @@
+{
+  "code": 0,
+  "msg": "success",
+  "data": {
+    "cursor": null,
+    "list": [
+      {
+        "companyId": 215261,
+        "companyType": 2,
+        "name": "orgill inc.",
+        "countryCode": "US",
+        "tradeTotal": 21032,
+        "scope": "stainless steel fryer,50 fan,casual set,bar set,arm,wicker,drill bit,hand tool,aed,s 158,surge,ioi,slat,s14,power cords,cock,electrica,hang,sprayer,moving blanket",
+        "address": "3742 tyndale dr. memphis, tn 38125",
+        "tradeMatchTotal": 1,
+        "tradeMatchPercent": 0.0,
+        "latestTradeDate": 1744646400000,
+        "productDesc": "OF PAINT BRUSHES. NATURAL HOG BRISTLES PAINT BRUSHES AS PER APPLICANT S<br/>",
+        "productTags": [
+          "Paint Brushes",
+          "Natural Hog Bristles"
+        ],
+        "productNames": [
+          "Paint Brushes"
+        ],
+        "productAlias": [
+          "Paint Brush",
+          "Brush for Painting",
+          "Painting Brush",
+          "Hog Bristle Brush",
+          "Art Brush"
+        ],
+        "productSuperordinate": [
+          "Hog Bristles",
+          "Wood",
+          "Metal",
+          "Plastic",
+          "Paint"
+        ],
+        "productDownstream": [
+          "Wall Painting",
+          "Furniture Painting",
+          "Automobile Painting",
+          "Artwork",
+          "Crafts"
+        ]
+      },
+      {
+        "companyId": 20856834,
+        "companyType": 2,
+        "name": "UNIVERSAL BEAUTY PRODUCTS INC",
+        "countryCode": "US",
+        "tradeTotal": 471,
+        "scope": "Toilet preparations, such as perfumes, shaving preparations, hair preparations, face creams, lotions, and other cosmetic preparations",
+        "address": "500 WALL ST",
+        "tradeMatchTotal": 1,
+        "tradeMatchPercent": 0.21,
+        "latestTradeDate": 1739030400000,
+        "productDesc": "BOAR BRUSH ",
+        "productTags": [
+          "Boar",
+          "Brush"
+        ],
+        "productNames": [
+          "Boar Brush"
+        ],
+        "productAlias": [
+          "Wild Boar Brush",
+          "Hog Bristle Brush",
+          "Pig Hair Brush",
+          "Bristle Brush",
+          "Animal Hair Brush"
+        ],
+        "productSuperordinate": [
+          "Boar Hair",
+          "Plastic",
+          "Wood",
+          "Metal",
+          "Resin"
+        ],
+        "productDownstream": [
+          "Cosmetics Industry",
+          "Painting",
+          "Cleaning",
+          "Grooming",
+          "Crafts"
+        ]
+      },
+      {
+        "companyId": 71437269,
+        "companyType": 2,
+        "name": "LACINOS SPEEDCARGO CORP.",
+        "countryCode": "US",
+        "tradeTotal": 49767,
+        "scope": "",
+        "address": "El Monte, California",
+        "tradeMatchTotal": 1,
+        "tradeMatchPercent": 0.0,
+        "latestTradeDate": 1767283200000,
+        "productDesc": "MONOFILAMENT BRUSH FERRULE PLASTIC BRUSH HANDLE ARTISTS' BRUSH HEAD ARTISTS' BRUSH BOILED HOG BRISTLE PAINT BRUSH HEAD PLASTIC P...",
+        "productTags": [],
+        "productNames": [],
+        "productAlias": [],
+        "productSuperordinate": [],
+        "productDownstream": []
+      }
+    ]
+  },
+  "fee": {
+    "apiCost": 150,
+    "accountBalance": 89190,
+    "uuid": "77c9d6b3-fc73-4de5-9cdb-ad1926ba04c7"
+  }
+}

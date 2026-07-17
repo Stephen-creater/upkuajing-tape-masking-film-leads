@@ -1,0 +1,796 @@
+{
+  "code": 0,
+  "msg": "success",
+  "data": {
+    "cursor": "eyJjb21wYW55X2lkIjoxMzY2MjR9",
+    "list": [
+      {
+        "companyId": 4416182,
+        "companyType": 2,
+        "name": "công ty tnhh ford việt nam",
+        "countryCode": "VN",
+        "tradeTotal": 2480246,
+        "scope": "storage card,mechnical seals,latch hook,heat engine,apparatus for measuring the flow of gases,self-adhesive tape,extractor,plastic lamp,optical reader,label of paper,plastic cap,electromagnet,explorer,trucks,trash can,frame,expansion valve,hand shank,light emitting diodes,lock parts",
+        "address": "tầng6, tòa nhà mặt trời sông hồng, 23 phan chu trinh, q. hoàn kiếm,hà nội",
+        "tradeMatchTotal": 72,
+        "tradeMatchPercent": 0.0,
+        "latestTradeDate": 1758470400000,
+        "productDesc": "W702693S437 - Đai ốc (bằng kim loại) cho bu lông có đường kính ngoài của thân không quá 16 mm, linh kiện lắp ráp cho xe Transit nhóm 8702, hàng mới 100%",
+        "productTags": [
+          "Metal Ring",
+          "Wool Brush",
+          "Vehicle Assembly Parts"
+        ],
+        "productNames": [
+          "Metal Ring for Wool Brush"
+        ],
+        "productAlias": [
+          "Metal Loop",
+          "Metal Hoop",
+          "Metal Band",
+          "Metal Collar",
+          "Metal Grommet"
+        ],
+        "productSuperordinate": [
+          "Metal",
+          "Iron",
+          "Steel",
+          "Alloy",
+          "Mineral Ore"
+        ],
+        "productDownstream": [
+          "Transit Vehicles",
+          "Automobiles",
+          "Commercial Vehicles",
+          "Transportation Equipment",
+          "Automotive Parts"
+        ]
+      },
+      {
+        "companyId": 27401,
+        "companyType": 2,
+        "name": "abrasivos especiales s.a.de c.v.",
+        "countryCode": "MX",
+        "tradeTotal": 38130,
+        "scope": "vehicle,wheel,8k,cma cgm,a tool,cutting tools,pa pallet,auto spare,polish pad,cod,brush,ring,freight prepaid,fans,disco,custom,mobil,brushes,discs,k machine",
+        "address": "",
+        "tradeMatchTotal": 7,
+        "tradeMatchPercent": 0.02,
+        "latestTradeDate": 1755014400000,
+        "productDesc": "RUEDA FLAP DE FELPA DE LANA PARA PULIDO CON VASTAGO FELT POLISHING FLAP BRUSH TYPE FFB 3 X 1 X 1 4 SOFT D3 H25",
+        "productTags": [
+          "Felt",
+          "Wool",
+          "Polishing",
+          "Flap brush"
+        ],
+        "productNames": [
+          "Felt polishing flap brush"
+        ],
+        "productAlias": [
+          "Felt flap brush",
+          "Wool felt brush",
+          "Polishing felt brush",
+          "Flap polishing brush",
+          "Felt FFB brush"
+        ],
+        "productSuperordinate": [
+          "Felt material",
+          "Wool fiber",
+          "Brush handle",
+          "Polishing agent",
+          "Adhesive"
+        ],
+        "productDownstream": [
+          "Metal polishing",
+          "Wood finishing",
+          "Automotive detailing",
+          "Jewelry making",
+          "Furniture manufacturing"
+        ]
+      },
+      {
+        "companyId": 7471815,
+        "companyType": 2,
+        "name": "ungerenterprise inc.",
+        "countryCode": "US",
+        "tradeTotal": 5424,
+        "scope": "carriage,tube,1 25m,gh,opti,collar,t 109,pole",
+        "address": "425 asylum stbridgeport, ct 06610",
+        "tradeMatchTotal": 5,
+        "tradeMatchPercent": 0.09,
+        "latestTradeDate": 1745510400000,
+        "productDesc": "UNG13346 WOOL DUSTERS HS CODE: 96039090 SCAC CODE: PEVH HBL NO: 07HCM0023041<br/>",
+        "productTags": [
+          "Wool",
+          "Dusters"
+        ],
+        "productNames": [
+          "Wool Dusters"
+        ],
+        "productAlias": [
+          "Wool Cleaning Brush",
+          "Wool Duster Brush",
+          "Wool Dust Cleaning Tool",
+          "Wool Dusting Brush",
+          "Wool Cleaning Duster"
+        ],
+        "productSuperordinate": [
+          "Wool Fiber",
+          "Textile Material",
+          "Natural Fiber",
+          "Animal Fiber",
+          "Wool Yarn"
+        ],
+        "productDownstream": [
+          "Household Cleaning",
+          "Office Cleaning",
+          "Hotel Cleaning",
+          "Retail Stores",
+          "Industrial Cleaning"
+        ]
+      },
+      {
+        "companyId": 241055,
+        "companyType": 2,
+        "name": "home depot usa inc",
+        "countryCode": "US",
+        "tradeTotal": 355499,
+        "scope": "block print,t 80,articles of iron,dining table leg,15x8 inch,board,peg,cotton bed sheet,aluminium alloy,organic cotton,y 100,mang,kr,adjustable table,mirror fram,door dresser,slate,foot,circle,aluminium",
+        "address": "2455 paces ferry road se atlanta, ga 30339-1834",
+        "tradeMatchTotal": 4,
+        "tradeMatchPercent": 0.0,
+        "latestTradeDate": 1735228800000,
+        "productDesc": "Bộ bu lông có ren, thanh sắt dùng để cố định đèn (bộ phận của đèn treo tường L = 10cm, đường kính thân =12.7mm), hàng mới 100%#&VN",
+        "productTags": [
+          "Brushed wool",
+          "Iron bar",
+          "Lamp fixing",
+          "Lamp parts",
+          "Decoration"
+        ],
+        "productNames": [
+          "Brushed wool set",
+          "Iron bar for lamp fixing"
+        ],
+        "productAlias": [
+          "Wool brush set",
+          "Iron rod for lamp",
+          "Lamp fixing bar",
+          "Decorative wool set",
+          "Wall lamp accessory"
+        ],
+        "productSuperordinate": [
+          "Wool fiber",
+          "Iron ore",
+          "Steel",
+          "Paint",
+          "Plastic"
+        ],
+        "productDownstream": [
+          "Wall lamp",
+          "Ceiling lamp",
+          "Table lamp",
+          "Floor lamp",
+          "Decorative lighting"
+        ]
+      },
+      {
+        "companyId": 4415040,
+        "companyType": 2,
+        "name": "công ty tnhh yamazen việt nam",
+        "countryCode": "VN",
+        "tradeTotal": 59810,
+        "scope": "ash separator,roller,numerical control machine,pipe,seals of vulcanized rubber,deedbox,press brake,steel tube,stainless steel,account balances,scavenging pump,account books,valves,battery,cotton linter,ribbed endless belt,numerical control panels,solar turbine,rubber product,lighter",
+        "address": "800 nguyễn văn linh, phường tân phú, quận 7,tp. hồ chí minh (tphcm)",
+        "tradeMatchTotal": 4,
+        "tradeMatchPercent": 0.01,
+        "latestTradeDate": 1754841600000,
+        "productDesc": "Chổi đánh bóng bằng len dùng cho máy đánh bóng cầm tay (05 chiêc/pack, model: F4115. Hãng sản xuất: NIHON SEIMITSU. Hàng mới 100%.",
+        "productTags": [
+          "Wool",
+          "Polishing brush",
+          "Handheld polisher"
+        ],
+        "productNames": [
+          "Wool polishing brush"
+        ],
+        "productAlias": [
+          "Wool brush for polishing",
+          "Polishing wool brush",
+          "Handheld polisher brush",
+          "Wool polishing tool",
+          "Brush for handheld polisher"
+        ],
+        "productSuperordinate": [
+          "Wool",
+          "Plastic",
+          "Metal",
+          "Fiber",
+          "Resin"
+        ],
+        "productDownstream": [
+          "Automobile polishing",
+          "Furniture polishing",
+          "Jewelry polishing",
+          "Metalware polishing",
+          "Woodware polishing"
+        ]
+      },
+      {
+        "companyId": 178632,
+        "companyType": 2,
+        "name": "công ty tnhh công nghiệp việt thương",
+        "countryCode": "VN",
+        "tradeTotal": 9743,
+        "scope": "bars,pipes,cotters,plastic caps,stainless steel tube,cold rolled stainless steel sheet,alloy steel seamless circular section tube,scavenge trunk,tubes,butterfly auto valve,check valve,glass fibres,plated steel,washers,knives,inox,stainless steel rods,stainless steel ornament pipe,alloy steel,spring",
+        "address": "lầu 5, d52/ p12, q. tân bình, tp hồ chí minhtp. hồ chí minh (tphcm)",
+        "tradeMatchTotal": 3,
+        "tradeMatchPercent": 0.03,
+        "latestTradeDate": 1753286400000,
+        "productDesc": "Bộ bu lông (ty ren) bằng thép, KT: 7/8' x 185L, phủ PTFE, (gồm 1 bu lông A193 B7 và 1 con đai ốc A194-2H), Hàng mới 100%",
+        "productTags": [
+          "Steel Wool Brush",
+          "Bolt",
+          "Nut",
+          "Steel",
+          "PTFE"
+        ],
+        "productNames": [
+          "Steel Wool Brush",
+          "Bolt A193 B7",
+          "Nut A194-2H"
+        ],
+        "productAlias": [
+          "Wire Brush",
+          "Metal Brush",
+          "Threaded Bolt",
+          "Hex Nut",
+          "Steel Fastener"
+        ],
+        "productSuperordinate": [
+          "Steel",
+          "PTFE Resin",
+          "Iron Ore",
+          "Fluorspar",
+          "Carbon"
+        ],
+        "productDownstream": [
+          "Automotive Industry",
+          "Construction Industry",
+          "Machinery Manufacturing",
+          "Home Appliance",
+          "Furniture"
+        ]
+      },
+      {
+        "companyId": 228213,
+        "companyType": 2,
+        "name": "odell corp.",
+        "countryCode": "US",
+        "tradeTotal": 1923,
+        "scope": "blu,grout brush,canvas,micronova,tm w,xt,bmg,dlx,dustpan,s 10,md,feather duster,prep,dust mop refill,e cu,blue white,coco fiber,freight prepaid,disposable,coco",
+        "address": "po box 540 ? ware shoals, sc 29692",
+        "tradeMatchTotal": 3,
+        "tradeMatchPercent": 0.16,
+        "latestTradeDate": 1754496000000,
+        "productDesc": "WOOL DUSTER/FIBERGLASS HANDLE/METAL MOP CLIP/FLOOR SQUEEGEE/PLASTIC MOP CLIP/SANITIZER BUCKET/LOBBY DUSTPAN/MULTI-USE CLEANING CART T HIS SHIPMENT DOES NOT CONTAIN ANY SOLID WOOD PACKING MATERIAL<br/>",
+        "productTags": [
+          "Wool",
+          "Fiberglass",
+          "Metal",
+          "Plastic",
+          "Cleaning"
+        ],
+        "productNames": [
+          "Wool duster",
+          "Fiberglass handle",
+          "Metal mop clip",
+          "Floor squeegee",
+          "Plastic mop clip",
+          "Sanitizer bucket",
+          "Lobby dustpan",
+          "Multi-use cleaning cart"
+        ],
+        "productAlias": [
+          "Wool cleaning brush",
+          "Fiberglass tool handle",
+          "Metal mop fastener",
+          "Floor cleaning blade",
+          "Plastic mop fastener"
+        ],
+        "productSuperordinate": [
+          "Wool fiber",
+          "Fiberglass material",
+          "Metal alloy",
+          "Plastic resin",
+          "Bucket raw material"
+        ],
+        "productDownstream": [
+          "Household cleaning",
+          "Office cleaning",
+          "Hotel cleaning",
+          "School cleaning",
+          "Hospital cleaning"
+        ]
+      },
+      {
+        "companyId": 27631298,
+        "companyType": 2,
+        "name": "UNGER ENTERPRISES LLC",
+        "countryCode": "US",
+        "tradeTotal": 25,
+        "scope": "",
+        "address": "10 HALSEY ST",
+        "tradeMatchTotal": 3,
+        "tradeMatchPercent": 12.0,
+        "latestTradeDate": 1745510400000,
+        "productDesc": "UNG13346 WOOL DUSTERS HS CODE: 96039090 SCAC CODE: PEVH HBL NO: 07HCM0023041 ",
+        "productTags": [
+          "Wool",
+          "Dusters"
+        ],
+        "productNames": [
+          "Wool Dusters"
+        ],
+        "productAlias": [
+          "Wool Cleaning Brush",
+          "Wool Dust Cleaning Tool",
+          "Wool Dirt Remover",
+          "Wool Cleaning Duster",
+          "Wool Dust Wipe"
+        ],
+        "productSuperordinate": [
+          "Wool Fiber",
+          "Textile Material",
+          "Natural Fiber",
+          "Animal Fiber",
+          "Wool Yarn"
+        ],
+        "productDownstream": [
+          "Home Cleaning",
+          "Office Cleaning",
+          "Hotel Cleaning",
+          "Retail Stores",
+          "Industrial Cleaning"
+        ]
+      },
+      {
+        "companyId": 91806,
+        "companyType": 2,
+        "name": "global polybags industries pvt ltd.",
+        "countryCode": "IN",
+        "tradeTotal": 4839,
+        "scope": "bobbin,superbolt,anilox roll,ev,lubricating grease,ares,cable connecting,frequency converter,belt,propylene copolymer,manometer,talen,g5,ldpe granule,moulding machine,machine,pneumatic cylinder,v belt,paper bag machine,card",
+        "address": "500-a, perali road, virudhunagar - 626 001, tamil nadu, india",
+        "tradeMatchTotal": 2,
+        "tradeMatchPercent": 0.04,
+        "latestTradeDate": 1764950400000,
+        "productDesc": "26200740 CLEANING WOOL 16080012 BRONZE BRUSH",
+        "productTags": [
+          "bronze brush",
+          "cleaning wool"
+        ],
+        "productNames": [],
+        "productAlias": [],
+        "productSuperordinate": [],
+        "productDownstream": []
+      },
+      {
+        "companyId": 188428,
+        "companyType": 2,
+        "name": "công ty tnhh kỹ thuật việt hàn",
+        "countryCode": "VN",
+        "tradeTotal": 5496,
+        "scope": "cotters,boards,stainless steel tube,feed additive,grill,bolt,lubricant,tubes,articles of copper,glass fibres,washers,non-alloy steel coil,section steel,carbon steel pipe,ordinary steel h-beam,inox,rotary knob,stainless steel rods,spring,nettng",
+        "address": "38 nguyễn bá tuyển, p.12, q. tân bình,tp. hồ chí minh (tphcm)",
+        "tradeMatchTotal": 2,
+        "tradeMatchPercent": 0.04,
+        "latestTradeDate": 1751299200000,
+        "productDesc": "F638-029-KH#&Bộ bu lông chữ U, 4 đai ốc bằng thép cacbon, có ren, đường kính ngoài 8mm. Mới 100%",
+        "productTags": [
+          "U-shaped",
+          "wool brush",
+          "carbon steel",
+          "screw belt",
+          "outer diameter 8mm"
+        ],
+        "productNames": [
+          "U-shaped wool brush",
+          "Carbon steel screw belt"
+        ],
+        "productAlias": [
+          "U-brush",
+          "Steel screw belt",
+          "Wool cleaning brush",
+          "Carbon steel fastener belt",
+          "U-shaped cleaning tool"
+        ],
+        "productSuperordinate": [
+          "Wool",
+          "Carbon steel",
+          "Metal",
+          "Fiber",
+          "Alloy"
+        ],
+        "productDownstream": [
+          "Home cleaning",
+          "Industrial maintenance",
+          "Automobile assembly",
+          "Furniture manufacturing",
+          "Electronics production"
+        ]
+      },
+      {
+        "companyId": 221836,
+        "companyType": 2,
+        "name": "the tranzonic co",
+        "countryCode": "US",
+        "tradeTotal": 6399,
+        "scope": "starter,e 31,blu,delivery,mop,mop pole,large frame,wood,kraft liner,c 14,l brand,paper bag,microfiber cleaning pad,wooden,cod,ion,one pc,mala,aluminum,pole",
+        "address": "2530 westcott blvd，knoxville",
+        "tradeMatchTotal": 2,
+        "tradeMatchPercent": 0.03,
+        "latestTradeDate": 1732982400000,
+        "productDesc": "80 CARTONS OF WOOL DUSTER AND MICROFIBER DUSTER NW 1,342 KG HS CODE 4303.90.90 9603.90.90",
+        "productTags": [
+          "Wool",
+          "Microfiber",
+          "Duster"
+        ],
+        "productNames": [
+          "Wool Duster",
+          "Microfiber Duster"
+        ],
+        "productAlias": [
+          "Wool Cleaning Brush",
+          "Microfiber Cleaning Brush",
+          "Wool Dirt Remover",
+          "Microfiber Dirt Remover",
+          "Wool Dust Cleaner"
+        ],
+        "productSuperordinate": [
+          "Wool Fiber",
+          "Microfiber Material",
+          "Textile",
+          "Fiber",
+          "Yarn"
+        ],
+        "productDownstream": [
+          "Home Cleaning",
+          "Office Cleaning",
+          "Hotel Cleaning",
+          "Vehicle Cleaning",
+          "Industrial Cleaning"
+        ]
+      },
+      {
+        "companyId": 379750,
+        "companyType": 2,
+        "name": "coco&more chocolates pvt ltd.",
+        "countryCode": "IN",
+        "tradeTotal": 4657,
+        "scope": "bag dryer,430 s,gh,fork,spiral shaped,coating,abs plastic,ape,ring,table,brush,lily flower,remover,hot,h4,oven mitt,spatula,rolli,marble roll,adeo",
+        "address": "1, paulina chs ltd.,plot no.96/97, sewree wadala rd, no.7,wadala-w, mumbai,pin-400031",
+        "tradeMatchTotal": 2,
+        "tradeMatchPercent": 0.04,
+        "latestTradeDate": 1739548800000,
+        "productDesc": "SN4121 Antibacterial Wool Pastry Brush-Plastic Handle (Wool+Plastic) 25 NOS -BAKEWARE KITCHEN ARTICLESN4121 Antibacterial Wool Pastry Brush-Plastic Handle Wool +",
+        "productTags": [
+          "pastry brush",
+          "bake",
+          "antibacteria",
+          "plastic",
+          "kitchen article",
+          "wool",
+          "ware",
+          "plastic handle"
+        ],
+        "productNames": [],
+        "productAlias": [],
+        "productSuperordinate": [],
+        "productDownstream": []
+      },
+      {
+        "companyId": 457731,
+        "companyType": 2,
+        "name": "công ty tnhh công nghiệp",
+        "countryCode": "VN",
+        "tradeTotal": 7231,
+        "scope": "cotters,numerical control panels,air filter,stainless steel tube,grill,welding machines,dryer,lightning arresters,tubes,hydraulic machine,gasoline lamp,truck,pipe wall,check valve,hand shank,aluminium oxide,washers,oil pump,cutterbar,ordinary steel h-beam",
+        "address": "16/39 lê trọng tấn, p. tân phú, q. tân phú,tp. hồ chí minh (tphcm)",
+        "tradeMatchTotal": 2,
+        "tradeMatchPercent": 0.03,
+        "latestTradeDate": 1754323200000,
+        "productDesc": "Bu lông bằng thép không gỉ, tiêu chuẩn: 304 S.S, Size: M16 x 100L -Mới 100%",
+        "productTags": [
+          "Stainless Steel",
+          "Brush"
+        ],
+        "productNames": [
+          "Stainless Steel Wool Brush"
+        ],
+        "productAlias": [
+          "Steel Wool Cleaning Brush",
+          "Stainless Brush",
+          "Scrubbing Brush",
+          "Metal Wool Brush",
+          "Steel Cleaning Tool"
+        ],
+        "productSuperordinate": [
+          "Stainless Steel",
+          "Iron",
+          "Chromium",
+          "Nickel",
+          "Carbon"
+        ],
+        "productDownstream": [
+          "Kitchen Cleaning",
+          "Automotive Maintenance",
+          "Industrial Cleaning",
+          "Home Decoration",
+          "Metal Polishing"
+        ]
+      },
+      {
+        "companyId": 461378,
+        "companyType": 2,
+        "name": "công ty tnhh nhà thép peb",
+        "countryCode": "VN",
+        "tradeTotal": 3270,
+        "scope": "coil,boards,checking instruments,grill,rivet,glass fibres,carbon  brushes,washers,heat sensor,section steel,electricity meters,knives,ordinary steel h-beam,inox,metal wire,clamps,springs,processors,alloy steel,thermometer",
+        "address": "khu công nghiệp đông xuyên, đường 30 tháng 4, p. 10, tp. vũng tàu,bà rịa-vũng tàu",
+        "tradeMatchTotal": 2,
+        "tradeMatchPercent": 0.06,
+        "latestTradeDate": 1758211200000,
+        "productDesc": "Bu lông bằng thép có ren mạ kẽm nhúng nóng dùng trong nhà thép tiền chế(1 bộ=1 bu lông+1đai ốc+1 vòng đệm), cỡ M24 x 80 (đường kính: 24 mm).Hàng mới 100%",
+        "productTags": [
+          "Steel",
+          "Galvanized",
+          "Steel plant"
+        ],
+        "productNames": [
+          "Steel wool brush"
+        ],
+        "productAlias": [
+          "Wire brush",
+          "Metal brush",
+          "Galvanized brush",
+          "Steel cleaning brush",
+          "Industrial brush"
+        ],
+        "productSuperordinate": [
+          "Steel",
+          "Zinc",
+          "Iron ore",
+          "Carbon",
+          "Alloying elements"
+        ],
+        "productDownstream": [
+          "Steel manufacturing",
+          "Metal processing",
+          "Construction",
+          "Automotive industry",
+          "Shipbuilding"
+        ]
+      },
+      {
+        "companyId": 470894,
+        "companyType": 2,
+        "name": "công ty tnhh sản xuất thương mại tân việt hàn",
+        "countryCode": "VN",
+        "tradeTotal": 1227,
+        "scope": "stainless steel,screw,dell inspiron,mats of glass fibres,rovings of glass,spray gun,industrial steel material,hardened plastic,aromatic polyester resin,woven fabrics of glass fibres,bolts,raspberry ketone,styrene,camera,led,hinges,aluminium hydroxide,resin,ecosport,die-casting mould",
+        "address": "tổ 26,p. 11, tp. cao lãnh,đồng tháp",
+        "tradeMatchTotal": 2,
+        "tradeMatchPercent": 0.16,
+        "latestTradeDate": 1753113600000,
+        "productDesc": "Wool Roller Head (4 Inch) - Đầu bông lăn 4 Inch làm bằng sợi bông, dùng để sơn các loại nhựa composite (hàng mới 100%)",
+        "productTags": [
+          "Wool",
+          "Roller Head",
+          "Painting",
+          "Composite",
+          "Fiber"
+        ],
+        "productNames": [
+          "Wool Roller Head"
+        ],
+        "productAlias": [
+          "Wool Paint Roller",
+          "Paint Roller Head",
+          "Wool Brush Roller",
+          "Roller Brush Head",
+          "Wool Painting Roller"
+        ],
+        "productSuperordinate": [
+          "Wool Fiber",
+          "Paint",
+          "Composite Material",
+          "Roller Frame",
+          "Adhesive"
+        ],
+        "productDownstream": [
+          "Wall Painting",
+          "Furniture Painting",
+          "Automobile Painting",
+          "Industrial Painting",
+          "Art Painting"
+        ]
+      },
+      {
+        "companyId": 20201176,
+        "companyType": 2,
+        "name": "AMERICAN METAL FIBERS INC",
+        "countryCode": "US",
+        "tradeTotal": 894,
+        "scope": "Metal fiber",
+        "address": "13420 ROCKLAND RD",
+        "tradeMatchTotal": 2,
+        "tradeMatchPercent": 0.22,
+        "latestTradeDate": 1746028800000,
+        "productDesc": "1) 586 CARTONS OF CONVENTIONAL STEELWOOL FLOOR PAD GRADE 00 , 0 , 1 . 2 ,DIAMETER 17 ,19 ,22 2) 841 CARTONS OF METALTEX STEELWOOL FL OOR PAD GRADE 00 . 0 , 1 , DIAMETER 7 ,10 ,1 7 ,19 3) 105 CARTONS OF 5LBS STEELWOOL GRAD E 0000 , 2 , 4 4) 56 CARTONS ...",
+        "productTags": [
+          "Steelwool",
+          "Floor pad",
+          "Grade",
+          "Diameter"
+        ],
+        "productNames": [
+          "Conventional Steelwool Floor Pad",
+          "Metaltex Steelwool Floor Pad",
+          "Steelwool"
+        ],
+        "productAlias": [
+          "Steel wool floor pad",
+          "Floor cleaning pad",
+          "Steel wool brush",
+          "Scouring pad",
+          "Steel wool abrasive"
+        ],
+        "productSuperordinate": [
+          "Steel",
+          "Iron ore",
+          "Carbon",
+          "Alloying elements",
+          "Minerals"
+        ],
+        "productDownstream": [
+          "Household cleaning",
+          "Industrial cleaning",
+          "Automotive detailing",
+          "Metal finishing",
+          "Woodworking"
+        ]
+      },
+      {
+        "companyId": 22319751,
+        "companyType": 2,
+        "name": "DUC GIANG CORPORATION",
+        "countryCode": "VN",
+        "tradeTotal": 24000,
+        "scope": "Cut and sew apparel",
+        "address": "59 PHO DUC GIANG, Q.LONG BIEN",
+        "tradeMatchTotal": 2,
+        "tradeMatchPercent": 0.01,
+        "latestTradeDate": 1773936000000,
+        "productDesc": "NL2A#&amp;woven Fabrics from fiber wool brush skills 100% wool W158cm 303g/m2, 4127.39 m, 100% brand new",
+        "productTags": [],
+        "productNames": [],
+        "productAlias": [],
+        "productSuperordinate": [],
+        "productDownstream": []
+      },
+      {
+        "companyId": 28170,
+        "companyType": 2,
+        "name": "truper s.a.de c.v.",
+        "countryCode": "MX",
+        "tradeTotal": 360488,
+        "scope": "bits,accesorios,export document,agent,abro,13 pocket,a 60,caja de,le par,tipo,vin,carton,e 12,yt,hot rolled,packaged,moisture content,water tank,s 140,inco",
+        "address": "miguel de cervantes saavedra 67 granada miguel hidalgo ciudad de méxico df 11520 mexico",
+        "tradeMatchTotal": 1,
+        "tradeMatchPercent": 0.0,
+        "latestTradeDate": 1738598400000,
+        "productDesc": "BORLA DE LANA PARA PULIDORA PULA 6A",
+        "productTags": [
+          "Wool",
+          "Polishing"
+        ],
+        "productNames": [
+          "BORLA DE LANA PARA PULIDORA"
+        ],
+        "productAlias": [
+          "Wool Polishing Wheel",
+          "Polishing Wool Disc",
+          "Wool Buffing Wheel",
+          "Polishing Wool Pad",
+          "Wool Polishing Brush"
+        ],
+        "productSuperordinate": [
+          "Wool",
+          "Fiber",
+          "Textile",
+          "Polishing Compound",
+          "Metal"
+        ],
+        "productDownstream": [
+          "Automotive",
+          "Jewelry",
+          "Furniture",
+          "Metal Products",
+          "Plastic Products"
+        ]
+      },
+      {
+        "companyId": 95232,
+        "companyType": 2,
+        "name": "minox metal pvt ltd.",
+        "countryCode": "IN",
+        "tradeTotal": 5327,
+        "scope": "smc,ba finish,protective film,mill edge,500 s,trim,spare part,e 30,zin,roller for,mirror polishing machine,hot rolled stainless steel coil,cap,piston,x99,fin,driven roller,blu,nose,hea",
+        "address": "22/7 & 22/4c yarandanhalli, bommasandra jigani link rd, bommasandra industrial area bangalore ka india asia",
+        "tradeMatchTotal": 1,
+        "tradeMatchPercent": 0.02,
+        "latestTradeDate": 1743004800000,
+        "productDesc": "WOOLEN BRUSH - 80x1320MM (NEW TECH 0.06MM) WOOLEN BRUSH - 80x1320MM (NEW TECH 0.06MM)",
+        "productTags": [
+          "Woolen",
+          "Brush"
+        ],
+        "productNames": [
+          "Woolen Brush"
+        ],
+        "productAlias": [
+          "Wool Brush",
+          "Felt Brush",
+          "Wool Cleaning Brush",
+          "Woolen Cleaning Tool",
+          "Woolen Scrub Brush"
+        ],
+        "productSuperordinate": [
+          "Wool",
+          "Fiber",
+          "Brush Bristles",
+          "Wood",
+          "Plastic"
+        ],
+        "productDownstream": [
+          "Home Cleaning",
+          "Industrial Cleaning",
+          "Automotive Cleaning",
+          "Art and Craft",
+          "Jewelry Cleaning"
+        ]
+      },
+      {
+        "companyId": 136624,
+        "companyType": 2,
+        "name": "murray sales co",
+        "countryCode": "",
+        "tradeTotal": 2639,
+        "scope": "noel,baking,cuti,travel passport,pod,cle,mult,glove,wavy,lunch bag,ketchup,meal prep,75 liter,skin brush,silicone kitchenware,watermelon,cone ice,avocado,wood packing,butter stick",
+        "address": "786 el pintado rd,danville,ca,94526,united states",
+        "tradeMatchTotal": 1,
+        "tradeMatchPercent": 0.04,
+        "latestTradeDate": 1722960000000,
+        "productDesc": "TELESCOPIC DRYER VENT BRUSH WOOL DRYER BALLS3PK",
+        "productTags": [
+          "brush",
+          "esco",
+          "dryer vent",
+          "wool dryer ball"
+        ],
+        "productNames": [],
+        "productAlias": [],
+        "productSuperordinate": [],
+        "productDownstream": []
+      }
+    ]
+  },
+  "fee": {
+    "apiCost": 150,
+    "accountBalance": 89040,
+    "uuid": "c426f80b-dca8-4855-b952-014abae69e2c"
+  }
+}

@@ -1,0 +1,500 @@
+{
+  "code": 0,
+  "msg": "success",
+  "data": {
+    "cursor": null,
+    "list": [
+      {
+        "companyId": 218290,
+        "companyType": 2,
+        "name": "representaciones martin",
+        "countryCode": "US",
+        "tradeTotal": 86712,
+        "scope": "table,ice,tablero,e 44,color chart,gun,cub,t seal,reef,tura,erw,8k,1 table,g 15,wood based panels,md,laminated flooring,c 18,paquetes,tand",
+        "address": "pq. industrial nro. k-2 int. 11 parcela ii (entre av.pachacutec y j.velasco alvarado)villa el salvador lima",
+        "tradeMatchTotal": 6,
+        "tradeMatchPercent": 0.01,
+        "latestTradeDate": 1756051200000,
+        "productDesc": "TAPACANTO GRUESO, KOVACANTO, S/M ACABADO:LISO; COLOR:CON COLOR, PLASTIF:0 % SIN SOPORTE COM: 100% POLICLORURO DE VINILO, ELAB:SIN SOPORTE ANCHO:0.022 M, ESPE.1: 0.3 MM, GRAMAJE:5.34 GR/M2, COMPO.PLASTICO:100 %, COMPO.SOPORTE:0 %",
+        "productTags": [
+          "TAPACANTO",
+          "KOVACANTO",
+          "Polyvinyl Chloride",
+          "Edge protection"
+        ],
+        "productNames": [
+          "TAPACANTO",
+          "KOVACANTO"
+        ],
+        "productAlias": [
+          "Edge protector",
+          "PVC edge strip",
+          "Corner protector",
+          "Edge trim",
+          "PVC corner guard"
+        ],
+        "productSuperordinate": [
+          "Polyvinyl chloride resin",
+          "Plasticizer",
+          "Stabilizer",
+          "Lubricant",
+          "Filler"
+        ],
+        "productDownstream": [
+          "Furniture manufacturing",
+          "Building decoration",
+          "Automobile interior",
+          "Electronics enclosure",
+          "Packaging industry"
+        ]
+      },
+      {
+        "companyId": 456996,
+        "companyType": 2,
+        "name": "công ty tnhh quốc hùng",
+        "countryCode": "VN",
+        "tradeTotal": 779,
+        "scope": "connector,malleable cast iron,bluetooth headset,cable,builders' ware of plastics,polymers of ethylene,voltage stabilized suppliers,electronic scale,plug cord,printer,account balances,cast steel products,interphone,equilibristat,regulated power supply,plates,wires",
+        "address": "86/56 phổ quang, p. 2, q. tân bình,tp. hồ chí minh (tphcm)",
+        "tradeMatchTotal": 4,
+        "tradeMatchPercent": 0.51,
+        "latestTradeDate": 1756915200000,
+        "productDesc": "Nẹp góc ốp tường bằng nhựa PVC, loại chống côn trùng gây hại, đã được gia công tạo thành cấu kiện, dùng trong xây lắp, KT: 30*30*3000 mm, mã: NP7--JX038, không hiệu . Mới 100%",
+        "productTags": [
+          "Wall Corner Trim",
+          "PVC",
+          "Pest prevention",
+          "Wall decoration"
+        ],
+        "productNames": [
+          "PVC Wall Corner Trim"
+        ],
+        "productAlias": [
+          "PVC Wall Angle Trim",
+          "PVC Corner Protector",
+          "PVC Wall Edge Trim",
+          "PVC Corner Molding",
+          "PVC Wall Corner Guard"
+        ],
+        "productSuperordinate": [
+          "PVC Resin",
+          "Plasticizer",
+          "Stabilizer",
+          "Lubricant",
+          "Filler"
+        ],
+        "productDownstream": [
+          "Residential Buildings",
+          "Commercial Buildings",
+          "Industrial Buildings",
+          "Interior Decoration Projects",
+          "Renovation Projects"
+        ]
+      },
+      {
+        "companyId": 66884,
+        "companyType": 2,
+        "name": "global vinyl pvt ltd.",
+        "countryCode": "LK",
+        "tradeTotal": 2065,
+        "scope": "rolls,blu,reels,graphtol,t yellow,pigment,bare pump,pv f,g 15,esbo,bb,tano,sheet,hood,80 gsm,roll,stabilizer,man made fabric,blowing agent,pvc stabilizer",
+        "address": "208 sea street,colombo 11 sri lanka",
+        "tradeMatchTotal": 2,
+        "tradeMatchPercent": 0.1,
+        "latestTradeDate": 1741104000000,
+        "productDesc": "3006 MTRS PVC CORNER PROTECTOR 500 MTRS PVC CONNECTION CLOSING STRIP",
+        "productTags": [
+          "PVC",
+          "Corner Protector",
+          "Connection Closing Strip"
+        ],
+        "productNames": [
+          "PVC Corner Protector",
+          "PVC Connection Closing Strip"
+        ],
+        "productAlias": [
+          "PVC Edge Protector",
+          "PVC Joint Strip",
+          "PVC Corner Guard",
+          "PVC Connector Strip",
+          "PVC Closing Edge"
+        ],
+        "productSuperordinate": [
+          "Polyvinyl Chloride Resin",
+          "Plasticizer",
+          "Stabilizer",
+          "Lubricant",
+          "Filler"
+        ],
+        "productDownstream": [
+          "Furniture",
+          "Construction",
+          "Electronics",
+          "Automotive",
+          "Packaging"
+        ]
+      },
+      {
+        "companyId": 304076,
+        "companyType": 2,
+        "name": "ali traders",
+        "countryCode": "PK",
+        "tradeTotal": 11589,
+        "scope": "blu,pvc,silicone nipple,frame,moulding machine,t 80,iron and steel,machine,two burner,brown oxide,feeder,grill,titi,used injection molding machine,bowl,unit,spiral screen,model,e pi,made of glass",
+        "address": "2a,second floor, zamurd plaza,chandni chowk,rawalpindi pakistan",
+        "tradeMatchTotal": 2,
+        "tradeMatchPercent": 0.02,
+        "latestTradeDate": 1760457600000,
+        "productDesc": "6) PVC CORNER GUARD NET WEIGHT: 106 KGS APPROX",
+        "productTags": [
+          "ppr",
+          "guard net",
+          "pvc corner",
+          "gh"
+        ],
+        "productNames": [],
+        "productAlias": [],
+        "productSuperordinate": [],
+        "productDownstream": []
+      },
+      {
+        "companyId": 28415649,
+        "companyType": 2,
+        "name": "FORESTAL LAGUNERA SA DE CV",
+        "countryCode": "MX",
+        "tradeTotal": 491,
+        "scope": "",
+        "address": "DIAGONAL REFORMA NO. 2583 ORIENTE, MOCTEZUMA",
+        "tradeMatchTotal": 2,
+        "tradeMatchPercent": 0.41,
+        "latestTradeDate": 1749484800000,
+        "productDesc": "TAPACANTO DE PVC",
+        "productTags": [
+          "Corner Protector",
+          "PVC"
+        ],
+        "productNames": [
+          "PVC Corner Protector"
+        ],
+        "productAlias": [
+          "PVC Edge Protector",
+          "PVC Corner Guard",
+          "PVC Corner Trim",
+          "PVC Edge Trim",
+          "PVC Corner Bumper"
+        ],
+        "productSuperordinate": [
+          "Polyvinyl Chloride Resin",
+          "Plasticizer",
+          "Stabilizer",
+          "Lubricant",
+          "Filler"
+        ],
+        "productDownstream": [
+          "Furniture",
+          "Cabinet",
+          "Door",
+          "Window",
+          "Wall"
+        ]
+      },
+      {
+        "companyId": 272249,
+        "companyType": 2,
+        "name": "forestal santa rosa sac",
+        "countryCode": "PE",
+        "tradeTotal": 5566,
+        "scope": "pvc,kluber,analysis timer,dashboard,contactor,calar,dryer,crayones,cutting tool,aquaculture,gas scrubber,bandsaw,control panel contactor,double dinger wood,walnut laminated flooring,machinery,wooden flooring,strawberry,distribution band,particle board",
+        "address": "av. victor malasquez nro. 502 pachacamac lima",
+        "tradeMatchTotal": 1,
+        "tradeMatchPercent": 0.02,
+        "latestTradeDate": 1742832000000,
+        "productDesc": "TAPACANTO DE PVC, CANPLAST, S/M Ancho:0.050 Metros, Espesor:1.000 mm, Gramaje:0.20 GR/M2 Calidad:Primera, Estruc.Comp.Plastico:100, Estruc.Soporte:0 Acabado:VARIOS, Color:CON COLOR, 0% Composición:100% Policloruro de Vinilo, Elab:Sin soporte, Compacto, TAP",
+        "productTags": [
+          "PVC",
+          "Corner protector"
+        ],
+        "productNames": [
+          "PVC Corner Protector"
+        ],
+        "productAlias": [
+          "PVC corner guard",
+          "PVC edge protector",
+          "Vinyl corner protector",
+          "Plastic corner protector",
+          "Polyvinyl chloride corner protector"
+        ],
+        "productSuperordinate": [
+          "Polyvinyl chloride resin",
+          "Plasticizer",
+          "Stabilizer",
+          "Lubricant",
+          "Filler"
+        ],
+        "productDownstream": [
+          "Furniture",
+          "Cabinet",
+          "Door",
+          "Window",
+          "Wall"
+        ]
+      },
+      {
+        "companyId": 296473,
+        "companyType": 2,
+        "name": "hopsa s.a.",
+        "countryCode": "PA",
+        "tradeTotal": 16571,
+        "scope": "t 16,box,teja,loop cap,wall spike,f clamp,arm,tension bar,iec,outdoor,door,bolt,lv,steel rebars,tension band,gh,ceramic roofing tile,tiles,t cap,ce f1",
+        "address": "vía interamericana, a 500 m del machetazo",
+        "tradeMatchTotal": 1,
+        "tradeMatchPercent": 0.01,
+        "latestTradeDate": 1734364800000,
+        "productDesc": "ESQUINEROS Y PERFILES DE PVC",
+        "productTags": [
+          "PVC",
+          "Corner",
+          "Profile"
+        ],
+        "productNames": [
+          "PVC Corner and Profile"
+        ],
+        "productAlias": [
+          "PVC Edge Trim",
+          "PVC Molding",
+          "PVC Corner Guard",
+          "PVC Trim Strip",
+          "PVC Profile Molding"
+        ],
+        "productSuperordinate": [
+          "Polyvinyl Chloride Resin",
+          "Plasticizers",
+          "Stabilizers",
+          "Fillers",
+          "Lubricants"
+        ],
+        "productDownstream": [
+          "Furniture",
+          "Construction",
+          "Automotive",
+          "Electronics",
+          "Interior Decoration"
+        ]
+      },
+      {
+        "companyId": 4679989,
+        "companyType": 2,
+        "name": "achon industrial s.a.",
+        "countryCode": "PY",
+        "tradeTotal": 6966,
+        "scope": "Millwork, veneer, plywood and structural wood, and other related products",
+        "address": "CAPITAN EMETERIO MIRANDAS Y MCAL. LOPEZ",
+        "tradeMatchTotal": 1,
+        "tradeMatchPercent": 0.01,
+        "latestTradeDate": 1727884800000,
+        "productDesc": "TAPA CANTOS DE PVC - C. PVC 22 X1 1476S ROBLE KENDAL NATURAL EGGER H317",
+        "productTags": [
+          "PVC",
+          "Corner protector"
+        ],
+        "productNames": [
+          "PVC Corner Protector"
+        ],
+        "productAlias": [
+          "PVC Edge Protector",
+          "PVC Corner Guard",
+          "PVC Edge Guard",
+          "PVC Corner Trim",
+          "PVC Edge Trim"
+        ],
+        "productSuperordinate": [
+          "PVC Resin",
+          "Plasticizer",
+          "Stabilizer",
+          "Lubricant",
+          "Filler"
+        ],
+        "productDownstream": [
+          "Furniture",
+          "Cabinetry",
+          "Doors",
+          "Windows",
+          "Wall Panels"
+        ]
+      },
+      {
+        "companyId": 30914676,
+        "companyType": 2,
+        "name": "EUROMOBILIA",
+        "countryCode": "CR",
+        "tradeTotal": 651,
+        "scope": "ice,ev,lightweight panel,8k,metal frame,cod,board,granite slab,k ar,s p a,freight prepaid,custom,impro,ip p,w 10 28,chains,ether,melamine faced chipboard,ed panel,electrotherm",
+        "address": "600 mts. west to canal 7, pavas. san josé, costa rica.",
+        "tradeMatchTotal": 1,
+        "tradeMatchPercent": 0.15,
+        "latestTradeDate": 1735833600000,
+        "productDesc": "TAPA ESQUINERO DE PVC PARA RODAPIE ZOCALO REF TZCNH8",
+        "productTags": [
+          "PVC",
+          "Corner protector",
+          "Baseboard"
+        ],
+        "productNames": [
+          "PVC Corner Protector for Baseboard"
+        ],
+        "productAlias": [
+          "PVC Baseboard Corner Guard",
+          "PVC Skirting Board Corner Protector",
+          "PVC Wall Base Corner Cover",
+          "PVC Floor Molding Corner Piece",
+          "PVC Baseboard Edge Protector"
+        ],
+        "productSuperordinate": [
+          "PVC Resin",
+          "Plasticizer",
+          "Stabilizer",
+          "Lubricant",
+          "Pigment"
+        ],
+        "productDownstream": [
+          "Residential Buildings",
+          "Commercial Buildings",
+          "Industrial Facilities",
+          "Retail Stores",
+          "Offices"
+        ]
+      },
+      {
+        "companyId": 71391994,
+        "companyType": 2,
+        "name": "COSMIC EXPRESS CORP.",
+        "countryCode": "US",
+        "tradeTotal": 4237,
+        "scope": "",
+        "address": "Santa Fe Springs, California",
+        "tradeMatchTotal": 1,
+        "tradeMatchPercent": 0.02,
+        "latestTradeDate": 1747065600000,
+        "productDesc": "PVC CORNER BEAD NAME ACCOUNT: SPECIAL COMM BU LLET --- CUCC:HKHKGSPECL KARINA_GARCIA@COSM ICUSA.COM; DAVID_WANG@COSMICUSA.COM; J...",
+        "productTags": [
+          "PVC",
+          "Corner bead"
+        ],
+        "productNames": [
+          "PVC Corner Bead"
+        ],
+        "productAlias": [
+          "PVC corner trim",
+          "Plastic corner bead",
+          "PVC edge protector",
+          "Corner molding",
+          "PVC corner guard"
+        ],
+        "productSuperordinate": [
+          "PVC resin",
+          "Plasticizer",
+          "Stabilizer",
+          "Filler",
+          "Pigment"
+        ],
+        "productDownstream": [
+          "Construction projects",
+          "Interior decoration",
+          "Building facades",
+          "Renovation works",
+          "Wall corners"
+        ]
+      },
+      {
+        "companyId": 71392690,
+        "companyType": 2,
+        "name": "CROSS-CONTINENTS TRANS INC",
+        "countryCode": "US",
+        "tradeTotal": 7004,
+        "scope": "",
+        "address": "Diamond Bar, California",
+        "tradeMatchTotal": 1,
+        "tradeMatchPercent": 0.01,
+        "latestTradeDate": 1734364800000,
+        "productDesc": "SIDE TABLE WALL PANEL SOFA ARTIFICIAL PLANTS PVC CORNER GUARD THIS SHIPMENT CONTAINS NO S OLID WOOD PACKING MATERIALS (CONTINUED...",
+        "productTags": [
+          "Side Table",
+          "Wall Panel",
+          "Sofa",
+          "Artificial Plants",
+          "PVC Corner Guard",
+          "PVC"
+        ],
+        "productNames": [
+          "Side Table",
+          "Wall Panel",
+          "Sofa",
+          "Artificial Plants",
+          "PVC Corner Guard"
+        ],
+        "productAlias": [
+          "End Table",
+          "Wall Covering",
+          "Couch",
+          "Fake Plants",
+          "PVC Edge Protector"
+        ],
+        "productSuperordinate": [
+          "Wood",
+          "Plastic",
+          "Fabric",
+          "PVC Resin",
+          "Plant Materials"
+        ],
+        "productDownstream": [
+          "Living Room",
+          "Bedroom",
+          "Office",
+          "Hotel",
+          "Restaurant"
+        ]
+      },
+      {
+        "companyId": 71437269,
+        "companyType": 2,
+        "name": "LACINOS SPEEDCARGO CORP.",
+        "countryCode": "US",
+        "tradeTotal": 49767,
+        "scope": "",
+        "address": "El Monte, California",
+        "tradeMatchTotal": 1,
+        "tradeMatchPercent": 0.0,
+        "latestTradeDate": 1735574400000,
+        "productDesc": "PETG CORNER GUARD(PETG) PVC SOFT CORNER GUARD(PVC) PO:92 02498 -TEL:0574-87096668 - FAX:0574-87341172",
+        "productTags": [],
+        "productNames": [],
+        "productAlias": [],
+        "productSuperordinate": [],
+        "productDownstream": []
+      },
+      {
+        "companyId": 71457329,
+        "companyType": 2,
+        "name": "OEC GROUP CHICAGO",
+        "countryCode": "US",
+        "tradeTotal": 66371,
+        "scope": "",
+        "address": "Itasca, Illinois",
+        "tradeMatchTotal": 1,
+        "tradeMatchPercent": 0.0,
+        "latestTradeDate": 1783267200000,
+        "productDesc": "HOUSEHOLD GOODS (PACKAGING TAPE DISPENSER) HA IR BRUSH SCREWS FURNITURE HANDLE STEEL HANDLE TRANSPARENT PVC CORNER GUARD HINGE W...",
+        "productTags": [],
+        "productNames": [],
+        "productAlias": [],
+        "productSuperordinate": [],
+        "productDownstream": []
+      }
+    ]
+  },
+  "fee": {
+    "apiCost": 150,
+    "accountBalance": 88890,
+    "uuid": "6f8d79fb-a7f5-474f-95dd-e6d605f912c8"
+  }
+}
