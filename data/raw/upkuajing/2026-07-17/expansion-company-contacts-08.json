@@ -1,0 +1,1039 @@
+{
+  "code": 0,
+  "msg": "success",
+  "data": {
+    "list": [
+      {
+        "companyId": 6219972,
+        "contact_data": {
+          "emails": [
+            {
+              "val": "info@decpl.com",
+              "is_valid": 1,
+              "reason": ""
+            }
+          ],
+          "phones": [
+            {
+              "val": "914424960253",
+              "is_valid": 1,
+              "is_ws": 2,
+              "phone_type": 1,
+              "country_code": "91",
+              "dialing_code": null,
+              "area_code": "",
+              "telephone": "4424960253",
+              "national_number": "044 2496 0253",
+              "international_number": "+91 44 2496 0253"
+            }
+          ],
+          "socials": [],
+          "websites": [
+            {
+              "val": "http://www.decpl.com/",
+              "is_valid": 0,
+              "is_sensitive": null,
+              "reason": null
+            }
+          ]
+        }
+      },
+      {
+        "companyId": 20430449,
+        "contact_data": {
+          "emails": [
+            {
+              "val": "ejemplo@mail.com",
+              "is_valid": 0,
+              "reason": ""
+            }
+          ],
+          "phones": [],
+          "socials": [
+            {
+              "val": "https://www.facebook.com/CODELCO",
+              "social_url": "CODELCO",
+              "social_type": "facebook",
+              "is_valid": null,
+              "reason": null
+            },
+            {
+              "val": "https://www.instagram.com/codelco_chile",
+              "social_url": "codelco_chile",
+              "social_type": "instagram",
+              "is_valid": null,
+              "reason": null
+            },
+            {
+              "val": "https://www.youtube.com/user/ChileCodelco",
+              "social_url": "user/ChileCodelco",
+              "social_type": "youtube",
+              "is_valid": null,
+              "reason": null
+            }
+          ],
+          "websites": [
+            {
+              "val": "www.codelco.com",
+              "is_valid": 0,
+              "is_sensitive": null,
+              "reason": null
+            }
+          ]
+        }
+      },
+      {
+        "companyId": 20424781,
+        "contact_data": {
+          "emails": [
+            {
+              "val": "edelgado@facusa-eisa.com.pe",
+              "is_valid": 0,
+              "reason": ""
+            }
+          ],
+          "phones": [
+            {
+              "val": "515113627068",
+              "is_valid": 2,
+              "is_ws": 2,
+              "phone_type": 0,
+              "country_code": "51",
+              "dialing_code": null,
+              "area_code": "",
+              "telephone": "",
+              "national_number": "",
+              "international_number": ""
+            }
+          ],
+          "socials": [
+            {
+              "val": "https://www.facebook.com/Basa.peru",
+              "social_url": "Basa.peru",
+              "social_type": "facebook",
+              "is_valid": null,
+              "reason": null
+            },
+            {
+              "val": "https://www.instagram.com/p/Ccq-FX5p5MY",
+              "social_url": "p/Ccq-FX5p5MY",
+              "social_type": "instagram",
+              "is_valid": null,
+              "reason": null
+            },
+            {
+              "val": "https://www.linkedin.com/company/basa-plasticos-peru",
+              "social_url": "company/basa-plasticos-peru",
+              "social_type": "linkedin",
+              "is_valid": null,
+              "reason": null
+            },
+            {
+              "val": "https://www.youtube.com/embed/vp3Hu5Um6Ak",
+              "social_url": "embed/vp3Hu5Um6Ak",
+              "social_type": "youtube",
+              "is_valid": null,
+              "reason": null
+            }
+          ],
+          "websites": [
+            {
+              "val": "www.basa.com.pe",
+              "is_valid": 0,
+              "is_sensitive": null,
+              "reason": null
+            }
+          ]
+        }
+      },
+      {
+        "companyId": 20431306,
+        "contact_data": {
+          "emails": [
+            {
+              "val": "subodh@bhotika.com",
+              "is_valid": 1,
+              "reason": ""
+            }
+          ],
+          "phones": [
+            {
+              "val": "911140000215",
+              "is_valid": 1,
+              "is_ws": 2,
+              "phone_type": 1,
+              "country_code": "91",
+              "dialing_code": null,
+              "area_code": "",
+              "telephone": "1140000215",
+              "national_number": "011 4000 0215",
+              "international_number": "+91 11 4000 0215"
+            }
+          ],
+          "socials": [
+            {
+              "val": "https://www.linkedin.com/company/bhotika-trade-and-services-private-limited",
+              "social_url": "company/bhotika-trade-and-services-private-limited",
+              "social_type": "linkedin",
+              "is_valid": null,
+              "reason": null
+            }
+          ],
+          "websites": [
+            {
+              "val": "bhotika.com",
+              "is_valid": 1,
+              "is_sensitive": null,
+              "reason": null
+            }
+          ]
+        }
+      },
+      {
+        "companyId": 20427769,
+        "contact_data": {
+          "emails": [
+            {
+              "val": "asistente.administrativa@casatoro.com",
+              "is_valid": 0,
+              "reason": ""
+            }
+          ],
+          "phones": [
+            {
+              "val": "5716760023",
+              "is_valid": 2,
+              "is_ws": 2,
+              "phone_type": 0,
+              "country_code": "57",
+              "dialing_code": null,
+              "area_code": "",
+              "telephone": "",
+              "national_number": "",
+              "international_number": ""
+            }
+          ],
+          "socials": [
+            {
+              "val": "https://www.facebook.com/casatoro",
+              "social_url": "casatoro",
+              "social_type": "facebook",
+              "is_valid": null,
+              "reason": null
+            },
+            {
+              "val": "https://www.facebook.com/casatoro.oficial",
+              "social_url": "casatoro.oficial",
+              "social_type": "facebook",
+              "is_valid": null,
+              "reason": null
+            },
+            {
+              "val": "https://www.instagram.com/casatoro.oficial",
+              "social_url": "casatoro.oficial",
+              "social_type": "instagram",
+              "is_valid": null,
+              "reason": null
+            },
+            {
+              "val": "https://www.instagram.com/casatoro_oficial",
+              "social_url": "casatoro_oficial",
+              "social_type": "instagram",
+              "is_valid": null,
+              "reason": null
+            }
+          ],
+          "websites": [
+            {
+              "val": "www.casatoro.com",
+              "is_valid": 0,
+              "is_sensitive": null,
+              "reason": null
+            }
+          ]
+        }
+      },
+      {
+        "companyId": 184913,
+        "contact_data": {
+          "emails": [
+            {
+              "val": "quanghuywf@gmail.com",
+              "is_valid": 1,
+              "reason": ""
+            }
+          ],
+          "phones": [],
+          "socials": [],
+          "websites": []
+        }
+      },
+      {
+        "companyId": 20426337,
+        "contact_data": {
+          "emails": [
+            {
+              "val": "info@cantia.com",
+              "is_valid": 1,
+              "reason": ""
+            },
+            {
+              "val": "support@starapps.studio",
+              "is_valid": 1,
+              "reason": ""
+            },
+            {
+              "val": "ventasenlinea@cantia.mx",
+              "is_valid": 1,
+              "reason": ""
+            }
+          ],
+          "phones": [
+            {
+              "val": "524499103763",
+              "is_valid": 1,
+              "is_ws": 2,
+              "phone_type": 3,
+              "country_code": "52",
+              "dialing_code": null,
+              "area_code": "",
+              "telephone": "4499103763",
+              "national_number": "449 910 3763",
+              "international_number": "+52 449 910 3763"
+            }
+          ],
+          "socials": [
+            {
+              "val": "https://www.facebook.com/CantiaOficial",
+              "social_url": "CantiaOficial",
+              "social_type": "facebook",
+              "is_valid": null,
+              "reason": null
+            },
+            {
+              "val": "https://www.instagram.com/cantiaoficial",
+              "social_url": "cantiaoficial",
+              "social_type": "instagram",
+              "is_valid": null,
+              "reason": null
+            },
+            {
+              "val": "https://www.pinterest.com/.mx/CantiaOficial",
+              "social_url": ".mx/CantiaOficial",
+              "social_type": "pinterest",
+              "is_valid": null,
+              "reason": null
+            }
+          ],
+          "websites": [
+            {
+              "val": "cantia.com.mx",
+              "is_valid": 1,
+              "is_sensitive": null,
+              "reason": null
+            }
+          ]
+        }
+      },
+      {
+        "companyId": 20431136,
+        "contact_data": {
+          "emails": [
+            {
+              "val": "baljinnyam@tuushin.mn",
+              "is_valid": 0,
+              "reason": ""
+            },
+            {
+              "val": "batbileg@tuushin.mn",
+              "is_valid": 1,
+              "reason": ""
+            },
+            {
+              "val": "buyanochir@tuushin.mn",
+              "is_valid": 1,
+              "reason": ""
+            },
+            {
+              "val": "dorjoo@tuushin.mn",
+              "is_valid": 1,
+              "reason": ""
+            },
+            {
+              "val": "fedexmn2@tuushin.mn",
+              "is_valid": 0,
+              "reason": ""
+            },
+            {
+              "val": "info@tuushin.mn",
+              "is_valid": 1,
+              "reason": ""
+            },
+            {
+              "val": "khanat@tuushin.mn",
+              "is_valid": 1,
+              "reason": ""
+            },
+            {
+              "val": "khishigdorj@tuushin.mn",
+              "is_valid": 0,
+              "reason": ""
+            },
+            {
+              "val": "name@example.com",
+              "is_valid": 0,
+              "reason": ""
+            },
+            {
+              "val": "ongoo@tuushin.mn",
+              "is_valid": 1,
+              "reason": ""
+            },
+            {
+              "val": "quality@tuushin.mn",
+              "is_valid": 1,
+              "reason": ""
+            },
+            {
+              "val": "sanchir@tuushin.mn",
+              "is_valid": 1,
+              "reason": ""
+            },
+            {
+              "val": "shinenyam@tuushin.mn",
+              "is_valid": 0,
+              "reason": ""
+            },
+            {
+              "val": "sumiya@tuushin.mn",
+              "is_valid": 1,
+              "reason": ""
+            },
+            {
+              "val": "tuul@tuushin.mn",
+              "is_valid": 0,
+              "reason": ""
+            },
+            {
+              "val": "unurbayar@tuushin.mn",
+              "is_valid": 1,
+              "reason": ""
+            }
+          ],
+          "phones": [
+            {
+              "val": "97611322800",
+              "is_valid": 1,
+              "is_ws": 2,
+              "phone_type": 1,
+              "country_code": "976",
+              "dialing_code": null,
+              "area_code": "",
+              "telephone": "11322800",
+              "national_number": "011 32 2800",
+              "international_number": "+976 11 32 2800"
+            }
+          ],
+          "socials": [
+            {
+              "val": "https://www.facebook.com/bwptuushin",
+              "social_url": "bwptuushin",
+              "social_type": "facebook",
+              "is_valid": null,
+              "reason": null
+            },
+            {
+              "val": "https://www.facebook.com/Tuushin.official",
+              "social_url": "Tuushin.official",
+              "social_type": "facebook",
+              "is_valid": null,
+              "reason": null
+            },
+            {
+              "val": "https://www.instagram.com/bwptuushinhotel",
+              "social_url": "bwptuushinhotel",
+              "social_type": "instagram",
+              "is_valid": null,
+              "reason": null
+            },
+            {
+              "val": "https://www.linkedin.com/company/best-western-premier-tuushin-hotel",
+              "social_url": "company/best-western-premier-tuushin-hotel",
+              "social_type": "linkedin",
+              "is_valid": null,
+              "reason": null
+            },
+            {
+              "val": "https://www.linkedin.com/in/tuushin-llc-71aa9b17a",
+              "social_url": "in/tuushin-llc-71aa9b17a",
+              "social_type": "linkedin",
+              "is_valid": null,
+              "reason": null
+            },
+            {
+              "val": "https://www.youtube.com/channel/UCOhIbHtSy9XuQl9h3ZgkjwA",
+              "social_url": "channel/UCOhIbHtSy9XuQl9h3ZgkjwA",
+              "social_type": "youtube",
+              "is_valid": null,
+              "reason": null
+            },
+            {
+              "val": "https://www.youtube.com/channel/UCVH3zs6njrXSRLkPnkjP9IA",
+              "social_url": "channel/UCVH3zs6njrXSRLkPnkjP9IA",
+              "social_type": "youtube",
+              "is_valid": null,
+              "reason": null
+            }
+          ],
+          "websites": [
+            {
+              "val": "www.tuushin.mn",
+              "is_valid": 0,
+              "is_sensitive": null,
+              "reason": null
+            }
+          ]
+        }
+      },
+      {
+        "companyId": 20428156,
+        "contact_data": {
+          "emails": [
+            {
+              "val": "legalcolombia@pricesmart.com",
+              "is_valid": 1,
+              "reason": ""
+            }
+          ],
+          "phones": [
+            {
+              "val": "5717424114",
+              "is_valid": 2,
+              "is_ws": 2,
+              "phone_type": 0,
+              "country_code": "57",
+              "dialing_code": null,
+              "area_code": "",
+              "telephone": "",
+              "national_number": "",
+              "international_number": ""
+            }
+          ],
+          "socials": [],
+          "websites": [
+            {
+              "val": "shop.pricesmart.com",
+              "is_valid": 0,
+              "is_sensitive": null,
+              "reason": null
+            }
+          ]
+        }
+      },
+      {
+        "companyId": 181550,
+        "contact_data": {
+          "emails": [
+            {
+              "val": "mdcdung@gmail.com",
+              "is_valid": 1,
+              "reason": ""
+            }
+          ],
+          "phones": [],
+          "socials": [],
+          "websites": [
+            {
+              "val": "http://www.minhduccomec.com.vn",
+              "is_valid": 0,
+              "is_sensitive": null,
+              "reason": null
+            }
+          ]
+        }
+      },
+      {
+        "companyId": 174847,
+        "contact_data": {
+          "emails": [
+            {
+              "val": "hiendt@vam.vn",
+              "is_valid": 1,
+              "reason": ""
+            },
+            {
+              "val": "hungnd@vam.vn",
+              "is_valid": 1,
+              "reason": ""
+            },
+            {
+              "val": "info@vam.vn",
+              "is_valid": 1,
+              "reason": ""
+            },
+            {
+              "val": "lanlt@vam.vn",
+              "is_valid": 1,
+              "reason": ""
+            },
+            {
+              "val": "projects@vam.vn",
+              "is_valid": 1,
+              "reason": ""
+            },
+            {
+              "val": "tramnb@vam.vn",
+              "is_valid": 1,
+              "reason": ""
+            }
+          ],
+          "phones": [
+            {
+              "val": "842838161956",
+              "is_valid": 1,
+              "is_ws": 2,
+              "phone_type": 1,
+              "country_code": "84",
+              "dialing_code": null,
+              "area_code": "",
+              "telephone": "2838161956",
+              "national_number": "028 3816 1956",
+              "international_number": "+84 28 3816 1956"
+            },
+            {
+              "val": "8428381659",
+              "is_valid": 2,
+              "is_ws": 2,
+              "phone_type": 0,
+              "country_code": "84",
+              "dialing_code": null,
+              "area_code": "",
+              "telephone": "",
+              "national_number": "",
+              "international_number": ""
+            },
+            {
+              "val": "842838165955",
+              "is_valid": 1,
+              "is_ws": 2,
+              "phone_type": 1,
+              "country_code": "84",
+              "dialing_code": null,
+              "area_code": "",
+              "telephone": "2838165955",
+              "national_number": "028 3816 5955",
+              "international_number": "+84 28 3816 5955"
+            },
+            {
+              "val": "84399212783",
+              "is_valid": 1,
+              "is_ws": 1,
+              "phone_type": 2,
+              "country_code": "84",
+              "dialing_code": null,
+              "area_code": "",
+              "telephone": "399212783",
+              "national_number": "0399 212 783",
+              "international_number": "+84 399 212 783"
+            },
+            {
+              "val": "84838161956",
+              "is_valid": 2,
+              "is_ws": 2,
+              "phone_type": 0,
+              "country_code": "",
+              "dialing_code": null,
+              "area_code": "",
+              "telephone": "",
+              "national_number": "",
+              "international_number": ""
+            },
+            {
+              "val": "84972491204",
+              "is_valid": 1,
+              "is_ws": 1,
+              "phone_type": 2,
+              "country_code": "84",
+              "dialing_code": null,
+              "area_code": "",
+              "telephone": "972491204",
+              "national_number": "0972 491 204",
+              "international_number": "+84 972 491 204"
+            },
+            {
+              "val": "84979717918",
+              "is_valid": 1,
+              "is_ws": 2,
+              "phone_type": 2,
+              "country_code": "84",
+              "dialing_code": null,
+              "area_code": "",
+              "telephone": "979717918",
+              "national_number": "0979 717 918",
+              "international_number": "+84 979 717 918"
+            }
+          ],
+          "socials": [],
+          "websites": [
+            {
+              "val": "http://www.vam.vn",
+              "is_valid": 0,
+              "is_sensitive": null,
+              "reason": null
+            }
+          ]
+        }
+      },
+      {
+        "companyId": 20436168,
+        "contact_data": {
+          "emails": [
+            {
+              "val": "jear@airfacilitypty.com",
+              "is_valid": 1,
+              "reason": ""
+            }
+          ],
+          "phones": [],
+          "socials": [],
+          "websites": [
+            {
+              "val": "http://www.airfacilitypty.com",
+              "is_valid": 0,
+              "is_sensitive": null,
+              "reason": null
+            }
+          ]
+        }
+      },
+      {
+        "companyId": 531852,
+        "contact_data": {
+          "emails": [
+            {
+              "val": "info@krobalto.com",
+              "is_valid": 1,
+              "reason": ""
+            }
+          ],
+          "phones": [],
+          "socials": [],
+          "websites": [
+            {
+              "val": "www.krobalto.com‎",
+              "is_valid": 0,
+              "is_sensitive": null,
+              "reason": null
+            }
+          ]
+        }
+      },
+      {
+        "companyId": 175249,
+        "contact_data": {
+          "emails": [
+            {
+              "val": "atp@riello.com",
+              "is_valid": 0,
+              "reason": ""
+            },
+            {
+              "val": "quang@riello.com",
+              "is_valid": 0,
+              "reason": ""
+            },
+            {
+              "val": "quang@thanhcongjsc.com.vn",
+              "is_valid": 0,
+              "reason": ""
+            }
+          ],
+          "phones": [],
+          "socials": [],
+          "websites": [
+            {
+              "val": "http://www.riello.com.vn",
+              "is_valid": 0,
+              "is_sensitive": null,
+              "reason": null
+            }
+          ]
+        }
+      },
+      {
+        "companyId": 20432695,
+        "contact_data": {
+          "emails": [
+            {
+              "val": "info@in.schunk.com",
+              "is_valid": 1,
+              "reason": ""
+            }
+          ],
+          "phones": [
+            {
+              "val": "918040538999",
+              "is_valid": 1,
+              "is_ws": 2,
+              "phone_type": 1,
+              "country_code": "91",
+              "dialing_code": null,
+              "area_code": "",
+              "telephone": "8040538999",
+              "national_number": "080 4053 8999",
+              "international_number": "+91 80 4053 8999"
+            }
+          ],
+          "socials": [],
+          "websites": [
+            {
+              "val": "www.schunk.com",
+              "is_valid": 0,
+              "is_sensitive": null,
+              "reason": null
+            }
+          ]
+        }
+      },
+      {
+        "companyId": 19706855,
+        "contact_data": {
+          "emails": [
+            {
+              "val": "info@masterproducts.co",
+              "is_valid": 0,
+              "reason": ""
+            },
+            {
+              "val": "jwalters@masterproducts.com",
+              "is_valid": 1,
+              "reason": ""
+            }
+          ],
+          "phones": [
+            {
+              "val": "08458382325",
+              "is_valid": 2,
+              "is_ws": 0,
+              "phone_type": 0,
+              "country_code": "57",
+              "dialing_code": null,
+              "area_code": "",
+              "telephone": "",
+              "national_number": "",
+              "international_number": ""
+            }
+          ],
+          "socials": [],
+          "websites": [
+            {
+              "val": "http://www.masterproducts.co.uk",
+              "is_valid": 0,
+              "is_sensitive": null,
+              "reason": null
+            }
+          ]
+        }
+      },
+      {
+        "companyId": 20432069,
+        "contact_data": {
+          "emails": [
+            {
+              "val": "204000x2500px16@2x.webp",
+              "is_valid": 0,
+              "reason": ""
+            },
+            {
+              "val": "deepak.tiwari@ivoclarvivadent.com",
+              "is_valid": 1,
+              "reason": ""
+            }
+          ],
+          "phones": [
+            {
+              "val": "912226730302",
+              "is_valid": 1,
+              "is_ws": 2,
+              "phone_type": 1,
+              "country_code": "91",
+              "dialing_code": null,
+              "area_code": "",
+              "telephone": "2226730302",
+              "national_number": "022 2673 0302",
+              "international_number": "+91 22 2673 0302"
+            }
+          ],
+          "socials": [
+            {
+              "val": "https://www.instagram.com/ivoclar",
+              "social_url": "ivoclar",
+              "social_type": "instagram",
+              "is_valid": null,
+              "reason": null
+            },
+            {
+              "val": "https://www.linkedin.com/company/ivoclar-emea",
+              "social_url": "company/ivoclar-emea",
+              "social_type": "linkedin",
+              "is_valid": null,
+              "reason": null
+            },
+            {
+              "val": "https://www.youtube.com/c/Ivoclar-global",
+              "social_url": "c/Ivoclar-global",
+              "social_type": "youtube",
+              "is_valid": null,
+              "reason": null
+            }
+          ],
+          "websites": [
+            {
+              "val": "www.ivoclarvivadent.in",
+              "is_valid": 0,
+              "is_sensitive": null,
+              "reason": null
+            }
+          ]
+        }
+      },
+      {
+        "companyId": 20431960,
+        "contact_data": {
+          "emails": [
+            {
+              "val": "mahesh@bando.co.in",
+              "is_valid": 1,
+              "reason": ""
+            }
+          ],
+          "phones": [
+            {
+              "val": "916307736600",
+              "is_valid": 1,
+              "is_ws": 1,
+              "phone_type": 2,
+              "country_code": "91",
+              "dialing_code": null,
+              "area_code": "",
+              "telephone": "6307736600",
+              "national_number": "063077 36600",
+              "international_number": "+91 63077 36600"
+            }
+          ],
+          "socials": [
+            {
+              "val": "https://www.linkedin.com/company/bando-india-private-limited",
+              "social_url": "company/bando-india-private-limited",
+              "social_type": "linkedin",
+              "is_valid": null,
+              "reason": null
+            }
+          ],
+          "websites": [
+            {
+              "val": "www.bando.co.in",
+              "is_valid": 0,
+              "is_sensitive": null,
+              "reason": null
+            }
+          ]
+        }
+      },
+      {
+        "companyId": 20431266,
+        "contact_data": {
+          "emails": [
+            {
+              "val": "ho@peeveetextiles.com",
+              "is_valid": 0,
+              "reason": ""
+            }
+          ],
+          "phones": [],
+          "socials": [],
+          "websites": [
+            {
+              "val": "www.peeveetextiles.com",
+              "is_valid": 0,
+              "is_sensitive": null,
+              "reason": null
+            }
+          ]
+        }
+      },
+      {
+        "companyId": 20430284,
+        "contact_data": {
+          "emails": [
+            {
+              "val": "daniel@serimax.com.py",
+              "is_valid": 1,
+              "reason": ""
+            },
+            {
+              "val": "info@serimax.com",
+              "is_valid": 0,
+              "reason": ""
+            },
+            {
+              "val": "rrhh@serimax.com",
+              "is_valid": 0,
+              "reason": ""
+            }
+          ],
+          "phones": [
+            {
+              "val": "595296235",
+              "is_valid": 2,
+              "is_ws": 2,
+              "phone_type": 0,
+              "country_code": "595",
+              "dialing_code": null,
+              "area_code": "",
+              "telephone": "",
+              "national_number": "",
+              "international_number": ""
+            }
+          ],
+          "socials": [
+            {
+              "val": "https://www.facebook.com/serimaxsrl/events",
+              "social_url": "serimaxsrl/events",
+              "social_type": "facebook",
+              "is_valid": null,
+              "reason": null
+            },
+            {
+              "val": "https://www.instagram.com/serimax_py",
+              "social_url": "serimax_py",
+              "social_type": "instagram",
+              "is_valid": null,
+              "reason": null
+            },
+            {
+              "val": "https://www.youtube.com/@serimax_py",
+              "social_url": "@serimax_py",
+              "social_type": "youtube",
+              "is_valid": null,
+              "reason": null
+            }
+          ],
+          "websites": [
+            {
+              "val": "serimax.com.py",
+              "is_valid": 1,
+              "is_sensitive": null,
+              "reason": null
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "fee": {
+    "apiCost": 2000,
+    "accountBalance": 77440,
+    "uuid": "7e57ed3d-5c05-444d-bd18-28943086d0ca"
+  }
+}
