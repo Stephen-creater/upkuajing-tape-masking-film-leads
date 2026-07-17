@@ -1,0 +1,57 @@
+{
+  "code": 0,
+  "msg": "success",
+  "data": {
+    "list": [
+      {
+        "companyId": 20438566,
+        "contact_data": {
+          "emails": [
+            {
+              "val": "khgroups@khindia.com",
+              "is_valid": 1,
+              "reason": ""
+            }
+          ],
+          "phones": [],
+          "socials": [],
+          "websites": [
+            {
+              "val": "www.khindia.net",
+              "is_valid": 0,
+              "is_sensitive": null,
+              "reason": null
+            }
+          ]
+        }
+      },
+      {
+        "companyId": 20438395,
+        "contact_data": {
+          "emails": [
+            {
+              "val": "dl_inmaa_finance@salcomp.com",
+              "is_valid": 1,
+              "reason": ""
+            }
+          ],
+          "phones": [],
+          "socials": [],
+          "websites": [
+            {
+              "val": "salcomp.com",
+              "is_valid": 1,
+              "is_sensitive": null,
+              "reason": null
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "fee": {
+    "apiCost": 200,
+    "accountBalance": 89490,
+    "uuid": "5af6c8a8-b6ed-4e7a-9954-a523641b3bb1"
+  }
+}
