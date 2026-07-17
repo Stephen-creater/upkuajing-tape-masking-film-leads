@@ -1,0 +1,827 @@
+{
+  "code": 0,
+  "msg": "success",
+  "data": {
+    "cursor": "eyJjb21wYW55X2lkIjoyMDQ1MzA4M30=",
+    "list": [
+      {
+        "companyId": 20452014,
+        "companyType": 2,
+        "name": "KOMATSU CHILE S A",
+        "countryCode": "CL",
+        "tradeTotal": 104365,
+        "scope": "Machinery and equipment for the construction, infrastructure, quarrying, mining, shipping, transportation, refining, and utility industries",
+        "address": "AVENIDA AMERICO VESPUCIO 631 , QUILICURA",
+        "tradeMatchTotal": 87,
+        "tradeMatchPercent": 0.08,
+        "latestTradeDate": 1749657600000,
+        "productDesc": "PORTAESCOBILLASW.S.S.-FVS8587PARA ESCOBILLAS DE CARBON DE SISTEMA ELECTRICO DE MAQUINARIAMINERA LOS DEMAS ARTICULOS DE CAUCHO SIN VULCANIZAR.",
+        "productTags": [
+          "Carbon Brush Holder",
+          "Unvulcanized Rubber",
+          "Mining Machinery",
+          "Electrical System"
+        ],
+        "productNames": [
+          "Carbon Brush Holder",
+          "Unvulcanized Rubber Articles"
+        ],
+        "productAlias": [
+          "Brush Holder",
+          "Carbon Brush Support",
+          "Uncured Rubber Goods",
+          "Raw Rubber Items",
+          "Rubber Pre - forms"
+        ],
+        "productSuperordinate": [
+          "Rubber Compounds",
+          "Carbon Materials",
+          "Chemical Additives",
+          "Fibers",
+          "Fillers"
+        ],
+        "productDownstream": [
+          "Mining Equipment",
+          "Electrical Motors",
+          "Generators",
+          "Industrial Machinery",
+          "Power Tools"
+        ]
+      },
+      {
+        "companyId": 20451475,
+        "companyType": 2,
+        "name": "ORIFLAME PERU SA",
+        "countryCode": "PE",
+        "tradeTotal": 66428,
+        "scope": "Biological and medical products, botanical drugs and herbs, and pharmaceutical products intended for internal and external consumption in such forms as ampoules, tablets, capsules, vials, ointments, powders, solutions, and suspensions; Bandages, beauty preparations, colognes, cosmetics, dentifrices, deodorants, diagnostic reagents, first-aid supplies, hair preparations, toilet soaps, and toiletries",
+        "address": "AVENIDA PASEO DE LA REPUBLICA 3151",
+        "tradeMatchTotal": 72,
+        "tradeMatchPercent": 0.11,
+        "latestTradeDate": 1776700800000,
+        "productDesc": "BROW DEFINE DUO BRUSH, ORIFLAME, S/M",
+        "productTags": [],
+        "productNames": [],
+        "productAlias": [],
+        "productSuperordinate": [],
+        "productDownstream": []
+      },
+      {
+        "companyId": 20453196,
+        "companyType": 2,
+        "name": "HILTI PERU S.A",
+        "countryCode": "PE",
+        "tradeTotal": 15686,
+        "scope": "",
+        "address": "AVENIDA JAVIER PRADO ESTE 499 DPTO. 1103 URB.: GOLF LOS INKAS",
+        "tradeMatchTotal": 51,
+        "tradeMatchPercent": 0.33,
+        "latestTradeDate": 1755705600000,
+        "productDesc": "PORTA ESCOBILLAS DGH130 JUEGO, HILTI, S/M  PIEZAS DE REPUESTOS PARA CONSTRUCCION 2231979 PORTA ESCOBILLAS DGH130 JUEGO N/A",
+        "productTags": [
+          "PORTA ESCOBILLAS",
+          "DGH130",
+          "Construction",
+          "Spare parts"
+        ],
+        "productNames": [
+          "PORTA ESCOBILLAS DGH130 SET"
+        ],
+        "productAlias": [
+          "Escobilla Holder Set",
+          "Brush Holder Kit",
+          "Escobilla Carrier Set",
+          "Brush Carrier Kit",
+          "Escobilla Mounting Set"
+        ],
+        "productSuperordinate": [
+          "Plastic",
+          "Metal",
+          "Electronic Components",
+          "Insulating Materials",
+          "Fasteners"
+        ],
+        "productDownstream": [
+          "Construction Equipment",
+          "Power Tools",
+          "Industrial Machinery",
+          "Electrical Appliances",
+          "Automotive Parts"
+        ]
+      },
+      {
+        "companyId": 20451694,
+        "companyType": 2,
+        "name": "FARMCITY SA",
+        "countryCode": "AR",
+        "tradeTotal": 9121,
+        "scope": "Pharmaceuticals, prescriptions, over-the-counter drugs, health and beauty products, and general merchandise",
+        "address": "SANTA FE AV. 2755 PISO:1",
+        "tradeMatchTotal": 26,
+        "tradeMatchPercent": 0.29,
+        "latestTradeDate": 1753200000000,
+        "productDesc": "LOS DEMAS. LOS DEMAS DE CAUCHO O DE PLASTICO, INCLUSO CON MONTURA DE OTRAS MATERIAS. CEPILLOS DE DIENTES, INCLUIDOS LOS CEPILLOS PARA DENTADURAS POSTIZAS. ESCOBAS Y ESCOBILLAS, CEPILLOS, BROCHAS Y PINCELES (INCLUSO SI SON PARTES DE MAQUINAS, APARATOS ...",
+        "productTags": [
+          "Toothbrush",
+          "Broom",
+          "Brush",
+          "Rubber",
+          "Plastic"
+        ],
+        "productNames": [
+          "Toothbrush",
+          "Toothbrush for dentures",
+          "Broom",
+          "Brush",
+          "Paintbrush"
+        ],
+        "productAlias": [
+          "Oral brush",
+          "Denture brush",
+          "Cleaning brush",
+          "Scrub brush",
+          "Art brush"
+        ],
+        "productSuperordinate": [
+          "Rubber",
+          "Plastic",
+          "Fiber",
+          "Wood",
+          "Metal"
+        ],
+        "productDownstream": [
+          "Household cleaning",
+          "Oral care",
+          "Denture care",
+          "Art creation",
+          "Industrial cleaning"
+        ]
+      },
+      {
+        "companyId": 20451680,
+        "companyType": 2,
+        "name": "TETRA PAK DE CHILE COMERCIAL LTDA",
+        "countryCode": "CL",
+        "tradeTotal": 31378,
+        "scope": "Packaging paper and cardboard",
+        "address": "EL BOSQUE SUR 130 P 8 , LAS CONDES",
+        "tradeMatchTotal": 21,
+        "tradeMatchPercent": 0.07,
+        "latestTradeDate": 1747238400000,
+        "productDesc": "CEPILLOTETRA PAK-F3724998-0000PARA MAQUINA ENVASADORA LOS DEMAS CEPILLOS QUE CONSTITUYAN PARTES DE MAQUINAS, APARATOS O DE VEHICULOS",
+        "productTags": [
+          "CEPILLOTETRA PAK",
+          "CEPILLOS",
+          "MAQUINA ENVASADORA",
+          "MAQUINAS",
+          "APARATOS",
+          "VEHICULOS"
+        ],
+        "productNames": [
+          "CEPILLOTETRA PAK",
+          "CEPILLOS"
+        ],
+        "productAlias": [
+          "Tetra Pak Brush",
+          "Machine Brush",
+          "Vehicle Brush",
+          "Apparatus Brush",
+          "Packing Machine Brush"
+        ],
+        "productSuperordinate": [
+          "Plastic",
+          "Metal",
+          "Fiber",
+          "Rubber",
+          "Wood"
+        ],
+        "productDownstream": [
+          "Packing Machines",
+          "Industrial Equipment",
+          "Automobiles",
+          "Appliances",
+          "Vehicles"
+        ]
+      },
+      {
+        "companyId": 20451649,
+        "companyType": 2,
+        "name": "BIJOU CHILE SPA",
+        "countryCode": "CL",
+        "tradeTotal": 22976,
+        "scope": "Women's clothing",
+        "address": "DEL INCA 4446 401 , LAS CONDES",
+        "tradeMatchTotal": 18,
+        "tradeMatchPercent": 0.08,
+        "latestTradeDate": 1751299200000,
+        "productDesc": " CEPILLO DE PELOTODOMODA BROCHAS DE AFEITAR, CEPILLOS P.CABELLO, PESTANAS, UNAS Y DEMAS CEPILLOS PÇARA ASEO PERSONAL, INCL. LOS QUE SEAN PARTES DE APARATOS",
+        "productTags": [
+          "brush",
+          "personal grooming"
+        ],
+        "productNames": [
+          "Hairbrush",
+          "Eyelash brush",
+          "Nail brush",
+          "Shaving brush"
+        ],
+        "productAlias": [
+          "Grooming brush",
+          "Toilet brush",
+          "Cosmetic brush",
+          "Cleaning brush",
+          "Body brush"
+        ],
+        "productSuperordinate": [
+          "Plastic",
+          "Wood",
+          "Bristle",
+          "Nylon",
+          "Metal"
+        ],
+        "productDownstream": [
+          "Beauty products",
+          "Personal care kits",
+          "Cosmetic sets",
+          "Shaving kits",
+          "Hair care products"
+        ]
+      },
+      {
+        "companyId": 20453210,
+        "companyType": 2,
+        "name": "GRUPO COMERCIAL ALCO SA DE CV",
+        "countryCode": "MX",
+        "tradeTotal": 623,
+        "scope": "Home furnishings and other related products",
+        "address": "CALLE CIRCUITO ENRIQUE DE LARA 242",
+        "tradeMatchTotal": 17,
+        "tradeMatchPercent": 2.73,
+        "latestTradeDate": 1736956800000,
+        "productDesc": "TEJIDO DE PUNTO TEBIDO 95% POLIESTER 5% SPANDEX BRUSH LISO BLUE SHADOW",
+        "productTags": [
+          "Knitted fabric",
+          "Polyester",
+          "Spandex",
+          "Blue shadow"
+        ],
+        "productNames": [
+          "Knitted fabric"
+        ],
+        "productAlias": [
+          "Knitted textile",
+          "Polyester - spandex fabric",
+          "Brushed fabric",
+          "Blue knitted cloth",
+          "Shadow - colored fabric"
+        ],
+        "productSuperordinate": [
+          "Polyester fiber",
+          "Spandex fiber",
+          "Chemical raw materials",
+          "Textile yarn",
+          "Dye"
+        ],
+        "productDownstream": [
+          "T - shirts",
+          "Swimsuits",
+          "Underwear",
+          "Sweaters",
+          "Activewear"
+        ]
+      },
+      {
+        "companyId": 20451961,
+        "companyType": 2,
+        "name": "DERCO CHILE REPUESTOS SPA",
+        "countryCode": "CL",
+        "tradeTotal": 56546,
+        "scope": "Cars, trucks, vans and mini vans, and SUVs (sport utility vehicles)",
+        "address": "AVENIDA AMERICO VESPUCIO 1842 , QUILICURA",
+        "tradeMatchTotal": 16,
+        "tradeMatchPercent": 0.03,
+        "latestTradeDate": 1751385600000,
+        "productDesc": "CEPILLOHIKING IMP & EXP -FLIMPIA PARABRISASPARA USO AUTOMOTRIZ ESCOBAS MECANICAS USO MANUAL, PINCELES Y PLUMEROS",
+        "productTags": [
+          "Hiking",
+          "Windshield Cleaner",
+          "Mechanical Broom",
+          "Manual Brush",
+          "Duster"
+        ],
+        "productNames": [
+          "Hiking Brush",
+          "Windshield Cleaner",
+          "Mechanical Broom",
+          "Manual Brush",
+          "Duster"
+        ],
+        "productAlias": [
+          "Hiking Cleaning Brush",
+          "Automotive Windshield Cleaner",
+          "Mechanical Cleaning Broom",
+          "Manual Cleaning Brush",
+          "Dusting Tool"
+        ],
+        "productSuperordinate": [
+          "Plastic",
+          "Wood",
+          "Bristles",
+          "Metal",
+          "Fiber"
+        ],
+        "productDownstream": [
+          "Automotive Industry",
+          "Outdoor Activities",
+          "Household Cleaning",
+          "Workshops",
+          "Gardening"
+        ]
+      },
+      {
+        "companyId": 20452690,
+        "companyType": 2,
+        "name": "CLOROX CHILE S A",
+        "countryCode": "CL",
+        "tradeTotal": 2762,
+        "scope": "Household cleaning products",
+        "address": "AVENIDA AMERICO VESPUCIO 701 , QUILICURA",
+        "tradeMatchTotal": 9,
+        "tradeMatchPercent": 0.33,
+        "latestTradeDate": 1752508800000,
+        "productDesc": "ESPONJAS ABRASIVASISACCO-FHDSPONGE SCOURER 4CTPARA FREG AR, USO DOMESTICO. ABRASIVOS NAT. O ARTIF. EN POLVO O GRANULO, CON SOPORTE DE OTRAS MATERIAS.",
+        "productTags": [
+          "Abrasive",
+          "Sponge",
+          "Scourer",
+          "Household use"
+        ],
+        "productNames": [
+          "Abrasive Sponge",
+          "Sponge Scourer"
+        ],
+        "productAlias": [
+          "Scrubbing sponge",
+          "Cleaning sponge",
+          "Abrasive pad",
+          "Scouring pad",
+          "Sponge brush"
+        ],
+        "productSuperordinate": [
+          "Sponge material",
+          "Abrasive particles",
+          "Support material"
+        ],
+        "productDownstream": [
+          "Kitchen cleaning",
+          "Bathroom cleaning",
+          "Floor cleaning",
+          "Window cleaning",
+          "Furniture cleaning"
+        ]
+      },
+      {
+        "companyId": 20453208,
+        "companyType": 2,
+        "name": "SALINAS Y FABRES SOCIEDAD ANONIMA",
+        "countryCode": "CL",
+        "tradeTotal": 77073,
+        "scope": "Motor vehicles and motor vehicle parts and supplies; Maintenance and repair of motor vehicles",
+        "address": "GENERAL RONDIZZONI 2130",
+        "tradeMatchTotal": 7,
+        "tradeMatchPercent": 0.01,
+        "latestTradeDate": 1741276800000,
+        "productDesc": "CEPILLOWARATAHDE METALPARA MAQUINARIA FORESTAL LOS DEMAS CEPILLOS QUE CONSTITUYAN PARTES DE MAQUINAS, APARATOS O DE VEHICULOS",
+        "productTags": [
+          "Metal",
+          "Brush",
+          "Forestry machinery",
+          "Machine parts",
+          "Vehicle parts"
+        ],
+        "productNames": [
+          "Forestry machinery brush",
+          "Machine parts brush",
+          "Vehicle parts brush"
+        ],
+        "productAlias": [
+          "Scrubber",
+          "Cleaning brush",
+          "Industrial brush",
+          "Mechanical brush",
+          "Automotive brush"
+        ],
+        "productSuperordinate": [
+          "Metal materials",
+          "Brush bristles",
+          "Plastic components",
+          "Adhesives",
+          "Fasteners"
+        ],
+        "productDownstream": [
+          "Forestry equipment",
+          "Industrial machinery",
+          "Automobiles",
+          "Agricultural vehicles",
+          "Construction machinery"
+        ]
+      },
+      {
+        "companyId": 20451414,
+        "companyType": 2,
+        "name": "DE VICENTE PLASTICOS S A",
+        "countryCode": "CL",
+        "tradeTotal": 2695,
+        "scope": "Hardware, plumbing and heating equipment and supplies (steam and hot water boilers, bathtubs, sinks, lavatories, shower stalls, and whirlpool baths, fittings, flanges, pipes and other related products)",
+        "address": "LOS NOGALES 721 LOTE 21 22 COND2DA O , LAMPA",
+        "tradeMatchTotal": 4,
+        "tradeMatchPercent": 0.15,
+        "latestTradeDate": 1747584000000,
+        "productDesc": "CEPILLOS DE PRECISIONPRECISION BRUSH-FPBC96681PARA MAQUINA TRABAJAR PLASTICO LOS DEMAS CEPILLOS QUE CONSTITUYAN PARTES DE MAQUINAS, APARATOS O DE VEHICULOS",
+        "productTags": [
+          "Precision brush",
+          "Plastic processing"
+        ],
+        "productNames": [
+          "Precision brush"
+        ],
+        "productAlias": [
+          "Fine brush",
+          "High - precision brush",
+          "Accurate brush",
+          "Exact brush",
+          "Delicate brush"
+        ],
+        "productSuperordinate": [
+          "Bristles",
+          "Plastic handle",
+          "Metal ferrule",
+          "Glue",
+          "Wood"
+        ],
+        "productDownstream": [
+          "Plastic processing machines",
+          "Automotive manufacturing",
+          "Electronics manufacturing",
+          "Furniture production",
+          "Jewelry making"
+        ]
+      },
+      {
+        "companyId": 20452084,
+        "companyType": 2,
+        "name": "HONDA MOTOR DE CHILE S A",
+        "countryCode": "CL",
+        "tradeTotal": 11227,
+        "scope": "Motor vehicles and motor vehicle parts and supplies",
+        "address": "SAN IGNACIO 21 31 LOTEO INDUST PORT , QUILICURA",
+        "tradeMatchTotal": 4,
+        "tradeMatchPercent": 0.04,
+        "latestTradeDate": 1740672000000,
+        "productDesc": "CABEZAL CORTADORA DE CESPEDHONDADE NYLONPARTE DE MAQUINAS DE LA PDA 84.33 PARTES DE MAQUINAS, APARATOS Y ARTEFACTOS P. COSECHAR O TRILLAR",
+        "productTags": [
+          "Lawn trimmer head",
+          "Nylon",
+          "Machine parts"
+        ],
+        "productNames": [
+          "Lawn Trimmer Head"
+        ],
+        "productAlias": [
+          "Grass Trimmer Head",
+          "Weed Trimmer Head",
+          "Lawn Mower Head",
+          "Brush Cutter Head",
+          "String Trimmer Head"
+        ],
+        "productSuperordinate": [
+          "Nylon resin",
+          "Plastic additives",
+          "Metal components",
+          "Rubber parts",
+          "Electrical wires"
+        ],
+        "productDownstream": [
+          "Lawn mowers",
+          "Garden tractors",
+          "Agricultural machinery",
+          "Landscaping equipment",
+          "Outdoor power tools"
+        ]
+      },
+      {
+        "companyId": 20451301,
+        "companyType": 2,
+        "name": "INTCOMEX S A",
+        "countryCode": "CL",
+        "tradeTotal": 57741,
+        "scope": "Computer hardware, software and peripherals",
+        "address": "AVENIDA CORDILLERA 331 C3 , QUILICURA",
+        "tradeMatchTotal": 3,
+        "tradeMatchPercent": 0.01,
+        "latestTradeDate": 1727798400000,
+        "productDesc": "SECADOR DE CABELLOXIAOMICMJ04LXEUELECTRICO CON CONTROL DE TEMPERATURA",
+        "productTags": [
+          "Hair dryer",
+          "XIAOMI",
+          "Electric",
+          "Temperature control"
+        ],
+        "productNames": [
+          "Hair dryer"
+        ],
+        "productAlias": [
+          "Blow dryer",
+          "Hair blower",
+          "Hair drier",
+          "Hot air brush",
+          "Styling dryer"
+        ],
+        "productSuperordinate": [
+          "Plastic",
+          "Metal",
+          "Motor",
+          "Heating element",
+          "Circuit board"
+        ],
+        "productDownstream": [
+          "Salon",
+          "Home",
+          "Hotel",
+          "Gym",
+          "Beauty parlor"
+        ]
+      },
+      {
+        "companyId": 20452531,
+        "companyType": 2,
+        "name": "PHARMAVET DEL PERU SAC",
+        "countryCode": "PE",
+        "tradeTotal": 6245,
+        "scope": "tools,violet red bill agar,domestic,label tape,vitrified,antiparasitic,personal hot cup,floor,culture medium,glucose,buje rueda,glass cleaning,machine,crayones,needle for suturing,copier,manganese dioxide,lubricant,catcher,blue respirator",
+        "address": "jr. caraz 112 - barranco lima",
+        "tradeMatchTotal": 3,
+        "tradeMatchPercent": 0.05,
+        "latestTradeDate": 1752422400000,
+        "productDesc": "CEPILLO DE LIMPIEZA DE TUBERIAS, DELAVAL, S/M CEPILLO DE LIMPIEZA DE TUBERIAS , REPUESTO, MATERIALES DIVERSOS 97206080 SPARE BRUSH FOR LINER LOS DEMAS CEPILLOS QUE CONSTITUYAN PARTES DE MAQUINAS, DE APARATOS O D",
+        "productTags": [],
+        "productNames": [],
+        "productAlias": [],
+        "productSuperordinate": [],
+        "productDownstream": []
+      },
+      {
+        "companyId": 20452129,
+        "companyType": 2,
+        "name": "MARUTI IMPEX",
+        "countryCode": "IN",
+        "tradeTotal": 3743,
+        "scope": "",
+        "address": "EC-3050, BHARAT DIAMOND BOURSE, G BLOCK, BANDRA KURLA COMPLEX, BANDRA",
+        "tradeMatchTotal": 2,
+        "tradeMatchPercent": 0.05,
+        "latestTradeDate": 1743868800000,
+        "productDesc": "HAIR STRAIGHTENING COMB HAIR STRAIGHTENING COMB",
+        "productTags": [
+          "Hair straightening",
+          "Comb"
+        ],
+        "productNames": [
+          "Hair Straightening Comb"
+        ],
+        "productAlias": [
+          "Hair iron comb",
+          "Hot comb",
+          "Styling comb",
+          "Flat iron comb",
+          "Straightening brush"
+        ],
+        "productSuperordinate": [
+          "Plastic",
+          "Metal",
+          "Ceramic",
+          "Silicone",
+          "Electrical components"
+        ],
+        "productDownstream": [
+          "Salons",
+          "Beauty stores",
+          "Online marketplaces",
+          "Personal use",
+          "Gift shops"
+        ]
+      },
+      {
+        "companyId": 20452743,
+        "companyType": 2,
+        "name": "SUNGLASS PALACE PRIVATE LIMITED",
+        "countryCode": "IN",
+        "tradeTotal": 5403,
+        "scope": "Home furnishings, furniture and household products",
+        "address": "129G/64 Nsez, Phase-II,",
+        "tradeMatchTotal": 2,
+        "tradeMatchPercent": 0.04,
+        "latestTradeDate": 1744387200000,
+        "productDesc": "200-028265 Reg Brush Finish Chrome (SHIPMENT MEANT FOR 100%RE-EXPORT FOR THIRD COUNTRY) (LIGHTER WITHOUT FLUID)200-028265 Reg Brush Finish Chrome (SHIPMENT MEANT FOR 100%",
+        "productTags": [
+          "Lighter",
+          "Chrome",
+          "Brush Finish"
+        ],
+        "productNames": [
+          "Lighter"
+        ],
+        "productAlias": [
+          "Flame lighter",
+          "Fire starter",
+          "Ignition device",
+          "Portable lighter",
+          "Fuel lighter"
+        ],
+        "productSuperordinate": [
+          "Metal",
+          "Plastic",
+          "Fuel container",
+          "Wick",
+          "Ignition mechanism"
+        ],
+        "productDownstream": [
+          "Cigarette lighting",
+          "Candle lighting",
+          "Campfire starting",
+          "Fireworks ignition",
+          "Gas stove ignition"
+        ]
+      },
+      {
+        "companyId": 20452262,
+        "companyType": 2,
+        "name": "TOYOTA CHILE S A",
+        "countryCode": "CL",
+        "tradeTotal": 44510,
+        "scope": "Sports utility vehicles (SUVs), trucks, vans, as well as cars under the Toyota brand; Automotive replacement parts and accessories such as headlights, taillights, mirrors, bumpers, fenders, spark plugs, hoods, doors, panels, lights, lamps, lenses, radiators, shock absorbers, deflectors, reflectors, batteries",
+        "address": "PUERTO VESPUCIO 98 , PUDAHUEL",
+        "tradeMatchTotal": 1,
+        "tradeMatchPercent": 0.0,
+        "latestTradeDate": 1733241600000,
+        "productDesc": "PORTA-ESCOBILLAS",
+        "productTags": [
+          "PORTA-ESCOBILLAS"
+        ],
+        "productNames": [
+          "PORTA-ESCOBILLAS"
+        ],
+        "productAlias": [
+          "PORTA-ESCOBILLAS",
+          "Escobilla Holder",
+          "Brush Holder",
+          "Broom Holder",
+          "Cleaning Tool Holder"
+        ],
+        "productSuperordinate": [
+          "Plastic",
+          "Metal",
+          "Wood",
+          "Rubber",
+          "Fiber"
+        ],
+        "productDownstream": [
+          "Household Cleaning",
+          "Commercial Cleaning",
+          "Industrial Cleaning",
+          "Office Cleaning",
+          "Hotel Cleaning"
+        ]
+      },
+      {
+        "companyId": 20452286,
+        "companyType": 2,
+        "name": "MADERARTE INDUSTRIAL SA DE CV",
+        "countryCode": "MX",
+        "tradeTotal": 10266,
+        "scope": "",
+        "address": "CALLE CARRETERA SAN LUIS POTOSI NUMERO 57-10300",
+        "tradeMatchTotal": 1,
+        "tradeMatchPercent": 0.01,
+        "latestTradeDate": 1730304000000,
+        "productDesc": "CEPILLO CON BASE SPOTS PLATEADO",
+        "productTags": [
+          "CEPILLO",
+          "BASE SPOTS",
+          "PLATEADO"
+        ],
+        "productNames": [
+          "CEPILLO CON BASE SPOTS PLATEADO"
+        ],
+        "productAlias": [
+          "Silver Spot Brush",
+          "Brush with Silver Spots Base",
+          "Spot Brush with Silver Base",
+          "Silver Base Spot Brush",
+          "Brush with Spotted Silver Base"
+        ],
+        "productSuperordinate": [
+          "Plastic",
+          "Metal",
+          "Fiber",
+          "Paint",
+          "Adhesive"
+        ],
+        "productDownstream": [
+          "Home Cleaning",
+          "Automotive Cleaning",
+          "Industrial Cleaning",
+          "Office Cleaning",
+          "Kitchen Cleaning"
+        ]
+      },
+      {
+        "companyId": 20452834,
+        "companyType": 2,
+        "name": "HIDROMEC INGENIEROS SOCIEDAD ANONIMA CERRADA",
+        "countryCode": "PE",
+        "tradeTotal": 8101,
+        "scope": "",
+        "address": "AVENIDA AV AVIACION 3985 URB CALERA DE LA MERCED A 3 CDRAS HOSPITAL NEOPLASICAS",
+        "tradeMatchTotal": 1,
+        "tradeMatchPercent": 0.01,
+        "latestTradeDate": 1753804800000,
+        "productDesc": "CEPILLO, AQUA DEPOT INC, S/M DE 18\" PAQUETE DE 12 MODELO 420 CEPILLO PARA PISCINA CODIGO: R500013 LOS DEMAS CEPILLOS QUE CONSTITUYAN PARTES DE MAQUINAS, DE APARATOS O D",
+        "productTags": [
+          "brush",
+          "pool"
+        ],
+        "productNames": [
+          "Pool brush"
+        ],
+        "productAlias": [
+          "Pool scrubber",
+          "Swimming pool brush",
+          "Pool cleaning brush",
+          "Pool sweeper",
+          "Pool cleaner brush"
+        ],
+        "productSuperordinate": [
+          "Plastic",
+          "Bristles",
+          "Wood",
+          "Metal",
+          "Rubber"
+        ],
+        "productDownstream": [
+          "Swimming pool",
+          "Water park",
+          "Hotel pool",
+          "Community pool",
+          "Public pool"
+        ]
+      },
+      {
+        "companyId": 20453083,
+        "companyType": 2,
+        "name": "HAL OFFSHORE LIMITED",
+        "countryCode": "IN",
+        "tradeTotal": 4466,
+        "scope": "Specialized Marine Services; Top Side Construction and EPCI Operations; Pre Engineering and Post Installation Site Surveyl From Concept Engineering through Detailed Engineering Services Procurement; Construction, Installation and Commissioning",
+        "address": "25, BAZAR LANE , BENGALI MARKET",
+        "tradeMatchTotal": 1,
+        "tradeMatchPercent": 0.02,
+        "latestTradeDate": 1731859200000,
+        "productDesc": "(SOLAR TURBINES PARTS) - 1259273 - Foxtail brush (FOC)",
+        "productTags": [
+          "Foxtail brush",
+          "brush"
+        ],
+        "productNames": [
+          "Foxtail brush"
+        ],
+        "productAlias": [
+          "Fox tail brush",
+          "Brush with foxtail",
+          "Foxtail cleaning brush",
+          "Tail - like brush",
+          "Foxtail - shaped brush"
+        ],
+        "productSuperordinate": [
+          "Bristles",
+          "Handle material",
+          "Adhesive",
+          "Foxtail fur",
+          "Wood"
+        ],
+        "productDownstream": [
+          "Home cleaning",
+          "Industrial cleaning",
+          "Automotive cleaning",
+          "Art and craft",
+          "Pet grooming"
+        ]
+      }
+    ]
+  },
+  "fee": {
+    "apiCost": 150,
+    "accountBalance": 75990,
+    "uuid": "7acf519e-ca19-45c3-8f52-14d6d60638cc"
+  }
+}

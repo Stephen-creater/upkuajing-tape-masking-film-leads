@@ -1,0 +1,225 @@
+{
+  "code": 0,
+  "msg": "success",
+  "data": {
+    "cursor": null,
+    "list": [
+      {
+        "companyId": 71399460,
+        "companyType": 2,
+        "name": "DSV AIR & SEA INC.",
+        "countryCode": "US",
+        "tradeTotal": 315927,
+        "scope": "",
+        "address": "Itasca, Illinois",
+        "tradeMatchTotal": 1,
+        "tradeMatchPercent": 0.0,
+        "latestTradeDate": 1763740800000,
+        "productDesc": "LBS STEELWOOL GRADE ) BAGS OF GMT FIBERS ) CARTONS OF LBS STEELWOOL GRADE \" \" ) CARTONS OF LBS STEELWOOL GRADE \" \" HS CODE &",
+        "productTags": [
+          "Steel Wool",
+          "GMT Fibers"
+        ],
+        "productNames": [
+          "Steel Wool",
+          "GMT Fibers"
+        ],
+        "productAlias": [
+          "Steel Wool Pad",
+          "Steel Wool Brush",
+          "GMT Fiber Mat",
+          "GMT Fiber Sheet",
+          "GMT Fiber Board"
+        ],
+        "productSuperordinate": [
+          "Steel",
+          "Glass",
+          "Mineral",
+          "Fiber",
+          "Resin"
+        ],
+        "productDownstream": [
+          "Home Cleaning",
+          "Automotive Industry",
+          "Construction Industry",
+          "Electronics Industry",
+          "Textile Industry"
+        ]
+      },
+      {
+        "companyId": 71457445,
+        "companyType": 2,
+        "name": "OLYMPIAD LINE, LLC",
+        "countryCode": "US",
+        "tradeTotal": 6694,
+        "scope": "",
+        "address": "Allentown, New Jersey",
+        "tradeMatchTotal": 1,
+        "tradeMatchPercent": 0.01,
+        "latestTradeDate": 1732982400000,
+        "productDesc": "1X40'HQ CONTAINER: 1) 665 CARTONS OF CONVENTI ONAL STEELWOOL FLOOR PAD GRADE \"0\", \"1\", \"2\" DIAMETER 17\", 20\" 2) 838 CARTONS OF M...",
+        "productTags": [
+          "Steelwool",
+          "Floor pad",
+          "Floor cleaning"
+        ],
+        "productNames": [
+          "Conventional Steelwool Floor Pad"
+        ],
+        "productAlias": [
+          "Steel wool floor cleaning pad",
+          "Floor scrubbing pad",
+          "Steel wool scrubber",
+          "Floor polishing pad",
+          "Steel wool floor brush"
+        ],
+        "productSuperordinate": [
+          "Steel",
+          "Wool",
+          "Metal",
+          "Fiber",
+          "Alloy"
+        ],
+        "productDownstream": [
+          "Household cleaning",
+          "Commercial cleaning",
+          "Industrial cleaning",
+          "Automotive cleaning",
+          "Floor maintenance"
+        ]
+      },
+      {
+        "companyId": 71459404,
+        "companyType": 2,
+        "name": "PAN PACIFIC EXPRESS CORP.",
+        "countryCode": "US",
+        "tradeTotal": 60560,
+        "scope": "",
+        "address": "Torrance, California",
+        "tradeMatchTotal": 1,
+        "tradeMatchPercent": 0.0,
+        "latestTradeDate": 1739721600000,
+        "productDesc": "PISTON BRACELET WOOL DAUBERS MENS POLYESTER K NIT TOPS RUFFLE",
+        "productTags": [
+          "Piston",
+          "Bracelet",
+          "Wool",
+          "Daubers",
+          "Polyester",
+          "Knit Tops",
+          "Ruffle"
+        ],
+        "productNames": [
+          "Piston Bracelet",
+          "Wool Daubers",
+          "Men's Polyester Knit Tops",
+          "Ruffle"
+        ],
+        "productAlias": [
+          "Piston Jewelry",
+          "Wool Cleaning Brush",
+          "Men's Polyester Shirts",
+          "Ruffled Trim",
+          "Piston Armband"
+        ],
+        "productSuperordinate": [
+          "Wool Fiber",
+          "Polyester Resin",
+          "Metal Alloy",
+          "Cotton Yarn",
+          "Silk Thread"
+        ],
+        "productDownstream": [
+          "Fashion Retail",
+          "Cleaning Industry",
+          "Clothing Manufacturing",
+          "Interior Decoration",
+          "Costume Design"
+        ]
+      },
+      {
+        "companyId": 71469496,
+        "companyType": 2,
+        "name": "RESOLOGIX, LLC",
+        "countryCode": "US",
+        "tradeTotal": 10535,
+        "scope": "",
+        "address": "Pomona, California",
+        "tradeMatchTotal": 1,
+        "tradeMatchPercent": 0.01,
+        "latestTradeDate": 1776873600000,
+        "productDesc": "CLEANING KIT CLEANING KIT PLASTIC COVERS BRUSH KIT WOOL FELT BRUSH ROPE SHIPPER'S OWN CONTAINER",
+        "productTags": [],
+        "productNames": [],
+        "productAlias": [],
+        "productSuperordinate": [],
+        "productDownstream": []
+      },
+      {
+        "companyId": 71499254,
+        "companyType": 2,
+        "name": "US FURNISHINGS EXPRESS CORP",
+        "countryCode": "US",
+        "tradeTotal": 9123,
+        "scope": "",
+        "address": "Chino, California",
+        "tradeMatchTotal": 1,
+        "tradeMatchPercent": 0.01,
+        "latestTradeDate": 1735488000000,
+        "productDesc": "TRASH CAN BUNGEE CORD STEEL WOOL PADS BRUSH P LASTIC CUPS OVAL MESH BASKET LAUNDRY HAMPER P LASTIC CUTLERY S/C =LAX24-637B THIS ...",
+        "productTags": [],
+        "productNames": [],
+        "productAlias": [],
+        "productSuperordinate": [],
+        "productDownstream": []
+      },
+      {
+        "companyId": 74644118,
+        "companyType": 2,
+        "name": "TNP CORP.",
+        "countryCode": "KR",
+        "tradeTotal": 292,
+        "scope": "tools for taping threading,accessories",
+        "address": "no.504-6, yongtan-dong, chungju-si, chungcheongbuk-do 380-250 korea",
+        "tradeMatchTotal": 1,
+        "tradeMatchPercent": 0.34,
+        "latestTradeDate": 1727971200000,
+        "productDesc": "Dụng cụ tạo ren cho bu lông bằng thép, KT: 1/2-13UNC(NEW, HT/A)L230 X W50 X H100 (gồm bàn ren trái và phải), dùng cho máy cán ren (mục 11, trang 13/20, Tk:105539658930). Đã sd#&KR",
+        "productTags": [
+          "Ribbing tool",
+          "Wool brush",
+          "Steel"
+        ],
+        "productNames": [
+          "Ribbing tool for wool brush made of steel"
+        ],
+        "productAlias": [
+          "Wool brush ribbing device",
+          "Steel wool brush ribber",
+          "Ribbing implement for wool brush",
+          "Wool brush ribbing apparatus",
+          "Steel ribbing tool for wool brush"
+        ],
+        "productSuperordinate": [
+          "Steel",
+          "Metal",
+          "Alloy",
+          "Iron",
+          "Carbon"
+        ],
+        "productDownstream": [
+          "Wool brush manufacturing",
+          "Textile machinery",
+          "Brush production line",
+          "Wool processing equipment",
+          "Industrial brush making"
+        ]
+      }
+    ]
+  },
+  "fee": {
+    "apiCost": 150,
+    "accountBalance": 75540,
+    "uuid": "43278efd-1f8a-46c9-bc54-4a7c2dc2cca0"
+  }
+}

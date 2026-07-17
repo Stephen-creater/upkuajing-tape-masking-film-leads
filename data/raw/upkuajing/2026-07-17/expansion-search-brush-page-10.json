@@ -1,0 +1,820 @@
+{
+  "code": 0,
+  "msg": "success",
+  "data": {
+    "cursor": "eyJjb21wYW55X2lkIjoyMDQ2ODQ3NX0=",
+    "list": [
+      {
+        "companyId": 20468427,
+        "companyType": 2,
+        "name": "SERVICIOS INTERNACIONALES MARINOS SA DE CV",
+        "countryCode": "MX",
+        "tradeTotal": 10988,
+        "scope": "",
+        "address": "SM 64 MZA 83 LOTE 7 Y 8 CHICHEN ITZA",
+        "tradeMatchTotal": 13,
+        "tradeMatchPercent": 0.12,
+        "latestTradeDate": 1747324800000,
+        "productDesc": "CEPILLO SIN MANGO",
+        "productTags": [
+          "Brush",
+          "Without Handle"
+        ],
+        "productNames": [
+          "Brush without Handle"
+        ],
+        "productAlias": [
+          "Handleless Brush",
+          "Brush without Grip",
+          "Gripless Brush",
+          "Brush without Shaft",
+          "Shaftless Brush"
+        ],
+        "productSuperordinate": [
+          "Bristles",
+          "Plastic",
+          "Wood",
+          "Metal",
+          "Fiber"
+        ],
+        "productDownstream": [
+          "Household Cleaning",
+          "Industrial Cleaning",
+          "Automotive Cleaning",
+          "Pet Grooming",
+          "Art and Craft"
+        ]
+      },
+      {
+        "companyId": 20468537,
+        "companyType": 2,
+        "name": "OFFICE DEPOT DE MEXICO SA DE CV",
+        "countryCode": "MX",
+        "tradeTotal": 27542,
+        "scope": "Industrial supplies; textiles; office supplies; stationery and gift; building materials; vehicle parts and accessories; garden equipment and supplies; and clothing and clothing accessories",
+        "address": "CALLE JUAN SALVADOR AGRAZ 101 ,  CUAJIMALPA DE MORELOS",
+        "tradeMatchTotal": 12,
+        "tradeMatchPercent": 0.04,
+        "latestTradeDate": 1745942400000,
+        "productDesc": "PINCELES SKU 100087473",
+        "productTags": [
+          "Paintbrush"
+        ],
+        "productNames": [
+          "Paintbrush"
+        ],
+        "productAlias": [
+          "Brush",
+          "Artist Brush",
+          "Painter's Brush",
+          "Decorating Brush",
+          "Art Brush"
+        ],
+        "productSuperordinate": [
+          "Wood",
+          "Bristles",
+          "Fibers",
+          "Glue",
+          "Paint"
+        ],
+        "productDownstream": [
+          "Artwork",
+          "Wall Painting",
+          "Furniture Painting",
+          "Crafts",
+          "Model Painting"
+        ]
+      },
+      {
+        "companyId": 20468582,
+        "companyType": 2,
+        "name": "TIENDAS CHEDRAUI SA DE CV",
+        "countryCode": "MX",
+        "tradeTotal": 20523,
+        "scope": "",
+        "address": "CALLE BOSQUES DE BOLOGNIA 121",
+        "tradeMatchTotal": 11,
+        "tradeMatchPercent": 0.05,
+        "latestTradeDate": 1743696000000,
+        "productDesc": "SET 2 PIEZAS DE BROCHA Y BOWL PARA COCINA",
+        "productTags": [
+          "Kitchen",
+          "Brush",
+          "Bowl"
+        ],
+        "productNames": [
+          "Kitchen brush",
+          "Kitchen bowl"
+        ],
+        "productAlias": [
+          "Cooking brush",
+          "Cooking bowl",
+          "Kitchenware brush",
+          "Kitchenware bowl",
+          "Kitchen cleaning brush"
+        ],
+        "productSuperordinate": [
+          "Plastic",
+          "Metal",
+          "Wood",
+          "Ceramic",
+          "Glass"
+        ],
+        "productDownstream": [
+          "Home kitchen",
+          "Restaurant kitchen",
+          "Cafeteria kitchen",
+          "Hotel kitchen",
+          "Food processing kitchen"
+        ]
+      },
+      {
+        "companyId": 20462193,
+        "companyType": 2,
+        "name": "GLOBAL MOTOR S A",
+        "countryCode": "CO",
+        "tradeTotal": 5203,
+        "scope": "",
+        "address": "69 B 27, CALLE 17 A",
+        "tradeMatchTotal": 8,
+        "tradeMatchPercent": 0.15,
+        "latestTradeDate": 1747152000000,
+        "productDesc": "DO 902504726-001 PEDIDO TRAMITE: IMP241101-2 DECLARACION 2-2 MERCANCIA NUEVA SIN REGISTRO DE IMPORTACION DE ACUERDO A DECRETO 0925 DE 2013; FACTURA: CO-GMR24-002-2 FECHA: 2025-02-26 ITEM 5 TRAILERS TRM-600; PRODUCTO: REMOLQUE PARA MOTOAZADA, USO: PARA...",
+        "productTags": [
+          "Trailer",
+          "Brush cutter"
+        ],
+        "productNames": [
+          "Trailer for brush cutter"
+        ],
+        "productAlias": [
+          "Brush cutter trailer",
+          "Trailer for brush mower",
+          "Mower trailer",
+          "Brush cutter carrier",
+          "Trailer for grass cutter"
+        ],
+        "productSuperordinate": [
+          "Steel",
+          "Aluminum",
+          "Rubber",
+          "Plastic",
+          "Glass"
+        ],
+        "productDownstream": [
+          "Agricultural work",
+          "Gardening",
+          "Landscaping",
+          "Forestry",
+          "Brush clearing"
+        ]
+      },
+      {
+        "companyId": 20460586,
+        "companyType": 2,
+        "name": "OMNILIFE DE COLOMBIA S A S",
+        "countryCode": "CO",
+        "tradeTotal": 2864,
+        "scope": "Groceries and related products",
+        "address": "8 28 36 OF 601 602, CALLE 98",
+        "tradeMatchTotal": 5,
+        "tradeMatchPercent": 0.17,
+        "latestTradeDate": 1744992000000,
+        "productDesc": "BORLAS Y SIMILARES PARA APLICACION DE POLVOS OTROS COSMETICOS O PRODUCTOS DE TOCADOR",
+        "productTags": [
+          "Powder applicators",
+          "Cosmetics"
+        ],
+        "productNames": [
+          "Powder Applicators"
+        ],
+        "productAlias": [
+          "Powder puff",
+          "Cosmetic brush",
+          "Makeup applicator",
+          "Beauty tool",
+          "Powder spreader"
+        ],
+        "productSuperordinate": [
+          "Plastic",
+          "Hair",
+          "Foam",
+          "Silicone",
+          "Cotton"
+        ],
+        "productDownstream": [
+          "Makeup products",
+          "Skincare products",
+          "Beauty salons",
+          "Cosmetic stores",
+          "Personal use"
+        ]
+      },
+      {
+        "companyId": 20463967,
+        "companyType": 2,
+        "name": "EXIDE PAKISTAN LTD",
+        "countryCode": "PK",
+        "tradeTotal": 1476,
+        "scope": "ev,selector switch,plc,bore,coil,pneumatic valve,feeder,dryer,control car,gear box,sheet,k2,air c,fir,inom,kit,board,urit,t 23,y 100",
+        "address": "a-44,hill street, off manghoopir road s.i.t.e, karachi-75700",
+        "tradeMatchTotal": 5,
+        "tradeMatchPercent": 0.34,
+        "latestTradeDate": 1750780800000,
+        "productDesc": "BRUSH WIRE 3910 TY.014\r\nP/N 21508  QTY 200 PCS",
+        "productTags": [
+          "Brush",
+          "Wire"
+        ],
+        "productNames": [
+          "Brush Wire"
+        ],
+        "productAlias": [
+          "Wire Brush",
+          "Brush Filament",
+          "Cleaning Brush Wire",
+          "Scrubbing Brush Wire",
+          "Brush Bristle"
+        ],
+        "productSuperordinate": [
+          "Metal",
+          "Steel",
+          "Alloy",
+          "Wire Rod",
+          "Iron"
+        ],
+        "productDownstream": [
+          "Household Cleaning Tools",
+          "Industrial Cleaning Equipment",
+          "Automotive Cleaning Brushes",
+          "Painting Brushes",
+          "Scrubbing Pads"
+        ]
+      },
+      {
+        "companyId": 20467918,
+        "companyType": 2,
+        "name": "COMANOV SA DE CV",
+        "countryCode": "MX",
+        "tradeTotal": 3869,
+        "scope": "",
+        "address": "GABRIEL RAMOS MILLAN 383 VILLASENOR",
+        "tradeMatchTotal": 5,
+        "tradeMatchPercent": 0.13,
+        "latestTradeDate": 1739980800000,
+        "productDesc": "PINCEL CUADRADO",
+        "productTags": [
+          "Square",
+          "Brush"
+        ],
+        "productNames": [
+          "Square Brush"
+        ],
+        "productAlias": [
+          "Square Painting Brush",
+          "Square Cleaning Brush",
+          "Rectangular Brush",
+          "Flat Brush",
+          "Quadrate Brush"
+        ],
+        "productSuperordinate": [
+          "Bristles",
+          "Wood",
+          "Plastic",
+          "Metal",
+          "Fiber"
+        ],
+        "productDownstream": [
+          "Art Supplies",
+          "Home Cleaning Tools",
+          "Industrial Cleaning Equipment",
+          "Automotive Detailing Tools",
+          "Craft Supplies"
+        ]
+      },
+      {
+        "companyId": 20463283,
+        "companyType": 2,
+        "name": "FAZAL CLOTH MILLS LIMITED",
+        "countryCode": "PK",
+        "tradeTotal": 4305,
+        "scope": "Yarn and fabrics",
+        "address": "69/7, ABID MAJEED ROAD, SURVEY # 248/7 LAHORE CANTT lahore Punjab 54000",
+        "tradeMatchTotal": 4,
+        "tradeMatchPercent": 0.09,
+        "latestTradeDate": 1750608000000,
+        "productDesc": "SPARE PARTS FOR TEXTILE INDUSTRY BRUSH QTY 30 PCS DTL AS PER INV",
+        "productTags": [
+          "Textile Industry",
+          "Brush",
+          "Spare Parts"
+        ],
+        "productNames": [
+          "Textile Industry Brush"
+        ],
+        "productAlias": [
+          "Textile Brush",
+          "Industry Brush",
+          "Fabric Brush",
+          "Weaving Brush",
+          "Textile Cleaning Brush"
+        ],
+        "productSuperordinate": [
+          "Plastic",
+          "Metal",
+          "Bristle",
+          "Fiber",
+          "Wood"
+        ],
+        "productDownstream": [
+          "Textile Machinery",
+          "Clothing Manufacturing",
+          "Home Textiles",
+          "Industrial Textiles",
+          "Automotive Textiles"
+        ]
+      },
+      {
+        "companyId": 20460700,
+        "companyType": 2,
+        "name": "PPG INDUSTRIES INC",
+        "countryCode": "US",
+        "tradeTotal": 5523,
+        "scope": "Industrial coatings, performance and applied coatings (produces protective and decorative finishes); optical and specialty materials (provides optical products, lenses, silica and fine chemicals operating segments); commodity chemicals (manufactures chlor-alkali and derivative products); and glass (offers automotive replacement glass and services, performance glazings and fiber glass)",
+        "address": "1, PPG PLACE",
+        "tradeMatchTotal": 3,
+        "tradeMatchPercent": 0.05,
+        "latestTradeDate": 1744300800000,
+        "productDesc": "STEEL WOOL 6 PK ASPPG2507 PO #4573099652 ",
+        "productTags": [
+          "Steel",
+          "Wool"
+        ],
+        "productNames": [
+          "Steel Wool"
+        ],
+        "productAlias": [
+          "Steel Fiber",
+          "Steel Filament",
+          "Steel Brush",
+          "Scouring Wool",
+          "Polishing Wool"
+        ],
+        "productSuperordinate": [
+          "Iron Ore",
+          "Carbon",
+          "Alloying Elements",
+          "Steel Billets",
+          "Steel Rods"
+        ],
+        "productDownstream": [
+          "Metalworking",
+          "Woodworking",
+          "Automotive",
+          "Home Cleaning",
+          "Industrial Maintenance"
+        ]
+      },
+      {
+        "companyId": 20461799,
+        "companyType": 2,
+        "name": "LINCOLN SOLDADURAS DE COLOMBIA LTDA",
+        "countryCode": "CO",
+        "tradeTotal": 6570,
+        "scope": "Basic iron and steel products",
+        "address": "CALLE 6 A 33 23",
+        "tradeMatchTotal": 3,
+        "tradeMatchPercent": 0.05,
+        "latestTradeDate": 1739980800000,
+        "productDesc": "CEPILLO DE ALAMBRE",
+        "productTags": [
+          "Wire",
+          "Brush"
+        ],
+        "productNames": [
+          "Wire brush"
+        ],
+        "productAlias": [
+          "Wire scrubber",
+          "Steel wire brush",
+          "Metal wire brush",
+          "Wire cleaning brush",
+          "Brush with wire bristles"
+        ],
+        "productSuperordinate": [
+          "Wire",
+          "Metal",
+          "Steel",
+          "Iron",
+          "Bristle material"
+        ],
+        "productDownstream": [
+          "Automotive maintenance",
+          "Metalworking",
+          "Woodworking",
+          "Home cleaning",
+          "Industrial cleaning"
+        ]
+      },
+      {
+        "companyId": 20463284,
+        "companyType": 2,
+        "name": "SERVICE GLOBAL FOOTWEAR LIMITED",
+        "countryCode": "PK",
+        "tradeTotal": 6796,
+        "scope": "",
+        "address": "SERVIS HOUSE , 2- MAIN GULBERG , 54662",
+        "tradeMatchTotal": 2,
+        "tradeMatchPercent": 0.03,
+        "latestTradeDate": 1750608000000,
+        "productDesc": "BRUSH (PARTS OF SHOE MACHINE)----------(UNDER  SRO 957(I)2021 DATE;30-07-2021)",
+        "productTags": [
+          "Brush",
+          "Shoe machine parts"
+        ],
+        "productNames": [
+          "Brush"
+        ],
+        "productAlias": [
+          "Broom",
+          "Scrubber",
+          "Sweeper",
+          "Duster",
+          "Cleaning brush"
+        ],
+        "productSuperordinate": [
+          "Plastic",
+          "Metal",
+          "Bristle",
+          "Fiber",
+          "Wood"
+        ],
+        "productDownstream": [
+          "Shoe factory",
+          "Footwear production line",
+          "Shoe repair shop",
+          "Leather goods factory",
+          "Textile factory"
+        ]
+      },
+      {
+        "companyId": 20460497,
+        "companyType": 2,
+        "name": "AUTOMOTRIZ ESCANDINAVA S A S",
+        "countryCode": "CO",
+        "tradeTotal": 28945,
+        "scope": "",
+        "address": "45 108 27 TORRE 3 PISO 12 , AVENIDA CARRERA",
+        "tradeMatchTotal": 1,
+        "tradeMatchPercent": 0.0,
+        "latestTradeDate": 1740326400000,
+        "productDesc": "DO 18170637-001 DECLARACION(62-92) PEDIDO: 2191502 - 2191504, FACTURA: 2191502 FECHA: 2024-12-11 PRODUCTO: ESCOBILLA LIM",
+        "productTags": [
+          "ESCOBILLA LIM",
+          "Brush"
+        ],
+        "productNames": [
+          "ESCOBILLA LIM"
+        ],
+        "productAlias": [
+          "Cleaning Brush",
+          "Scrub Brush",
+          "Lim Brush",
+          "Escobilla",
+          "Brush Cleaner"
+        ],
+        "productSuperordinate": [
+          "Plastic",
+          "Fiber",
+          "Metal",
+          "Wood",
+          "Rubber"
+        ],
+        "productDownstream": [
+          "Household Cleaning",
+          "Industrial Cleaning",
+          "Automotive Cleaning",
+          "Office Cleaning",
+          "Hotel Cleaning"
+        ]
+      },
+      {
+        "companyId": 20462272,
+        "companyType": 2,
+        "name": "KOBA COLOMBIA S A S",
+        "countryCode": "CO",
+        "tradeTotal": 10625,
+        "scope": "Food and beverages",
+        "address": "VEREDA CANAVITA PARQUE INDUSTRIAL Y LOGISTICO DEL NTE P H",
+        "tradeMatchTotal": 1,
+        "tradeMatchPercent": 0.01,
+        "latestTradeDate": 1723478400000,
+        "productDesc": " LOS DMS ESCOBAS- CEPILLOS Y BROCHAS- ESCOBAS MECANICAS DE USO MANUAL- EXCEPTO LAS DE MOTOR- PINCELES Y PLUMEROS; RASQUETAS DE CAUCHO O MATERIAS FLEXIBLES ANALOGAS ",
+        "productTags": [
+          "Brooms",
+          "Brushes",
+          "Paintbrushes",
+          "Dusters",
+          "Rubber Scrapers"
+        ],
+        "productNames": [
+          "Mechanical Brooms",
+          "Brushes",
+          "Paintbrushes",
+          "Dusters",
+          "Rubber Scrapers"
+        ],
+        "productAlias": [
+          "Broom",
+          "Brush",
+          "Paintbrush",
+          "Duster",
+          "Scraper"
+        ],
+        "productSuperordinate": [
+          "Wood",
+          "Plastic",
+          "Metal",
+          "Hair",
+          "Rubber"
+        ],
+        "productDownstream": [
+          "Household Cleaning",
+          "Industrial Cleaning",
+          "Art Painting",
+          "Automotive Cleaning",
+          "Construction Cleaning"
+        ]
+      },
+      {
+        "companyId": 20462810,
+        "companyType": 2,
+        "name": "VICAR FARMACEUTICA S A",
+        "countryCode": "CO",
+        "tradeTotal": 1517,
+        "scope": "",
+        "address": "CALLE 17 A 68 82",
+        "tradeMatchTotal": 1,
+        "tradeMatchPercent": 0.07,
+        "latestTradeDate": 1726502400000,
+        "productDesc": "DO:3F0801124, PEDIDO I24935009/OC-2053, DECLARACION 1 DE 1, MERCANCIA NUEVA. NOS ACOGEMOS A LA RESOLUCION 057 DE 2015, DESCRIPCIONES MINIMAS. NOS ACOGEMOS AL DECRETO 0925 NO REQUIERE REGISTRO DE IMPORTACION. FACTURA(S) 2024052401, PET TOOTHBRUSH // 50....",
+        "productTags": [
+          "Pet",
+          "Toothbrush"
+        ],
+        "productNames": [
+          "Pet Toothbrush"
+        ],
+        "productAlias": [
+          "Pet Dental Brush",
+          "Animal Toothbrush",
+          "Pet Oral Hygiene Brush",
+          "Pet Teeth Cleaner",
+          "Pet Tooth Cleaner"
+        ],
+        "productSuperordinate": [
+          "Plastic",
+          "Nylon",
+          "Bristles",
+          "Raw Materials for Toothbrush",
+          "Pet Oral Care Materials"
+        ],
+        "productDownstream": [
+          "Pet Grooming Services",
+          "Pet Stores",
+          "Veterinary Clinics",
+          "Online Pet Product Retailers",
+          "Pet Owners"
+        ]
+      },
+      {
+        "companyId": 20463439,
+        "companyType": 2,
+        "name": "VIMAFER LTDA",
+        "countryCode": "CO",
+        "tradeTotal": 1726,
+        "scope": "",
+        "address": "15 71, CARRERA 27",
+        "tradeMatchTotal": 1,
+        "tradeMatchPercent": 0.06,
+        "latestTradeDate": 1731513600000,
+        "productDesc": "2 / 2, DO 46401-24 ;FACTURA(S): FX240383. MERCANCIA NUEVA. NOS ACOGEMOS AL DECRETO 2247 DEL 5/NOV/2014. AL ACUERDO COMERCIAL TLC UNION EUROPEA. AUTORIZACION ADUANERA: ES/20/0004/00. PAIS DE ORIGEN: ESPAÑA... ITEM 10 CANTIDAD:600 UNIDAD; PRODUCTO: CEPIL...",
+        "productTags": [
+          "Brush"
+        ],
+        "productNames": [
+          "Brush"
+        ],
+        "productAlias": [
+          "Broom",
+          "Scrubber",
+          "Duster",
+          "Sweeper",
+          "Polisher"
+        ],
+        "productSuperordinate": [
+          "Plastic",
+          "Bristle",
+          "Wood",
+          "Metal",
+          "Fiber"
+        ],
+        "productDownstream": [
+          "Home cleaning",
+          "Industrial cleaning",
+          "Automotive cleaning",
+          "Office cleaning",
+          "Kitchen cleaning"
+        ]
+      },
+      {
+        "companyId": 20463842,
+        "companyType": 2,
+        "name": "SAPPHIRE FINISHING MILLS LIMITED",
+        "countryCode": "PK",
+        "tradeTotal": 7056,
+        "scope": "Cotton and cotton-blend fabric in various weaves",
+        "address": "212, COTTON EXCHANGE BUILDING, I.I. CHUNDRIGAR ROAD, KARACHI.",
+        "tradeMatchTotal": 1,
+        "tradeMatchPercent": 0.01,
+        "latestTradeDate": 1740585600000,
+        "productDesc": "BRUSHES (QTY. 2 PCS)\r\nSPARE PARTS FOR TEXTILE MIXER MACHINE\r\nSRO 957(I)2021 EFS",
+        "productTags": [
+          "Brushes",
+          "Textile mixer machine",
+          "Spare parts"
+        ],
+        "productNames": [
+          "Brushes",
+          "Spare parts for textile mixer machine"
+        ],
+        "productAlias": [
+          "Bristle brush",
+          "Scrub brush",
+          "Textile machine part",
+          "Machine accessory",
+          "Cleaning brush"
+        ],
+        "productSuperordinate": [
+          "Plastic",
+          "Metal",
+          "Bristles",
+          "Alloy",
+          "Rubber"
+        ],
+        "productDownstream": [
+          "Textile factory",
+          "Garment factory",
+          "Weaving mill",
+          "Dyeing plant",
+          "Textile machinery repair shop"
+        ]
+      },
+      {
+        "companyId": 20463963,
+        "companyType": 2,
+        "name": "SONEX COOKWARE (PRIVATE) LIMITED",
+        "countryCode": "PK",
+        "tradeTotal": 148,
+        "scope": "",
+        "address": "PLOT NO. 60-61/A , SMALL INDUSTRIAL ESTATE NO. 2",
+        "tradeMatchTotal": 1,
+        "tradeMatchPercent": 0.68,
+        "latestTradeDate": 1741881600000,
+        "productDesc": "6. GRASS CUTTING MACHINE SCRAP, NET WEIGHT- 400 KG APPROX",
+        "productTags": [
+          "Grass cutting machine",
+          "Scrap"
+        ],
+        "productNames": [
+          "Grass cutting machine scrap"
+        ],
+        "productAlias": [
+          "Lawn mower scrap",
+          "Weed cutter scrap",
+          "Grass trimmer scrap",
+          "Hedge trimmer scrap",
+          "Brush cutter scrap"
+        ],
+        "productSuperordinate": [
+          "Metal",
+          "Plastic",
+          "Rubber",
+          "Electrical components",
+          "Mechanical parts"
+        ],
+        "productDownstream": [
+          "Recycling plants",
+          "Scrap yards",
+          "Metal foundries",
+          "Manufacturing companies",
+          "Salvage operations"
+        ]
+      },
+      {
+        "companyId": 20466557,
+        "companyType": 2,
+        "name": "PUBLISHER SERVICES INC",
+        "countryCode": "US",
+        "tradeTotal": 362,
+        "scope": "hmi,wooden,giant,mats,card,count,packaging material,model,static cling,board,cene,ppe,st b,brass,tar,s 10,family,plastic game,elvie,freeze",
+        "address": "3095 kingston court3095 kingston court norcross, ga 30071",
+        "tradeMatchTotal": 1,
+        "tradeMatchPercent": 0.28,
+        "latestTradeDate": 1726070400000,
+        "productDesc": "WINDOW BRUSH RIVING KNIFE/ROD/EDGE GUIDE/MITRE GAUGE WHEEL SET HAIR TRIMMER CALMING STRATEGIES GRADE PK 5/MATH STRATEGIES GRADE K 2/READY FOR SCHOOL GRADE PK K/MY MATH/REFERENCE GRADE K 2/READING WRITING RE GRADE K 2/READING IS THINKING GRADE 2 5 SILIC...",
+        "productTags": [],
+        "productNames": [],
+        "productAlias": [],
+        "productSuperordinate": [],
+        "productDownstream": []
+      },
+      {
+        "companyId": 20468330,
+        "companyType": 2,
+        "name": "SUNDRAM FASTENERS LIMITED",
+        "countryCode": "IN",
+        "tradeTotal": 10524,
+        "scope": "High tensile fasteners, cold extruded parts, powder metal parts, iron powder, radiator caps, gear shifters, hot forged parts, precision forged differential gears, water pumps, oil pumps, fuel pumps, belt tensioners, rocker arm assemblies, cam followers, bearing housings, and other engine components and valve train parts",
+        "address": "98A, DR. RADHAKRISHNAN SALAI, MYLAPORE",
+        "tradeMatchTotal": 1,
+        "tradeMatchPercent": 0.01,
+        "latestTradeDate": 1728403200000,
+        "productDesc": "TIEBAR WIPER IP 1650 (6006000235)",
+        "productTags": [
+          "TIEBAR WIPER"
+        ],
+        "productNames": [
+          "TIEBAR WIPER"
+        ],
+        "productAlias": [
+          "Tiebar Cleaner",
+          "Tiebar Scraper",
+          "Tiebar Brush",
+          "Tiebar Duster",
+          "Tiebar Polisher"
+        ],
+        "productSuperordinate": [
+          "Metal",
+          "Plastic",
+          "Rubber",
+          "Fiber",
+          "Alloy"
+        ],
+        "productDownstream": [
+          "Machine Tools",
+          "Industrial Equipment",
+          "Automotive Parts",
+          "Molding Machines",
+          "Robotics"
+        ]
+      },
+      {
+        "companyId": 20468475,
+        "companyType": 2,
+        "name": "KWANG SUNG ELECTRONICS MEXICO SA DE CV",
+        "countryCode": "MX",
+        "tradeTotal": 48776,
+        "scope": "",
+        "address": "CALLE PRINCIPAL B 1600",
+        "tradeMatchTotal": 1,
+        "tradeMatchPercent": 0.0,
+        "latestTradeDate": 1727625600000,
+        "productDesc": "ESCARIADOR DE METAL",
+        "productTags": [
+          "Escariador",
+          "Metal"
+        ],
+        "productNames": [
+          "Metal Escariador"
+        ],
+        "productAlias": [
+          "Metal scraper",
+          "Metal cleaner",
+          "Metal polisher",
+          "Metal brush",
+          "Metal file"
+        ],
+        "productSuperordinate": [
+          "Metal ore",
+          "Alloy",
+          "Steel",
+          "Aluminum",
+          "Copper"
+        ],
+        "productDownstream": [
+          "Automotive industry",
+          "Construction industry",
+          "Manufacturing industry",
+          "Metalworking shops",
+          "Maintenance services"
+        ]
+      }
+    ]
+  },
+  "fee": {
+    "apiCost": 150,
+    "accountBalance": 75690,
+    "uuid": "ba067894-af6a-443e-989c-b450aaf8abfe"
+  }
+}

@@ -1,0 +1,836 @@
+{
+  "code": 0,
+  "msg": "success",
+  "data": {
+    "cursor": "eyJjb21wYW55X2lkIjoyMDQ2MDMzOH0=",
+    "list": [
+      {
+        "companyId": 20453196,
+        "companyType": 2,
+        "name": "HILTI PERU S.A",
+        "countryCode": "PE",
+        "tradeTotal": 15686,
+        "scope": "",
+        "address": "AVENIDA JAVIER PRADO ESTE 499 DPTO. 1103 URB.: GOLF LOS INKAS",
+        "tradeMatchTotal": 51,
+        "tradeMatchPercent": 0.33,
+        "latestTradeDate": 1755705600000,
+        "productDesc": "PORTA ESCOBILLAS DGH130 JUEGO, HILTI, S/M  PIEZAS DE REPUESTOS PARA CONSTRUCCION 2231979 PORTA ESCOBILLAS DGH130 JUEGO N/A",
+        "productTags": [
+          "PORTA ESCOBILLAS",
+          "DGH130",
+          "Construction",
+          "Spare parts"
+        ],
+        "productNames": [
+          "PORTA ESCOBILLAS DGH130 SET"
+        ],
+        "productAlias": [
+          "Escobilla Holder Set",
+          "Brush Holder Kit",
+          "Escobilla Carrier Set",
+          "Brush Carrier Kit",
+          "Escobilla Mounting Set"
+        ],
+        "productSuperordinate": [
+          "Plastic",
+          "Metal",
+          "Electronic Components",
+          "Insulating Materials",
+          "Fasteners"
+        ],
+        "productDownstream": [
+          "Construction Equipment",
+          "Power Tools",
+          "Industrial Machinery",
+          "Electrical Appliances",
+          "Automotive Parts"
+        ]
+      },
+      {
+        "companyId": 20458943,
+        "companyType": 2,
+        "name": "SUZUKI MOTOR DE COLOMBIA S.A",
+        "countryCode": "CO",
+        "tradeTotal": 75439,
+        "scope": "",
+        "address": "colombia",
+        "tradeMatchTotal": 25,
+        "tradeMatchPercent": 0.03,
+        "latestTradeDate": 1748620800000,
+        "productDesc": "SPARE PARTS FOR SUZUKI MOTORCYCLES/SCOOTERS :BRUSH TERMINAL SET, 31130-34J00-000",
+        "productTags": [],
+        "productNames": [],
+        "productAlias": [],
+        "productSuperordinate": [],
+        "productDownstream": []
+      },
+      {
+        "companyId": 20459275,
+        "companyType": 2,
+        "name": "NATURA COSMETICOS LTDA",
+        "countryCode": "CO",
+        "tradeTotal": 112399,
+        "scope": "Cosmetic products",
+        "address": "CARRERA 19 100 45 PISO 3",
+        "tradeMatchTotal": 23,
+        "tradeMatchPercent": 0.02,
+        "latestTradeDate": 1753372800000,
+        "productDesc": "AVON BROCHA ROSTRO POLVO",
+        "productTags": [
+          "Avon",
+          "Face powder brush",
+          "Makeup"
+        ],
+        "productNames": [
+          "Avon Face Powder Brush"
+        ],
+        "productAlias": [
+          "Cosmetic brush",
+          "Powder brush",
+          "Makeup tool",
+          "Beauty brush",
+          "Facial powder brush"
+        ],
+        "productSuperordinate": [
+          "Bristles",
+          "Wood",
+          "Plastic",
+          "Metal",
+          "Synthetic fibers"
+        ],
+        "productDownstream": [
+          "Makeup products",
+          "Cosmetics",
+          "Beauty kits",
+          "Makeup sets",
+          "Personal care items"
+        ]
+      },
+      {
+        "companyId": 20453210,
+        "companyType": 2,
+        "name": "GRUPO COMERCIAL ALCO SA DE CV",
+        "countryCode": "MX",
+        "tradeTotal": 623,
+        "scope": "Home furnishings and other related products",
+        "address": "CALLE CIRCUITO ENRIQUE DE LARA 242",
+        "tradeMatchTotal": 17,
+        "tradeMatchPercent": 2.73,
+        "latestTradeDate": 1736956800000,
+        "productDesc": "TEJIDO DE PUNTO TEBIDO 95% POLIESTER 5% SPANDEX BRUSH LISO BLUE SHADOW",
+        "productTags": [
+          "Knitted fabric",
+          "Polyester",
+          "Spandex",
+          "Blue shadow"
+        ],
+        "productNames": [
+          "Knitted fabric"
+        ],
+        "productAlias": [
+          "Knitted textile",
+          "Polyester - spandex fabric",
+          "Brushed fabric",
+          "Blue knitted cloth",
+          "Shadow - colored fabric"
+        ],
+        "productSuperordinate": [
+          "Polyester fiber",
+          "Spandex fiber",
+          "Chemical raw materials",
+          "Textile yarn",
+          "Dye"
+        ],
+        "productDownstream": [
+          "T - shirts",
+          "Swimsuits",
+          "Underwear",
+          "Sweaters",
+          "Activewear"
+        ]
+      },
+      {
+        "companyId": 20453559,
+        "companyType": 2,
+        "name": "COMERCIAL KAUFMANN S A",
+        "countryCode": "CL",
+        "tradeTotal": 87072,
+        "scope": "New and used vehicles ( cars, trucks, buses, vans, minibuses, and trailers); Power systems (generators, marine engines, industrial engines, and other related products); Financing solutions; Post-sales service; Vehicle rental; Parts and service; Accessories; Other dealership services",
+        "address": "AVENIDA GLADYS MARIN MILLIE 5830 ESTACION CENTRAL , ESTACION CENTRAL",
+        "tradeMatchTotal": 16,
+        "tradeMatchPercent": 0.02,
+        "latestTradeDate": 1743696000000,
+        "productDesc": "JUEGO ESCOBILLA PARTES DE APARATOS ELECTRICOS DE ALUMBRADO O SENALIZACION, TIPO P. CICLO O",
+        "productTags": [
+          "Escobilla Set",
+          "Lighting",
+          "Signaling",
+          "Electrical Appliance Parts"
+        ],
+        "productNames": [
+          "Escobilla Set for Lighting or Signaling Electrical Appliances"
+        ],
+        "productAlias": [
+          "Brush Set for Lighting Devices",
+          "Brush Kit for Signaling Equipment",
+          "Lighting Brush Assembly",
+          "Signaling Brush Set",
+          "Electrical Appliance Brush Set"
+        ],
+        "productSuperordinate": [
+          "Aluminum",
+          "Copper",
+          "Plastic",
+          "Rubber",
+          "Steel"
+        ],
+        "productDownstream": [
+          "Street Lights",
+          "Traffic Signals",
+          "Automotive Lighting",
+          "Industrial Lighting",
+          "Emergency Lighting"
+        ]
+      },
+      {
+        "companyId": 20457998,
+        "companyType": 2,
+        "name": "ROBERT BOSCH EAST AFRICA LIMITED",
+        "countryCode": "KE",
+        "tradeTotal": 3363,
+        "scope": "",
+        "address": "PLOT NO 209/1436 ESBC WILSON BUSINESS PARK , BLOCK BRAVO 12ND FLOOR OFF LANGATA ROAD",
+        "tradeMatchTotal": 10,
+        "tradeMatchPercent": 0.3,
+        "latestTradeDate": 1745856000000,
+        "productDesc": "BOSCH ONDULADO; Cup Brush; 60; 1; 0; OTHER BRUSHES CONSTITUTING PARTS OF MACHINES, APPLIANCES OR VEHICLES.",
+        "productTags": [
+          "Cup Brush",
+          "Bosch",
+          "Machine Parts",
+          "Appliance Parts",
+          "Vehicle Parts"
+        ],
+        "productNames": [
+          "Cup Brush"
+        ],
+        "productAlias": [
+          "Cylindrical Brush",
+          "Rotary Brush",
+          "Scrub Brush",
+          "Cleaning Brush",
+          "Machine Brush"
+        ],
+        "productSuperordinate": [
+          "Plastic",
+          "Metal",
+          "Bristles",
+          "Fiber",
+          "Rubber"
+        ],
+        "productDownstream": [
+          "Industrial Machines",
+          "Home Appliances",
+          "Automobiles",
+          "Power Tools",
+          "Cleaning Equipment"
+        ]
+      },
+      {
+        "companyId": 20453208,
+        "companyType": 2,
+        "name": "SALINAS Y FABRES SOCIEDAD ANONIMA",
+        "countryCode": "CL",
+        "tradeTotal": 77073,
+        "scope": "Motor vehicles and motor vehicle parts and supplies; Maintenance and repair of motor vehicles",
+        "address": "GENERAL RONDIZZONI 2130",
+        "tradeMatchTotal": 7,
+        "tradeMatchPercent": 0.01,
+        "latestTradeDate": 1741276800000,
+        "productDesc": "CEPILLOWARATAHDE METALPARA MAQUINARIA FORESTAL LOS DEMAS CEPILLOS QUE CONSTITUYAN PARTES DE MAQUINAS, APARATOS O DE VEHICULOS",
+        "productTags": [
+          "Metal",
+          "Brush",
+          "Forestry machinery",
+          "Machine parts",
+          "Vehicle parts"
+        ],
+        "productNames": [
+          "Forestry machinery brush",
+          "Machine parts brush",
+          "Vehicle parts brush"
+        ],
+        "productAlias": [
+          "Scrubber",
+          "Cleaning brush",
+          "Industrial brush",
+          "Mechanical brush",
+          "Automotive brush"
+        ],
+        "productSuperordinate": [
+          "Metal materials",
+          "Brush bristles",
+          "Plastic components",
+          "Adhesives",
+          "Fasteners"
+        ],
+        "productDownstream": [
+          "Forestry equipment",
+          "Industrial machinery",
+          "Automobiles",
+          "Agricultural vehicles",
+          "Construction machinery"
+        ]
+      },
+      {
+        "companyId": 20455300,
+        "companyType": 2,
+        "name": "ISUZU EAST AFRICA LIMITED",
+        "countryCode": "KE",
+        "tradeTotal": 33819,
+        "scope": "Motor vehicles and motor vehicle parts and supplies (brand new cars, pre-owned vehicles, car mats, headlights, gear knobs, leather gaiters, handbrake handles, stainless sill protectors, seat covers, car point roof boxes, side repeaters and indicators, car body kits, and car care products)",
+        "address": "LR. NO. 12270 ,  MOMBASA/ENTERPRISE ROAD JUNCTION",
+        "tradeMatchTotal": 7,
+        "tradeMatchPercent": 0.02,
+        "latestTradeDate": 1747670400000,
+        "productDesc": "HOLDER; BRUSH STARTER/CASE; PINION,STARTER; SPACER; STARTER/COIL; FIELD,STARTER/; ISUZU MOTORS INTERNATIONAL FZE; 8973509470; 1; 9; 2025; 3.82; 1; PARTS OF ELECTRICAL IGNITION OR STARTING EQUIPMENT OF A KIND USED FOR SPARK-IGNITION IN COMPRESSION-IGNI...",
+        "productTags": [
+          "Holder",
+          "Brush Starter",
+          "Pinion",
+          "Spacer",
+          "Starter Coil",
+          "Field Starter",
+          "Electrical ignition",
+          "Starting equipment"
+        ],
+        "productNames": [
+          "Holder",
+          "Brush Starter/Case",
+          "Pinion, Starter",
+          "Spacer",
+          "Starter/Coil",
+          "Field, Starter"
+        ],
+        "productAlias": [
+          "Ignition part",
+          "Starting component",
+          "Engine starter part",
+          "Electrical starter accessory",
+          "Spark-ignition starter part"
+        ],
+        "productSuperordinate": [
+          "Metal",
+          "Copper",
+          "Plastic",
+          "Magnet",
+          "Insulating material"
+        ],
+        "productDownstream": [
+          "Automobiles",
+          "Motorcycles",
+          "Generators",
+          "Marine engines",
+          "Industrial engines"
+        ]
+      },
+      {
+        "companyId": 20453585,
+        "companyType": 2,
+        "name": "NEW BOMBAY BUILD TECH PRIVATE LIMITED",
+        "countryCode": "IN",
+        "tradeTotal": 1237,
+        "scope": "",
+        "address": "NO. 99, JANTA MARKET, SECTOR 23, TURBHE",
+        "tradeMatchTotal": 5,
+        "tradeMatchPercent": 0.4,
+        "latestTradeDate": 1744732800000,
+        "productDesc": "PAINT ROLLER 500 GMS PAINT ROLLER WITH GLOVES AND SAND PAPER WHITE 500 GRAM",
+        "productTags": [
+          "Paint Roller",
+          "Gloves",
+          "Sand Paper",
+          "Paint",
+          "White"
+        ],
+        "productNames": [
+          "Paint Roller",
+          "Gloves",
+          "Sand Paper"
+        ],
+        "productAlias": [
+          "Paintbrush Roller",
+          "Painting Roller",
+          "Coating Roller",
+          "Brush Gloves",
+          "Abrasive Paper"
+        ],
+        "productSuperordinate": [
+          "Plastic",
+          "Fiber",
+          "Leather",
+          "Sand",
+          "Paper"
+        ],
+        "productDownstream": [
+          "Home decoration",
+          "Automobile painting",
+          "Furniture painting",
+          "Industrial coating",
+          "DIY projects"
+        ]
+      },
+      {
+        "companyId": 20457091,
+        "companyType": 2,
+        "name": "NATIONAL CEMENT COMPANY LIMITED",
+        "countryCode": "KE",
+        "tradeTotal": 3970,
+        "scope": "",
+        "address": "PLOT NUMBER 209/5443 ,  ADDIS ABABA ROAD ,  INDUSTRIAL AREA",
+        "tradeMatchTotal": 5,
+        "tradeMatchPercent": 0.13,
+        "latestTradeDate": 1748361600000,
+        "productDesc": "CARBON BRUSH D172; LEAN; D172; 300; 2025; 300; 70; 1; CARBON BRUSHES.",
+        "productTags": [
+          "Carbon brush",
+          "Carbon"
+        ],
+        "productNames": [
+          "Carbon brush"
+        ],
+        "productAlias": [
+          "Graphite brush",
+          "Electric brush",
+          "Commutator brush",
+          "Motor brush",
+          "Generator brush"
+        ],
+        "productSuperordinate": [
+          "Carbon",
+          "Graphite",
+          "Copper",
+          "Silver",
+          "Resin"
+        ],
+        "productDownstream": [
+          "Electric motors",
+          "Generators",
+          "Power tools",
+          "Automotive starters",
+          "Industrial equipment"
+        ]
+      },
+      {
+        "companyId": 20458817,
+        "companyType": 2,
+        "name": "SCIENTIFIC PRODUCTS LTDA",
+        "countryCode": "CO",
+        "tradeTotal": 10050,
+        "scope": "",
+        "address": "36 A 71, CARRERA 4 B",
+        "tradeMatchTotal": 4,
+        "tradeMatchPercent": 0.04,
+        "latestTradeDate": 1733846400000,
+        "productDesc": "D.O. 5822/2024 (38/43). MERCANCIA NUEVA. IMP 978. NO REQUIERE REGISTRODE IMPORTACION DECRETO 0925 DE 2013 - 1PK. PAQUETE X 12UNDS. PRODUCTO= BRUSH CENT TUBE 9IN. CEPILLOS PARA TUBO. MATERIA CONSTITUTIVA= MANGOEN ACERO INOXIDABLE / CERDAS DE NYLON. USO=...",
+        "productTags": [
+          "Brush",
+          "Tube",
+          "Stainless steel",
+          "Nylon"
+        ],
+        "productNames": [
+          "Brush cent tube"
+        ],
+        "productAlias": [
+          "Tube brush",
+          "Pipe brush",
+          "Cleaning brush",
+          "Cent tube brush",
+          "Brush for tube"
+        ],
+        "productSuperordinate": [
+          "Stainless steel",
+          "Nylon",
+          "Metal",
+          "Plastic",
+          "Fiber"
+        ],
+        "productDownstream": [
+          "Pipe systems",
+          "Industrial equipment",
+          "Home appliances",
+          "Automotive parts",
+          "Plumbing fixtures"
+        ]
+      },
+      {
+        "companyId": 20455320,
+        "companyType": 2,
+        "name": "AUTO INDUSTRIES LIMITED",
+        "countryCode": "KE",
+        "tradeTotal": 96330,
+        "scope": "",
+        "address": "PLOT NO.LR NO 24393",
+        "tradeMatchTotal": 3,
+        "tradeMatchPercent": 0.0,
+        "latestTradeDate": 1751212800000,
+        "productDesc": "POSITIVE BRUSH HOLDER ASSEMBLY,NEGATIVE BRUSH HOLDER ASSEMBLY; POSITIVE BRUSH HOLDER ASSEMBLY,NEGATIVE BRUSH HOLDER ASSEMBLY; AUTOWORLD; JA351608; 1; 250; 2025; 20 KG; 1;  PARTS OF ELECTRICAL IGNITION OR STARTING EQUIPMENT OF A KIND USED FOR SPARK-IGN...",
+        "productTags": [
+          "Brush Holder Assembly",
+          "Electrical ignition",
+          "Starting equipment"
+        ],
+        "productNames": [
+          "Positive Brush Holder Assembly",
+          "Negative Brush Holder Assembly"
+        ],
+        "productAlias": [
+          "Brush Holder Unit",
+          "Brush Assembly",
+          "Ignition Brush Holder",
+          "Starting Brush Holder",
+          "Electrical Brush Assembly"
+        ],
+        "productSuperordinate": [
+          "Metal",
+          "Plastic",
+          "Copper",
+          "Insulating material",
+          "Brush"
+        ],
+        "productDownstream": [
+          "Automobile engines",
+          "Generators",
+          "Motorcycles",
+          "Industrial machinery",
+          "Power tools"
+        ]
+      },
+      {
+        "companyId": 20456698,
+        "companyType": 2,
+        "name": "HONDA MOTORCYCLE KENYA LIMITED",
+        "countryCode": "KE",
+        "tradeTotal": 13992,
+        "scope": "Two wheelers",
+        "address": "L.R.NO.209/8929 , GODOWN NO.3 , GROUND FLOOR/BASEMENT , ROAD B",
+        "tradeMatchTotal": 3,
+        "tradeMatchPercent": 0.02,
+        "latestTradeDate": 1741017600000,
+        "productDesc": "BRUSH SET, TERMINAL; HONDA GULF; 31201-KPH-W00; 69; 2025; 1; 0.83 KG; 1; CARBON BRUSHES.",
+        "productTags": [
+          "brush set",
+          "carbon",
+          "terminal"
+        ],
+        "productNames": [
+          "Brush set",
+          "Carbon brushes"
+        ],
+        "productAlias": [
+          "Brush kit",
+          "Terminal brush set",
+          "Carbon brush kit",
+          "Electric brush set",
+          "Motor brush set"
+        ],
+        "productSuperordinate": [
+          "Carbon",
+          "Metal",
+          "Insulating material",
+          "Resin",
+          "Copper"
+        ],
+        "productDownstream": [
+          "Automobile",
+          "Motor",
+          "Generator",
+          "Electrical appliance",
+          "Power tool"
+        ]
+      },
+      {
+        "companyId": 20455700,
+        "companyType": 2,
+        "name": "AUTOXPRESS LIMITED",
+        "countryCode": "KE",
+        "tradeTotal": 10282,
+        "scope": "Tires and tubes",
+        "address": "PLOT LR NO. 209/16979 ,  AUTOXPRESS BUILDING ,  LIMURU ROAD",
+        "tradeMatchTotal": 2,
+        "tradeMatchPercent": 0.02,
+        "latestTradeDate": 1744560000000,
+        "productDesc": "BRASS BRUSH 160 X 45 HOLE D. 77 MM; BRASS BRUSH 160 X 45 HOLE D. 77 MM; 1; 2; 1; OTHER BRUSHES CONSTITUTING PARTS OF MACHINES, APPLIANCES OR VEHICLES.",
+        "productTags": [
+          "Brass",
+          "Brush"
+        ],
+        "productNames": [
+          "Brass brush"
+        ],
+        "productAlias": [
+          "Metal brush",
+          "Copper alloy brush",
+          "Scrub brush",
+          "Wire brush",
+          "Cleaning brush"
+        ],
+        "productSuperordinate": [
+          "Brass ingot",
+          "Copper",
+          "Zinc",
+          "Alloy",
+          "Metal"
+        ],
+        "productDownstream": [
+          "Machinery maintenance",
+          "Vehicle cleaning",
+          "Appliance cleaning",
+          "Industrial cleaning",
+          "Home cleaning"
+        ]
+      },
+      {
+        "companyId": 20457978,
+        "companyType": 2,
+        "name": "TEXT BOOK CENTRE LTD",
+        "countryCode": "KE",
+        "tradeTotal": 1314,
+        "scope": "",
+        "address": "nairobi, nairobi area, kenya p/o box 47540",
+        "tradeMatchTotal": 2,
+        "tradeMatchPercent": 0.15,
+        "latestTradeDate": 1777046400000,
+        "productDesc": "A W FABER CASTEL; ASSORTED BRUSH; 1; 9484; 1",
+        "productTags": [],
+        "productNames": [],
+        "productAlias": [],
+        "productSuperordinate": [],
+        "productDownstream": []
+      },
+      {
+        "companyId": 20453688,
+        "companyType": 2,
+        "name": "CASTER S.A. IMPORTACIONES Y EXPORTACIONES",
+        "countryCode": "EC",
+        "tradeTotal": 5429,
+        "scope": "",
+        "address": "AV GRANADOS E14-232 , EL INCA",
+        "tradeMatchTotal": 1,
+        "tradeMatchPercent": 0.02,
+        "latestTradeDate": 1740585600000,
+        "productDesc": "THEET BRUSH HOLDER MK-1869 Los Demás",
+        "productTags": [
+          "Toothbrush holder"
+        ],
+        "productNames": [
+          "Toothbrush Holder"
+        ],
+        "productAlias": [
+          "Toothbrush stand",
+          "Toothbrush caddy",
+          "Toothbrush container",
+          "Toothbrush organizer",
+          "Toothbrush rack"
+        ],
+        "productSuperordinate": [
+          "Plastic",
+          "Resin",
+          "Polymer",
+          "Mold",
+          "Injection molding material"
+        ],
+        "productDownstream": [
+          "Bathroom",
+          "Bedroom",
+          "Hotel room",
+          "Dormitory",
+          "Guest room"
+        ]
+      },
+      {
+        "companyId": 20454094,
+        "companyType": 2,
+        "name": "TECE INDIA PRIVATE LIMITED",
+        "countryCode": "IN",
+        "tradeTotal": 4040,
+        "scope": "",
+        "address": "G-3, NEEL MADHAV , VALJI LADHA CROSS ROAD , NEAR HIERA MONGI HOSPITAL, MULUND (W)",
+        "tradeMatchTotal": 1,
+        "tradeMatchPercent": 0.02,
+        "latestTradeDate": 1731686400000,
+        "productDesc": "TECE SQUARE METAL RED BRUSHED AFP 9240848",
+        "productTags": [
+          "Square",
+          "Metal",
+          "Red",
+          "Brushed"
+        ],
+        "productNames": [
+          "Square Metal Red Brushed"
+        ],
+        "productAlias": [
+          "Square Metal Brush",
+          "Red Metal Square",
+          "Brushed Metal Square",
+          "Square Red Metal",
+          "Metal Red Brush"
+        ],
+        "productSuperordinate": [
+          "Metal Ore",
+          "Alloy",
+          "Paint",
+          "Brush Material",
+          "Coating"
+        ],
+        "productDownstream": [
+          "Furniture Decoration",
+          "Architectural Decoration",
+          "Automobile Interior",
+          "Home Appliance Decoration",
+          "Crafts"
+        ]
+      },
+      {
+        "companyId": 20455714,
+        "companyType": 2,
+        "name": "AMIRAN KENYA LIMITED",
+        "countryCode": "KE",
+        "tradeTotal": 1330,
+        "scope": "Complete solutions in all of its fields of horticulture and floriculture, telecommunications, water purification, solar energy, and generators",
+        "address": "PLOT L.R NO.7158/602 ,  KALAMU HOUSE ,  GREVILLEA GROVE",
+        "tradeMatchTotal": 1,
+        "tradeMatchPercent": 0.08,
+        "latestTradeDate": 1744128000000,
+        "productDesc": "DOOR BRUSH h=45mm; AGROTEM PRO LTD; PP; 2; DOOR BRUSH H=45MM; 15.51; 0; MONOFILAMENT OF WHICH ANY CROSS-SECTIONAL DIMENSION EXCEEDS 1MM, RODS, STICKS AND PROFILE SHAPES, WHETHER OR NOT SURFACE WORKED BUT NOT OTHERWISE WORKED, OF OTHER PLASTICS.",
+        "productTags": [
+          "Door Brush",
+          "PP",
+          "Monofilament",
+          "Plastics"
+        ],
+        "productNames": [
+          "Door Brush"
+        ],
+        "productAlias": [
+          "Door Sweep",
+          "Door Seal Brush",
+          "Door Edge Brush",
+          "Door Brush Strip",
+          "Door Brush Seal"
+        ],
+        "productSuperordinate": [
+          "Polypropylene Resin",
+          "Plastic Raw Material",
+          "Chemical Additives",
+          "Filler",
+          "Colorant"
+        ],
+        "productDownstream": [
+          "Residential Doors",
+          "Commercial Doors",
+          "Industrial Doors",
+          "Garage Doors",
+          "Cabinet Doors"
+        ]
+      },
+      {
+        "companyId": 20455775,
+        "companyType": 2,
+        "name": "CONARCO ALAMBRES Y SOLDADURAS SOCIEDAD ANONIMA",
+        "countryCode": "AR",
+        "tradeTotal": 13369,
+        "scope": "Welding equipment and consumables",
+        "address": "BUENOS AIRES VILLA LYNCH CALLE 18 4079",
+        "tradeMatchTotal": 1,
+        "tradeMatchPercent": 0.01,
+        "latestTradeDate": 1748361600000,
+        "productDesc": "LOS DEMAS. LOS DEMAS. ESCOBAS Y ESCOBILLAS, CEPILLOS, BROCHAS Y PINCELES (INCLUSO SI SON PARTES DE MAQUINAS, APARATOS O VEHICULOS), ESCOBAS MECANICAS, SIN MOTOR, DE USO MANUAL, FREGONA O MOPAS Y PLUMEROS; CABEZAS PREPARADAS PARA ARTICULOS DE CEPILLERI...",
+        "productTags": [
+          "Brooms",
+          "Brushes",
+          "Scrubbers",
+          "Mops",
+          "Dusters",
+          "Cleaning"
+        ],
+        "productNames": [
+          "Brooms",
+          "Brushes",
+          "Scrubbers",
+          "Mops",
+          "Dusters"
+        ],
+        "productAlias": [
+          "Sweeping broom",
+          "Scrubbing brush",
+          "Floor mop",
+          "Dusting duster",
+          "Cleaning brush"
+        ],
+        "productSuperordinate": [
+          "Bristles",
+          "Wood",
+          "Plastic",
+          "Metal",
+          "Fiber"
+        ],
+        "productDownstream": [
+          "Household cleaning",
+          "Office cleaning",
+          "Industrial cleaning",
+          "Hotel cleaning",
+          "School cleaning"
+        ]
+      },
+      {
+        "companyId": 20460338,
+        "companyType": 2,
+        "name": "CABLES DE ENERGIA Y DE TELECOMUNICACIONES S A",
+        "countryCode": "CO",
+        "tradeTotal": 11303,
+        "scope": "Low voltage cables as magnet wire for applications in motor winding",
+        "address": "CALLE 10 38 43",
+        "tradeMatchTotal": 1,
+        "tradeMatchPercent": 0.01,
+        "latestTradeDate": 1735142400000,
+        "productDesc": "DO 24105824 CODIGO / RESOLUCION OEA IMPORTADOR: 001942 16/03/2020; PEDIDO TRAMITE: 3-23412 DECLARACION(17-20) CODIGO DE AUTORIZACION OE0088 //; FACTURA: 91154172 FECHA: 2024-09-25 PRODUCTO: ESCOBILLA, MARCA: NIEHOFF GRUPPE, MODELO: NO TIENE, REFERENCIA...",
+        "productTags": [
+          "Escobilla",
+          "Cleaning"
+        ],
+        "productNames": [
+          "Escobilla"
+        ],
+        "productAlias": [
+          "Broom",
+          "Brush",
+          "Cleaning brush",
+          "Household broom",
+          "Floor broom"
+        ],
+        "productSuperordinate": [
+          "Bristles",
+          "Wood",
+          "Plastic",
+          "Metal",
+          "Fiber"
+        ],
+        "productDownstream": [
+          "Household cleaning",
+          "Industrial cleaning",
+          "Street cleaning",
+          "Office cleaning",
+          "Warehouse cleaning"
+        ]
+      }
+    ]
+  },
+  "fee": {
+    "apiCost": 150,
+    "accountBalance": 75840,
+    "uuid": "7d379588-b420-40b4-b004-1d0b82cfb318"
+  }
+}

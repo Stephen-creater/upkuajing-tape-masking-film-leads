@@ -1,0 +1,788 @@
+{
+  "code": 0,
+  "msg": "success",
+  "data": {
+    "cursor": "eyJjb21wYW55X2lkIjoyMDQ1MTI1Nn0=",
+    "list": [
+      {
+        "companyId": 20447202,
+        "companyType": 2,
+        "name": "ASHTEL STUDIOS INC",
+        "countryCode": "US",
+        "tradeTotal": 1708,
+        "scope": "",
+        "address": "1610 E PHILADELPHIA ST",
+        "tradeMatchTotal": 127,
+        "tradeMatchPercent": 7.44,
+        "latestTradeDate": 1758124800000,
+        "productDesc": "TOOTHBRUSHES/TOOTHBRUSH HOLDERS ",
+        "productTags": [
+          "Toothbrush",
+          "Toothbrush Holder"
+        ],
+        "productNames": [
+          "Toothbrush",
+          "Toothbrush Holder"
+        ],
+        "productAlias": [
+          "Oral Brush",
+          "Dental Brush",
+          "Toothbrush Stand",
+          "Toothbrush Rack",
+          "Oral Hygiene Brush"
+        ],
+        "productSuperordinate": [
+          "Plastic",
+          "Nylon",
+          "Bristles",
+          "Resin",
+          "Metal"
+        ],
+        "productDownstream": [
+          "Bathroom Sets",
+          "Travel Kits",
+          "Hotel Amenities",
+          "Oral Care Gift Sets",
+          "Children's Oral Care Products"
+        ]
+      },
+      {
+        "companyId": 20443433,
+        "companyType": 2,
+        "name": "LULU INTERNATIONAL SHOPPING MALLS PRIVATE LIMITED",
+        "countryCode": "IN",
+        "tradeTotal": 26574,
+        "scope": "Operation of a shopping mall; Consumer goods and services",
+        "address": "34/1000 N.H. 47 EDAPPALLY KOCHI ERNAKULAM",
+        "tradeMatchTotal": 126,
+        "tradeMatchPercent": 0.47,
+        "latestTradeDate": 1753891200000,
+        "productDesc": "DISH BRUSH DISH BRUSH",
+        "productTags": [
+          "Dish brush"
+        ],
+        "productNames": [
+          "Dish brush"
+        ],
+        "productAlias": [
+          "Kitchen brush",
+          "Plate brush",
+          "Utensil brush",
+          "Dish scrubber",
+          "Crockery brush"
+        ],
+        "productSuperordinate": [
+          "Plastic",
+          "Bristles",
+          "Wood",
+          "Metal",
+          "Rubber"
+        ],
+        "productDownstream": [
+          "Kitchenware",
+          "Cleaning supplies",
+          "Home appliances",
+          "Restaurant equipment",
+          "Hotel supplies"
+        ]
+      },
+      {
+        "companyId": 20447081,
+        "companyType": 2,
+        "name": "TERMALIMEX CIA LTDA",
+        "countryCode": "EC",
+        "tradeTotal": 75300,
+        "scope": "",
+        "address": "TERMALIMEX , RUMIPAMBA OE1-60 , RUMIPAMBA",
+        "tradeMatchTotal": 27,
+        "tradeMatchPercent": 0.04,
+        "latestTradeDate": 1750003200000,
+        "productDesc": "HERRAMIENTA RASPADORA DE GRILL - - - - Las demás",
+        "productTags": [
+          "Grill scraper",
+          "Tool"
+        ],
+        "productNames": [
+          "Grill scraper tool"
+        ],
+        "productAlias": [
+          "Grill scraper",
+          "Scraping tool",
+          "Grill cleaning tool",
+          "Barbecue scraper",
+          "Grill brush alternative"
+        ],
+        "productSuperordinate": [
+          "Metal",
+          "Plastic",
+          "Wood",
+          "Rubber",
+          "Composite materials"
+        ],
+        "productDownstream": [
+          "Grill maintenance",
+          "Barbecue equipment",
+          "Kitchenware",
+          "Outdoor cooking",
+          "Restaurant supplies"
+        ]
+      },
+      {
+        "companyId": 20450959,
+        "companyType": 2,
+        "name": "DIXON TICONDEROGA COMPANY",
+        "countryCode": "US",
+        "tradeTotal": 2014,
+        "scope": "",
+        "address": "macon, georgia, united states 723 Joe Tamplin Industria",
+        "tradeMatchTotal": 19,
+        "tradeMatchPercent": 0.94,
+        "latestTradeDate": 1757260800000,
+        "productDesc": "ARTIST BRUSH ",
+        "productTags": [],
+        "productNames": [],
+        "productAlias": [],
+        "productSuperordinate": [],
+        "productDownstream": []
+      },
+      {
+        "companyId": 20443301,
+        "companyType": 2,
+        "name": "HOMAG INDIA PRIVATE LIMITED",
+        "countryCode": "IN",
+        "tradeTotal": 9805,
+        "scope": "Bending machines, shears, manual machines, folder, sheet processing machines, folding machines, cutting, graphical, shearer, control, hydraulic shears, schroeder, folder, and other special machineries",
+        "address": "7/6, RAJADHANI ESTATE , VEERANANJIPURA VILLAGE , KASABA HOBLI, NELAMANGALA TALUK, BANGALORE BANGALORE RURAL",
+        "tradeMatchTotal": 6,
+        "tradeMatchPercent": 0.06,
+        "latestTradeDate": 1750435200000,
+        "productDesc": "BRUSH FBL1320-K35 FH=80(4699951782)(PARTS OF WOOD WORKING MACHINE)(6860 MM)BRUSH FBL1320-K35 FH=80(4699951782)(PARTS OF WOOD WORKING MA",
+        "productTags": [
+          "brush",
+          "wood working machine",
+          "parts"
+        ],
+        "productNames": [
+          "Brush FBL1320-K35"
+        ],
+        "productAlias": [
+          "FBL1320-K35 Brush",
+          "Machine Brush",
+          "Woodworking Brush",
+          "Brush Part",
+          "Working Machine Brush"
+        ],
+        "productSuperordinate": [
+          "Plastic",
+          "Metal",
+          "Fiber",
+          "Rubber",
+          "Resin"
+        ],
+        "productDownstream": [
+          "Woodworking Machinery",
+          "Furniture Manufacturing",
+          "Carpentry Tools",
+          "Timber Processing",
+          "Wood Crafting"
+        ]
+      },
+      {
+        "companyId": 20450243,
+        "companyType": 2,
+        "name": "PACIFIC ARC INC",
+        "countryCode": "US",
+        "tradeTotal": 264,
+        "scope": "house plan,electrical control,ev,t2,pvc,electronic control,pipe fitting,ale,180 degree,electrical symbol,wooden,straight edge,som,house furnishing,design art,count,plastic pa,rasin,foam,board",
+        "address": "1020 agnes road richmond, tx 77469, united states",
+        "tradeMatchTotal": 4,
+        "tradeMatchPercent": 1.52,
+        "latestTradeDate": 1755446400000,
+        "productDesc": "NV NO. R6148A PO 000167 : LEAD POINTER 84729030.00-8 LETTERING GUIDE 9017.30.00.00-7 DUST BRUSH 9 PVC HAIR, WOOD HANDLE 96034019 ",
+        "productTags": [],
+        "productNames": [],
+        "productAlias": [],
+        "productSuperordinate": [],
+        "productDownstream": []
+      },
+      {
+        "companyId": 20445306,
+        "companyType": 2,
+        "name": "INGRAM CONTENT GROUP",
+        "countryCode": "US",
+        "tradeTotal": 2100,
+        "scope": "",
+        "address": "la vergne, tennessee, united states 1 ingram boulevard",
+        "tradeMatchTotal": 3,
+        "tradeMatchPercent": 0.14,
+        "latestTradeDate": 1729353600000,
+        "productDesc": "PLASTIC HAIR BRUSH",
+        "productTags": [
+          "Plastic",
+          "Hair brush"
+        ],
+        "productNames": [
+          "Plastic hair brush"
+        ],
+        "productAlias": [
+          "Plastic hair comb",
+          "Plastic hair styling brush",
+          "Synthetic hair brush",
+          "Plastic hair grooming tool",
+          "Plastic hair care brush"
+        ],
+        "productSuperordinate": [
+          "Plastic resin",
+          "Colorant",
+          "Molding equipment",
+          "Raw plastic materials",
+          "Manufacturing machinery"
+        ],
+        "productDownstream": [
+          "Beauty salons",
+          "Personal use",
+          "Hair care products industry",
+          "Retail stores",
+          "Online marketplaces"
+        ]
+      },
+      {
+        "companyId": 20451301,
+        "companyType": 2,
+        "name": "INTCOMEX S A",
+        "countryCode": "CL",
+        "tradeTotal": 57741,
+        "scope": "Computer hardware, software and peripherals",
+        "address": "AVENIDA CORDILLERA 331 C3 , QUILICURA",
+        "tradeMatchTotal": 3,
+        "tradeMatchPercent": 0.01,
+        "latestTradeDate": 1727798400000,
+        "productDesc": "SECADOR DE CABELLOXIAOMICMJ04LXEUELECTRICO CON CONTROL DE TEMPERATURA",
+        "productTags": [
+          "Hair dryer",
+          "XIAOMI",
+          "Electric",
+          "Temperature control"
+        ],
+        "productNames": [
+          "Hair dryer"
+        ],
+        "productAlias": [
+          "Blow dryer",
+          "Hair blower",
+          "Hair drier",
+          "Hot air brush",
+          "Styling dryer"
+        ],
+        "productSuperordinate": [
+          "Plastic",
+          "Metal",
+          "Motor",
+          "Heating element",
+          "Circuit board"
+        ],
+        "productDownstream": [
+          "Salon",
+          "Home",
+          "Hotel",
+          "Gym",
+          "Beauty parlor"
+        ]
+      },
+      {
+        "companyId": 20443113,
+        "companyType": 2,
+        "name": "CLARKE ENERGY INDIA PRIVATE LIMITED",
+        "countryCode": "IN",
+        "tradeTotal": 10904,
+        "scope": "The authorized distributor and service provider for GE’s gas engines in India, supplying both the Jenbacher and Waukesha product ranges for power generation and gas compression respectively",
+        "address": "SHIVKIRAN, PLOT NO. 160 CTS NO. 632 LANE , DAHANUKAR COLONY, KOTHRUD",
+        "tradeMatchTotal": 2,
+        "tradeMatchPercent": 0.02,
+        "latestTradeDate": 1745769600000,
+        "productDesc": "1226801 CARBON BRUSH (FOR GAS BASED GENSET FOR INDUSTRIAL USE)1226801 CARBON BRUSH (FOR GAS BASED GENSET FOR INDUSTRIAL",
+        "productTags": [
+          "Carbon brush",
+          "Genset",
+          "Industrial use"
+        ],
+        "productNames": [
+          "Carbon brush"
+        ],
+        "productAlias": [
+          "Carbon electric brush",
+          "Graphite brush",
+          "Motor brush",
+          "Generator brush",
+          "Commutator brush"
+        ],
+        "productSuperordinate": [
+          "Carbon",
+          "Graphite",
+          "Copper powder",
+          "Resin",
+          "Metal oxide"
+        ],
+        "productDownstream": [
+          "Industrial generators",
+          "Electric motors",
+          "Automotive alternators",
+          "Power tools",
+          "Home appliances"
+        ]
+      },
+      {
+        "companyId": 20443723,
+        "companyType": 2,
+        "name": "HYOSUNG TNS INC",
+        "countryCode": "KR",
+        "tradeTotal": 671,
+        "scope": "Automated teller machines and other cash processing equipment (various types of ATMs including stand-alone, desktop, drive-up, and through-the-wall models)",
+        "address": "GWANGPYEONG-RO 281 , GANGNAM-GU",
+        "tradeMatchTotal": 2,
+        "tradeMatchPercent": 0.3,
+        "latestTradeDate": 1737561600000,
+        "productDesc": "Anti-static strip (brush type), size 120 x 10 x 18mm BRUSH:ANTISTATIC:CDU-M 45500201, 100% new, exported from TK 106904072441/A42#&CN",
+        "productTags": [],
+        "productNames": [],
+        "productAlias": [],
+        "productSuperordinate": [],
+        "productDownstream": []
+      },
+      {
+        "companyId": 20447468,
+        "companyType": 2,
+        "name": "SERVICE TOOL CO LLC",
+        "countryCode": "US",
+        "tradeTotal": 76,
+        "scope": "Hand tool bargain bin displays, impulse table displays, camo displays, four price points, box displays, pocket knife displays, eyewear displays, cargo tie-down displays, clip strip displays, peg hook displays, glasses displays, fish bowl displays, bargain bucket trees and other catalog items",
+        "address": "2501 S LEWIS ST",
+        "tradeMatchTotal": 2,
+        "tradeMatchPercent": 2.63,
+        "latestTradeDate": 1730649600000,
+        "productDesc": "WIRE BRUSH",
+        "productTags": [
+          "Wire",
+          "Brush"
+        ],
+        "productNames": [
+          "Wire Brush"
+        ],
+        "productAlias": [
+          "Wire Broom",
+          "Steel Wire Brush",
+          "Metal Wire Brush",
+          "Scrubbing Brush",
+          "Cleaning Brush"
+        ],
+        "productSuperordinate": [
+          "Wire",
+          "Metal",
+          "Brush Bristles",
+          "Handle Material",
+          "Fasteners"
+        ],
+        "productDownstream": [
+          "Automotive Maintenance",
+          "Home Cleaning",
+          "Industrial Cleaning",
+          "Metalworking",
+          "Woodworking"
+        ]
+      },
+      {
+        "companyId": 20450491,
+        "companyType": 2,
+        "name": "PRYM CONSUMER USA INC",
+        "countryCode": "US",
+        "tradeTotal": 2259,
+        "scope": "white cable,metal gal,glass flute,gg,nonwoven,sewing part,tradi,happy strap,needle sewing,leather art,buckle,fabric snap,e steel,kit,pap,aron,fabric,s stap,mechanical pencils,silk",
+        "address": "950 brisack road spartanburg, sc 29303",
+        "tradeMatchTotal": 2,
+        "tradeMatchPercent": 0.09,
+        "latestTradeDate": 1741449600000,
+        "productDesc": "ADHESIVE TAPE BOBBIN BRASS PINS BRUSH BUTTONFASTENER CERAMIC TOMATO CLASP HOOKS CLOTH LABEL CLOTHES LINE ELASTIC GLUE STICK HAND TOOL MARKING PEN NON-WOVEN TAPE PAPER ARTICLE PENCIL LEADS PLASTIC ARTICLE PLASTIC BOX POLY BONING PRESS CLOTH SEWING MC B...",
+        "productTags": [
+          "Adhesive",
+          "Bobbin",
+          "Brass",
+          "Brush",
+          "Button",
+          "Ceramic",
+          "Clasp",
+          "Hooks",
+          "Cloth",
+          "Elastic",
+          "Glue",
+          "Hand",
+          "Marking",
+          "Non-Woven",
+          "Paper",
+          "Pencil",
+          "Plastic",
+          "Poly",
+          "Press",
+          "Sewing"
+        ],
+        "productNames": [
+          "Adhesive Tape",
+          "Bobbin",
+          "Brass Pins",
+          "Brush",
+          "Button Fastener",
+          "Ceramic Tomato",
+          "Clasp",
+          "Hooks",
+          "Cloth Label",
+          "Clothes Line",
+          "Elastic",
+          "Glue Stick",
+          "Hand Tool",
+          "Marking Pen",
+          "Non-Woven Tape",
+          "Paper Article",
+          "Pencil Leads",
+          "Plastic Article",
+          "Plastic Box",
+          "Poly Boning",
+          "Press Cloth",
+          "Sewing Machine"
+        ],
+        "productAlias": [
+          "Sticky Tape",
+          "Spool",
+          "Metal Pins",
+          "Bristle Brush",
+          "Snap Fastener"
+        ],
+        "productSuperordinate": [
+          "Brass Alloy",
+          "Ceramic Material",
+          "Textile Fiber",
+          "Plastic Resin",
+          "Paper Pulp"
+        ],
+        "productDownstream": [
+          "Craft Products",
+          "Garment Manufacturing",
+          "Office Supplies",
+          "Home Decor",
+          "Sewing Projects"
+        ]
+      },
+      {
+        "companyId": 20442562,
+        "companyType": 2,
+        "name": "HELLER INDIA PRIVATE LIMITED",
+        "countryCode": "IN",
+        "tradeTotal": 3127,
+        "scope": "",
+        "address": "NO. 138 , INDUSTRIAL AREA, SECTOR 7, MIDC, PCNTDA, BHOSARI",
+        "tradeMatchTotal": 1,
+        "tradeMatchPercent": 0.03,
+        "latestTradeDate": 1736092800000,
+        "productDesc": "03.233974 brush holder 03.233974 brush holder",
+        "productTags": [
+          "brush holder"
+        ],
+        "productNames": [
+          "Brush holder"
+        ],
+        "productAlias": [
+          "Brush support",
+          "Brush carrier",
+          "Brush retainer",
+          "Brush fixture",
+          "Brush clamp"
+        ],
+        "productSuperordinate": [
+          "Metal",
+          "Plastic",
+          "Composite materials",
+          "Rubber",
+          "Ceramics"
+        ],
+        "productDownstream": [
+          "Motors",
+          "Generators",
+          "Power tools",
+          "Industrial equipment",
+          "Automotive components"
+        ]
+      },
+      {
+        "companyId": 20443266,
+        "companyType": 2,
+        "name": "ALLIED ENGINEERING & SERVICES (PVT.) LIMITED",
+        "countryCode": "PK",
+        "tradeTotal": 35103,
+        "scope": "",
+        "address": "21/3, SECTOR NO. 22, KORANGI INDUSTRIAL AREA, KARACHI",
+        "tradeMatchTotal": 1,
+        "tradeMatchPercent": 0.0,
+        "latestTradeDate": 1740153600000,
+        "productDesc": "BRUSH A PART NO.3T9524  (BRAND CATERPILLAR SPARE PARTS)  (QTY. 20)  (QUANTITY DECLARED IN NOS)",
+        "productTags": [
+          "Brush",
+          "Spare parts",
+          "CATERPILLAR"
+        ],
+        "productNames": [
+          "Brush"
+        ],
+        "productAlias": [
+          "Scrubber",
+          "Broom",
+          "Duster",
+          "Wiper",
+          "Cleaning brush"
+        ],
+        "productSuperordinate": [
+          "Plastic",
+          "Metal",
+          "Fiber",
+          "Wood",
+          "Rubber"
+        ],
+        "productDownstream": [
+          "Automotive",
+          "Industrial equipment",
+          "Household appliances",
+          "Machinery",
+          "Construction"
+        ]
+      },
+      {
+        "companyId": 20445311,
+        "companyType": 2,
+        "name": "FABRICA DE ENVASES S.A. FADESA",
+        "countryCode": "EC",
+        "tradeTotal": 54627,
+        "scope": "Fabricated metal products",
+        "address": "NOVENA 109",
+        "tradeMatchTotal": 1,
+        "tradeMatchPercent": 0.0,
+        "latestTradeDate": 1738512000000,
+        "productDesc": "ESCOBILLA - Escobillas",
+        "productTags": [
+          "ESCOBILLA"
+        ],
+        "productNames": [
+          "ESCOBILLA"
+        ],
+        "productAlias": [
+          "Brush",
+          "Broom",
+          "Scrubber",
+          "Sweeper",
+          "Duster"
+        ],
+        "productSuperordinate": [
+          "Plastic",
+          "Bristles",
+          "Wood",
+          "Metal",
+          "Fiber"
+        ],
+        "productDownstream": [
+          "Home cleaning",
+          "Industrial cleaning",
+          "Automotive cleaning",
+          "Office cleaning",
+          "Outdoor cleaning"
+        ]
+      },
+      {
+        "companyId": 20447239,
+        "companyType": 2,
+        "name": "VOLVO GROUP NORTH AMERICA",
+        "countryCode": "US",
+        "tradeTotal": 348,
+        "scope": "ether,front axle beam,g al,motor v,wood box,no n,machine,durable torch,60 cbm,card,electric towel,williams,count,unit,14k,d box,asb,kit,truck,board",
+        "address": "p.o. box 26115 greensboro, nc 27402-6115",
+        "tradeMatchTotal": 1,
+        "tradeMatchPercent": 0.29,
+        "latestTradeDate": 1726588800000,
+        "productDesc": "01 PKGS ONLY AUOMOBILE COMPON ENTS H S CODE:87083000 S B N O:2306073 DT:10 07 24 GRS WT :400 130 KGS 01 PKGS ONLY AUTO PARTS LVR STR MTR THRU H S CODE:87089900 S B NO:22873 95 DT:09 07 24 GRS WT:505 00 0 KGS 01 PKGS ONLY ELECTRI C TOOTH BRUSH H S CODE:85",
+        "productTags": [
+          "Automobile",
+          "Components",
+          "Auto",
+          "Parts",
+          "Electric Toothbrush"
+        ],
+        "productNames": [
+          "Automobile Components",
+          "Auto Parts",
+          "Electric Toothbrush"
+        ],
+        "productAlias": [
+          "Car Components",
+          "Vehicle Parts",
+          "Automotive Components",
+          "Toothbrush",
+          "Oral Hygiene Brush"
+        ],
+        "productSuperordinate": [
+          "Metal",
+          "Plastic",
+          "Rubber",
+          "Electronic components",
+          "Battery"
+        ],
+        "productDownstream": [
+          "Automobiles",
+          "Cars",
+          "Trucks",
+          "Motorcycles",
+          "Oral care kits"
+        ]
+      },
+      {
+        "companyId": 20449641,
+        "companyType": 2,
+        "name": "RLM INDUSTRIES INC",
+        "countryCode": "US",
+        "tradeTotal": 230,
+        "scope": "shell,fork,wood,fittings,pipe,pump part,ingco,ceramic filter,cod,cylinder,slurry tank,e motor,shackle,e gear,base engine,unit,submersible pump parts,base valve,aker,packaging material",
+        "address": "100 hummer lake rd. / po box 505, oxford, michigan 48371, usa",
+        "tradeMatchTotal": 1,
+        "tradeMatchPercent": 0.43,
+        "latestTradeDate": 1721232000000,
+        "productDesc": "STICKER 39199090 WOOD BRUSH 96039090 BOTTLES 39239000 BEER COOLER 84186990 COMPUTER CABLE 85444211 NUT GRINDER 84389000 PRESSURE SENSOR 90262090 THIS SHIPMENT CONTAINS NO SOLID WOO D PACKING MATERIALS ALSO SHIPPER= NINGBO CHIN A 315000 PRC TEL 86574879...",
+        "productTags": [
+          "Sticker",
+          "Wood",
+          "Brush",
+          "Bottles",
+          "Beer",
+          "Cooler",
+          "Computer",
+          "Cable",
+          "Nut",
+          "Grinder",
+          "Pressure",
+          "Sensor"
+        ],
+        "productNames": [
+          "Sticker",
+          "Wood Brush",
+          "Bottles",
+          "Beer Cooler",
+          "Computer Cable",
+          "Nut Grinder",
+          "Pressure Sensor"
+        ],
+        "productAlias": [
+          "Adhesive Label",
+          "Timber Brush",
+          "Flask",
+          "Beer Chiller",
+          "Computer Wire",
+          "Nut Mill",
+          "Pressure Detector"
+        ],
+        "productSuperordinate": [
+          "Paper",
+          "Wood",
+          "Plastic",
+          "Metal",
+          "Glass"
+        ],
+        "productDownstream": [
+          "Retail Stores",
+          "Bars",
+          "Offices",
+          "Kitchens",
+          "Industrial Facilities"
+        ]
+      },
+      {
+        "companyId": 20450428,
+        "companyType": 2,
+        "name": "AMERICAN WOODMARK CORP",
+        "countryCode": "US",
+        "tradeTotal": 2262,
+        "scope": "A range of kitchen and bath cabinets",
+        "address": "561, SHADY ELM ROAD",
+        "tradeMatchTotal": 1,
+        "tradeMatchPercent": 0.04,
+        "latestTradeDate": 1739116800000,
+        "productDesc": "GRIND SAND ETC MACH FOR WORK WOOD CORK BONE E= 1 MASCHINE 1X PD-DI-DB-1300V ROTATIONAL BRUSH SANDING MACHINE MACHINE NO.1589.04.24 HS CODE 84659300 SHIPPED ON BOARD FREIGHT PREPAID EXPRESS BILL OF LADING ",
+        "productTags": [
+          "Grind",
+          "Sand",
+          "Machine",
+          "Wood",
+          "Cork",
+          "Bone"
+        ],
+        "productNames": [
+          "Rotational Brush Sanding Machine"
+        ],
+        "productAlias": [
+          "Rotary Brush Sander",
+          "Brush Sanding Equipment",
+          "Rotational Sanding Apparatus",
+          "Brush Grinding Machine",
+          "Rotary Sanding Machine"
+        ],
+        "productSuperordinate": [
+          "Metal",
+          "Plastic",
+          "Electrical Components",
+          "Motor",
+          "Bearings"
+        ],
+        "productDownstream": [
+          "Furniture Manufacturing",
+          "Woodworking Industry",
+          "Cork Product Production",
+          "Bone Crafting",
+          "Musical Instrument Making"
+        ]
+      },
+      {
+        "companyId": 20450639,
+        "companyType": 2,
+        "name": "AFA INDUSTRIES INC",
+        "countryCode": "US",
+        "tradeTotal": 776,
+        "scope": "",
+        "address": "140 E POND DR",
+        "tradeMatchTotal": 1,
+        "tradeMatchPercent": 0.13,
+        "latestTradeDate": 1723564800000,
+        "productDesc": "USED PERSONAL EFFECTS(SHOES BAG CLOTHES AN BRAKE PAD NUTS PLASTICS COATED FABRICS ENGINE BEARING PCW BRUSH MACHINE MODIFIED SODIUM BICARBONATE BOOKS BEAUTY OR MAKEUP PREPARATIONS PP ADDITIVE MASTER BATCH OTHER DECORATIVE ORNAMENTS",
+        "productTags": [],
+        "productNames": [],
+        "productAlias": [],
+        "productSuperordinate": [],
+        "productDownstream": []
+      },
+      {
+        "companyId": 20451256,
+        "companyType": 2,
+        "name": "PROMAC INTERNATIONAL INC",
+        "countryCode": "US",
+        "tradeTotal": 270,
+        "scope": "cod,chain,chain part,sprocket,roller chain",
+        "address": "1091 sunnyside rd vermilion oh 44089 united states",
+        "tradeMatchTotal": 1,
+        "tradeMatchPercent": 0.37,
+        "latestTradeDate": 1730822400000,
+        "productDesc": "SWEAT SCRAPER HORSE WHIP HORSE BRUSH CLEANING KIT",
+        "productTags": [],
+        "productNames": [],
+        "productAlias": [],
+        "productSuperordinate": [],
+        "productDownstream": []
+      }
+    ]
+  },
+  "fee": {
+    "apiCost": 150,
+    "accountBalance": 76140,
+    "uuid": "8bdba2ca-5614-45a7-bf85-e0674c2ef04d"
+  }
+}

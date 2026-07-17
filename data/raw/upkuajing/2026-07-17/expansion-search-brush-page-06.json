@@ -1,0 +1,613 @@
+{
+  "code": 0,
+  "msg": "success",
+  "data": {
+    "cursor": "eyJjb21wYW55X2lkIjoyMDQ0MjMzMX0=",
+    "list": [
+      {
+        "companyId": 20441648,
+        "companyType": 2,
+        "name": "SEPHORA COSMETICS PRIVATE LIMITED",
+        "countryCode": "IN",
+        "tradeTotal": 37464,
+        "scope": "",
+        "address": "NO. 27, GROUND FLOOR RECTANGLE-1, SAKET DISTRICT CENTRE , NO. D-4 , SAKET",
+        "tradeMatchTotal": 375,
+        "tradeMatchPercent": 1.0,
+        "latestTradeDate": 1753804800000,
+        "productDesc": "697583 THE FACE BRUSH SET-24 697583 THE FACE BRUSH SET-24",
+        "productTags": [
+          "Face Brush Set"
+        ],
+        "productNames": [
+          "Face Brush Set"
+        ],
+        "productAlias": [
+          "Facial Brush Set",
+          "Makeup Brush Set",
+          "Beauty Brush Set",
+          "Cosmetic Brush Set",
+          "Face Makeup Brush Set"
+        ],
+        "productSuperordinate": [
+          "Plastic",
+          "Wood",
+          "Hair",
+          "Nylon",
+          "Metal"
+        ],
+        "productDownstream": [
+          "Cosmetics",
+          "Makeup Products",
+          "Beauty Salons",
+          "Retail Stores",
+          "Online Marketplaces"
+        ]
+      },
+      {
+        "companyId": 20441336,
+        "companyType": 2,
+        "name": "PARIS PRESENTS INCORPORATED",
+        "countryCode": "US",
+        "tradeTotal": 1043,
+        "scope": "",
+        "address": "chicago, illinois, united states 1950 innovation parkway suite 100",
+        "tradeMatchTotal": 172,
+        "tradeMatchPercent": 16.49,
+        "latestTradeDate": 1764345600000,
+        "productDesc": "DAILY BRUSH CLEANER HTS #: SHIPPER STATES THAT THIS SHIPMENT CONTAINS NO WOOD PACKAGING MATERIAL FRENCH PINK CLAY MASK HTS #: TOMATO + CHAR CLEARING MASK HTS #: ",
+        "productTags": [],
+        "productNames": [],
+        "productAlias": [],
+        "productSuperordinate": [],
+        "productDownstream": []
+      },
+      {
+        "companyId": 20441331,
+        "companyType": 2,
+        "name": "I R TECHNOLOGY SERVICES PRIVATE LIMITED",
+        "countryCode": "IN",
+        "tradeTotal": 13634,
+        "scope": "",
+        "address": "EL-91, TTC Industrial Area,",
+        "tradeMatchTotal": 87,
+        "tradeMatchPercent": 0.64,
+        "latestTradeDate": 1753804800000,
+        "productDesc": "625-711-182 ASSY BRUSH CLEANING ELECTRODE LOWER ASSY BRUSH",
+        "productTags": [],
+        "productNames": [],
+        "productAlias": [],
+        "productSuperordinate": [],
+        "productDownstream": []
+      },
+      {
+        "companyId": 20438395,
+        "companyType": 2,
+        "name": "SALCOMP TECHNOLOGIES INDIA PRIVATE LIMITED",
+        "countryCode": "IN",
+        "tradeTotal": 24089,
+        "scope": "",
+        "address": "NOKIA TELECOM SEZ , SIPCOT INDUSTRIAL PARK , PHASE III, SRIPERUMBUDUR",
+        "tradeMatchTotal": 16,
+        "tradeMatchPercent": 0.07,
+        "latestTradeDate": 1752422400000,
+        "productDesc": "TM-QJ-06-07-B - NEW BRUSH WHEEL BQJ-06-07-B TM-ADV2981 -Adv On-Off Valve-ADV2981",
+        "productTags": [],
+        "productNames": [],
+        "productAlias": [],
+        "productSuperordinate": [],
+        "productDownstream": []
+      },
+      {
+        "companyId": 20438835,
+        "companyType": 2,
+        "name": "SHOFU DENTAL INDIA PRIVATE LIMITED",
+        "countryCode": "IN",
+        "tradeTotal": 11700,
+        "scope": "",
+        "address": "D-3/3, OKHLA INDUSTRIAL AREA , PHASE-II , NEW  SOUTH",
+        "tradeMatchTotal": 12,
+        "tradeMatchPercent": 0.1,
+        "latestTradeDate": 1751817600000,
+        "productDesc": "UNI BRUSH NO.5 (DENTAL INSTRUMENTS) UNI BRUSH NO.5 (DENTAL INSTRUMENTS)",
+        "productTags": [],
+        "productNames": [],
+        "productAlias": [],
+        "productSuperordinate": [],
+        "productDownstream": []
+      },
+      {
+        "companyId": 20440873,
+        "companyType": 2,
+        "name": "USHA FASTENERS PRIVATE LIMITED",
+        "countryCode": "IN",
+        "tradeTotal": 4956,
+        "scope": "",
+        "address": "4695, LANE RAZIA BEGUM HAUS QAZI",
+        "tradeMatchTotal": 8,
+        "tradeMatchPercent": 0.16,
+        "latestTradeDate": 1753027200000,
+        "productDesc": "CUP BRUSH 65 MM, KNOTTED WIRE POSITION 3(V6801-65)(4047728067683)CUP BRUSH 65 MM, KNOTTED WIRE POSITION 3(V6801-65)(404772806",
+        "productTags": [
+          "Cup brush",
+          "Wire"
+        ],
+        "productNames": [
+          "Cup brush"
+        ],
+        "productAlias": [
+          "Wire cup brush",
+          "Rotary cup brush",
+          "Scrubbing cup brush",
+          "Cleaning cup brush",
+          "Polishing cup brush"
+        ],
+        "productSuperordinate": [
+          "Wire",
+          "Metal",
+          "Steel",
+          "Alloy",
+          "Plastic"
+        ],
+        "productDownstream": [
+          "Automotive industry",
+          "Metalworking",
+          "Woodworking",
+          "Construction",
+          "Maintenance"
+        ]
+      },
+      {
+        "companyId": 20438566,
+        "companyType": 2,
+        "name": "K H EXPORTS INDIA PRIVATE LIMITED",
+        "countryCode": "IN",
+        "tradeTotal": 53425,
+        "scope": "Leather goods",
+        "address": "\"KH\" CENTRE, NO. 15/2 COLLEGE ROAD , NUNGAMBAKKAM",
+        "tradeMatchTotal": 6,
+        "tradeMatchPercent": 0.01,
+        "latestTradeDate": 1748016000000,
+        "productDesc": "LINING MATERIAL - 210 YDS( QJF-FW18027BC 100% BETTER COTTONWITHWAXY+6OZ BRUSH FABRIC/100%POLYESTER 54 )LINING MATERIAL",
+        "productTags": [],
+        "productNames": [],
+        "productAlias": [],
+        "productSuperordinate": [],
+        "productDownstream": []
+      },
+      {
+        "companyId": 20439931,
+        "companyType": 2,
+        "name": "YOUNG NAILS INC",
+        "countryCode": "US",
+        "tradeTotal": 229,
+        "scope": "",
+        "address": "1149 N PATT ST , BLDG B",
+        "tradeMatchTotal": 6,
+        "tradeMatchPercent": 2.62,
+        "latestTradeDate": 1757433600000,
+        "productDesc": "ARTIST BRUSH ",
+        "productTags": [],
+        "productNames": [],
+        "productAlias": [],
+        "productSuperordinate": [],
+        "productDownstream": []
+      },
+      {
+        "companyId": 20438107,
+        "companyType": 2,
+        "name": "VIET CERAMICS INTERNATIONAL JOINT STOCK COMPANY",
+        "countryCode": "VN",
+        "tradeTotal": 15195,
+        "scope": "Decorative, floor, wall, swimming pool, and floor/wall tiles; sanitary wares, such as toilet products, lavatories, and faucets; and other products for building projects",
+        "address": "778K/2 NGUYEN KIEM , WARD 04 , PHU NHUAN DISTRICT",
+        "tradeMatchTotal": 5,
+        "tradeMatchPercent": 0.03,
+        "latestTradeDate": 1774454400000,
+        "productDesc": "Wall-mounted toilet brush (471x107 mm) (includes plastic brush, artificial stone tray, and brushed nickel-plated brass base) 63620_149, brand: GESSI, 100% new",
+        "productTags": [],
+        "productNames": [],
+        "productAlias": [],
+        "productSuperordinate": [],
+        "productDownstream": []
+      },
+      {
+        "companyId": 20438416,
+        "companyType": 2,
+        "name": "SHINDENGEN INDIA PRIVATE LIMITED",
+        "countryCode": "IN",
+        "tradeTotal": 33172,
+        "scope": "Primary and storage batteries",
+        "address": "PLOT NO. 283/2 , BOMASANDRA JIGANI LINK ROAD JIGANI INDUSTRIAL AREA , ANEKAL TALUK",
+        "tradeMatchTotal": 4,
+        "tradeMatchPercent": 0.01,
+        "latestTradeDate": 1750953600000,
+        "productDesc": "WASHING BRUSH (L=125)2860K009 (EQUIPMENT FOR MANUFACTURING REGULATORS AND C.D.I.S FOR MOTORCYCLES)WASHING BRUSH (L=125)2860K009 (EQUIPMENT FOR MANUFACTURING R",
+        "productTags": [],
+        "productNames": [],
+        "productAlias": [],
+        "productSuperordinate": [],
+        "productDownstream": []
+      },
+      {
+        "companyId": 20438465,
+        "companyType": 2,
+        "name": "EMDEP TEST BOARDS PRIVATE LIMITED",
+        "countryCode": "IN",
+        "tradeTotal": 21092,
+        "scope": "",
+        "address": "Plot No. PAP-A-1, 4,",
+        "tradeMatchTotal": 4,
+        "tradeMatchPercent": 0.02,
+        "latestTradeDate": 1753200000000,
+        "productDesc": "PARTS OF TEST BOARD EQUIPMENT Pin tool model superbrush ( 02PIT7 )PARTS OF TEST BOARD EQUIPMENT",
+        "productTags": [
+          "Test board equipment",
+          "Pin tool",
+          "superbrush"
+        ],
+        "productNames": [
+          "Test board equipment parts",
+          "Pin tool model superbrush"
+        ],
+        "productAlias": [
+          "Testing board parts",
+          "Pin tool brush",
+          "Test equipment components",
+          "Board testing parts",
+          "Superbrush pin tool"
+        ],
+        "productSuperordinate": [
+          "Electronic components",
+          "Plastic",
+          "Metal",
+          "Circuit boards",
+          "Brush materials"
+        ],
+        "productDownstream": [
+          "Electronics manufacturing",
+          "Testing laboratories",
+          "Quality control",
+          "Electrical equipment",
+          "Automotive electronics"
+        ]
+      },
+      {
+        "companyId": 20441676,
+        "companyType": 2,
+        "name": "INDIAN IMMUNOLOGICALS LIMITED",
+        "countryCode": "IN",
+        "tradeTotal": 1611,
+        "scope": "Diphtheria, Pertussis, Tetanus, Recombinant Hepatitis-B as well as Equine Rabies Immunoglobulin (ERIG); Anti- rabies vaccine; Public Education program, Mass awareness campaign on vaccine preventable diseases and CME program for Medical and paramedical professionals",
+        "address": "INDIAN IMMUNOLOGICALS LIMITED , ROAD NO. 44 , JUBILEE HILLS HYDERABAD RANGAREDDI",
+        "tradeMatchTotal": 4,
+        "tradeMatchPercent": 0.25,
+        "latestTradeDate": 1743523200000,
+        "productDesc": "PIVOT CLEAN OUT BRUCH [908703] [SPARES FOR ZONAL CENTRIFUGE] [SPARES FOR ZONAL CENTRIFUGE]",
+        "productTags": [
+          "Pivot clean out bruch",
+          "Zonal centrifuge",
+          "Spares"
+        ],
+        "productNames": [
+          "PIVOT CLEAN OUT BRUCH"
+        ],
+        "productAlias": [
+          "Pivot cleaning brush",
+          "Centrifuge cleaning brush",
+          "Cleaning brush for zonal centrifuge",
+          "Pivot brush for centrifuge",
+          "Zonal centrifuge cleaning tool"
+        ],
+        "productSuperordinate": [
+          "Plastic",
+          "Metal",
+          "Bristles",
+          "Brush handle material",
+          "Cleaning agent"
+        ],
+        "productDownstream": [
+          "Zonal centrifuge",
+          "Laboratory equipment",
+          "Separation equipment",
+          "Medical equipment",
+          "Industrial centrifuge"
+        ]
+      },
+      {
+        "companyId": 20441718,
+        "companyType": 2,
+        "name": "HARVEY IMPORTS LLC",
+        "countryCode": "US",
+        "tradeTotal": 2074,
+        "scope": "",
+        "address": "221 LA QUESTA DR",
+        "tradeMatchTotal": 4,
+        "tradeMatchPercent": 0.19,
+        "latestTradeDate": 1758211200000,
+        "productDesc": "SWIFFER DUSTER OOB EH SK / CT ",
+        "productTags": [
+          "Swiffer",
+          "Duster"
+        ],
+        "productNames": [
+          "Swiffer Duster"
+        ],
+        "productAlias": [
+          "Dust Cleaning Tool",
+          "Household Duster",
+          "Swiffer Cleaning Brush",
+          "Dust Removal Device",
+          "Swiffer Dust Collector"
+        ],
+        "productSuperordinate": [
+          "Plastic",
+          "Fiber",
+          "Cleaning Agent",
+          "Adhesive",
+          "Packaging Material"
+        ],
+        "productDownstream": [
+          "Household Cleaning",
+          "Office Cleaning",
+          "Hotel Cleaning",
+          "Retail Stores",
+          "Industrial Facilities"
+        ]
+      },
+      {
+        "companyId": 20440228,
+        "companyType": 2,
+        "name": "NLI PACKAGING MACHINES PRIVATE LIMITED",
+        "countryCode": "IN",
+        "tradeTotal": 7903,
+        "scope": "",
+        "address": "NO. 11, GROUND FLOOR, DLF STAR TOWER, NH-8, SECTOR 30",
+        "tradeMatchTotal": 3,
+        "tradeMatchPercent": 0.04,
+        "latestTradeDate": 1750262400000,
+        "productDesc": "CL21 PIPE CLEANER (SPARE PARTS FOR INDUSTRIAL BAG SEWING MACHINE HEAD)SPARE PARTS FOR INDUSTRIAL BAG SEWING MACHINE HEAD",
+        "productTags": [
+          "Pipe cleaner",
+          "Spare parts",
+          "Industrial bag sewing machine head"
+        ],
+        "productNames": [
+          "Pipe cleaner",
+          "Spare parts for industrial bag sewing machine head"
+        ],
+        "productAlias": [
+          "Pipe brush",
+          "Pipe cleaning device",
+          "Sewing machine replacement parts",
+          "Industrial sewing machine accessories",
+          "Bag sewing machine head parts"
+        ],
+        "productSuperordinate": [
+          "Plastic",
+          "Metal",
+          "Rubber",
+          "Fiber",
+          "Alloy"
+        ],
+        "productDownstream": [
+          "Pipe systems",
+          "Industrial bag production lines",
+          "Sewing factories",
+          "Packaging industries",
+          "Manufacturing plants"
+        ]
+      },
+      {
+        "companyId": 20441817,
+        "companyType": 2,
+        "name": "BREDENT GROUP INDIA PRIVATE LIMITED",
+        "countryCode": "IN",
+        "tradeTotal": 6895,
+        "scope": "",
+        "address": "NO. 29/3/1 , NO. 12, OLD MUNDHAVA ROAD, NEAR ATUR RUBBER , KHARADI",
+        "tradeMatchTotal": 2,
+        "tradeMatchPercent": 0.03,
+        "latestTradeDate": 1753632000000,
+        "productDesc": "DENTAL INSTRUMENT Cotton buff 22 mm 15 Pieces DENTAL INSTRUMENT",
+        "productTags": [
+          "Dental",
+          "Instrument",
+          "Cotton buff"
+        ],
+        "productNames": [
+          "Dental instrument",
+          "Cotton buff"
+        ],
+        "productAlias": [
+          "Dental tool",
+          "Dental device",
+          "Cotton polisher",
+          "Dental implement",
+          "Cotton brush"
+        ],
+        "productSuperordinate": [
+          "Cotton",
+          "Metal",
+          "Plastic",
+          "Rubber",
+          "Alloy"
+        ],
+        "productDownstream": [
+          "Dental clinics",
+          "Dental laboratories",
+          "Hospitals",
+          "Dental schools",
+          "Dental care centers"
+        ]
+      },
+      {
+        "companyId": 20438727,
+        "companyType": 2,
+        "name": "SEIKO WATCH INDIA PRIVATE LIMITED",
+        "countryCode": "IN",
+        "tradeTotal": 13440,
+        "scope": "Watches",
+        "address": "NO.874 , \"TEMPLE VISTA\" , GROUND FLOOR, SRI KRISHNA TEMPLE ROAD, INDIRANAGAR 1ST STAGE",
+        "tradeMatchTotal": 1,
+        "tradeMatchPercent": 0.01,
+        "latestTradeDate": 1726070400000,
+        "productDesc": "A-KRA03 NYLON BRUSH",
+        "productTags": [],
+        "productNames": [],
+        "productAlias": [],
+        "productSuperordinate": [],
+        "productDownstream": []
+      },
+      {
+        "companyId": 20439163,
+        "companyType": 2,
+        "name": "PERUMANA TRADING PRIVATE LIMITED",
+        "countryCode": "IN",
+        "tradeTotal": 484,
+        "scope": "",
+        "address": "T.C.8/287, PERUMANA, OPP.LOYOLA SCHOOL SREEKARIYAM PO THIRUVANANTHAPURAM",
+        "tradeMatchTotal": 1,
+        "tradeMatchPercent": 0.21,
+        "latestTradeDate": 1738080000000,
+        "productDesc": "FOAM BROOM HOUSEHOLD GOODS",
+        "productTags": [
+          "Foam",
+          "Broom",
+          "Household goods"
+        ],
+        "productNames": [
+          "Foam broom"
+        ],
+        "productAlias": [
+          "Foam brush",
+          "Foam sweeper",
+          "Household broom",
+          "Cleaning broom",
+          "Soft broom"
+        ],
+        "productSuperordinate": [
+          "Foam material",
+          "Plastic",
+          "Fiber",
+          "Resin",
+          "Rubber"
+        ],
+        "productDownstream": [
+          "Home cleaning",
+          "Kitchen cleaning",
+          "Bathroom cleaning",
+          "Floor cleaning",
+          "Window cleaning"
+        ]
+      },
+      {
+        "companyId": 20439608,
+        "companyType": 2,
+        "name": "DANANG RUBBER JOINT STOCK COMPANY",
+        "countryCode": "VN",
+        "tradeTotal": 1557,
+        "scope": "Rubber products",
+        "address": "1, LE VAN HIEN STREET",
+        "tradeMatchTotal": 1,
+        "tradeMatchPercent": 0.06,
+        "latestTradeDate": 1724342400000,
+        "productDesc": "LINEAR HORSE HAIR BRUSH. 100% brand new. 1mtr=1pce",
+        "productTags": [
+          "Linear",
+          "Horse Hair",
+          "Brush"
+        ],
+        "productNames": [
+          "Linear Horse Hair Brush"
+        ],
+        "productAlias": [
+          "Linear Brush",
+          "Horse Hair Cleaning Brush",
+          "Linear Hair Brush",
+          "Horse Hair Grooming Brush",
+          "Linear Grooming Brush"
+        ],
+        "productSuperordinate": [
+          "Horse Hair",
+          "Plastic",
+          "Wood",
+          "Metal",
+          "Paint"
+        ],
+        "productDownstream": [
+          "Cosmetics Industry",
+          "Grooming Industry",
+          "Art Industry",
+          "Cleaning Industry",
+          "Craft Industry"
+        ]
+      },
+      {
+        "companyId": 20441281,
+        "companyType": 2,
+        "name": "GODFREY PHILLIPS INDIA LIMITED",
+        "countryCode": "IN",
+        "tradeTotal": 4002,
+        "scope": "Cigarettes, tobacco, tea",
+        "address": "MACROPOLO BUILDING\", GROUND FLOOR , DR. BABASAHEB AMBEDKAR ROAD, LALBAUG",
+        "tradeMatchTotal": 1,
+        "tradeMatchPercent": 0.02,
+        "latestTradeDate": 1745596800000,
+        "productDesc": "BRUSH - 07357080(SPARE PART FOR PACKING MACHINE) BRUSH",
+        "productTags": [
+          "brush",
+          "spare part",
+          "packing machine"
+        ],
+        "productNames": [
+          "Brush"
+        ],
+        "productAlias": [
+          "Broom",
+          "Scrubber",
+          "Sweeper",
+          "Duster",
+          "Cleaning brush"
+        ],
+        "productSuperordinate": [
+          "Bristles",
+          "Handle",
+          "Wood",
+          "Plastic",
+          "Metal"
+        ],
+        "productDownstream": [
+          "Packing industry",
+          "Manufacturing",
+          "Cleaning services",
+          "Warehousing",
+          "Logistics"
+        ]
+      },
+      {
+        "companyId": 20442331,
+        "companyType": 2,
+        "name": "SHREE BALAJI OVERSEAS",
+        "countryCode": "IN",
+        "tradeTotal": 4251,
+        "scope": "blu,reer,isri,coil,iron and steel,machine,marshmallow,oak,color coated aluminium,wooden,sand,canvas,blue jade,casted,ebony,metallic silver,flash silver,tm d,water heater,rust",
+        "address": "majith mandi, amritsar, punjab, india",
+        "tradeMatchTotal": 1,
+        "tradeMatchPercent": 0.02,
+        "latestTradeDate": 1726675200000,
+        "productDesc": "COLOR COATED ALUMINIUM FOIL/COIL - PE COATING (BRUSH SILVER) (SIZE: 0.08X1240 MM) (80 MICRONS)",
+        "productTags": [],
+        "productNames": [],
+        "productAlias": [],
+        "productSuperordinate": [],
+        "productDownstream": []
+      }
+    ]
+  },
+  "fee": {
+    "apiCost": 150,
+    "accountBalance": 76290,
+    "uuid": "cbfc8b27-80b1-49ea-aa7e-3e4ee2f6c7be"
+  }
+}
