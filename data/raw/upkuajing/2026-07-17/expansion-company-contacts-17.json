@@ -1,0 +1,105 @@
+{
+  "code": 0,
+  "msg": "success",
+  "data": {
+    "list": [
+      {
+        "companyId": 71428160,
+        "contact_data": {
+          "emails": [
+            {
+              "val": "op@iwinlogistics.com",
+              "is_valid": 0,
+              "reason": ""
+            }
+          ],
+          "phones": [
+            {
+              "val": "15622299898",
+              "is_valid": 1,
+              "is_ws": 2,
+              "phone_type": 3,
+              "country_code": "1",
+              "dialing_code": null,
+              "area_code": "562",
+              "telephone": "2299898",
+              "national_number": "(562) 229-9898",
+              "international_number": "+1 562-229-9898"
+            },
+            {
+              "val": "5622299898",
+              "is_valid": 2,
+              "is_ws": 2,
+              "phone_type": 0,
+              "country_code": "",
+              "dialing_code": null,
+              "area_code": "",
+              "telephone": "",
+              "national_number": "",
+              "international_number": ""
+            },
+            {
+              "val": "8887074876",
+              "is_valid": 2,
+              "is_ws": 0,
+              "phone_type": 0,
+              "country_code": "",
+              "dialing_code": null,
+              "area_code": "",
+              "telephone": "",
+              "national_number": "",
+              "international_number": ""
+            }
+          ],
+          "socials": [],
+          "websites": []
+        }
+      },
+      {
+        "companyId": 71431462,
+        "contact_data": {
+          "emails": [
+            {
+              "val": "bill@jkmyusa.com",
+              "is_valid": 0,
+              "reason": ""
+            }
+          ],
+          "phones": [
+            {
+              "val": "17183213312",
+              "is_valid": 1,
+              "is_ws": 2,
+              "phone_type": 3,
+              "country_code": "1",
+              "dialing_code": null,
+              "area_code": "718",
+              "telephone": "3213312",
+              "national_number": "(718) 321-3312",
+              "international_number": "+1 718-321-3312"
+            },
+            {
+              "val": "7183213312",
+              "is_valid": 2,
+              "is_ws": 0,
+              "phone_type": 0,
+              "country_code": "7",
+              "dialing_code": null,
+              "area_code": "",
+              "telephone": "",
+              "national_number": "",
+              "international_number": ""
+            }
+          ],
+          "socials": [],
+          "websites": []
+        }
+      }
+    ]
+  },
+  "fee": {
+    "apiCost": 200,
+    "accountBalance": 63840,
+    "uuid": "e918f148-e76f-4a38-8d10-90a5f9582906"
+  }
+}
