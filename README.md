@@ -41,6 +41,21 @@ upkuajing-leads --execute --contacts-per-product 3 --max-cost-cny 15
 - `leads-<timestamp>.csv`：便于 Excel/飞书筛选；
 - `leads-<timestamp>.json`：便于后续邮件自动化。
 
+## 目录约定
+
+```text
+data/raw/          # 不改写的 API 原始记录和来源快照
+data/processed/    # 清洗、去重后的公司主数据
+deliverables/      # 当前权威交付物，只保留一份客户总表
+scripts/           # 可重复生成数据和 Excel 的维护工具
+src/               # API 客户端与通用业务逻辑
+tests/             # 自动化测试
+docs/              # 接口调研和维护说明
+work/              # 不提交的临时文件
+```
+
+`deliverables/tape-masking-film-customer-master.xlsx` 是唯一客户数据主账。不创建 `final-v2`、`new`等并行版本；历史通过 Git 追溯。
+
 ## 参数
 
 ```text
