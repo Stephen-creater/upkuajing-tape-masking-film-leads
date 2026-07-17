@@ -1,6 +1,6 @@
 # Tape & Masking Film Buyer Leads
 
-使用跨境魔方 OpenAPI 查找 `tape`（胶带）和 `masking film`（遮蔽膜）的海外采购公司，并将公开联系方式导出为本地 CSV/JSON。
+使用跨境魔方 OpenAPI 查找 `tape`（胶带）和 `masking film`（遮蔽膜）的海外采购公司，并将公开联系方式维护在一份权威 Excel 客户总表中。
 
 ## 为什么有这个项目
 
@@ -16,9 +16,9 @@
 
 - 默认是 dry-run，不会调用付费 API。
 - 必须显式加 `--execute` 才执行。
-- 单次运行上限不得高于 ¥50，请求前用保守估算拦截。
+- 本批项目累计上限为 ¥100，每个付费脚本都在请求前做预算拦截。
 - API Key 只从 `UPKUAJING_API_KEY` 环境变量读取，绝不写入输出。
-- `output/`、`data/`、`work/`和 `.env` 全部被 Git 忽略，客户联系方式不会进入公开仓库。
+- 用户已明确选择公开仓库；原始证据、结构化数据和 Excel 均提交，`work/`与 `.env`不提交。
 
 ## 快速开始
 
@@ -66,7 +66,7 @@ work/              # 不提交的临时文件
 --execute
 ```
 
-`--max-cost-cny` 的程序级硬上限是 ¥50。详细接口、计费和实测差异见 [API 调研摘要](docs/api-research.md)。
+早期 CLI 仍保留单次 ¥50 的旧保护；本批增量脚本使用累计 ¥100 上限。详细接口、实测费用和优化结论见 [API 调研摘要](docs/api-research.md)与[成本分析](docs/cost-analysis.md)。
 
 ## 测试
 

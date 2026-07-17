@@ -7,18 +7,20 @@
 - 行粒度：一行一家公司，`companyId` 为主键
 - 有效候选：35 家，全部已完成跨境魔方联系方式查询
 - 品类：`tape` 18 家、`masking film` 16 家、两类都命中 1 家
-- 联系方式：35/35 有邮箱值，21 家邮箱被 API 标记为有效，23 家有电话，27 家有官网
-- 欧美优先：5 家；其中 3 家未验证邮箱已做官网核验
-- OpenAPI 累计实际费用：约 ¥49.50；前期 ¥50 上限已封顶，不得继续付费调用
+- 邮箱：26/35 家至少有一个状态=1的有效邮箱，共31个有效邮箱地址
+- 电话：28/35 家至少有一个状态=1的有效电话；35/35 家至少有一个有效邮箱或有效电话
+- 欧美优先：5 家；官网、人物和权威来源补救已完成
+- OpenAPI 累计实际费用：¥81.60 / 上限 ¥100.00；剩余 ¥18.40
 
 ## 数据链路
 
 1. `data/raw/upkuajing/2026-07-17/` 保存每次付费调用的原始返回，不改写。
 2. `scripts/build_company_master.py` 将产品搜索数据严格过滤并按公司去重。
 3. `scripts/enrich_company_contacts.py` 补全 API 联系方式；当前已全部完成，不应重复付费调用。
-4. `data/raw/web/2026-07-17/` 保存官网核验证据，`scripts/apply_web_research.py` 将其合并进公司主数据。
-5. `data/processed/company-master.json` 是 Excel 的结构化输入。
-6. `scripts/build_workbook.mjs` 使用 `@oai/artifact-tool` 生成唯一 Excel 交付物。
+4. `data/raw/web/2026-07-17/` 保存官网、政府和权威目录核验证据。
+5. 邮箱与电话验证结果分别保存在 `data/raw/upkuajing/2026-07-17/`，状态台账覆盖 API、官网和人物来源。
+6. `data/processed/company-master.json` 是 Excel 的结构化输入。
+7. `scripts/build_workbook.mjs` 使用 `@oai/artifact-tool` 生成唯一 Excel 交付物。
 
 ## 维护原则
 
@@ -30,4 +32,4 @@
 
 ## 下一个高价值任务
 
-不调用付费 API，优先访问邮箱状态为“未验证”的公司官网，将官方客服/采购邮箱、联系页、电话和地址补入 `data/raw/web/`，然后重新生成 Excel。
+不要继续重复调用状态=3或状态=0的相同邮箱。下一步应小批量发送、记录真实硬退信并建立抑制名单；对无有效邮箱的9家公司，只有在出现新的精确人物或新官网证据时再增量验证。

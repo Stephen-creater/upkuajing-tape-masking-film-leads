@@ -7,7 +7,8 @@
 1. 调用 `POST /agent/customs/company/list`，用 `products`、`companyType=2`和 `existEmail=1` 找有邮箱数据的采购商。
 2. 在本地对产品描述做严格二次过滤，避免 `masking film` 模糊命中 `thick film`。
 3. 调用 `POST /agent/customs/company/contact/batch`，用最多 20 个 `companyIds` 批量取回邮箱、电话、网站和社媒。
-4. 将客户数据保留在本地 `output/`，不提交到公开 GitHub 仓库。
+4. 对 API、官网和人物邮箱统一调用邮箱验证；电话统一调用电话验证。
+5. 原始返回先进入 `data/raw/`，再合并到公司主数据和 Excel。
 
 ## 实测结论
 
@@ -23,9 +24,11 @@
 |---|---:|---:|
 | 采购商/供应商列表 | ¥1.5/次 | 20 条/页 |
 | 海关公司联系方式 | 价目表显示 ¥0.5/个；实测计费 ¥1/个 | 1 个计费单位 |
-| 全球获客公司/人物联系方式 | ¥1/个 | 1 个 |
+| 全球获客人物搜索 | ¥1.5/页 | 20 条/页 |
+| 全球获客人物联系方式 | 价目表显示 ¥1/个；本批实测 ¥0.5/个 | 1 个 |
 | 邮件发送 | ¥0.03/封 | 1 封 |
 | 邮件有效性检测 | ¥0.1/条 | 1 条 |
+| 电话有效性检测 | ¥0.1/条 | 1 条 |
 
 由于价目表与实际扣费存在差异，CLI 用比实测价更高的保守估算做请求前拦截，并使用响应中的 `fee.apiCost` 累加实际费用。
 
@@ -34,4 +37,3 @@
 - [跨境魔方开发者中心](https://developer.upkuajing.com/openapi/)
 - [官方海关贸易公司搜索 Skill](https://github.com/Upkuajing/upkuajing-trade-company-search)
 - [官方公司人员搜索 Skill](https://github.com/Upkuajing/upkuajing-company-people-search)
-
