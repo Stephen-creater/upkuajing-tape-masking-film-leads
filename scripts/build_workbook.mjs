@@ -21,12 +21,12 @@ sheet.freezePanes.freezeRows(6);
 sheet.freezePanes.freezeColumns(5);
 
 const headers = [
-  "研究状态", "市场优先级", "品类", "公司ID", "公司名称", "国家/地区",
+  "研究状态", "市场优先级", "产品品类（中文）", "公司ID", "公司名称", "国家/地区（中文）",
   "首选邮箱", "邮箱可用状态", "首选电话", "官网", "联系完整度", "跟进状态", "负责人",
-  "API地址", "官网核验地址", "经营范围", "匹配贸易次数", "贸易总次数", "匹配占比",
+  "API地址（原文）", "官网核验地址（原文）", "经营范围（原文）", "匹配贸易次数", "贸易总次数", "匹配占比",
   "最近贸易日期", "API邮箱", "官网补充邮箱", "API电话", "官网补充电话", "电话验证详情", "WhatsApp",
   "社交媒体", "官网联系渠道", "邮箱验证详情", "产品名称", "产品标签",
-  "产品描述/命中证据", "产品别名", "上游词", "下游词", "搜索词", "搜索原始来源",
+  "报关品名/命中证据（原文）", "产品别名", "上游词", "下游词", "搜索词（中文）", "搜索原始来源",
   "API联系方式来源", "官网核验来源", "官网核验说明", "最后核验日期",
 ];
 
@@ -46,6 +46,75 @@ const firstDataRow = 7;
 const lastDataRow = firstDataRow + companies.length - 1;
 
 const splitValues = (value) => String(value || "").split(";").map((item) => item.trim()).filter(Boolean);
+const categoryTranslations = new Map([
+  ["tape", "胶带"],
+  ["masking film", "遮蔽膜"],
+]);
+const countryTranslations = new Map([
+  ["EC", "厄瓜多尔"], ["GB", "英国"], ["IN", "印度"], ["KR", "韩国"],
+  ["LK", "斯里兰卡"], ["MX", "墨西哥"], ["US", "美国"], ["VN", "越南"],
+]);
+const productTermTranslations = new Map(Object.entries({
+  "rubber tape": "橡胶胶带", "parts for led tv": "LED电视零部件", "tape-1 p1 duo": "TAPE-1 P1 DUO（胶带型号）",
+  "pe masking film": "PE遮蔽膜", "masking film": "遮蔽膜", "pretaped masking film": "预贴胶带遮蔽膜",
+  "masking tape": "遮蔽胶带", "plastic masking film": "塑料遮蔽膜", "pre-taped masking film": "预贴胶带遮蔽膜",
+  "tape": "胶带", "masking": "遮蔽", "film": "薄膜", "plastic": "塑料", "rubber": "橡胶",
+  "polyethylene": "聚乙烯", "poly ethylene": "聚乙烯", "packing material": "包装材料", "plastic drop cloth": "塑料防护布",
+  "caution tape": "警示胶带", "packing tap": "包装胶带", "adhesive tape": "胶粘带", "textile insulation tape": "纺织绝缘胶带",
+  "green tape": "绿色胶带", "yellow ribbon": "黄色带材", "self - adhesive": "自粘", "recycled": "再生材料",
+  "accessories of plastics": "塑料配件", "industrial use": "工业用途", "paper": "纸", "arts": "工艺品",
+  "water contact indicator tape": "遇水指示胶带", "mobile phone 5": "手机用途", "protection film": "保护膜",
+  "clear film": "透明薄膜", "ps sheet": "PS片材", "aircraft use": "航空用途", "roll": "卷材", "rolls": "卷材",
+  "hdpe": "高密度聚乙烯", "shrink wrapped": "收缩包装", "color label": "彩色标签", "mfg use": "制造用途",
+  "film for printing": "印刷用薄膜", "print": "印刷", "fabric elastic": "弹性织物", "narrow woven": "窄幅织物",
+  "led tv": "LED电视", "parts": "零部件", "assembly component": "装配部件", "rubber adhesive tape": "橡胶胶粘带",
+  "led tv accessories": "LED电视配件", "tpe tape": "TPE胶带", "tv parts": "电视零部件", "rubber strip": "橡胶条",
+  "self - sticking tape": "自粘胶带", "plastic tape": "塑料胶带", "duo tape": "双面胶带", "tesa tape": "德莎胶带",
+  "pe protective film": "PE保护膜", "pe masking tape": "PE遮蔽胶带", "polyethylene masking film": "聚乙烯遮蔽膜",
+  "industrial masking film": "工业遮蔽膜", "pe covering film": "PE覆盖膜", "pre - protection film": "预保护膜",
+  "surface masking film": "表面遮蔽膜", "clear masking film": "透明遮蔽膜", "ps sheet protection film": "PS片材保护膜",
+  "temporary masking film": "临时遮蔽膜", "painter's tape": "涂装遮蔽胶带", "protective film": "保护膜",
+  "covering film": "覆盖膜", "surface protection film": "表面保护膜", "painter's tape film": "涂装遮蔽膜",
+  "protective masking film": "保护遮蔽膜", "construction masking film": "施工遮蔽膜", "decorative masking film": "装饰遮蔽膜",
+  "masking film with tape": "带胶带遮蔽膜", "pre - taped film for masking": "预贴胶带遮蔽膜",
+  "self - taped masking film": "自带胶遮蔽膜", "hdpe masking film": "HDPE遮蔽膜", "taped masking sheet": "带胶遮蔽片",
+  "plastic film mask": "塑料遮蔽膜", "masking plastic sheeting": "塑料遮蔽片材", "plastic protective film": "塑料保护膜",
+  "film masking": "薄膜遮蔽", "plastic covering film": "塑料覆盖膜", "masking plastic sheet": "塑料遮蔽片",
+  "film for masking": "遮蔽用薄膜", "plastic masking sheet": "塑料遮蔽片", "taped masking film": "带胶遮蔽膜",
+  "masking tape film": "胶带遮蔽膜", "pre - applied masking film": "预贴遮蔽膜", "adhesive masking film": "自粘遮蔽膜",
+  "rubber resin": "橡胶树脂", "tpe polymer": "TPE聚合物", "metal": "金属", "electronic components": "电子元件",
+  "plastic resin": "塑料树脂", "adhesive": "胶粘剂", "polymer": "聚合物", "additives": "添加剂",
+  "recycled plastic": "再生塑料", "polyethylene resin": "聚乙烯树脂", "plastic additives": "塑料添加剂",
+  "petroleum": "石油", "ethylene": "乙烯", "catalyst": "催化剂", "solvents": "溶剂", "pigments": "颜料",
+  "chemical additives": "化学添加剂", "base film material": "基膜材料", "high - density polyethylene resin": "高密度聚乙烯树脂",
+  "adhesive materials": "胶粘材料", "polymer raw materials": "聚合物原料", "tape backing materials": "胶带基材",
+  "plasticizer": "增塑剂", "colorant": "着色剂", "plastic raw material": "塑料原料", "plastic compound": "塑料配混料",
+  "film base material": "薄膜基材", "led tvs": "LED电视", "monitor": "显示器", "display devices": "显示设备",
+  "home appliances": "家用电器", "consumer electronics": "消费电子", "packaging": "包装", "labeling": "标签制作",
+  "crafts": "手工艺", "electronics assembly": "电子装配", "office use": "办公用途", "automotive painting": "汽车涂装",
+  "electronics manufacturing": "电子制造", "furniture production": "家具生产", "construction": "建筑施工", "metal processing": "金属加工",
+  "glass manufacturing": "玻璃制造", "aircraft manufacturing": "飞机制造", "aircraft maintenance": "飞机维护",
+  "industrial coating": "工业涂装", "construction painting": "建筑涂装", "painting projects": "涂装工程",
+  "construction sites": "施工现场", "automotive refinishing": "汽车修补涂装", "furniture manufacturing": "家具制造",
+  "decorative work": "装饰工程", "painting industry": "涂装行业", "construction projects": "建筑工程",
+  "diy home improvement": "家居DIY", "printing": "印刷", "electronics production": "电子生产",
+  "metal finishing": "金属表面处理", "furniture finishing": "家具涂装", "diy projects": "DIY项目",
+}));
+const localizeCategory = (value) => splitValues(value)
+  .map((item) => {
+    const translated = categoryTranslations.get(item.toLowerCase());
+    if (!translated) throw new Error(`未配置中文产品品类：${item}`);
+    return translated;
+  })
+  .join("；");
+const localizeCountry = (value) => {
+  const code = String(value || "").toUpperCase();
+  if (!code) return "未标明";
+  return countryTranslations.get(code) || `待补充中文（${code}）`;
+};
+const localizeProductTerms = (value) => splitValues(value)
+  .map((item) => productTermTranslations.get(item.toLowerCase()) || item)
+  .join("；");
 const emailStatusMap = (company) => new Map(splitValues(company.email_statuses).map((item) => {
   const separator = item.lastIndexOf(":");
   return separator > 0 ? [item.slice(0, separator).toLowerCase(), Number(item.slice(separator + 1))] : [item.toLowerCase(), 0];
@@ -93,7 +162,7 @@ const companiesWithPhoneOnly = companies.filter((_, index) => (
 const companiesWithNoValidContact = companies.length - companiesWithAnyValidContact;
 
 sheet.mergeCells("A1:N1");
-sheet.getRange("A1").values = [["Tape & Masking Film 全球客户总表"]];
+sheet.getRange("A1").values = [["胶带与遮蔽膜全球客户总表"]];
 sheet.mergeCells("A2:N2");
 sheet.getRange("A2").values = [[
   "一行一家公司 · 全球覆盖、欧美优先 · 来源：跨境魔方 OpenAPI + 官方网站核验 · 更新：2026-07-17",
@@ -131,10 +200,10 @@ const values = companies.map((company) => {
   return [
     company.research_status || "",
     company.market_priority || "",
-    company.categories || "",
+    localizeCategory(company.categories),
     String(company.company_id),
     company.company_name || "",
-    company.country_code || "",
+    localizeCountry(company.country_code),
     preferredEmail(company),
     null,
     preferredPhone(company),
@@ -158,13 +227,13 @@ const values = companies.map((company) => {
     company.socials || "",
     company.website_contact_method || "",
     company.email_statuses || "",
-    company.product_names || "",
-    company.product_tags || "",
+    localizeProductTerms(company.product_names),
+    localizeProductTerms(company.product_tags),
     company.product_descriptions || "",
-    company.product_aliases || "",
-    company.product_superordinate || "",
-    company.product_downstream || "",
-    company.search_terms || "",
+    localizeProductTerms(company.product_aliases),
+    localizeProductTerms(company.product_superordinate),
+    localizeProductTerms(company.product_downstream),
+    localizeCategory(company.search_terms),
     company.search_sources || "",
     company.contact_source || "",
     company.website_research_source || "",
@@ -337,23 +406,23 @@ guideSheet.getRange("A1:D1").format = {
 };
 guideSheet.getRange("A3:D3").values = [["字段", "人话解释", "来源/计算", "是否关键"]];
 const fieldHelp = {
-  "研究状态": "这家公司目前调研到哪一步", "市场优先级": "欧美优先或全球常规", "品类": "命中 tape 或 masking film",
-  "公司ID": "跨境魔方中的公司唯一编号", "公司名称": "公司名称；一行只放一家", "国家/地区": "公司国家二字码",
+  "研究状态": "这家公司目前调研到哪一步", "市场优先级": "欧美优先或全球常规", "产品品类（中文）": "胶带、遮蔽膜或两者都命中",
+  "公司ID": "跨境魔方中的公司唯一编号", "公司名称": "公司名称；一行只放一家", "国家/地区（中文）": "公司所在国家的中文名称",
   "首选邮箱": "优先取官网补充邮箱，否则取API/人物邮箱", "邮箱可用状态": "有效、无效、不确定或接口未能检测",
   "首选电话": "优先取官网电话，否则取API电话", "官网": "公司网站", "联系完整度": "按有效邮箱、有效电话、官网、社媒加权",
-  "跟进状态": "人工维护的销售进度", "负责人": "人工填写跟进人", "API地址": "跨境魔方返回的公司地址",
-  "官网核验地址": "官网或权威来源确认的地址", "经营范围": "公司经营或产品范围", "匹配贸易次数": "与本品类匹配的贸易记录数",
+  "跟进状态": "人工维护的销售进度", "负责人": "人工填写跟进人", "API地址（原文）": "跨境魔方返回的原始公司地址",
+  "官网核验地址（原文）": "官网或权威来源确认的原始地址", "经营范围（原文）": "API返回的公司经营或产品范围原文", "匹配贸易次数": "与本品类匹配的贸易记录数",
   "贸易总次数": "该公司全部贸易记录数", "匹配占比": "匹配贸易次数占总贸易次数", "最近贸易日期": "最近一笔相关贸易日期",
   "API邮箱": "海关公司API和审查后人物API获取的邮箱", "官网补充邮箱": "官网、政府或权威目录补充的邮箱",
   "API电话": "跨境魔方返回的电话", "官网补充电话": "官网、政府或权威目录补充的电话", "电话验证详情": "每个号码的有效状态、类型及WhatsApp状态",
   "WhatsApp": "明确识别的WhatsApp号码", "社交媒体": "LinkedIn等链接", "官网联系渠道": "官网表单、客服入口等",
-  "邮箱验证详情": "每个邮箱及状态码；1有效、2无效、3不确定、0未能检测", "产品名称": "API结构化产品名",
-  "产品标签": "API提取的产品关键词", "产品描述/命中证据": "原始报关品名；用于证明为何列入", "产品别名": "API返回的近义词",
-  "上游词": "API返回的上游关联词", "下游词": "API返回的下游关联词", "搜索词": "找到该公司的查询词",
+  "邮箱验证详情": "每个邮箱及状态码；1有效、2无效、3不确定、0未能检测", "产品名称": "API结构化产品名；已知词优先显示中文",
+  "产品标签": "API提取的产品关键词；已知词优先显示中文", "报关品名/命中证据（原文）": "原始报关品名；用于证明为何列入", "产品别名": "API返回的近义词；已知词优先显示中文",
+  "上游词": "API返回的上游关联词；已知词优先显示中文", "下游词": "API返回的下游关联词；已知词优先显示中文", "搜索词（中文）": "找到该公司的中文查询词",
   "搜索原始来源": "对应原始搜索文件", "API联系方式来源": "联系方式来自哪个API", "官网核验来源": "核验网页或权威文件链接",
   "官网核验说明": "人工核验结论、人物职位和排除原因", "最后核验日期": "本行最后一次数据核验日期",
 };
-const keyFields = new Set(["品类", "公司名称", "国家/地区", "首选邮箱", "邮箱可用状态", "首选电话", "电话验证详情", "官网", "产品描述/命中证据", "跟进状态"]);
+const keyFields = new Set(["产品品类（中文）", "公司名称", "国家/地区（中文）", "首选邮箱", "邮箱可用状态", "首选电话", "电话验证详情", "官网", "报关品名/命中证据（原文）", "跟进状态"]);
 guideSheet.getRange(`A4:D${headers.length + 3}`).values = headers.map((header) => [
   header, fieldHelp[header] || "辅助追溯字段", "API、官网或公式", keyFields.has(header) ? "关键" : "辅助/追溯",
 ]);
@@ -395,6 +464,26 @@ const costCheck = await workbook.inspect({
   maxChars: 5000,
 });
 console.log(costCheck.ndjson);
+
+const localizationCheck = await workbook.inspect({
+  kind: "table",
+  range: "客户总表!C6:F12",
+  include: "values",
+  tableMaxRows: 7,
+  tableMaxCols: 4,
+  maxChars: 3500,
+});
+console.log(localizationCheck.ndjson);
+
+const productLanguageCheck = await workbook.inspect({
+  kind: "table",
+  range: "客户总表!AD6:AJ12",
+  include: "values",
+  tableMaxRows: 7,
+  tableMaxCols: 7,
+  maxChars: 5000,
+});
+console.log(productLanguageCheck.ndjson);
 
 const previewA = await workbook.render({
   sheetName: "客户总表",
