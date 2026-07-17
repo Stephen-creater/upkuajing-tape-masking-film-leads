@@ -1,0 +1,124 @@
+{
+  "code": 0,
+  "msg": "success",
+  "data": {
+    "list": [
+      {
+        "email": "jtaub@pacoa.com",
+        "status": 3,
+        "reason": "[{550: b'5.7.1 Service unavailable, Client host [119.29.247.72] blocked using Spamhaus. To request removal from this list see https://www.spamhaus.org/query/ip/119.29.247.72 AS(1440) [BN3PEPF0000B374.namprd21.prod.outlook.com 2024-07-12T03:36:32.050Z 08DCA1E65F80C200]'}]"
+      },
+      {
+        "email": "support@frostking.com",
+        "status": 3,
+        "reason": "[{550: b'5.7.1 Service unavailable, Client host [43.138.195.128] blocked using Spamhaus. To request removal from this list see https://www.spamhaus.org/query/ip/43.138.195.128 AS(1450) [SJ5PEPF000001CB.namprd05.prod.outlook.com 2024-07-21T16:53:06.536Z 08DCA6782794B9D5]'}]"
+      },
+      {
+        "email": "r1@tplogix.com",
+        "status": 2,
+        "reason": "{\"invalid_input\":false,\"input\":[\"r1@tplogix.com\"],\"domainMap\":{\"tplogix.com\":\"r1@tplogix.com\"},\"results\":{\"tplogix.com\":{\"r1@tplogix.com\":{\"reason\":\"550-5.1.1 The email account that you tried to reach does not exist. Please try\\r\\n550-5.1.1 double-checking the recipient's email address for typos or\\r\\n550-5.1.1 unnecessary spaces. For more information, go to\\r\\n550 5.1.1  https://support.google.com/mail/?p=NoSuchUser d9443c01a7336-1f49b487b11si47414765ad.359 - gsmtp\\r\\n\",\"status\":550}}}}"
+      },
+      {
+        "email": "komal.neb@samsung.com",
+        "status": 2,
+        "reason": "邮箱地址错误-使用了无效字符或无效域"
+      },
+      {
+        "email": "hue.dt@honestcom.vn",
+        "status": 2,
+        "reason": "邮箱地址错误-使用了无效字符或无效域"
+      },
+      {
+        "email": "sales@divicon.com",
+        "status": 2,
+        "reason": "failed_domains"
+      },
+      {
+        "email": "sim291@hanmail.net",
+        "status": 2,
+        "reason": "邮箱地址错误-使用了无效字符或无效域"
+      },
+      {
+        "email": "privacidad@suzuki.com.mx",
+        "status": 2,
+        "reason": ""
+      },
+      {
+        "email": "info@haierindia.com",
+        "status": 3,
+        "reason": "[{550: b'5.7.1 Service unavailable, Client host [123.207.249.63] blocked using Spamhaus. To request removal from this list see https://www.spamhaus.org/query/ip/123.207.249.63 AS(1440) [HK3PEPF0000021E.apcprd03.prod.outlook.com 2024-07-24T12:49:52.510Z 08DCAAAE078242B2]'}]"
+      },
+      {
+        "email": "cosmotech@korea.com",
+        "status": 3,
+        "reason": "错误/超时"
+      },
+      {
+        "email": "aruna.sharma@vivoglobal.com",
+        "status": 3,
+        "reason": "[{550: b'5.7.1 Service unavailable, Client host [123.207.249.63] blocked using Spamhaus. To request removal from this list see https://www.spamhaus.org/query/ip/123.207.249.63 AS(1440) [SG2PEPF000B66CC.apcprd03.prod.outlook.com 2024-07-24T21:17:12.040Z 08DCAAEDDCA78B76]'}]"
+      },
+      {
+        "email": "contact.india@tesa.com",
+        "status": 2,
+        "reason": "{\"invalid_input\":false,\"input\":[\"contact.india@tesa.com\"],\"domainMap\":{\"tesa.com\":\"contact.india@tesa.com\"},\"results\":{\"tesa.com\":{\"contact.india@tesa.com\":{\"reason\":\"550 5.4.1 Recipient address rejected: Access denied. [AMS0EPF000001B1.eurprd05.prod.outlook.com 2023-09-12T13:48:46.253Z 08DBB31C425B7BAA]\\r\\n\",\"status\":550}}}}"
+      },
+      {
+        "email": "aipl.sunsui@ajitindustries.com",
+        "status": 2,
+        "reason": "邮箱地址错误-使用了无效字符或无效域"
+      },
+      {
+        "email": "info@modularfurniturebpl.com",
+        "status": 2,
+        "reason": "{\"invalid_input\":false,\"input\":[\"info@modularfurniturebpl.com\"],\"domainMap\":{\"modularfurniturebpl.com\":\"info@modularfurniturebpl.com\"},\"results\":{\"modularfurniturebpl.com\":{\"info@modularfurniturebpl.com\":{\"reason\":\"550 5.1.1 <info@modularfurniturebpl.com> User unknown\\r\\n\",\"status\":550}}}}"
+      },
+      {
+        "email": "bonded.gno@saint-gobain.com",
+        "status": 1,
+        "reason": ""
+      },
+      {
+        "email": "career@martfury.com",
+        "status": 2,
+        "reason": "failed_domains"
+      },
+      {
+        "email": "contact@martfury.com",
+        "status": 2,
+        "reason": "failed_domains"
+      },
+      {
+        "email": "customercare@martfury.com",
+        "status": 2,
+        "reason": "failed_domains"
+      },
+      {
+        "email": "info@superconduits.com",
+        "status": 2,
+        "reason": "{\"invalid_input\":false,\"input\":[\"info@superconduits.com\"],\"domainMap\":{\"superconduits.com\":\"info@superconduits.com\"},\"results\":{\"superconduits.com\":{\"info@superconduits.com\":{\"reason\":\"550 5.7.1 Service unavailable; client [136.143.177.51] blocked using hostkarma.junkemailfilter.com\\r\\n\",\"status\":550}}}}"
+      },
+      {
+        "email": "media@martfury.com",
+        "status": 2,
+        "reason": "failed_domains"
+      },
+      {
+        "email": "vendorsupport@martfury.com",
+        "status": 2,
+        "reason": "failed_domains"
+      },
+      {
+        "email": "jeff.smith@aquadynamicconsultancy.com",
+        "status": 2,
+        "reason": "邮箱地址错误-使用了无效字符或无效域"
+      }
+    ],
+    "total": 22
+  },
+  "fee": {
+    "apiCost": 220,
+    "accountBalance": 94830,
+    "uuid": "613117e7-56fb-41ad-95c9-0bd7e6183126"
+  }
+}

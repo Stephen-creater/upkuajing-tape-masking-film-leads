@@ -37,7 +37,10 @@
       "website_emails": "",
       "website_phones": "",
       "website_address": "",
-      "website_contact_method": ""
+      "website_contact_method": "",
+      "email_validation_reasons": "",
+      "email_validation_source": "UpKuajing /agent/validation/email (2026-07-17)",
+      "email_validation_summary": "有有效邮箱"
     },
     {
       "company_id": 13957403,
@@ -73,7 +76,10 @@
       "website_emails": "",
       "website_phones": "",
       "website_address": "",
-      "website_contact_method": ""
+      "website_contact_method": "",
+      "email_validation_reasons": "",
+      "email_validation_source": "UpKuajing /agent/validation/email (2026-07-17)",
+      "email_validation_summary": "有有效邮箱"
     },
     {
       "company_id": 229078,
@@ -96,7 +102,7 @@
       "product_superordinate": "",
       "product_downstream": "",
       "emails": "jtaub@pacoa.com",
-      "email_statuses": "jtaub@pacoa.com:0",
+      "email_statuses": "jtaub@pacoa.com:3",
       "phones": "+1 516-284-3000",
       "whatsapp": "",
       "websites": "www.pacoa.com",
@@ -109,7 +115,10 @@
       "website_emails": "",
       "website_phones": "888.284.3000; 516.284.3000",
       "website_address": "7 HARBOR PARK DR, PORT WASHINGTON, NY 11050, USA",
-      "website_contact_method": "Website inquiry form"
+      "website_contact_method": "Website inquiry form",
+      "email_validation_reasons": "jtaub@pacoa.com: [{550: b'5.7.1 Service unavailable, Client host [119.29.247.72] blocked using Spamhaus. To request removal from this list see https://www.spamhaus.org/query/ip/119.29.247.72 AS(1440) [BN3PEPF0000B374.namprd21.prod.outlook.com 2024-07-12T03:36:32.050Z 08DCA1E65F80C200]'}]",
+      "email_validation_source": "UpKuajing /agent/validation/email (2026-07-17)",
+      "email_validation_summary": "验证不确定-需官网补充"
     },
     {
       "company_id": 209484,
@@ -132,7 +141,7 @@
       "product_superordinate": "",
       "product_downstream": "",
       "emails": "support@frostking.com",
-      "email_statuses": "support@frostking.com:0",
+      "email_statuses": "support@frostking.com:3",
       "phones": "+1 201-684-4400",
       "whatsapp": "",
       "websites": "http://www.frostking.com/",
@@ -145,7 +154,10 @@
       "website_emails": "support@frostking.com",
       "website_phones": "201-684-4400; 775-331-5291",
       "website_address": "420 Route 17 South, Mahwah, NJ 07430, USA",
-      "website_contact_method": "Official email and website inquiry form"
+      "website_contact_method": "Official email and website inquiry form",
+      "email_validation_reasons": "support@frostking.com: [{550: b'5.7.1 Service unavailable, Client host [43.138.195.128] blocked using Spamhaus. To request removal from this list see https://www.spamhaus.org/query/ip/43.138.195.128 AS(1450) [SJ5PEPF000001CB.namprd05.prod.outlook.com 2024-07-21T16:53:06.536Z 08DCA6782794B9D5]'}]",
+      "email_validation_source": "UpKuajing /agent/validation/email (2026-07-17)",
+      "email_validation_summary": "验证不确定-需官网补充"
     },
     {
       "company_id": 71495262,
@@ -168,7 +180,7 @@
       "product_superordinate": "",
       "product_downstream": "",
       "emails": "r1@tplogix.com",
-      "email_statuses": "r1@tplogix.com:0",
+      "email_statuses": "r1@tplogix.com:2",
       "phones": "+1 562-474-8460; 5624748460",
       "whatsapp": "",
       "websites": "",
@@ -181,7 +193,10 @@
       "website_emails": "csr1@tplogix.com; csr5@tplogix.com",
       "website_phones": "562-474-8460",
       "website_address": "1901 HARRISON ST STE 1100, OAKLAND, CA 94612-3648, USA",
-      "website_contact_method": "Official customer-service emails, phone and inquiry form"
+      "website_contact_method": "Official customer-service emails, phone and inquiry form",
+      "email_validation_reasons": "r1@tplogix.com: {\"invalid_input\":false,\"input\":[\"r1@tplogix.com\"],\"domainMap\":{\"tplogix.com\":\"r1@tplogix.com\"},\"results\":{\"tplogix.com\":{\"r1@tplogix.com\":{\"reason\":\"550-5.1.1 The email account that you tried to reach does not exist. Please try\\r\\n550-5.1.1 double-checking the recipient's email address for typos or\\r\\n550-5.1.1 unnecessary spaces. For more information, go to\\r\\n550 5.1.1  https://support.google.com/mail/?p=NoSuchUser d9443c01a7336-1f49b487b11si47414765ad.359 - gsmtp\\r\\n\",\"status\":550}}}}",
+      "email_validation_source": "UpKuajing /agent/validation/email (2026-07-17)",
+      "email_validation_summary": "无有效邮箱-需官网补充"
     },
     {
       "company_id": 20189222,
@@ -217,7 +232,10 @@
       "website_emails": "",
       "website_phones": "",
       "website_address": "",
-      "website_contact_method": ""
+      "website_contact_method": "",
+      "email_validation_reasons": "",
+      "email_validation_source": "UpKuajing /agent/validation/email (2026-07-17)",
+      "email_validation_summary": "有有效邮箱"
     },
     {
       "company_id": 1945196,
@@ -253,7 +271,10 @@
       "website_emails": "",
       "website_phones": "",
       "website_address": "",
-      "website_contact_method": ""
+      "website_contact_method": "",
+      "email_validation_reasons": "",
+      "email_validation_source": "UpKuajing /agent/validation/email (2026-07-17)",
+      "email_validation_summary": "有有效邮箱"
     },
     {
       "company_id": 20189128,
@@ -276,7 +297,7 @@
       "product_superordinate": "",
       "product_downstream": "",
       "emails": "komal.neb@samsung.com",
-      "email_statuses": "komal.neb@samsung.com:0",
+      "email_statuses": "komal.neb@samsung.com:2",
       "phones": "+91 124 488 1234",
       "whatsapp": "",
       "websites": "www.samsung.com/in",
@@ -289,7 +310,10 @@
       "website_emails": "",
       "website_phones": "",
       "website_address": "",
-      "website_contact_method": ""
+      "website_contact_method": "",
+      "email_validation_reasons": "komal.neb@samsung.com: 邮箱地址错误-使用了无效字符或无效域",
+      "email_validation_source": "UpKuajing /agent/validation/email (2026-07-17)",
+      "email_validation_summary": "无有效邮箱-需官网补充"
     },
     {
       "company_id": 20195417,
@@ -325,7 +349,10 @@
       "website_emails": "",
       "website_phones": "",
       "website_address": "",
-      "website_contact_method": ""
+      "website_contact_method": "",
+      "email_validation_reasons": "",
+      "email_validation_source": "UpKuajing /agent/validation/email (2026-07-17)",
+      "email_validation_summary": "有有效邮箱"
     },
     {
       "company_id": 80133,
@@ -361,7 +388,10 @@
       "website_emails": "",
       "website_phones": "",
       "website_address": "",
-      "website_contact_method": ""
+      "website_contact_method": "",
+      "email_validation_reasons": "",
+      "email_validation_source": "UpKuajing /agent/validation/email (2026-07-17)",
+      "email_validation_summary": "有有效邮箱"
     },
     {
       "company_id": 4421112,
@@ -384,7 +414,7 @@
       "product_superordinate": "",
       "product_downstream": "",
       "emails": "hue.dt@honestcom.vn",
-      "email_statuses": "hue.dt@honestcom.vn:0",
+      "email_statuses": "hue.dt@honestcom.vn:2",
       "phones": "",
       "whatsapp": "",
       "websites": "",
@@ -397,7 +427,10 @@
       "website_emails": "",
       "website_phones": "",
       "website_address": "",
-      "website_contact_method": ""
+      "website_contact_method": "",
+      "email_validation_reasons": "hue.dt@honestcom.vn: 邮箱地址错误-使用了无效字符或无效域",
+      "email_validation_source": "UpKuajing /agent/validation/email (2026-07-17)",
+      "email_validation_summary": "无有效邮箱-需官网补充"
     },
     {
       "company_id": 369752,
@@ -420,7 +453,7 @@
       "product_superordinate": "",
       "product_downstream": "",
       "emails": "info@genuselectrotech.com; sales@divicon.com",
-      "email_statuses": "info@genuselectrotech.com:1; sales@divicon.com:0",
+      "email_statuses": "info@genuselectrotech.com:1; sales@divicon.com:2",
       "phones": "+91 2836 240 872; +91 99789 59714; +91 99789 59735",
       "whatsapp": "+91 99789 59714; +91 99789 59735",
       "websites": "www.genuselectrotech.co.in",
@@ -433,7 +466,10 @@
       "website_emails": "",
       "website_phones": "",
       "website_address": "",
-      "website_contact_method": ""
+      "website_contact_method": "",
+      "email_validation_reasons": "sales@divicon.com: failed_domains",
+      "email_validation_source": "UpKuajing /agent/validation/email (2026-07-17)",
+      "email_validation_summary": "有有效邮箱"
     },
     {
       "company_id": 67944548,
@@ -456,7 +492,7 @@
       "product_superordinate": "",
       "product_downstream": "",
       "emails": "sim291@hanmail.net",
-      "email_statuses": "sim291@hanmail.net:0",
+      "email_statuses": "sim291@hanmail.net:2",
       "phones": "+82 51-266-7110",
       "whatsapp": "",
       "websites": "",
@@ -469,7 +505,10 @@
       "website_emails": "",
       "website_phones": "",
       "website_address": "",
-      "website_contact_method": ""
+      "website_contact_method": "",
+      "email_validation_reasons": "sim291@hanmail.net: 邮箱地址错误-使用了无效字符或无效域",
+      "email_validation_source": "UpKuajing /agent/validation/email (2026-07-17)",
+      "email_validation_summary": "无有效邮箱-需官网补充"
     },
     {
       "company_id": 1005206,
@@ -505,7 +544,10 @@
       "website_emails": "",
       "website_phones": "",
       "website_address": "",
-      "website_contact_method": ""
+      "website_contact_method": "",
+      "email_validation_reasons": "",
+      "email_validation_source": "UpKuajing /agent/validation/email (2026-07-17)",
+      "email_validation_summary": "有有效邮箱"
     },
     {
       "company_id": 28403,
@@ -528,7 +570,7 @@
       "product_superordinate": "",
       "product_downstream": "",
       "emails": "privacidad@suzuki.com.mx",
-      "email_statuses": "privacidad@suzuki.com.mx:0",
+      "email_statuses": "privacidad@suzuki.com.mx:2",
       "phones": "+52 55 5365 2626",
       "whatsapp": "",
       "websites": "http://www.suzuki.com.mx/",
@@ -541,7 +583,10 @@
       "website_emails": "",
       "website_phones": "",
       "website_address": "",
-      "website_contact_method": ""
+      "website_contact_method": "",
+      "email_validation_reasons": "",
+      "email_validation_source": "UpKuajing /agent/validation/email (2026-07-17)",
+      "email_validation_summary": "无有效邮箱-需官网补充"
     },
     {
       "company_id": 368379,
@@ -564,7 +609,7 @@
       "product_superordinate": "",
       "product_downstream": "",
       "emails": "info@haierindia.com",
-      "email_statuses": "info@haierindia.com:0",
+      "email_statuses": "info@haierindia.com:3",
       "phones": "",
       "whatsapp": "",
       "websites": "www.haier.com",
@@ -577,7 +622,10 @@
       "website_emails": "",
       "website_phones": "",
       "website_address": "",
-      "website_contact_method": ""
+      "website_contact_method": "",
+      "email_validation_reasons": "info@haierindia.com: [{550: b'5.7.1 Service unavailable, Client host [123.207.249.63] blocked using Spamhaus. To request removal from this list see https://www.spamhaus.org/query/ip/123.207.249.63 AS(1440) [HK3PEPF0000021E.apcprd03.prod.outlook.com 2024-07-24T12:49:52.510Z 08DCAAAE078242B2]'}]",
+      "email_validation_source": "UpKuajing /agent/validation/email (2026-07-17)",
+      "email_validation_summary": "验证不确定-需官网补充"
     },
     {
       "company_id": 22316517,
@@ -613,7 +661,10 @@
       "website_emails": "",
       "website_phones": "",
       "website_address": "",
-      "website_contact_method": ""
+      "website_contact_method": "",
+      "email_validation_reasons": "",
+      "email_validation_source": "UpKuajing /agent/validation/email (2026-07-17)",
+      "email_validation_summary": "有有效邮箱"
     },
     {
       "company_id": 20410195,
@@ -649,7 +700,10 @@
       "website_emails": "",
       "website_phones": "",
       "website_address": "",
-      "website_contact_method": ""
+      "website_contact_method": "",
+      "email_validation_reasons": "",
+      "email_validation_source": "UpKuajing /agent/validation/email (2026-07-17)",
+      "email_validation_summary": "有有效邮箱"
     },
     {
       "company_id": 8206989,
@@ -685,7 +739,10 @@
       "website_emails": "",
       "website_phones": "",
       "website_address": "",
-      "website_contact_method": ""
+      "website_contact_method": "",
+      "email_validation_reasons": "",
+      "email_validation_source": "UpKuajing /agent/validation/email (2026-07-17)",
+      "email_validation_summary": "有有效邮箱"
     },
     {
       "company_id": 78071611,
@@ -708,7 +765,7 @@
       "product_superordinate": "Plastic resin; Adhesive; Polymer; Additives; Recycled plastic",
       "product_downstream": "Packaging; Labeling; Crafts; Electronics assembly; Office use",
       "emails": "cosmotech@korea.com",
-      "email_statuses": "cosmotech@korea.com:0",
+      "email_statuses": "cosmotech@korea.com:3",
       "phones": "+82 32-817-6552",
       "whatsapp": "",
       "websites": "",
@@ -721,7 +778,10 @@
       "website_emails": "",
       "website_phones": "",
       "website_address": "",
-      "website_contact_method": ""
+      "website_contact_method": "",
+      "email_validation_reasons": "cosmotech@korea.com: 错误/超时",
+      "email_validation_source": "UpKuajing /agent/validation/email (2026-07-17)",
+      "email_validation_summary": "验证不确定-需官网补充"
     },
     {
       "company_id": 5141777,
@@ -757,7 +817,10 @@
       "website_emails": "",
       "website_phones": "",
       "website_address": "",
-      "website_contact_method": ""
+      "website_contact_method": "",
+      "email_validation_reasons": "",
+      "email_validation_source": "UpKuajing /agent/validation/email (2026-07-17)",
+      "email_validation_summary": "有有效邮箱"
     },
     {
       "company_id": 20482013,
@@ -793,7 +856,10 @@
       "website_emails": "",
       "website_phones": "",
       "website_address": "",
-      "website_contact_method": ""
+      "website_contact_method": "",
+      "email_validation_reasons": "",
+      "email_validation_source": "UpKuajing /agent/validation/email (2026-07-17)",
+      "email_validation_summary": "有有效邮箱"
     },
     {
       "company_id": 86190,
@@ -816,7 +882,7 @@
       "product_superordinate": "",
       "product_downstream": "",
       "emails": "aruna.sharma@vivoglobal.com",
-      "email_statuses": "aruna.sharma@vivoglobal.com:0",
+      "email_statuses": "aruna.sharma@vivoglobal.com:3",
       "phones": "",
       "whatsapp": "",
       "websites": "",
@@ -829,7 +895,10 @@
       "website_emails": "",
       "website_phones": "",
       "website_address": "",
-      "website_contact_method": ""
+      "website_contact_method": "",
+      "email_validation_reasons": "aruna.sharma@vivoglobal.com: [{550: b'5.7.1 Service unavailable, Client host [123.207.249.63] blocked using Spamhaus. To request removal from this list see https://www.spamhaus.org/query/ip/123.207.249.63 AS(1440) [SG2PEPF000B66CC.apcprd03.prod.outlook.com 2024-07-24T21:17:12.040Z 08DCAAEDDCA78B76]'}]",
+      "email_validation_source": "UpKuajing /agent/validation/email (2026-07-17)",
+      "email_validation_summary": "验证不确定-需官网补充"
     },
     {
       "company_id": 20432358,
@@ -852,7 +921,7 @@
       "product_superordinate": "",
       "product_downstream": "",
       "emails": "contact.india@tesa.com",
-      "email_statuses": "contact.india@tesa.com:0",
+      "email_statuses": "contact.india@tesa.com:2",
       "phones": "",
       "whatsapp": "",
       "websites": "www.tesa.in",
@@ -865,7 +934,10 @@
       "website_emails": "",
       "website_phones": "",
       "website_address": "",
-      "website_contact_method": ""
+      "website_contact_method": "",
+      "email_validation_reasons": "contact.india@tesa.com: {\"invalid_input\":false,\"input\":[\"contact.india@tesa.com\"],\"domainMap\":{\"tesa.com\":\"contact.india@tesa.com\"},\"results\":{\"tesa.com\":{\"contact.india@tesa.com\":{\"reason\":\"550 5.4.1 Recipient address rejected: Access denied. [AMS0EPF000001B1.eurprd05.prod.outlook.com 2023-09-12T13:48:46.253Z 08DBB31C425B7BAA]\\r\\n\",\"status\":550}}}}",
+      "email_validation_source": "UpKuajing /agent/validation/email (2026-07-17)",
+      "email_validation_summary": "无有效邮箱-需官网补充"
     },
     {
       "company_id": 28739610,
@@ -901,7 +973,10 @@
       "website_emails": "",
       "website_phones": "",
       "website_address": "",
-      "website_contact_method": ""
+      "website_contact_method": "",
+      "email_validation_reasons": "",
+      "email_validation_source": "UpKuajing /agent/validation/email (2026-07-17)",
+      "email_validation_summary": "有有效邮箱"
     },
     {
       "company_id": 20208403,
@@ -937,7 +1012,10 @@
       "website_emails": "",
       "website_phones": "",
       "website_address": "",
-      "website_contact_method": ""
+      "website_contact_method": "",
+      "email_validation_reasons": "",
+      "email_validation_source": "UpKuajing /agent/validation/email (2026-07-17)",
+      "email_validation_summary": "有有效邮箱"
     },
     {
       "company_id": 22311398,
@@ -973,7 +1051,10 @@
       "website_emails": "",
       "website_phones": "",
       "website_address": "",
-      "website_contact_method": ""
+      "website_contact_method": "",
+      "email_validation_reasons": "",
+      "email_validation_source": "UpKuajing /agent/validation/email (2026-07-17)",
+      "email_validation_summary": "有有效邮箱"
     },
     {
       "company_id": 370961,
@@ -996,7 +1077,7 @@
       "product_superordinate": "",
       "product_downstream": "",
       "emails": "aipl.sunsui@ajitindustries.com; marketing@ajitindustries.com",
-      "email_statuses": "aipl.sunsui@ajitindustries.com:0; marketing@ajitindustries.com:1",
+      "email_statuses": "aipl.sunsui@ajitindustries.com:2; marketing@ajitindustries.com:1",
       "phones": "+91 11 4901 0101",
       "whatsapp": "",
       "websites": "http://www.ajitindustries.com/",
@@ -1009,7 +1090,10 @@
       "website_emails": "",
       "website_phones": "",
       "website_address": "",
-      "website_contact_method": ""
+      "website_contact_method": "",
+      "email_validation_reasons": "aipl.sunsui@ajitindustries.com: 邮箱地址错误-使用了无效字符或无效域",
+      "email_validation_source": "UpKuajing /agent/validation/email (2026-07-17)",
+      "email_validation_summary": "有有效邮箱"
     },
     {
       "company_id": 27951674,
@@ -1032,7 +1116,7 @@
       "product_superordinate": "High - density polyethylene resin; Plastic additives; Adhesive materials; Polymer raw materials; Tape backing materials",
       "product_downstream": "Painting industry; Automotive refinishing; Construction projects; Furniture manufacturing; DIY home improvement",
       "emails": "info@modularfurniturebpl.com; pryentp@hotmail.com",
-      "email_statuses": "info@modularfurniturebpl.com:0; pryentp@hotmail.com:1",
+      "email_statuses": "info@modularfurniturebpl.com:2; pryentp@hotmail.com:1",
       "phones": "919425; +91 94250 08422; +91 94250 08433; +91 94250 26178",
       "whatsapp": "+91 94250 08422; +91 94250 26178",
       "websites": "modularfurniturebpl.com",
@@ -1045,7 +1129,10 @@
       "website_emails": "",
       "website_phones": "",
       "website_address": "",
-      "website_contact_method": ""
+      "website_contact_method": "",
+      "email_validation_reasons": "info@modularfurniturebpl.com: {\"invalid_input\":false,\"input\":[\"info@modularfurniturebpl.com\"],\"domainMap\":{\"modularfurniturebpl.com\":\"info@modularfurniturebpl.com\"},\"results\":{\"modularfurniturebpl.com\":{\"info@modularfurniturebpl.com\":{\"reason\":\"550 5.1.1 <info@modularfurniturebpl.com> User unknown\\r\\n\",\"status\":550}}}}",
+      "email_validation_source": "UpKuajing /agent/validation/email (2026-07-17)",
+      "email_validation_summary": "有有效邮箱"
     },
     {
       "company_id": 20199535,
@@ -1081,7 +1168,10 @@
       "website_emails": "",
       "website_phones": "",
       "website_address": "",
-      "website_contact_method": ""
+      "website_contact_method": "",
+      "email_validation_reasons": "",
+      "email_validation_source": "UpKuajing /agent/validation/email (2026-07-17)",
+      "email_validation_summary": "有有效邮箱"
     },
     {
       "company_id": 168017,
@@ -1104,7 +1194,7 @@
       "product_superordinate": "Plastic resin; Polymer; Additives; Plastic raw material; Plastic compound",
       "product_downstream": "Automotive painting; Furniture manufacturing; Electronics production; Construction painting; Metal finishing",
       "emails": "bonded.gno@saint-gobain.com",
-      "email_statuses": "bonded.gno@saint-gobain.com:0",
+      "email_statuses": "bonded.gno@saint-gobain.com:1",
       "phones": "+91 22 4021 2121",
       "whatsapp": "",
       "websites": "http://www.grindwellnorton.co.in/",
@@ -1117,7 +1207,10 @@
       "website_emails": "",
       "website_phones": "",
       "website_address": "",
-      "website_contact_method": ""
+      "website_contact_method": "",
+      "email_validation_reasons": "",
+      "email_validation_source": "UpKuajing /agent/validation/email (2026-07-17)",
+      "email_validation_summary": "有有效邮箱"
     },
     {
       "company_id": 22315229,
@@ -1153,7 +1246,10 @@
       "website_emails": "",
       "website_phones": "",
       "website_address": "",
-      "website_contact_method": ""
+      "website_contact_method": "",
+      "email_validation_reasons": "",
+      "email_validation_source": "UpKuajing /agent/validation/email (2026-07-17)",
+      "email_validation_summary": "有有效邮箱"
     },
     {
       "company_id": 28930762,
@@ -1176,7 +1272,7 @@
       "product_superordinate": "Plastic Resin; Adhesive; Polymer; Film Base Material; Tape",
       "product_downstream": "Automotive Painting; Furniture Finishing; Construction Painting; DIY Projects; Industrial Coating",
       "emails": "career@martfury.com; contact@martfury.com; customercare@martfury.com; info@superconduits.com; media@martfury.com; vendorsupport@martfury.com",
-      "email_statuses": "career@martfury.com:0; contact@martfury.com:0; customercare@martfury.com:0; info@superconduits.com:0; media@martfury.com:0; vendorsupport@martfury.com:0",
+      "email_statuses": "career@martfury.com:2; contact@martfury.com:2; customercare@martfury.com:2; info@superconduits.com:2; media@martfury.com:2; vendorsupport@martfury.com:2",
       "phones": "",
       "whatsapp": "",
       "websites": "superconduits.com",
@@ -1189,7 +1285,10 @@
       "website_emails": "",
       "website_phones": "",
       "website_address": "",
-      "website_contact_method": ""
+      "website_contact_method": "",
+      "email_validation_reasons": "career@martfury.com: failed_domains; contact@martfury.com: failed_domains; customercare@martfury.com: failed_domains; info@superconduits.com: {\"invalid_input\":false,\"input\":[\"info@superconduits.com\"],\"domainMap\":{\"superconduits.com\":\"info@superconduits.com\"},\"results\":{\"superconduits.com\":{\"info@superconduits.com\":{\"reason\":\"550 5.7.1 Service unavailable; client [136.143.177.51] blocked using hostkarma.junkemailfilter.com\\r\\n\",\"status\":550}}}}; media@martfury.com: failed_domains; vendorsupport@martfury.com: failed_domains",
+      "email_validation_source": "UpKuajing /agent/validation/email (2026-07-17)",
+      "email_validation_summary": "无有效邮箱-需官网补充"
     },
     {
       "company_id": 67078,
@@ -1212,7 +1311,7 @@
       "product_superordinate": "",
       "product_downstream": "",
       "emails": "jeff.smith@aquadynamicconsultancy.com",
-      "email_statuses": "jeff.smith@aquadynamicconsultancy.com:0",
+      "email_statuses": "jeff.smith@aquadynamicconsultancy.com:2",
       "phones": "",
       "whatsapp": "",
       "websites": "http://www.aquadynamicconsultancy.com",
@@ -1225,7 +1324,10 @@
       "website_emails": "",
       "website_phones": "",
       "website_address": "",
-      "website_contact_method": ""
+      "website_contact_method": "",
+      "email_validation_reasons": "jeff.smith@aquadynamicconsultancy.com: 邮箱地址错误-使用了无效字符或无效域",
+      "email_validation_source": "UpKuajing /agent/validation/email (2026-07-17)",
+      "email_validation_summary": "无有效邮箱-需官网补充"
     },
     {
       "company_id": 381348,
@@ -1261,7 +1363,10 @@
       "website_emails": "",
       "website_phones": "",
       "website_address": "",
-      "website_contact_method": ""
+      "website_contact_method": "",
+      "email_validation_reasons": "",
+      "email_validation_source": "UpKuajing /agent/validation/email (2026-07-17)",
+      "email_validation_summary": "有有效邮箱"
     }
   ]
 }
