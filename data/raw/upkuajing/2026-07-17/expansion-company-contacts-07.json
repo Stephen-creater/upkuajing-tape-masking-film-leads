@@ -1,0 +1,1363 @@
+{
+  "code": 0,
+  "msg": "success",
+  "data": {
+    "list": [
+      {
+        "companyId": 20430327,
+        "contact_data": {
+          "emails": [
+            {
+              "val": "cbenoit@cl.loreal.com",
+              "is_valid": 0,
+              "reason": ""
+            }
+          ],
+          "phones": [
+            {
+              "val": "56981984488",
+              "is_valid": 1,
+              "is_ws": 1,
+              "phone_type": 3,
+              "country_code": "56",
+              "dialing_code": null,
+              "area_code": "",
+              "telephone": "981984488",
+              "national_number": "9 8198 4488",
+              "international_number": "+56 9 8198 4488"
+            }
+          ],
+          "socials": [
+            {
+              "val": "https://www.facebook.com/lorealgroupe",
+              "social_url": "lorealgroupe",
+              "social_type": "facebook",
+              "is_valid": null,
+              "reason": null
+            },
+            {
+              "val": "https://www.instagram.com/lorealgroupe",
+              "social_url": "lorealgroupe",
+              "social_type": "instagram",
+              "is_valid": null,
+              "reason": null
+            },
+            {
+              "val": "https://www.linkedin.com/company/1662?trk=tyah",
+              "social_url": "company/1662?trk=tyah",
+              "social_type": "linkedin",
+              "is_valid": null,
+              "reason": null
+            },
+            {
+              "val": "https://twitter.com/lorealgroupe?lang=en",
+              "social_url": "lorealgroupe?lang=en",
+              "social_type": "twitter",
+              "is_valid": null,
+              "reason": null
+            },
+            {
+              "val": "https://www.youtube.com/channel/UCgmvz6qxtga4W6n1mfmM0Zw",
+              "social_url": "channel/UCgmvz6qxtga4W6n1mfmM0Zw",
+              "social_type": "youtube",
+              "is_valid": null,
+              "reason": null
+            }
+          ],
+          "websites": [
+            {
+              "val": "www.loreal.com",
+              "is_valid": 0,
+              "is_sensitive": null,
+              "reason": null
+            }
+          ]
+        }
+      },
+      {
+        "companyId": 20427300,
+        "contact_data": {
+          "emails": [
+            {
+              "val": "javier.bravo@relianz.com.co",
+              "is_valid": 1,
+              "reason": ""
+            }
+          ],
+          "phones": [
+            {
+              "val": "5753361200",
+              "is_valid": 2,
+              "is_ws": 2,
+              "phone_type": 0,
+              "country_code": "57",
+              "dialing_code": null,
+              "area_code": "",
+              "telephone": "",
+              "national_number": "",
+              "international_number": ""
+            }
+          ],
+          "socials": [
+            {
+              "val": "https://www.facebook.com/RELIANZCAT",
+              "social_url": "RELIANZCAT",
+              "social_type": "facebook",
+              "is_valid": null,
+              "reason": null
+            },
+            {
+              "val": "https://www.instagram.com/relianzcat",
+              "social_url": "relianzcat",
+              "social_type": "instagram",
+              "is_valid": null,
+              "reason": null
+            },
+            {
+              "val": "https://www.linkedin.com/company/relianz-mining-solutions",
+              "social_url": "company/relianz-mining-solutions",
+              "social_type": "linkedin",
+              "is_valid": null,
+              "reason": null
+            },
+            {
+              "val": "https://www.youtube.com/watch?v=LIR6szz5MZg&t=1s",
+              "social_url": "watch?v=LIR6szz5MZg&t=1s",
+              "social_type": "youtube",
+              "is_valid": null,
+              "reason": null
+            }
+          ],
+          "websites": [
+            {
+              "val": "www.relianzcat.com",
+              "is_valid": 0,
+              "is_sensitive": null,
+              "reason": null
+            }
+          ]
+        }
+      },
+      {
+        "companyId": 20429512,
+        "contact_data": {
+          "emails": [
+            {
+              "val": "fernando.dussanmejia@bsci.com",
+              "is_valid": 1,
+              "reason": ""
+            }
+          ],
+          "phones": [
+            {
+              "val": "5716295045",
+              "is_valid": 2,
+              "is_ws": 2,
+              "phone_type": 0,
+              "country_code": "57",
+              "dialing_code": null,
+              "area_code": "",
+              "telephone": "",
+              "national_number": "",
+              "international_number": ""
+            }
+          ],
+          "socials": [
+            {
+              "val": "https://www.facebook.com/BostonScientific",
+              "social_url": "BostonScientific",
+              "social_type": "facebook",
+              "is_valid": null,
+              "reason": null
+            },
+            {
+              "val": "https://www.linkedin.com/company/boston-scientific",
+              "social_url": "company/boston-scientific",
+              "social_type": "linkedin",
+              "is_valid": null,
+              "reason": null
+            },
+            {
+              "val": "https://twitter.com/bostonsci",
+              "social_url": "bostonsci",
+              "social_type": "twitter",
+              "is_valid": null,
+              "reason": null
+            }
+          ],
+          "websites": [
+            {
+              "val": "www.bostonscientific.com",
+              "is_valid": 0,
+              "is_sensitive": null,
+              "reason": null
+            }
+          ]
+        }
+      },
+      {
+        "companyId": 20428996,
+        "contact_data": {
+          "emails": [
+            {
+              "val": "brenda.chavez@henkel.com",
+              "is_valid": 0,
+              "reason": ""
+            }
+          ],
+          "phones": [],
+          "socials": [
+            {
+              "val": "https://www.facebook.com/HenkelLatinoamerica",
+              "social_url": "HenkelLatinoamerica",
+              "social_type": "facebook",
+              "is_valid": null,
+              "reason": null
+            },
+            {
+              "val": "https://www.instagram.com/henkel",
+              "social_url": "henkel",
+              "social_type": "instagram",
+              "is_valid": null,
+              "reason": null
+            },
+            {
+              "val": "https://www.linkedin.com/company/henkel?trk=hb_tab_compy_id_258644",
+              "social_url": "company/henkel?trk=hb_tab_compy_id_258644",
+              "social_type": "linkedin",
+              "is_valid": null,
+              "reason": null
+            },
+            {
+              "val": "https://twitter.com/henkel",
+              "social_url": "henkel",
+              "social_type": "twitter",
+              "is_valid": null,
+              "reason": null
+            },
+            {
+              "val": "https://www.youtube.com/henkel",
+              "social_url": "henkel",
+              "social_type": "youtube",
+              "is_valid": null,
+              "reason": null
+            }
+          ],
+          "websites": [
+            {
+              "val": "www.henkel.com.mx",
+              "is_valid": 0,
+              "is_sensitive": null,
+              "reason": null
+            }
+          ]
+        }
+      },
+      {
+        "companyId": 20427347,
+        "contact_data": {
+          "emails": [
+            {
+              "val": "contador@durespo.com.co",
+              "is_valid": 1,
+              "reason": ""
+            }
+          ],
+          "phones": [
+            {
+              "val": "573104345271",
+              "is_valid": 1,
+              "is_ws": 1,
+              "phone_type": 2,
+              "country_code": "57",
+              "dialing_code": null,
+              "area_code": "",
+              "telephone": "3104345271",
+              "national_number": "310 4345271",
+              "international_number": "+57 310 4345271"
+            }
+          ],
+          "socials": [
+            {
+              "val": "https://www.facebook.com/durespo",
+              "social_url": "durespo",
+              "social_type": "facebook",
+              "is_valid": null,
+              "reason": null
+            },
+            {
+              "val": "https://www.instagram.com/durespo",
+              "social_url": "durespo",
+              "social_type": "instagram",
+              "is_valid": null,
+              "reason": null
+            },
+            {
+              "val": "https://twitter.com/durespo",
+              "social_url": "durespo",
+              "social_type": "twitter",
+              "is_valid": null,
+              "reason": null
+            },
+            {
+              "val": "https://www.youtube.com/user/Durespo",
+              "social_url": "user/Durespo",
+              "social_type": "youtube",
+              "is_valid": null,
+              "reason": null
+            }
+          ],
+          "websites": [
+            {
+              "val": "www.durespo.com.co",
+              "is_valid": 0,
+              "is_sensitive": null,
+              "reason": null
+            }
+          ]
+        }
+      },
+      {
+        "companyId": 20428832,
+        "contact_data": {
+          "emails": [
+            {
+              "val": "kupfer@kupfer.cl",
+              "is_valid": 1,
+              "reason": ""
+            }
+          ],
+          "phones": [
+            {
+              "val": "56223515000",
+              "is_valid": 1,
+              "is_ws": 2,
+              "phone_type": 3,
+              "country_code": "56",
+              "dialing_code": null,
+              "area_code": "2",
+              "telephone": "2351 5000",
+              "national_number": "(2) 2351 5000",
+              "international_number": "+56 2 2351 5000"
+            },
+            {
+              "val": "56223515055",
+              "is_valid": 1,
+              "is_ws": 2,
+              "phone_type": 3,
+              "country_code": "56",
+              "dialing_code": null,
+              "area_code": "2",
+              "telephone": "2351 5055",
+              "national_number": "(2) 2351 5055",
+              "international_number": "+56 2 2351 5055"
+            },
+            {
+              "val": "566003200555",
+              "is_valid": 1,
+              "is_ws": 2,
+              "phone_type": 3,
+              "country_code": "56",
+              "dialing_code": null,
+              "area_code": "",
+              "telephone": "6003200555",
+              "national_number": "600 320 0555",
+              "international_number": "+56 600 320 0555"
+            }
+          ],
+          "socials": [
+            {
+              "val": "https://www.facebook.com/kupferchile",
+              "social_url": "kupferchile",
+              "social_type": "facebook",
+              "is_valid": null,
+              "reason": null
+            },
+            {
+              "val": "https://www.linkedin.com/company/kupfer-hnos.-s.-a.",
+              "social_url": "company/kupfer-hnos.-s.-a.",
+              "social_type": "linkedin",
+              "is_valid": null,
+              "reason": null
+            },
+            {
+              "val": "https://twitter.com/KUPFER_CHILE",
+              "social_url": "KUPFER_CHILE",
+              "social_type": "twitter",
+              "is_valid": null,
+              "reason": null
+            },
+            {
+              "val": "https://www.youtube.com/channel/UC8qyQjqCwEd_p0n4aq0HZJw?view_as=subscriber ",
+              "social_url": "channel/UC8qyQjqCwEd_p0n4aq0HZJw?view_as=subscriber ",
+              "social_type": "youtube",
+              "is_valid": null,
+              "reason": null
+            }
+          ],
+          "websites": [
+            {
+              "val": "www.kupfer.cl",
+              "is_valid": 0,
+              "is_sensitive": null,
+              "reason": null
+            }
+          ]
+        }
+      },
+      {
+        "companyId": 20429106,
+        "contact_data": {
+          "emails": [
+            {
+              "val": "contabilidad@suzuki.com",
+              "is_valid": 0,
+              "reason": ""
+            },
+            {
+              "val": "contabilidad@suzuki.com.co",
+              "is_valid": 1,
+              "reason": ""
+            },
+            {
+              "val": "servicioalcliente@suzuki.com",
+              "is_valid": 0,
+              "reason": ""
+            }
+          ],
+          "phones": [
+            {
+              "val": "573104517242",
+              "is_valid": 1,
+              "is_ws": 1,
+              "phone_type": 2,
+              "country_code": "57",
+              "dialing_code": null,
+              "area_code": "",
+              "telephone": "3104517242",
+              "national_number": "310 4517242",
+              "international_number": "+57 310 4517242"
+            }
+          ],
+          "socials": [
+            {
+              "val": "https://www.facebook.com/SuzukiColombia",
+              "social_url": "SuzukiColombia",
+              "social_type": "facebook",
+              "is_valid": null,
+              "reason": null
+            },
+            {
+              "val": "https://www.instagram.com/suzuki_colombia",
+              "social_url": "suzuki_colombia",
+              "social_type": "instagram",
+              "is_valid": null,
+              "reason": null
+            },
+            {
+              "val": "https://twitter.com/suzuki_colombia",
+              "social_url": "suzuki_colombia",
+              "social_type": "twitter",
+              "is_valid": null,
+              "reason": null
+            },
+            {
+              "val": "https://www.youtube.com/user/SuzukiCol1",
+              "social_url": "user/SuzukiCol1",
+              "social_type": "youtube",
+              "is_valid": null,
+              "reason": null
+            }
+          ],
+          "websites": [
+            {
+              "val": "www.suzuki.com.co",
+              "is_valid": 0,
+              "is_sensitive": null,
+              "reason": null
+            }
+          ]
+        }
+      },
+      {
+        "companyId": 20429557,
+        "contact_data": {
+          "emails": [
+            {
+              "val": "laboral@inacap.cl",
+              "is_valid": 1,
+              "reason": ""
+            }
+          ],
+          "phones": [
+            {
+              "val": "56978234335",
+              "is_valid": 1,
+              "is_ws": 2,
+              "phone_type": 3,
+              "country_code": "56",
+              "dialing_code": null,
+              "area_code": "",
+              "telephone": "978234335",
+              "national_number": "9 7823 4335",
+              "international_number": "+56 9 7823 4335"
+            }
+          ],
+          "socials": [
+            {
+              "val": "https://www.youtube.com/watch?v=Yo2nHomLLfM",
+              "social_url": "watch?v=Yo2nHomLLfM",
+              "social_type": "youtube",
+              "is_valid": null,
+              "reason": null
+            }
+          ],
+          "websites": [
+            {
+              "val": "decathlon.trabajando.cl",
+              "is_valid": 0,
+              "is_sensitive": null,
+              "reason": null
+            }
+          ]
+        }
+      },
+      {
+        "companyId": 20430971,
+        "contact_data": {
+          "emails": [
+            {
+              "val": "radhika.baliga@jungheinrich.in",
+              "is_valid": 1,
+              "reason": ""
+            }
+          ],
+          "phones": [
+            {
+              "val": "02225727900",
+              "is_valid": 2,
+              "is_ws": 0,
+              "phone_type": 0,
+              "country_code": "",
+              "dialing_code": null,
+              "area_code": "",
+              "telephone": "",
+              "national_number": "",
+              "international_number": ""
+            },
+            {
+              "val": "912225727900",
+              "is_valid": 1,
+              "is_ws": 2,
+              "phone_type": 1,
+              "country_code": "91",
+              "dialing_code": null,
+              "area_code": "",
+              "telephone": "2225727900",
+              "national_number": "022 2572 7900",
+              "international_number": "+91 22 2572 7900"
+            }
+          ],
+          "socials": [
+            {
+              "val": "https://www.facebook.com/Jungheinrich",
+              "social_url": "Jungheinrich",
+              "social_type": "facebook",
+              "is_valid": null,
+              "reason": null
+            },
+            {
+              "val": "https://www.instagram.com/jungheinrich_india",
+              "social_url": "jungheinrich_india",
+              "social_type": "instagram",
+              "is_valid": null,
+              "reason": null
+            },
+            {
+              "val": "https://www.linkedin.com/company/13617540/admin",
+              "social_url": "company/13617540/admin",
+              "social_type": "linkedin",
+              "is_valid": null,
+              "reason": null
+            },
+            {
+              "val": "https://www.youtube.com/channel/UCbLyz_vUPRPxonS8enDfqVg",
+              "social_url": "channel/UCbLyz_vUPRPxonS8enDfqVg",
+              "social_type": "youtube",
+              "is_valid": null,
+              "reason": null
+            }
+          ],
+          "websites": [
+            {
+              "val": "jungheinrich.in",
+              "is_valid": 3,
+              "is_sensitive": null,
+              "reason": null
+            }
+          ]
+        }
+      },
+      {
+        "companyId": 20428101,
+        "contact_data": {
+          "emails": [
+            {
+              "val": "andres.fuse@autogermana.com.co",
+              "is_valid": 1,
+              "reason": ""
+            }
+          ],
+          "phones": [
+            {
+              "val": "5712573713",
+              "is_valid": 2,
+              "is_ws": 2,
+              "phone_type": 0,
+              "country_code": "",
+              "dialing_code": null,
+              "area_code": "",
+              "telephone": "",
+              "national_number": "",
+              "international_number": ""
+            },
+            {
+              "val": "5713170060",
+              "is_valid": 2,
+              "is_ws": 2,
+              "phone_type": 0,
+              "country_code": "",
+              "dialing_code": null,
+              "area_code": "",
+              "telephone": "",
+              "national_number": "",
+              "international_number": ""
+            },
+            {
+              "val": "5714464900",
+              "is_valid": 2,
+              "is_ws": 2,
+              "phone_type": 0,
+              "country_code": "57",
+              "dialing_code": null,
+              "area_code": "",
+              "telephone": "",
+              "national_number": "",
+              "international_number": ""
+            },
+            {
+              "val": "5716167753",
+              "is_valid": 2,
+              "is_ws": 2,
+              "phone_type": 0,
+              "country_code": "",
+              "dialing_code": null,
+              "area_code": "",
+              "telephone": "",
+              "national_number": "",
+              "international_number": ""
+            },
+            {
+              "val": "5716578080",
+              "is_valid": 2,
+              "is_ws": 2,
+              "phone_type": 0,
+              "country_code": "",
+              "dialing_code": null,
+              "area_code": "",
+              "telephone": "",
+              "national_number": "",
+              "international_number": ""
+            },
+            {
+              "val": "57231269323436",
+              "is_valid": 2,
+              "is_ws": 2,
+              "phone_type": 0,
+              "country_code": "",
+              "dialing_code": null,
+              "area_code": "",
+              "telephone": "",
+              "national_number": "",
+              "international_number": ""
+            },
+            {
+              "val": "5723211242",
+              "is_valid": 2,
+              "is_ws": 2,
+              "phone_type": 0,
+              "country_code": "",
+              "dialing_code": null,
+              "area_code": "",
+              "telephone": "",
+              "national_number": "",
+              "international_number": ""
+            },
+            {
+              "val": "5742320232",
+              "is_valid": 2,
+              "is_ws": 2,
+              "phone_type": 0,
+              "country_code": "",
+              "dialing_code": null,
+              "area_code": "",
+              "telephone": "",
+              "national_number": "",
+              "international_number": ""
+            },
+            {
+              "val": "5742329086",
+              "is_valid": 2,
+              "is_ws": 2,
+              "phone_type": 0,
+              "country_code": "",
+              "dialing_code": null,
+              "area_code": "",
+              "telephone": "",
+              "national_number": "",
+              "international_number": ""
+            },
+            {
+              "val": "5753670150",
+              "is_valid": 2,
+              "is_ws": 2,
+              "phone_type": 0,
+              "country_code": "",
+              "dialing_code": null,
+              "area_code": "",
+              "telephone": "",
+              "national_number": "",
+              "international_number": ""
+            },
+            {
+              "val": "5763400091",
+              "is_valid": 2,
+              "is_ws": 2,
+              "phone_type": 0,
+              "country_code": "",
+              "dialing_code": null,
+              "area_code": "",
+              "telephone": "",
+              "national_number": "",
+              "international_number": ""
+            },
+            {
+              "val": "5763400563",
+              "is_valid": 2,
+              "is_ws": 2,
+              "phone_type": 0,
+              "country_code": "",
+              "dialing_code": null,
+              "area_code": "",
+              "telephone": "",
+              "national_number": "",
+              "international_number": ""
+            },
+            {
+              "val": "5766474737",
+              "is_valid": 2,
+              "is_ws": 2,
+              "phone_type": 0,
+              "country_code": "",
+              "dialing_code": null,
+              "area_code": "",
+              "telephone": "",
+              "national_number": "",
+              "international_number": ""
+            },
+            {
+              "val": "5782770580",
+              "is_valid": 2,
+              "is_ws": 2,
+              "phone_type": 0,
+              "country_code": "",
+              "dialing_code": null,
+              "area_code": "",
+              "telephone": "",
+              "national_number": "",
+              "international_number": ""
+            }
+          ],
+          "socials": [
+            {
+              "val": "https://www.facebook.com/BMW.Colombia",
+              "social_url": "BMW.Colombia",
+              "social_type": "facebook",
+              "is_valid": null,
+              "reason": null
+            },
+            {
+              "val": "https://www.instagram.com/bmw.colombia",
+              "social_url": "bmw.colombia",
+              "social_type": "instagram",
+              "is_valid": null,
+              "reason": null
+            },
+            {
+              "val": "https://www.instagram.com/bmw.colombia?igshid=YmMyMTA2M2Y=",
+              "social_url": "bmw.colombia?igshid=YmMyMTA2M2Y=",
+              "social_type": "instagram",
+              "is_valid": null,
+              "reason": null
+            },
+            {
+              "val": "https://twitter.com/bmwcolombia?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor",
+              "social_url": "bmwcolombia?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor",
+              "social_type": "twitter",
+              "is_valid": null,
+              "reason": null
+            },
+            {
+              "val": "https://www.youtube.com/channel/UCyREd5zP3yP_zEslhzRaomQ",
+              "social_url": "channel/UCyREd5zP3yP_zEslhzRaomQ",
+              "social_type": "youtube",
+              "is_valid": null,
+              "reason": null
+            }
+          ],
+          "websites": [
+            {
+              "val": "www.bmw.com.co",
+              "is_valid": 0,
+              "is_sensitive": null,
+              "reason": null
+            }
+          ]
+        }
+      },
+      {
+        "companyId": 20428354,
+        "contact_data": {
+          "emails": [
+            {
+              "val": "info@aas.cl",
+              "is_valid": 0,
+              "reason": ""
+            }
+          ],
+          "phones": [
+            {
+              "val": "56322993338",
+              "is_valid": 1,
+              "is_ws": 2,
+              "phone_type": 3,
+              "country_code": "56",
+              "dialing_code": null,
+              "area_code": "32",
+              "telephone": "299 3338",
+              "national_number": "(32) 299 3338",
+              "international_number": "+56 32 299 3338"
+            }
+          ],
+          "socials": [
+            {
+              "val": "https://www.facebook.com/3M",
+              "social_url": "3M",
+              "social_type": "facebook",
+              "is_valid": null,
+              "reason": null
+            },
+            {
+              "val": "https://www.instagram.com/3mlatinoamerica",
+              "social_url": "3mlatinoamerica",
+              "social_type": "instagram",
+              "is_valid": null,
+              "reason": null
+            },
+            {
+              "val": "https://www.linkedin.com/company/3m",
+              "social_url": "company/3m",
+              "social_type": "linkedin",
+              "is_valid": null,
+              "reason": null
+            },
+            {
+              "val": "https://www.youtube.com/c/3MCorporate",
+              "social_url": "c/3MCorporate",
+              "social_type": "youtube",
+              "is_valid": null,
+              "reason": null
+            }
+          ],
+          "websites": [
+            {
+              "val": "www.3m.cl",
+              "is_valid": 0,
+              "is_sensitive": null,
+              "reason": null
+            }
+          ]
+        }
+      },
+      {
+        "companyId": 20428563,
+        "contact_data": {
+          "emails": [
+            {
+              "val": "contacto@marinasilcer.com",
+              "is_valid": 0,
+              "reason": ""
+            },
+            {
+              "val": "contacto@silcer.com",
+              "is_valid": 0,
+              "reason": ""
+            },
+            {
+              "val": "contacto@silcer.com.mx",
+              "is_valid": 0,
+              "reason": ""
+            }
+          ],
+          "phones": [
+            {
+              "val": "529991032833",
+              "is_valid": 1,
+              "is_ws": 2,
+              "phone_type": 3,
+              "country_code": "52",
+              "dialing_code": null,
+              "area_code": "",
+              "telephone": "9991032833",
+              "national_number": "999 103 2833",
+              "international_number": "+52 999 103 2833"
+            }
+          ],
+          "socials": [
+            {
+              "val": "https://www.linkedin.com/company/corporacion-silcer-sac",
+              "social_url": "company/corporacion-silcer-sac",
+              "social_type": "linkedin",
+              "is_valid": null,
+              "reason": null
+            }
+          ],
+          "websites": [
+            {
+              "val": "www.marinasilcer.com",
+              "is_valid": 0,
+              "is_sensitive": null,
+              "reason": null
+            }
+          ]
+        }
+      },
+      {
+        "companyId": 20437934,
+        "contact_data": {
+          "emails": [
+            {
+              "val": "sujith.nambiar@mt.com",
+              "is_valid": 1,
+              "reason": ""
+            }
+          ],
+          "phones": [],
+          "socials": [],
+          "websites": [
+            {
+              "val": "www.mt.com",
+              "is_valid": 0,
+              "is_sensitive": null,
+              "reason": null
+            }
+          ]
+        }
+      },
+      {
+        "companyId": 20428491,
+        "contact_data": {
+          "emails": [
+            {
+              "val": "jennysierra@derco.com.co",
+              "is_valid": 1,
+              "reason": ""
+            },
+            {
+              "val": "servicioalcliente@derco.com",
+              "is_valid": 0,
+              "reason": ""
+            }
+          ],
+          "phones": [
+            {
+              "val": "018000112898",
+              "is_valid": 2,
+              "is_ws": 0,
+              "phone_type": 0,
+              "country_code": "",
+              "dialing_code": null,
+              "area_code": "",
+              "telephone": "",
+              "national_number": "",
+              "international_number": ""
+            },
+            {
+              "val": "5713122513",
+              "is_valid": 2,
+              "is_ws": 2,
+              "phone_type": 0,
+              "country_code": "57",
+              "dialing_code": null,
+              "area_code": "",
+              "telephone": "",
+              "national_number": "",
+              "international_number": ""
+            },
+            {
+              "val": "57350",
+              "is_valid": 2,
+              "is_ws": 2,
+              "phone_type": 0,
+              "country_code": "57",
+              "dialing_code": null,
+              "area_code": "",
+              "telephone": "",
+              "national_number": "",
+              "international_number": ""
+            },
+            {
+              "val": "573503189888",
+              "is_valid": 1,
+              "is_ws": 2,
+              "phone_type": 2,
+              "country_code": "57",
+              "dialing_code": null,
+              "area_code": "",
+              "telephone": "3503189888",
+              "national_number": "350 3189888",
+              "international_number": "+57 350 3189888"
+            },
+            {
+              "val": "6013715326",
+              "is_valid": 2,
+              "is_ws": 2,
+              "phone_type": 0,
+              "country_code": "",
+              "dialing_code": null,
+              "area_code": "",
+              "telephone": "",
+              "national_number": "",
+              "international_number": ""
+            }
+          ],
+          "socials": [
+            {
+              "val": "https://www.facebook.com/dercocolombia",
+              "social_url": "dercocolombia",
+              "social_type": "facebook",
+              "is_valid": null,
+              "reason": null
+            },
+            {
+              "val": "https://www.linkedin.com/company/dercocolombia",
+              "social_url": "company/dercocolombia",
+              "social_type": "linkedin",
+              "is_valid": null,
+              "reason": null
+            }
+          ],
+          "websites": [
+            {
+              "val": "www.derco.com.co",
+              "is_valid": 0,
+              "is_sensitive": null,
+              "reason": null
+            }
+          ]
+        }
+      },
+      {
+        "companyId": 20424340,
+        "contact_data": {
+          "emails": [
+            {
+              "val": "sales@khurraminternational.com",
+              "is_valid": 1,
+              "reason": ""
+            }
+          ],
+          "phones": [
+            {
+              "val": "9202132725492",
+              "is_valid": 1,
+              "is_ws": 2,
+              "phone_type": 1,
+              "country_code": "92",
+              "dialing_code": null,
+              "area_code": "021",
+              "telephone": "32725492",
+              "national_number": "(021) 32725492",
+              "international_number": "+92 21 32725492"
+            }
+          ],
+          "socials": [],
+          "websites": [
+            {
+              "val": "www.khurraminternational.com",
+              "is_valid": 0,
+              "is_sensitive": null,
+              "reason": null
+            }
+          ]
+        }
+      },
+      {
+        "companyId": 20432253,
+        "contact_data": {
+          "emails": [
+            {
+              "val": "mmanikandan@jayjaymills.in",
+              "is_valid": 1,
+              "reason": ""
+            }
+          ],
+          "phones": [
+            {
+              "val": "914214335500",
+              "is_valid": 1,
+              "is_ws": 2,
+              "phone_type": 1,
+              "country_code": "91",
+              "dialing_code": null,
+              "area_code": "",
+              "telephone": "4214335500",
+              "national_number": "0421 433 5500",
+              "international_number": "+91 421 433 5500"
+            }
+          ],
+          "socials": [],
+          "websites": [
+            {
+              "val": "www.jayjaymills.com",
+              "is_valid": 0,
+              "is_sensitive": null,
+              "reason": null
+            }
+          ]
+        }
+      },
+      {
+        "companyId": 20426639,
+        "contact_data": {
+          "emails": [
+            {
+              "val": "info@diffupar.com",
+              "is_valid": 1,
+              "reason": ""
+            }
+          ],
+          "phones": [
+            {
+              "val": "541145523065",
+              "is_valid": 1,
+              "is_ws": 2,
+              "phone_type": 1,
+              "country_code": "54",
+              "dialing_code": null,
+              "area_code": "",
+              "telephone": "1145523065",
+              "national_number": "011 4552-3065",
+              "international_number": "+54 11 4552-3065"
+            }
+          ],
+          "socials": [
+            {
+              "val": "https://www.linkedin.com/company/diffupar-s.a.---perfumerias-rouge",
+              "social_url": "company/diffupar-s.a.---perfumerias-rouge",
+              "social_type": "linkedin",
+              "is_valid": null,
+              "reason": null
+            }
+          ],
+          "websites": [
+            {
+              "val": "www.diffupar.com",
+              "is_valid": 0,
+              "is_sensitive": null,
+              "reason": null
+            }
+          ]
+        }
+      },
+      {
+        "companyId": 20431871,
+        "contact_data": {
+          "emails": [
+            {
+              "val": "formosant@hcm.vnn.vn",
+              "is_valid": 1,
+              "reason": ""
+            }
+          ],
+          "phones": [
+            {
+              "val": "842513560309",
+              "is_valid": 1,
+              "is_ws": 2,
+              "phone_type": 1,
+              "country_code": "84",
+              "dialing_code": null,
+              "area_code": "",
+              "telephone": "2513560309",
+              "national_number": "0251 3560 309",
+              "international_number": "+84 251 3560 309"
+            }
+          ],
+          "socials": [],
+          "websites": [
+            {
+              "val": "www.formosagear.com",
+              "is_valid": 0,
+              "is_sensitive": null,
+              "reason": null
+            }
+          ]
+        }
+      },
+      {
+        "companyId": 20431034,
+        "contact_data": {
+          "emails": [
+            {
+              "val": "cancellation@fronius.com",
+              "is_valid": 1,
+              "reason": ""
+            },
+            {
+              "val": "contact@fronius.com",
+              "is_valid": 1,
+              "reason": ""
+            },
+            {
+              "val": "finance-india@fronius.com",
+              "is_valid": 1,
+              "reason": ""
+            },
+            {
+              "val": "mailto:contact@fronius.com",
+              "is_valid": 0,
+              "reason": ""
+            },
+            {
+              "val": "pc-service@fronius.com",
+              "is_valid": 1,
+              "reason": ""
+            },
+            {
+              "val": "pc-support@fronius.com",
+              "is_valid": 1,
+              "reason": ""
+            },
+            {
+              "val": "perfect.charging@fronius.com",
+              "is_valid": 1,
+              "reason": ""
+            },
+            {
+              "val": "schartner.andrea@fronius.com",
+              "is_valid": 1,
+              "reason": ""
+            }
+          ],
+          "phones": [
+            {
+              "val": "4372422410",
+              "is_valid": 1,
+              "is_ws": 2,
+              "phone_type": 1,
+              "country_code": "43",
+              "dialing_code": null,
+              "area_code": "",
+              "telephone": "72422410",
+              "national_number": "07242 2410",
+              "international_number": "+43 7242 2410"
+            },
+            {
+              "val": "4372422413000",
+              "is_valid": 1,
+              "is_ws": 2,
+              "phone_type": 1,
+              "country_code": "43",
+              "dialing_code": null,
+              "area_code": "",
+              "telephone": "72422413000",
+              "national_number": "07242 2413000",
+              "international_number": "+43 7242 2413000"
+            },
+            {
+              "val": "917391095777",
+              "is_valid": 1,
+              "is_ws": 1,
+              "phone_type": 2,
+              "country_code": "91",
+              "dialing_code": null,
+              "area_code": "",
+              "telephone": "7391095777",
+              "national_number": "073910 95777",
+              "international_number": "+91 73910 95777"
+            }
+          ],
+          "socials": [
+            {
+              "val": "https://www.facebook.com/fronius.int",
+              "social_url": "fronius.int",
+              "social_type": "facebook",
+              "is_valid": null,
+              "reason": null
+            },
+            {
+              "val": "https://www.instagram.com/froniusinternational",
+              "social_url": "froniusinternational",
+              "social_type": "instagram",
+              "is_valid": null,
+              "reason": null
+            },
+            {
+              "val": "https://www.linkedin.com/company/fronius-international-gmbh",
+              "social_url": "company/fronius-international-gmbh",
+              "social_type": "linkedin",
+              "is_valid": null,
+              "reason": null
+            },
+            {
+              "val": "https://www.youtube.com/user/FroniusInternational",
+              "social_url": "user/FroniusInternational",
+              "social_type": "youtube",
+              "is_valid": null,
+              "reason": null
+            }
+          ],
+          "websites": [
+            {
+              "val": "fronius.com",
+              "is_valid": 1,
+              "is_sensitive": null,
+              "reason": null
+            }
+          ]
+        }
+      },
+      {
+        "companyId": 19753465,
+        "contact_data": {
+          "emails": [
+            {
+              "val": "highpoint@hcm.vnn.vn",
+              "is_valid": 1,
+              "reason": ""
+            }
+          ],
+          "phones": [],
+          "socials": [],
+          "websites": []
+        }
+      }
+    ]
+  },
+  "fee": {
+    "apiCost": 2000,
+    "accountBalance": 79440,
+    "uuid": "87a1a1fd-b23b-42cc-9ccb-124d536248a6"
+  }
+}
