@@ -1,0 +1,24 @@
+{
+  "code": 0,
+  "msg": "success",
+  "data": {
+    "list": [
+      {
+        "email": "csr1@tplogix.com",
+        "status": 3,
+        "reason": "检测状态未知"
+      },
+      {
+        "email": "csr5@tplogix.com",
+        "status": 3,
+        "reason": "检测状态未知"
+      }
+    ],
+    "total": 2
+  },
+  "fee": {
+    "apiCost": 20,
+    "accountBalance": 94610,
+    "uuid": "2427b09f-3066-4ee1-99b3-54b8c01fdae7"
+  }
+}

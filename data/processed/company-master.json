@@ -180,7 +180,7 @@
       "product_superordinate": "",
       "product_downstream": "",
       "emails": "r1@tplogix.com",
-      "email_statuses": "r1@tplogix.com:2",
+      "email_statuses": "r1@tplogix.com:2; csr1@tplogix.com:3; csr5@tplogix.com:3",
       "phones": "+1 562-474-8460; 5624748460",
       "whatsapp": "",
       "websites": "",
@@ -194,7 +194,7 @@
       "website_phones": "562-474-8460",
       "website_address": "1901 HARRISON ST STE 1100, OAKLAND, CA 94612-3648, USA",
       "website_contact_method": "Official customer-service emails, phone and inquiry form",
-      "email_validation_reasons": "r1@tplogix.com: {\"invalid_input\":false,\"input\":[\"r1@tplogix.com\"],\"domainMap\":{\"tplogix.com\":\"r1@tplogix.com\"},\"results\":{\"tplogix.com\":{\"r1@tplogix.com\":{\"reason\":\"550-5.1.1 The email account that you tried to reach does not exist. Please try\\r\\n550-5.1.1 double-checking the recipient's email address for typos or\\r\\n550-5.1.1 unnecessary spaces. For more information, go to\\r\\n550 5.1.1  https://support.google.com/mail/?p=NoSuchUser d9443c01a7336-1f49b487b11si47414765ad.359 - gsmtp\\r\\n\",\"status\":550}}}}",
+      "email_validation_reasons": "r1@tplogix.com: {\"invalid_input\":false,\"input\":[\"r1@tplogix.com\"],\"domainMap\":{\"tplogix.com\":\"r1@tplogix.com\"},\"results\":{\"tplogix.com\":{\"r1@tplogix.com\":{\"reason\":\"550-5.1.1 The email account that you tried to reach does not exist. Please try\\r\\n550-5.1.1 double-checking the recipient's email address for typos or\\r\\n550-5.1.1 unnecessary spaces. For more information, go to\\r\\n550 5.1.1  https://support.google.com/mail/?p=NoSuchUser d9443c01a7336-1f49b487b11si47414765ad.359 - gsmtp\\r\\n\",\"status\":550}}}}; csr1@tplogix.com: 检测状态未知; csr5@tplogix.com: 检测状态未知",
       "email_validation_source": "UpKuajing /agent/validation/email (2026-07-17)",
       "email_validation_summary": "无有效邮箱-需官网补充"
     },
@@ -898,7 +898,7 @@
       "website_contact_method": "",
       "email_validation_reasons": "aruna.sharma@vivoglobal.com: [{550: b'5.7.1 Service unavailable, Client host [123.207.249.63] blocked using Spamhaus. To request removal from this list see https://www.spamhaus.org/query/ip/123.207.249.63 AS(1440) [SG2PEPF000B66CC.apcprd03.prod.outlook.com 2024-07-24T21:17:12.040Z 08DCAAEDDCA78B76]'}]",
       "email_validation_source": "UpKuajing /agent/validation/email (2026-07-17)",
-      "email_validation_summary": "有有效邮箱-同法人实体复用"
+      "email_validation_summary": "有有效邮箱"
     },
     {
       "company_id": 20432358,
