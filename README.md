@@ -18,7 +18,7 @@
 
 - 默认是 dry-run，不会调用付费 API。
 - 必须显式加 `--execute` 才执行。
-- 本批项目累计上限为 ¥200，每个付费脚本都在请求前做预算拦截；当前累计费用为 ¥105.10。
+- 当前项目累计上限为 ¥500，每个付费脚本都在请求前做预算拦截；四品类新一轮开始前累计费用为 ¥105.10。
 - API Key 只从 `UPKUAJING_API_KEY` 环境变量读取，绝不写入输出。
 - 用户已明确选择公开仓库；原始证据、结构化数据和 Excel 均提交，`work/`与 `.env`不提交。
 
@@ -86,7 +86,7 @@ node scripts/build_workbook.mjs
 --execute
 ```
 
-早期 CLI 仍保留单次 ¥50 的旧保护；本批增量脚本使用累计 ¥200 上限。详细接口、实测费用和优化结论见 [API 调研摘要](docs/api-research.md)与[成本分析](docs/cost-analysis.md)。
+早期 CLI 仍保留单次 ¥50 的旧保护；当前增量脚本使用累计 ¥500 上限。详细接口、实测费用和优化结论见 [API 调研摘要](docs/api-research.md)与[成本分析](docs/cost-analysis.md)。
 
 ## 测试
 

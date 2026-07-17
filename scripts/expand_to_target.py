@@ -24,10 +24,12 @@ CANDIDATE_PATH = ROOT / "data" / "processed" / "expansion-candidates.json"
 API_BASE = "https://openapi.upkuajing.com"
 
 BASELINE_SPEND_CENTS = 8160
-PROJECT_CAP_CENTS = 20000
-TARGET_VALID_COMPANIES = 50
+PROJECT_CAP_CENTS = 50000
+TARGET_CAMPAIGN_COMPANIES = 150
 SEARCH_PREFLIGHT_CENTS = 200
 CONTACT_PREFLIGHT_CENTS_PER_COMPANY = 100
+
+CAMPAIGN_CATEGORIES = {"刷子", "猪毛刷", "羊毛刷", "PVC护角条"}
 
 PRODUCTS = {
     "tape": {
@@ -43,6 +45,55 @@ PRODUCTS = {
         "is_exact": True,
         "initial_cursor_file": "masking-film-buyers-exact-search.meta.json",
         "source_slug": "masking-film",
+    },
+    "brush": {
+        "api_term": "brush",
+        "chinese": "刷子",
+        "is_exact": False,
+        "initial_cursor_file": None,
+        "source_slug": "brush",
+    },
+    "hog-bristle-brush": {
+        "api_term": "hog bristle brush",
+        "chinese": "猪毛刷",
+        "is_exact": True,
+        "initial_cursor_file": None,
+        "source_slug": "hog-bristle-brush",
+    },
+    "boar-bristle-brush": {
+        "api_term": "boar bristle brush",
+        "chinese": "猪毛刷",
+        "is_exact": True,
+        "initial_cursor_file": None,
+        "source_slug": "boar-bristle-brush",
+    },
+    "wool-brush": {
+        "api_term": "wool brush",
+        "chinese": "羊毛刷",
+        "is_exact": True,
+        "initial_cursor_file": None,
+        "source_slug": "wool-brush",
+    },
+    "pvc-corner-guard": {
+        "api_term": "PVC corner guard",
+        "chinese": "PVC护角条",
+        "is_exact": True,
+        "initial_cursor_file": None,
+        "source_slug": "pvc-corner-guard",
+    },
+    "pvc-corner-bead": {
+        "api_term": "PVC corner bead",
+        "chinese": "PVC护角条",
+        "is_exact": True,
+        "initial_cursor_file": None,
+        "source_slug": "pvc-corner-bead",
+    },
+    "pvc-corner-protector": {
+        "api_term": "PVC corner protector",
+        "chinese": "PVC护角条",
+        "is_exact": True,
+        "initial_cursor_file": None,
+        "source_slug": "pvc-corner-protector",
     },
 }
 
@@ -92,6 +143,17 @@ def has_valid_contact(row: dict[str, Any]) -> bool:
 
 def count_valid(master: dict[str, Any]) -> int:
     return sum(has_valid_contact(row) for row in master.get("companies", []))
+
+
+def is_campaign_company(row: dict[str, Any]) -> bool:
+    return bool(set(split_values(row.get("categories", ""))) & CAMPAIGN_CATEGORIES)
+
+
+def count_campaign_valid(master: dict[str, Any]) -> int:
+    return sum(
+        is_campaign_company(row) and has_valid_contact(row)
+        for row in master.get("companies", [])
+    )
 
 
 def expansion_spend_cents() -> int:
@@ -204,20 +266,25 @@ def candidate_payload() -> dict[str, Any]:
     })
 
 
-def latest_cursor(product_key: str) -> tuple[str, int]:
+def latest_cursor(product_key: str) -> tuple[str | None, int]:
     config = PRODUCTS[product_key]
     paths = sorted(RAW_DIR.glob(f"expansion-search-{config['source_slug']}-page-*.json"))
     if paths:
         latest = load_json(paths[-1], {})
-        return str((latest.get("data") or {}).get("cursor") or ""), len(paths) + 2
-    meta = load_json(RAW_DIR / config["initial_cursor_file"], {})
-    return str(meta.get("cursor") or ""), 2
+        page_numbers = [int(path.stem.rpartition("-")[2]) for path in paths]
+        return str((latest.get("data") or {}).get("cursor") or ""), max(page_numbers) + 1
+    initial_cursor_file = config.get("initial_cursor_file")
+    if initial_cursor_file:
+        meta = load_json(RAW_DIR / initial_cursor_file, {})
+        return str(meta.get("cursor") or ""), 2
+    return None, 1
 
 
 def search(product_key: str, api_key: str) -> None:
     config = PRODUCTS[product_key]
     cursor, page = latest_cursor(product_key)
-    if not cursor:
+    has_prior_page = bool(list(RAW_DIR.glob(f"expansion-search-{config['source_slug']}-page-*.json")))
+    if has_prior_page and not cursor:
         raise SystemExit(f"{config['api_term']} 没有后续游标，无法继续翻页")
     authorize(SEARCH_PREFLIGHT_CENTS)
     payload = {
@@ -227,8 +294,9 @@ def search(product_key: str, api_key: str) -> None:
         "isExact": config["is_exact"],
         "sorting_field": "tradeCount",
         "sorting_direction": "desc",
-        "cursor": cursor,
     }
+    if cursor:
+        payload["cursor"] = cursor
     response = post(api_key, "/agent/customs/company/list", payload)
     raw_path = RAW_DIR / f"expansion-search-{config['source_slug']}-page-{page:02d}.json"
     if raw_path.exists():
@@ -303,10 +371,13 @@ def apply_contacts(candidates: dict[str, Any], response: dict[str, Any]) -> int:
 
 
 def promote(candidates: dict[str, Any], master: dict[str, Any]) -> int:
-    needed = max(TARGET_VALID_COMPANIES - count_valid(master), 0)
+    needed = max(TARGET_CAMPAIGN_COMPANIES - count_campaign_valid(master), 0)
     if needed == 0:
         return 0
-    eligible = [row for row in candidates["companies"] if has_valid_contact(row)]
+    eligible = [
+        row for row in candidates["companies"]
+        if is_campaign_company(row) and has_valid_contact(row)
+    ]
     eligible.sort(key=lambda row: (0 if row["market_priority"] == "高-欧美" else 1,
                                    -int(row.get("trade_match_total") or 0), row["company_name"].casefold()))
     selected = eligible[:needed]
@@ -322,7 +393,10 @@ def promote(candidates: dict[str, Any], master: dict[str, Any]) -> int:
 
 def contacts(api_key: str, limit: int) -> None:
     candidates = candidate_payload()
-    pending = [row for row in candidates["companies"] if not row.get("contact_source")]
+    pending = [
+        row for row in candidates["companies"]
+        if is_campaign_company(row) and not row.get("contact_source")
+    ]
     pending.sort(key=lambda row: (0 if row["market_priority"] == "高-欧美" else 1,
                                   -int(row.get("trade_match_total") or 0)))
     batch = pending[: min(limit, 20)]
@@ -345,7 +419,7 @@ def contacts(api_key: str, limit: int) -> None:
     print(
         f"联系方式：请求 {len(batch)}，应用 {applied}，晋级主表 {promoted}；"
         f"实际费用 ¥{int((response.get('fee') or {}).get('apiCost') or 0) / 100:.2f}；"
-        f"当前有效联系方式公司 {count_valid(master)}/{TARGET_VALID_COMPANIES}"
+        f"本轮四品有效联系方式公司 {count_campaign_valid(master)}/{TARGET_CAMPAIGN_COMPANIES}"
     )
 
 
@@ -353,11 +427,16 @@ def show_status() -> None:
     master = load_json(MASTER_PATH, {})
     candidates = candidate_payload()
     valid = count_valid(master)
-    pending = sum(not row.get("contact_source") for row in candidates["companies"])
+    campaign_valid = count_campaign_valid(master)
+    pending = sum(
+        is_campaign_company(row) and not row.get("contact_source")
+        for row in candidates["companies"]
+    )
     print(
         f"主表公司：{len(master.get('companies', []))}\n"
-        f"有效联系方式公司：{valid}/{TARGET_VALID_COMPANIES}\n"
-        f"候选池：{len(candidates['companies'])}（待购买联系方式 {pending}）\n"
+        f"主表有效联系方式公司：{valid}\n"
+        f"本轮四品有效联系方式公司：{campaign_valid}/{TARGET_CAMPAIGN_COMPANIES}\n"
+        f"候选池：{len(candidates['companies'])}（本轮待购买联系方式 {pending}）\n"
         f"扩充阶段费用：¥{expansion_spend_cents() / 100:.2f}\n"
         f"项目累计费用：¥{project_spend_cents() / 100:.2f} / ¥{PROJECT_CAP_CENTS / 100:.2f}\n"
         f"预算剩余：¥{(PROJECT_CAP_CENTS - project_spend_cents()) / 100:.2f}"
@@ -365,7 +444,7 @@ def show_status() -> None:
 
 
 def main() -> None:
-    parser = argparse.ArgumentParser(description="增量扩充到50家有效联系方式公司")
+    parser = argparse.ArgumentParser(description="四个新品类增量扩充150家有效联系方式公司")
     subparsers = parser.add_subparsers(dest="command", required=True)
     subparsers.add_parser("status")
     search_parser = subparsers.add_parser("search")

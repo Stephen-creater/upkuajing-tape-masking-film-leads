@@ -53,6 +53,10 @@ const categoryTranslations = new Map([
   ["masking film", "遮蔽膜"],
   ["胶带", "胶带"],
   ["遮蔽膜", "遮蔽膜"],
+  ["刷子", "刷子"],
+  ["猪毛刷", "猪毛刷"],
+  ["羊毛刷", "羊毛刷"],
+  ["pvc护角条", "PVC护角条"],
 ]);
 const countryTranslations = new Map([
   ["EC", "厄瓜多尔"], ["GB", "英国"], ["IN", "印度"], ["KR", "韩国"],

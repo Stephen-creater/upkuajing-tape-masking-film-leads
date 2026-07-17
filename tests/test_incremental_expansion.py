@@ -39,6 +39,10 @@ class IncrementalExpansionTests(unittest.TestCase):
         self.assertTrue(EXPAND.has_valid_contact(row))
         self.assertIn(":状态1/", row["phone_statuses"])
 
+    def test_campaign_filter_excludes_previous_products(self):
+        self.assertFalse(EXPAND.is_campaign_company({"categories": "胶带; 遮蔽膜"}))
+        self.assertTrue(EXPAND.is_campaign_company({"categories": "刷子; 羊毛刷"}))
+
 
 if __name__ == "__main__":
     unittest.main()

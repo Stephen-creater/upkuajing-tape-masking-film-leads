@@ -21,7 +21,7 @@
 ## Paid API and secrets
 
 - Paid scripts must default to dry-run and require an explicit execution flag.
-- Do not exceed the current cumulative cap of ¥200 without new user approval. Current audited spend is ¥105.10.
+- Do not exceed the current cumulative cap of ¥500 without new user approval. Current audited spend before the four-product campaign is ¥105.10.
 - Do not retry email status `0` or `3` blindly. Prefer a new official source, a relevant person, or a real delivery test.
 - Read the API key only from `UPKUAJING_API_KEY`; never commit it.
 
