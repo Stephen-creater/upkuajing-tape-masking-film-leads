@@ -1,0 +1,39 @@
+{
+  "code": 0,
+  "msg": "success",
+  "data": {
+    "list": [
+      {
+        "email": "customercare@haierindia.com",
+        "status": 3,
+        "reason": "检测状态未知"
+      },
+      {
+        "email": "marketing.india@tesa.com",
+        "status": 3,
+        "reason": "检测状态未知"
+      },
+      {
+        "email": "hue.dt@honestvietnam.com.vn",
+        "status": 3,
+        "reason": "检测状态未知"
+      },
+      {
+        "email": "supsalcorp@gmail.com",
+        "status": 3,
+        "reason": "检测状态未知"
+      },
+      {
+        "email": "udaya@aquadynamics.lk",
+        "status": 3,
+        "reason": "检测状态未知"
+      }
+    ],
+    "total": 5
+  },
+  "fee": {
+    "apiCost": 50,
+    "accountBalance": 94780,
+    "uuid": "1fe9d522-7eba-40f7-82b9-b2f9970b96a4"
+  }
+}
