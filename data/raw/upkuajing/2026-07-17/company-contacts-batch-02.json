@@ -1,0 +1,579 @@
+{
+  "code": 0,
+  "msg": "success",
+  "data": {
+    "list": [
+      {
+        "companyId": 28930762,
+        "contact_data": {
+          "emails": [
+            {
+              "val": "career@martfury.com",
+              "is_valid": 0,
+              "reason": ""
+            },
+            {
+              "val": "contact@martfury.com",
+              "is_valid": 0,
+              "reason": ""
+            },
+            {
+              "val": "customercare@martfury.com",
+              "is_valid": 0,
+              "reason": ""
+            },
+            {
+              "val": "info@superconduits.com",
+              "is_valid": 0,
+              "reason": ""
+            },
+            {
+              "val": "media@martfury.com",
+              "is_valid": 0,
+              "reason": ""
+            },
+            {
+              "val": "vendorsupport@martfury.com",
+              "is_valid": 0,
+              "reason": ""
+            }
+          ],
+          "phones": [],
+          "socials": [
+            {
+              "val": "https://www.linkedin.com/company/super-sales-corporation",
+              "social_url": "company/super-sales-corporation",
+              "social_type": "linkedin",
+              "is_valid": null,
+              "reason": null
+            }
+          ],
+          "websites": [
+            {
+              "val": "superconduits.com",
+              "is_valid": 1,
+              "is_sensitive": null,
+              "reason": null
+            }
+          ]
+        }
+      },
+      {
+        "companyId": 67078,
+        "contact_data": {
+          "emails": [
+            {
+              "val": "jeff.smith@aquadynamicconsultancy.com",
+              "is_valid": 0,
+              "reason": ""
+            }
+          ],
+          "phones": [],
+          "socials": [],
+          "websites": [
+            {
+              "val": "http://www.aquadynamicconsultancy.com",
+              "is_valid": 0,
+              "is_sensitive": null,
+              "reason": null
+            }
+          ]
+        }
+      },
+      {
+        "companyId": 168017,
+        "contact_data": {
+          "emails": [
+            {
+              "val": "bonded.gno@saint-gobain.com",
+              "is_valid": 0,
+              "reason": ""
+            }
+          ],
+          "phones": [
+            {
+              "val": "912240212121",
+              "is_valid": 1,
+              "is_ws": 2,
+              "phone_type": 1,
+              "country_code": "91",
+              "dialing_code": null,
+              "area_code": "",
+              "telephone": "2240212121",
+              "national_number": "022 4021 2121",
+              "international_number": "+91 22 4021 2121"
+            }
+          ],
+          "socials": [],
+          "websites": [
+            {
+              "val": "http://www.grindwellnorton.co.in/",
+              "is_valid": 0,
+              "is_sensitive": null,
+              "reason": null
+            }
+          ]
+        }
+      },
+      {
+        "companyId": 27951674,
+        "contact_data": {
+          "emails": [
+            {
+              "val": "info@modularfurniturebpl.com",
+              "is_valid": 0,
+              "reason": ""
+            },
+            {
+              "val": "pryentp@hotmail.com",
+              "is_valid": 1,
+              "reason": ""
+            }
+          ],
+          "phones": [
+            {
+              "val": "919425",
+              "is_valid": 2,
+              "is_ws": 2,
+              "phone_type": 0,
+              "country_code": "91",
+              "dialing_code": null,
+              "area_code": "",
+              "telephone": "",
+              "national_number": "",
+              "international_number": ""
+            },
+            {
+              "val": "919425008422",
+              "is_valid": 1,
+              "is_ws": 1,
+              "phone_type": 2,
+              "country_code": "91",
+              "dialing_code": null,
+              "area_code": "",
+              "telephone": "9425008422",
+              "national_number": "094250 08422",
+              "international_number": "+91 94250 08422"
+            },
+            {
+              "val": "919425008433",
+              "is_valid": 1,
+              "is_ws": 2,
+              "phone_type": 2,
+              "country_code": "91",
+              "dialing_code": null,
+              "area_code": "",
+              "telephone": "9425008433",
+              "national_number": "094250 08433",
+              "international_number": "+91 94250 08433"
+            },
+            {
+              "val": "919425026178",
+              "is_valid": 1,
+              "is_ws": 1,
+              "phone_type": 2,
+              "country_code": "91",
+              "dialing_code": null,
+              "area_code": "",
+              "telephone": "9425026178",
+              "national_number": "094250 26178",
+              "international_number": "+91 94250 26178"
+            }
+          ],
+          "socials": [
+            {
+              "val": "https://www.facebook.com/pages/Priyanka-Enterprises/278369785647345",
+              "social_url": "pages/Priyanka-Enterprises/278369785647345",
+              "social_type": "facebook",
+              "is_valid": null,
+              "reason": null
+            },
+            {
+              "val": "https://www.linkedin.com/company/priyanka-enterprise",
+              "social_url": "company/priyanka-enterprise",
+              "social_type": "linkedin",
+              "is_valid": null,
+              "reason": null
+            }
+          ],
+          "websites": [
+            {
+              "val": "modularfurniturebpl.com",
+              "is_valid": 1,
+              "is_sensitive": null,
+              "reason": null
+            }
+          ]
+        }
+      },
+      {
+        "companyId": 20199535,
+        "contact_data": {
+          "emails": [
+            {
+              "val": "sharecmpt.gno@saint-gobain.com",
+              "is_valid": 1,
+              "reason": ""
+            }
+          ],
+          "phones": [
+            {
+              "val": "00975261212261166",
+              "is_valid": 2,
+              "is_ws": 0,
+              "phone_type": 0,
+              "country_code": "",
+              "dialing_code": null,
+              "area_code": "",
+              "telephone": "",
+              "national_number": "",
+              "international_number": ""
+            },
+            {
+              "val": "01204061800899",
+              "is_valid": 2,
+              "is_ws": 0,
+              "phone_type": 0,
+              "country_code": "",
+              "dialing_code": null,
+              "area_code": "",
+              "telephone": "",
+              "national_number": "",
+              "international_number": ""
+            },
+            {
+              "val": "016124236502425851",
+              "is_valid": 2,
+              "is_ws": 0,
+              "phone_type": 0,
+              "country_code": "",
+              "dialing_code": null,
+              "area_code": "",
+              "telephone": "",
+              "national_number": "",
+              "international_number": ""
+            },
+            {
+              "val": "0202551089193",
+              "is_valid": 2,
+              "is_ws": 0,
+              "phone_type": 0,
+              "country_code": "",
+              "dialing_code": null,
+              "area_code": "",
+              "telephone": "",
+              "national_number": "",
+              "international_number": ""
+            },
+            {
+              "val": "0222723002126",
+              "is_valid": 2,
+              "is_ws": 0,
+              "phone_type": 0,
+              "country_code": "",
+              "dialing_code": null,
+              "area_code": "",
+              "telephone": "",
+              "national_number": "",
+              "international_number": ""
+            },
+            {
+              "val": "0224013257825852590",
+              "is_valid": 2,
+              "is_ws": 0,
+              "phone_type": 0,
+              "country_code": "",
+              "dialing_code": null,
+              "area_code": "",
+              "telephone": "",
+              "national_number": "",
+              "international_number": ""
+            },
+            {
+              "val": "04027713040",
+              "is_valid": 2,
+              "is_ws": 0,
+              "phone_type": 0,
+              "country_code": "",
+              "dialing_code": null,
+              "area_code": "",
+              "telephone": "",
+              "national_number": "",
+              "international_number": ""
+            },
+            {
+              "val": "065722254152228432",
+              "is_valid": 2,
+              "is_ws": 0,
+              "phone_type": 0,
+              "country_code": "",
+              "dialing_code": null,
+              "area_code": "",
+              "telephone": "",
+              "national_number": "",
+              "international_number": ""
+            },
+            {
+              "val": "07104676464",
+              "is_valid": 2,
+              "is_ws": 0,
+              "phone_type": 0,
+              "country_code": "",
+              "dialing_code": null,
+              "area_code": "",
+              "telephone": "",
+              "national_number": "",
+              "international_number": ""
+            },
+            {
+              "val": "079400399010203",
+              "is_valid": 2,
+              "is_ws": 0,
+              "phone_type": 0,
+              "country_code": "",
+              "dialing_code": null,
+              "area_code": "",
+              "telephone": "",
+              "national_number": "",
+              "international_number": ""
+            },
+            {
+              "val": "0802559400425587248",
+              "is_valid": 2,
+              "is_ws": 0,
+              "phone_type": 0,
+              "country_code": "",
+              "dialing_code": null,
+              "area_code": "",
+              "telephone": "",
+              "national_number": "",
+              "international_number": ""
+            },
+            {
+              "val": "08030978888",
+              "is_valid": 2,
+              "is_ws": 0,
+              "phone_type": 0,
+              "country_code": "",
+              "dialing_code": null,
+              "area_code": "",
+              "telephone": "",
+              "national_number": "",
+              "international_number": ""
+            },
+            {
+              "val": "0877228573135",
+              "is_valid": 2,
+              "is_ws": 0,
+              "phone_type": 0,
+              "country_code": "",
+              "dialing_code": null,
+              "area_code": "",
+              "telephone": "",
+              "national_number": "",
+              "international_number": ""
+            },
+            {
+              "val": "098050253045",
+              "is_valid": 2,
+              "is_ws": 0,
+              "phone_type": 0,
+              "country_code": "",
+              "dialing_code": null,
+              "area_code": "",
+              "telephone": "",
+              "national_number": "",
+              "international_number": ""
+            },
+            {
+              "val": "912240212121",
+              "is_valid": 1,
+              "is_ws": 2,
+              "phone_type": 1,
+              "country_code": "91",
+              "dialing_code": null,
+              "area_code": "",
+              "telephone": "2240212121",
+              "national_number": "022 4021 2121",
+              "international_number": "+91 22 4021 2121"
+            },
+            {
+              "val": "9327266444",
+              "is_valid": 2,
+              "is_ws": 2,
+              "phone_type": 0,
+              "country_code": "",
+              "dialing_code": null,
+              "area_code": "",
+              "telephone": "",
+              "national_number": "",
+              "international_number": ""
+            }
+          ],
+          "socials": [
+            {
+              "val": "https://www.facebook.com/saintgobaingroup",
+              "social_url": "saintgobaingroup",
+              "social_type": "facebook",
+              "is_valid": null,
+              "reason": null
+            },
+            {
+              "val": "https://www.linkedin.com/company/grindwell-norton-ltd",
+              "social_url": "company/grindwell-norton-ltd",
+              "social_type": "linkedin",
+              "is_valid": null,
+              "reason": null
+            },
+            {
+              "val": "https://www.linkedin.com/company/saint-gobain-group-india",
+              "social_url": "company/saint-gobain-group-india",
+              "social_type": "linkedin",
+              "is_valid": null,
+              "reason": null
+            },
+            {
+              "val": "https://www.pinterest.com/saintgobainnews",
+              "social_url": "saintgobainnews",
+              "social_type": "pinterest",
+              "is_valid": null,
+              "reason": null
+            },
+            {
+              "val": "https://www.youtube.com/user/SaintGobainTV",
+              "social_url": "user/SaintGobainTV",
+              "social_type": "youtube",
+              "is_valid": null,
+              "reason": null
+            }
+          ],
+          "websites": [
+            {
+              "val": "www.grindwellnorton.com",
+              "is_valid": 0,
+              "is_sensitive": null,
+              "reason": null
+            }
+          ]
+        }
+      },
+      {
+        "companyId": 22315229,
+        "contact_data": {
+          "emails": [
+            {
+              "val": "accounts@starcke.in",
+              "is_valid": 1,
+              "reason": ""
+            }
+          ],
+          "phones": [],
+          "socials": [],
+          "websites": [
+            {
+              "val": "www.starckeindia.com",
+              "is_valid": 0,
+              "is_sensitive": null,
+              "reason": null
+            }
+          ]
+        }
+      },
+      {
+        "companyId": 381348,
+        "contact_data": {
+          "emails": [
+            {
+              "val": "commercial@specialty-films.com",
+              "is_valid": 1,
+              "reason": ""
+            }
+          ],
+          "phones": [],
+          "socials": [],
+          "websites": []
+        }
+      },
+      {
+        "companyId": 22311398,
+        "contact_data": {
+          "emails": [
+            {
+              "val": "info@sumaxindia.com",
+              "is_valid": 1,
+              "reason": ""
+            }
+          ],
+          "phones": [
+            {
+              "val": "914027737001",
+              "is_valid": 1,
+              "is_ws": 2,
+              "phone_type": 1,
+              "country_code": "91",
+              "dialing_code": null,
+              "area_code": "",
+              "telephone": "4027737001",
+              "national_number": "040 2773 7001",
+              "international_number": "+91 40 2773 7001"
+            }
+          ],
+          "socials": [],
+          "websites": [
+            {
+              "val": "www.sumaxindia.com",
+              "is_valid": 0,
+              "is_sensitive": null,
+              "reason": null
+            }
+          ]
+        }
+      },
+      {
+        "companyId": 370961,
+        "contact_data": {
+          "emails": [
+            {
+              "val": "aipl.sunsui@ajitindustries.com",
+              "is_valid": 0,
+              "reason": ""
+            },
+            {
+              "val": "marketing@ajitindustries.com",
+              "is_valid": 1,
+              "reason": ""
+            }
+          ],
+          "phones": [
+            {
+              "val": "911149010101",
+              "is_valid": 1,
+              "is_ws": 2,
+              "phone_type": 1,
+              "country_code": "91",
+              "dialing_code": null,
+              "area_code": "",
+              "telephone": "1149010101",
+              "national_number": "011 4901 0101",
+              "international_number": "+91 11 4901 0101"
+            }
+          ],
+          "socials": [],
+          "websites": [
+            {
+              "val": "http://www.ajitindustries.com/",
+              "is_valid": 0,
+              "is_sensitive": null,
+              "reason": null
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "fee": {
+    "apiCost": 900,
+    "accountBalance": 95050,
+    "uuid": "c794c0bb-6b96-418d-b4fd-55a8e5d0dd16"
+  }
+}

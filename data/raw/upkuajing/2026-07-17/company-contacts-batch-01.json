@@ -1,0 +1,858 @@
+{
+  "code": 0,
+  "msg": "success",
+  "data": {
+    "list": [
+      {
+        "companyId": 1005206,
+        "contact_data": {
+          "emails": [
+            {
+              "val": "jworld@jworld21.com",
+              "is_valid": 1,
+              "reason": ""
+            }
+          ],
+          "phones": [
+            {
+              "val": "82314568001",
+              "is_valid": 1,
+              "is_ws": 2,
+              "phone_type": 1,
+              "country_code": "82",
+              "dialing_code": null,
+              "area_code": "",
+              "telephone": "314568001",
+              "national_number": "031-456-8001",
+              "international_number": "+82 31-456-8001"
+            }
+          ],
+          "socials": [],
+          "websites": []
+        }
+      },
+      {
+        "companyId": 209484,
+        "contact_data": {
+          "emails": [
+            {
+              "val": "support@frostking.com",
+              "is_valid": 0,
+              "reason": ""
+            }
+          ],
+          "phones": [
+            {
+              "val": "12016844400",
+              "is_valid": 1,
+              "is_ws": 2,
+              "phone_type": 3,
+              "country_code": "1",
+              "dialing_code": null,
+              "area_code": "201",
+              "telephone": "6844400",
+              "national_number": "(201) 684-4400",
+              "international_number": "+1 201-684-4400"
+            }
+          ],
+          "socials": [],
+          "websites": [
+            {
+              "val": "http://www.frostking.com/",
+              "is_valid": 0,
+              "is_sensitive": null,
+              "reason": null
+            }
+          ]
+        }
+      },
+      {
+        "companyId": 369752,
+        "contact_data": {
+          "emails": [
+            {
+              "val": "info@genuselectrotech.com",
+              "is_valid": 1,
+              "reason": ""
+            },
+            {
+              "val": "sales@divicon.com",
+              "is_valid": 0,
+              "reason": ""
+            }
+          ],
+          "phones": [
+            {
+              "val": "912836240872",
+              "is_valid": 1,
+              "is_ws": 2,
+              "phone_type": 1,
+              "country_code": "91",
+              "dialing_code": null,
+              "area_code": "",
+              "telephone": "2836240872",
+              "national_number": "02836 240 872",
+              "international_number": "+91 2836 240 872"
+            },
+            {
+              "val": "919978959714",
+              "is_valid": 1,
+              "is_ws": 1,
+              "phone_type": 2,
+              "country_code": "91",
+              "dialing_code": null,
+              "area_code": "",
+              "telephone": "9978959714",
+              "national_number": "099789 59714",
+              "international_number": "+91 99789 59714"
+            },
+            {
+              "val": "919978959735",
+              "is_valid": 1,
+              "is_ws": 1,
+              "phone_type": 2,
+              "country_code": "91",
+              "dialing_code": null,
+              "area_code": "",
+              "telephone": "9978959735",
+              "national_number": "099789 59735",
+              "international_number": "+91 99789 59735"
+            }
+          ],
+          "socials": [
+            {
+              "val": "https://www.facebook.com/genuselectrotech10",
+              "social_url": "genuselectrotech10",
+              "social_type": "facebook",
+              "is_valid": null,
+              "reason": null
+            },
+            {
+              "val": "https://www.instagram.com/genuselectrotechlimited",
+              "social_url": "genuselectrotechlimited",
+              "social_type": "instagram",
+              "is_valid": null,
+              "reason": null
+            },
+            {
+              "val": "https://www.linkedin.com/company/genuselectrotechltd",
+              "social_url": "company/genuselectrotechltd",
+              "social_type": "linkedin",
+              "is_valid": null,
+              "reason": null
+            }
+          ],
+          "websites": [
+            {
+              "val": "www.genuselectrotech.co.in",
+              "is_valid": 0,
+              "is_sensitive": null,
+              "reason": null
+            }
+          ]
+        }
+      },
+      {
+        "companyId": 4421112,
+        "contact_data": {
+          "emails": [
+            {
+              "val": "hue.dt@honestcom.vn",
+              "is_valid": 0,
+              "reason": ""
+            }
+          ],
+          "phones": [],
+          "socials": [],
+          "websites": []
+        }
+      },
+      {
+        "companyId": 86190,
+        "contact_data": {
+          "emails": [
+            {
+              "val": "aruna.sharma@vivoglobal.com",
+              "is_valid": 0,
+              "reason": ""
+            }
+          ],
+          "phones": [],
+          "socials": [],
+          "websites": []
+        }
+      },
+      {
+        "companyId": 5141777,
+        "contact_data": {
+          "emails": [
+            {
+              "val": "annapark@hansoll.com",
+              "is_valid": 1,
+              "reason": ""
+            }
+          ],
+          "phones": [
+            {
+              "val": "12127644270",
+              "is_valid": 1,
+              "is_ws": 2,
+              "phone_type": 3,
+              "country_code": "1",
+              "dialing_code": null,
+              "area_code": "212",
+              "telephone": "7644270",
+              "national_number": "(212) 764-4270",
+              "international_number": "+1 212-764-4270"
+            }
+          ],
+          "socials": [],
+          "websites": [
+            {
+              "val": "http://www.hansoll.com/",
+              "is_valid": 0,
+              "is_sensitive": null,
+              "reason": null
+            }
+          ]
+        }
+      },
+      {
+        "companyId": 22316517,
+        "contact_data": {
+          "emails": [
+            {
+              "val": "murugan.selvaraj@triumph.com",
+              "is_valid": 1,
+              "reason": ""
+            }
+          ],
+          "phones": [],
+          "socials": [],
+          "websites": [
+            {
+              "val": "www.triumph.com",
+              "is_valid": 0,
+              "is_sensitive": null,
+              "reason": null
+            }
+          ]
+        }
+      },
+      {
+        "companyId": 20432358,
+        "contact_data": {
+          "emails": [
+            {
+              "val": "contact.india@tesa.com",
+              "is_valid": 0,
+              "reason": ""
+            }
+          ],
+          "phones": [],
+          "socials": [
+            {
+              "val": "https://www.linkedin.com/company/tesa",
+              "social_url": "company/tesa",
+              "social_type": "linkedin",
+              "is_valid": null,
+              "reason": null
+            }
+          ],
+          "websites": [
+            {
+              "val": "www.tesa.in",
+              "is_valid": 0,
+              "is_sensitive": null,
+              "reason": null
+            }
+          ]
+        }
+      },
+      {
+        "companyId": 78071611,
+        "contact_data": {
+          "emails": [
+            {
+              "val": "cosmotech@korea.com",
+              "is_valid": 0,
+              "reason": ""
+            }
+          ],
+          "phones": [
+            {
+              "val": "82328176552",
+              "is_valid": 1,
+              "is_ws": 2,
+              "phone_type": 1,
+              "country_code": "82",
+              "dialing_code": null,
+              "area_code": "",
+              "telephone": "328176552",
+              "national_number": "032-817-6552",
+              "international_number": "+82 32-817-6552"
+            }
+          ],
+          "socials": [],
+          "websites": []
+        }
+      },
+      {
+        "companyId": 28403,
+        "contact_data": {
+          "emails": [
+            {
+              "val": "privacidad@suzuki.com.mx",
+              "is_valid": 0,
+              "reason": ""
+            }
+          ],
+          "phones": [
+            {
+              "val": "525553652626",
+              "is_valid": 1,
+              "is_ws": 2,
+              "phone_type": 3,
+              "country_code": "52",
+              "dialing_code": null,
+              "area_code": "",
+              "telephone": "5553652626",
+              "national_number": "55 5365 2626",
+              "international_number": "+52 55 5365 2626"
+            }
+          ],
+          "socials": [],
+          "websites": [
+            {
+              "val": "http://www.suzuki.com.mx/",
+              "is_valid": 0,
+              "is_sensitive": null,
+              "reason": null
+            }
+          ]
+        }
+      },
+      {
+        "companyId": 20482013,
+        "contact_data": {
+          "emails": [
+            {
+              "val": "marketing@ajitindustries.com",
+              "is_valid": 1,
+              "reason": ""
+            },
+            {
+              "val": "suneet@ajitindustries.com",
+              "is_valid": 1,
+              "reason": ""
+            }
+          ],
+          "phones": [
+            {
+              "val": "01149010101",
+              "is_valid": 2,
+              "is_ws": 0,
+              "phone_type": 0,
+              "country_code": "",
+              "dialing_code": null,
+              "area_code": "",
+              "telephone": "",
+              "national_number": "",
+              "international_number": ""
+            },
+            {
+              "val": "918068820110",
+              "is_valid": 1,
+              "is_ws": 2,
+              "phone_type": 1,
+              "country_code": "91",
+              "dialing_code": null,
+              "area_code": "",
+              "telephone": "8068820110",
+              "national_number": "080 6882 0110",
+              "international_number": "+91 80 6882 0110"
+            },
+            {
+              "val": "918287948064",
+              "is_valid": 1,
+              "is_ws": 1,
+              "phone_type": 2,
+              "country_code": "91",
+              "dialing_code": null,
+              "area_code": "",
+              "telephone": "8287948064",
+              "national_number": "082879 48064",
+              "international_number": "+91 82879 48064"
+            },
+            {
+              "val": "919599677993",
+              "is_valid": 1,
+              "is_ws": 1,
+              "phone_type": 2,
+              "country_code": "91",
+              "dialing_code": null,
+              "area_code": "",
+              "telephone": "9599677993",
+              "national_number": "095996 77993",
+              "international_number": "+91 95996 77993"
+            }
+          ],
+          "socials": [
+            {
+              "val": "https://www.youtube.com/watch?v=TUJvH6kYIWE",
+              "social_url": "watch?v=TUJvH6kYIWE",
+              "social_type": "youtube",
+              "is_valid": null,
+              "reason": null
+            }
+          ],
+          "websites": [
+            {
+              "val": "www.ajitindustries.com",
+              "is_valid": 0,
+              "is_sensitive": null,
+              "reason": null
+            }
+          ]
+        }
+      },
+      {
+        "companyId": 20208403,
+        "contact_data": {
+          "emails": [
+            {
+              "val": "deepak.goyal@airworks.in",
+              "is_valid": 1,
+              "reason": ""
+            }
+          ],
+          "phones": [
+            {
+              "val": "911244642200",
+              "is_valid": 1,
+              "is_ws": 2,
+              "phone_type": 1,
+              "country_code": "91",
+              "dialing_code": null,
+              "area_code": "",
+              "telephone": "1244642200",
+              "national_number": "0124 464 2200",
+              "international_number": "+91 124 464 2200"
+            }
+          ],
+          "socials": [
+            {
+              "val": "https://www.facebook.com/AirworksIndiaenggPvtLtd",
+              "social_url": "AirworksIndiaenggPvtLtd",
+              "social_type": "facebook",
+              "is_valid": null,
+              "reason": null
+            },
+            {
+              "val": "https://www.linkedin.com/company/air-works",
+              "social_url": "company/air-works",
+              "social_type": "linkedin",
+              "is_valid": null,
+              "reason": null
+            }
+          ],
+          "websites": [
+            {
+              "val": "www.airworks.in",
+              "is_valid": 0,
+              "is_sensitive": null,
+              "reason": null
+            }
+          ]
+        }
+      },
+      {
+        "companyId": 67944548,
+        "contact_data": {
+          "emails": [
+            {
+              "val": "sim291@hanmail.net",
+              "is_valid": 0,
+              "reason": ""
+            }
+          ],
+          "phones": [
+            {
+              "val": "82512667110",
+              "is_valid": 1,
+              "is_ws": 2,
+              "phone_type": 1,
+              "country_code": "82",
+              "dialing_code": null,
+              "area_code": "",
+              "telephone": "512667110",
+              "national_number": "051-266-7110",
+              "international_number": "+82 51-266-7110"
+            }
+          ],
+          "socials": [],
+          "websites": []
+        }
+      },
+      {
+        "companyId": 20410195,
+        "contact_data": {
+          "emails": [
+            {
+              "val": "admin@asti.com.vn",
+              "is_valid": 1,
+              "reason": ""
+            },
+            {
+              "val": "info@asti.com",
+              "is_valid": 1,
+              "reason": ""
+            }
+          ],
+          "phones": [
+            {
+              "val": "842742742464",
+              "is_valid": 1,
+              "is_ws": 2,
+              "phone_type": 1,
+              "country_code": "84",
+              "dialing_code": null,
+              "area_code": "",
+              "telephone": "2742742464",
+              "national_number": "0274 2742 464",
+              "international_number": "+84 274 2742 464"
+            },
+            {
+              "val": "842743742464",
+              "is_valid": 1,
+              "is_ws": 2,
+              "phone_type": 1,
+              "country_code": "84",
+              "dialing_code": null,
+              "area_code": "",
+              "telephone": "2743742464",
+              "national_number": "0274 3742 464",
+              "international_number": "+84 274 3742 464"
+            },
+            {
+              "val": "842743742594",
+              "is_valid": 1,
+              "is_ws": 2,
+              "phone_type": 1,
+              "country_code": "84",
+              "dialing_code": null,
+              "area_code": "",
+              "telephone": "2743742594",
+              "national_number": "0274 3742 594",
+              "international_number": "+84 274 3742 594"
+            },
+            {
+              "val": "84274742464",
+              "is_valid": 2,
+              "is_ws": 2,
+              "phone_type": 0,
+              "country_code": "84",
+              "dialing_code": null,
+              "area_code": "",
+              "telephone": "",
+              "national_number": "",
+              "international_number": ""
+            }
+          ],
+          "socials": [],
+          "websites": [
+            {
+              "val": "www.asti.com.vn",
+              "is_valid": 0,
+              "is_sensitive": null,
+              "reason": null
+            }
+          ]
+        }
+      },
+      {
+        "companyId": 71495262,
+        "contact_data": {
+          "emails": [
+            {
+              "val": "r1@tplogix.com",
+              "is_valid": 0,
+              "reason": ""
+            }
+          ],
+          "phones": [
+            {
+              "val": "15624748460",
+              "is_valid": 1,
+              "is_ws": 2,
+              "phone_type": 3,
+              "country_code": "1",
+              "dialing_code": null,
+              "area_code": "562",
+              "telephone": "4748460",
+              "national_number": "(562) 474-8460",
+              "international_number": "+1 562-474-8460"
+            },
+            {
+              "val": "5624748460",
+              "is_valid": 2,
+              "is_ws": 0,
+              "phone_type": 0,
+              "country_code": "56",
+              "dialing_code": null,
+              "area_code": "",
+              "telephone": "",
+              "national_number": "",
+              "international_number": ""
+            }
+          ],
+          "socials": [],
+          "websites": []
+        }
+      },
+      {
+        "companyId": 80133,
+        "contact_data": {
+          "emails": [
+            {
+              "val": "info@brandix.com",
+              "is_valid": 1,
+              "reason": ""
+            }
+          ],
+          "phones": [],
+          "socials": [],
+          "websites": [
+            {
+              "val": "www.brandix.com",
+              "is_valid": 0,
+              "is_sensitive": null,
+              "reason": null
+            }
+          ]
+        }
+      },
+      {
+        "companyId": 20195417,
+        "contact_data": {
+          "emails": [
+            {
+              "val": "support.in@vivo.com",
+              "is_valid": 1,
+              "reason": ""
+            },
+            {
+              "val": "vcare@vivo.com",
+              "is_valid": 1,
+              "reason": ""
+            }
+          ],
+          "phones": [
+            {
+              "val": "01206283388",
+              "is_valid": 2,
+              "is_ws": 0,
+              "phone_type": 0,
+              "country_code": "",
+              "dialing_code": null,
+              "area_code": "",
+              "telephone": "",
+              "national_number": "",
+              "international_number": ""
+            },
+            {
+              "val": "18001023388",
+              "is_valid": 2,
+              "is_ws": 2,
+              "phone_type": 0,
+              "country_code": "",
+              "dialing_code": null,
+              "area_code": "",
+              "telephone": "",
+              "national_number": "",
+              "international_number": ""
+            },
+            {
+              "val": "18002083388",
+              "is_valid": 2,
+              "is_ws": 2,
+              "phone_type": 0,
+              "country_code": "",
+              "dialing_code": null,
+              "area_code": "",
+              "telephone": "",
+              "national_number": "",
+              "international_number": ""
+            },
+            {
+              "val": "18002084488",
+              "is_valid": 2,
+              "is_ws": 2,
+              "phone_type": 0,
+              "country_code": "",
+              "dialing_code": null,
+              "area_code": "",
+              "telephone": "",
+              "national_number": "",
+              "international_number": ""
+            },
+            {
+              "val": "911206283388",
+              "is_valid": 1,
+              "is_ws": 2,
+              "phone_type": 1,
+              "country_code": "91",
+              "dialing_code": null,
+              "area_code": "",
+              "telephone": "1206283388",
+              "national_number": "0120 628 3388",
+              "international_number": "+91 120 628 3388"
+            }
+          ],
+          "socials": [
+            {
+              "val": "https://www.facebook.com/vivoIndia",
+              "social_url": "vivoIndia",
+              "social_type": "facebook",
+              "is_valid": null,
+              "reason": null
+            },
+            {
+              "val": "https://www.instagram.com/accounts/login",
+              "social_url": "accounts/login",
+              "social_type": "instagram",
+              "is_valid": null,
+              "reason": null
+            },
+            {
+              "val": "https://www.linkedin.com/company/vivo-india",
+              "social_url": "company/vivo-india",
+              "social_type": "linkedin",
+              "is_valid": null,
+              "reason": null
+            },
+            {
+              "val": "https://twitter.com/Vivo_India",
+              "social_url": "Vivo_India",
+              "social_type": "twitter",
+              "is_valid": null,
+              "reason": null
+            },
+            {
+              "val": "https://www.youtube.com/c/VivoIndiaofficial",
+              "social_url": "c/VivoIndiaofficial",
+              "social_type": "youtube",
+              "is_valid": null,
+              "reason": null
+            }
+          ],
+          "websites": [
+            {
+              "val": "www.vivo.co.in",
+              "is_valid": 0,
+              "is_sensitive": null,
+              "reason": null
+            }
+          ]
+        }
+      },
+      {
+        "companyId": 229078,
+        "contact_data": {
+          "emails": [
+            {
+              "val": "jtaub@pacoa.com",
+              "is_valid": 0,
+              "reason": ""
+            }
+          ],
+          "phones": [
+            {
+              "val": "15162843000",
+              "is_valid": 1,
+              "is_ws": 2,
+              "phone_type": 3,
+              "country_code": "1",
+              "dialing_code": null,
+              "area_code": "516",
+              "telephone": "2843000",
+              "national_number": "(516) 284-3000",
+              "international_number": "+1 516-284-3000"
+            }
+          ],
+          "socials": [],
+          "websites": [
+            {
+              "val": "www.pacoa.com",
+              "is_valid": 0,
+              "is_sensitive": null,
+              "reason": null
+            }
+          ]
+        }
+      },
+      {
+        "companyId": 8206989,
+        "contact_data": {
+          "emails": [
+            {
+              "val": "info.india@triumph.com",
+              "is_valid": 1,
+              "reason": ""
+            }
+          ],
+          "phones": [
+            {
+              "val": "914428420743",
+              "is_valid": 1,
+              "is_ws": 2,
+              "phone_type": 1,
+              "country_code": "91",
+              "dialing_code": null,
+              "area_code": "",
+              "telephone": "4428420743",
+              "national_number": "044 2842 0743",
+              "international_number": "+91 44 2842 0743"
+            }
+          ],
+          "socials": [],
+          "websites": [
+            {
+              "val": "http://www.triumph.com",
+              "is_valid": 0,
+              "is_sensitive": null,
+              "reason": null
+            }
+          ]
+        }
+      },
+      {
+        "companyId": 368379,
+        "contact_data": {
+          "emails": [
+            {
+              "val": "info@haierindia.com",
+              "is_valid": 0,
+              "reason": ""
+            }
+          ],
+          "phones": [],
+          "socials": [],
+          "websites": [
+            {
+              "val": "www.haier.com",
+              "is_valid": 1,
+              "is_sensitive": null,
+              "reason": null
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "fee": {
+    "apiCost": 2000,
+    "accountBalance": 95950,
+    "uuid": "43e5096f-f547-451a-a0b9-4d99921cb8f0"
+  }
+}
