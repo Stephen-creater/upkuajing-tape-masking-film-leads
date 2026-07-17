@@ -1,0 +1,1157 @@
+{
+  "code": 0,
+  "msg": "success",
+  "data": {
+    "list": [
+      {
+        "companyId": 20449641,
+        "contact_data": {
+          "emails": [
+            {
+              "val": "info@rlmcastings.com",
+              "is_valid": 1,
+              "reason": ""
+            }
+          ],
+          "phones": [
+            {
+              "val": "12486285103",
+              "is_valid": 1,
+              "is_ws": 2,
+              "phone_type": 3,
+              "country_code": "1",
+              "dialing_code": null,
+              "area_code": "248",
+              "telephone": "6285103",
+              "national_number": "(248) 628-5103",
+              "international_number": "+1 248-628-5103"
+            },
+            {
+              "val": "2486285103",
+              "is_valid": 2,
+              "is_ws": 2,
+              "phone_type": 0,
+              "country_code": "",
+              "dialing_code": null,
+              "area_code": "",
+              "telephone": "",
+              "national_number": "",
+              "international_number": ""
+            }
+          ],
+          "socials": [
+            {
+              "val": "https://www.linkedin.com/company/rlm-industries/about",
+              "social_url": "company/rlm-industries/about",
+              "social_type": "linkedin",
+              "is_valid": null,
+              "reason": null
+            },
+            {
+              "val": "https://www.youtube.com/channel/UCSxP8AbBMiIq8J90O5N1h-w",
+              "social_url": "channel/UCSxP8AbBMiIq8J90O5N1h-w",
+              "social_type": "youtube",
+              "is_valid": null,
+              "reason": null
+            }
+          ],
+          "websites": [
+            {
+              "val": "http://www.rlmcastings.com",
+              "is_valid": 0,
+              "is_sensitive": null,
+              "reason": null
+            }
+          ]
+        }
+      },
+      {
+        "companyId": 20451256,
+        "contact_data": {
+          "emails": [
+            {
+              "val": "info@promacusa.com",
+              "is_valid": 1,
+              "reason": ""
+            }
+          ],
+          "phones": [
+            {
+              "val": "14409672040",
+              "is_valid": 1,
+              "is_ws": 2,
+              "phone_type": 3,
+              "country_code": "1",
+              "dialing_code": null,
+              "area_code": "440",
+              "telephone": "9672040",
+              "national_number": "(440) 967-2040",
+              "international_number": "+1 440-967-2040"
+            }
+          ],
+          "socials": [],
+          "websites": [
+            {
+              "val": "www.promacusa.com",
+              "is_valid": 0,
+              "is_sensitive": null,
+              "reason": null
+            }
+          ]
+        }
+      },
+      {
+        "companyId": 20450243,
+        "contact_data": {
+          "emails": [
+            {
+              "val": "accounting@pacificarc.us",
+              "is_valid": 1,
+              "reason": ""
+            },
+            {
+              "val": "contact@pacificarc.us",
+              "is_valid": 1,
+              "reason": ""
+            },
+            {
+              "val": "customerservice@pacificarc.us",
+              "is_valid": 1,
+              "reason": ""
+            },
+            {
+              "val": "info@pacificarc.us",
+              "is_valid": 1,
+              "reason": ""
+            },
+            {
+              "val": "orders@pacificarc.us",
+              "is_valid": 1,
+              "reason": ""
+            },
+            {
+              "val": "rs@pacificarc.us",
+              "is_valid": 1,
+              "reason": ""
+            },
+            {
+              "val": "sales@pacificarc.us",
+              "is_valid": 1,
+              "reason": ""
+            },
+            {
+              "val": "t@pacificarc.us",
+              "is_valid": 1,
+              "reason": ""
+            }
+          ],
+          "phones": [
+            {
+              "val": "12813437337",
+              "is_valid": 1,
+              "is_ws": 2,
+              "phone_type": 3,
+              "country_code": "1",
+              "dialing_code": null,
+              "area_code": "281",
+              "telephone": "3437337",
+              "national_number": "(281) 343-7337",
+              "international_number": "+1 281-343-7337"
+            }
+          ],
+          "socials": [
+            {
+              "val": "https://www.instagram.com/pacific.arc/?hl=en",
+              "social_url": "pacific.arc/?hl=en",
+              "social_type": "instagram",
+              "is_valid": null,
+              "reason": null
+            },
+            {
+              "val": "https://www.youtube.com/channel/UCwbn51avTMKjVlV9W76gTww",
+              "social_url": "channel/UCwbn51avTMKjVlV9W76gTww",
+              "social_type": "youtube",
+              "is_valid": null,
+              "reason": null
+            }
+          ],
+          "websites": [
+            {
+              "val": "www.pacificarc.us",
+              "is_valid": 0,
+              "is_sensitive": null,
+              "reason": null
+            }
+          ]
+        }
+      },
+      {
+        "companyId": 20451475,
+        "contact_data": {
+          "emails": [
+            {
+              "val": "pedidos@oriflame.com.pe",
+              "is_valid": 1,
+              "reason": ""
+            }
+          ],
+          "phones": [
+            {
+              "val": "515113190960",
+              "is_valid": 2,
+              "is_ws": 2,
+              "phone_type": 0,
+              "country_code": "51",
+              "dialing_code": null,
+              "area_code": "",
+              "telephone": "",
+              "national_number": "",
+              "international_number": ""
+            }
+          ],
+          "socials": [
+            {
+              "val": "https://www.facebook.com/oriflameperu",
+              "social_url": "oriflameperu",
+              "social_type": "facebook",
+              "is_valid": null,
+              "reason": null
+            },
+            {
+              "val": "https://www.instagram.com/pe.oriflame/ ",
+              "social_url": "pe.oriflame/ ",
+              "social_type": "instagram",
+              "is_valid": null,
+              "reason": null
+            },
+            {
+              "val": "https://twitter.com/OriflamePer",
+              "social_url": "OriflamePer",
+              "social_type": "twitter",
+              "is_valid": null,
+              "reason": null
+            },
+            {
+              "val": "https://www.youtube.com/Oriflamelatam",
+              "social_url": "Oriflamelatam",
+              "social_type": "youtube",
+              "is_valid": null,
+              "reason": null
+            }
+          ],
+          "websites": [
+            {
+              "val": "www.oriflame.com.pe",
+              "is_valid": 0,
+              "is_sensitive": null,
+              "reason": null
+            }
+          ]
+        }
+      },
+      {
+        "companyId": 20452014,
+        "contact_data": {
+          "emails": [
+            {
+              "val": "kchrecepcion@dte.custodium.com",
+              "is_valid": 0,
+              "reason": ""
+            }
+          ],
+          "phones": [
+            {
+              "val": "56512211453",
+              "is_valid": 1,
+              "is_ws": 2,
+              "phone_type": 3,
+              "country_code": "56",
+              "dialing_code": null,
+              "area_code": "51",
+              "telephone": "221 1453",
+              "national_number": "(51) 221 1453",
+              "international_number": "+56 51 221 1453"
+            },
+            {
+              "val": "6003640100",
+              "is_valid": 2,
+              "is_ws": 2,
+              "phone_type": 0,
+              "country_code": "",
+              "dialing_code": null,
+              "area_code": "",
+              "telephone": "",
+              "national_number": "",
+              "international_number": ""
+            }
+          ],
+          "socials": [
+            {
+              "val": "https://www.facebook.com/KomatsuChileCL",
+              "social_url": "KomatsuChileCL",
+              "social_type": "facebook",
+              "is_valid": null,
+              "reason": null
+            },
+            {
+              "val": "https://www.instagram.com/komatsu.chile",
+              "social_url": "komatsu.chile",
+              "social_type": "instagram",
+              "is_valid": null,
+              "reason": null
+            },
+            {
+              "val": "https://www.linkedin.com/company/komatsu-cummins-chile-s-a-/?originalSubdomain=cl",
+              "social_url": "company/komatsu-cummins-chile-s-a-/?originalSubdomain=cl",
+              "social_type": "linkedin",
+              "is_valid": null,
+              "reason": null
+            },
+            {
+              "val": "https://www.youtube.com/channel/UCtmMFVVM_6H18zLA_Y4DcBA",
+              "social_url": "channel/UCtmMFVVM_6H18zLA_Y4DcBA",
+              "social_type": "youtube",
+              "is_valid": null,
+              "reason": null
+            }
+          ],
+          "websites": [
+            {
+              "val": "www.komatsu.cl",
+              "is_valid": 0,
+              "is_sensitive": null,
+              "reason": null
+            }
+          ]
+        }
+      },
+      {
+        "companyId": 20447468,
+        "contact_data": {
+          "emails": [
+            {
+              "val": "email@servicetoolco.com",
+              "is_valid": 0,
+              "reason": ""
+            },
+            {
+              "val": "resume@servicetoolco.com",
+              "is_valid": 0,
+              "reason": ""
+            }
+          ],
+          "phones": [
+            {
+              "val": "13373697126",
+              "is_valid": 1,
+              "is_ws": 2,
+              "phone_type": 3,
+              "country_code": "1",
+              "dialing_code": null,
+              "area_code": "337",
+              "telephone": "3697126",
+              "national_number": "(337) 369-7126",
+              "international_number": "+1 337-369-7126"
+            },
+            {
+              "val": "3373651704",
+              "is_valid": 2,
+              "is_ws": 2,
+              "phone_type": 0,
+              "country_code": "",
+              "dialing_code": null,
+              "area_code": "",
+              "telephone": "",
+              "national_number": "",
+              "international_number": ""
+            }
+          ],
+          "socials": [],
+          "websites": [
+            {
+              "val": "www.servicetoolco.com",
+              "is_valid": 0,
+              "is_sensitive": null,
+              "reason": null
+            }
+          ]
+        }
+      },
+      {
+        "companyId": 20447239,
+        "contact_data": {
+          "emails": [
+            {
+              "val": "john.mies@volvo.com",
+              "is_valid": 1,
+              "reason": ""
+            }
+          ],
+          "phones": [
+            {
+              "val": "13363934300",
+              "is_valid": 1,
+              "is_ws": 2,
+              "phone_type": 3,
+              "country_code": "1",
+              "dialing_code": null,
+              "area_code": "336",
+              "telephone": "3934300",
+              "national_number": "(336) 393-4300",
+              "international_number": "+1 336-393-4300"
+            }
+          ],
+          "socials": [],
+          "websites": [
+            {
+              "val": "www.volvogroup.com",
+              "is_valid": 1,
+              "is_sensitive": null,
+              "reason": null
+            }
+          ]
+        }
+      },
+      {
+        "companyId": 20450639,
+        "contact_data": {
+          "emails": [
+            {
+              "val": "sales@afaindustries.com",
+              "is_valid": 1,
+              "reason": ""
+            }
+          ],
+          "phones": [
+            {
+              "val": "15867522900",
+              "is_valid": 1,
+              "is_ws": 2,
+              "phone_type": 3,
+              "country_code": "1",
+              "dialing_code": null,
+              "area_code": "586",
+              "telephone": "7522900",
+              "national_number": "(586) 752-2900",
+              "international_number": "+1 586-752-2900"
+            }
+          ],
+          "socials": [
+            {
+              "val": "https://www.facebook.com/AFAIndustriesInc",
+              "social_url": "AFAIndustriesInc",
+              "social_type": "facebook",
+              "is_valid": null,
+              "reason": null
+            },
+            {
+              "val": "https://www.instagram.com/afaindustries",
+              "social_url": "afaindustries",
+              "social_type": "instagram",
+              "is_valid": null,
+              "reason": null
+            },
+            {
+              "val": "https://www.linkedin.com/company/afa-industries-inc-",
+              "social_url": "company/afa-industries-inc-",
+              "social_type": "linkedin",
+              "is_valid": null,
+              "reason": null
+            },
+            {
+              "val": "https://twitter.com/afaindustries",
+              "social_url": "afaindustries",
+              "social_type": "twitter",
+              "is_valid": null,
+              "reason": null
+            }
+          ],
+          "websites": [
+            {
+              "val": "www.afaindustries.com",
+              "is_valid": 0,
+              "is_sensitive": null,
+              "reason": null
+            }
+          ]
+        }
+      },
+      {
+        "companyId": 20443433,
+        "contact_data": {
+          "emails": [
+            {
+              "val": "sunilagarwal@in.lulumea.com",
+              "is_valid": 1,
+              "reason": ""
+            }
+          ],
+          "phones": [
+            {
+              "val": "914842727700",
+              "is_valid": 1,
+              "is_ws": 2,
+              "phone_type": 1,
+              "country_code": "91",
+              "dialing_code": null,
+              "area_code": "",
+              "telephone": "4842727700",
+              "national_number": "0484 272 7700",
+              "international_number": "+91 484 272 7700"
+            }
+          ],
+          "socials": [],
+          "websites": [
+            {
+              "val": "www.lulumall.in",
+              "is_valid": 0,
+              "is_sensitive": null,
+              "reason": null
+            }
+          ]
+        }
+      },
+      {
+        "companyId": 20450428,
+        "contact_data": {
+          "emails": [
+            {
+              "val": "service@woodmark.com",
+              "is_valid": 0,
+              "reason": ""
+            }
+          ],
+          "phones": [
+            {
+              "val": "15406659100",
+              "is_valid": 1,
+              "is_ws": 2,
+              "phone_type": 3,
+              "country_code": "1",
+              "dialing_code": null,
+              "area_code": "540",
+              "telephone": "6659100",
+              "national_number": "(540) 665-9100",
+              "international_number": "+1 540-665-9100"
+            }
+          ],
+          "socials": [
+            {
+              "val": "https://www.facebook.com/AmericanWoodmark",
+              "social_url": "AmericanWoodmark",
+              "social_type": "facebook",
+              "is_valid": null,
+              "reason": null
+            },
+            {
+              "val": "https://www.instagram.com/americanwoodmark",
+              "social_url": "americanwoodmark",
+              "social_type": "instagram",
+              "is_valid": null,
+              "reason": null
+            },
+            {
+              "val": "https://www.linkedin.com/company/american-woodmark",
+              "social_url": "company/american-woodmark",
+              "social_type": "linkedin",
+              "is_valid": null,
+              "reason": null
+            }
+          ],
+          "websites": [
+            {
+              "val": "www.americanwoodmark.com",
+              "is_valid": 0,
+              "is_sensitive": null,
+              "reason": null
+            }
+          ]
+        }
+      },
+      {
+        "companyId": 20450959,
+        "contact_data": {
+          "emails": [
+            {
+              "val": "orders@dixoncanada.com",
+              "is_valid": 1,
+              "reason": ""
+            },
+            {
+              "val": "orders@dixonusa.com",
+              "is_valid": 1,
+              "reason": ""
+            }
+          ],
+          "phones": [
+            {
+              "val": "18003332545",
+              "is_valid": 1,
+              "is_ws": 2,
+              "phone_type": 3,
+              "country_code": "1",
+              "dialing_code": null,
+              "area_code": "800",
+              "telephone": "3332545",
+              "national_number": "(800) 333-2545",
+              "international_number": "+1 800-333-2545"
+            },
+            {
+              "val": "7057226701",
+              "is_valid": 2,
+              "is_ws": 2,
+              "phone_type": 0,
+              "country_code": "",
+              "dialing_code": null,
+              "area_code": "",
+              "telephone": "",
+              "national_number": "",
+              "international_number": ""
+            },
+            {
+              "val": "8003332545",
+              "is_valid": 2,
+              "is_ws": 2,
+              "phone_type": 0,
+              "country_code": "",
+              "dialing_code": null,
+              "area_code": "",
+              "telephone": "",
+              "national_number": "",
+              "international_number": ""
+            },
+            {
+              "val": "9208305050",
+              "is_valid": 2,
+              "is_ws": 2,
+              "phone_type": 0,
+              "country_code": "",
+              "dialing_code": null,
+              "area_code": "",
+              "telephone": "",
+              "national_number": "",
+              "international_number": ""
+            }
+          ],
+          "socials": [
+            {
+              "val": "https://www.linkedin.com/company/dixon-ticonderoga-company",
+              "social_url": "company/dixon-ticonderoga-company",
+              "social_type": "linkedin",
+              "is_valid": null,
+              "reason": null
+            }
+          ],
+          "websites": [
+            {
+              "val": "dixonticonderoga.com",
+              "is_valid": 0,
+              "is_sensitive": null,
+              "reason": null
+            }
+          ]
+        }
+      },
+      {
+        "companyId": 20439931,
+        "contact_data": {
+          "emails": [
+            {
+              "val": "info@youngnails.com",
+              "is_valid": 1,
+              "reason": ""
+            }
+          ],
+          "phones": [
+            {
+              "val": "17145250013",
+              "is_valid": 1,
+              "is_ws": 2,
+              "phone_type": 3,
+              "country_code": "1",
+              "dialing_code": null,
+              "area_code": "714",
+              "telephone": "5250013",
+              "national_number": "(714) 525-0013",
+              "international_number": "+1 714-525-0013"
+            },
+            {
+              "val": "7149921400",
+              "is_valid": 2,
+              "is_ws": 2,
+              "phone_type": 0,
+              "country_code": "",
+              "dialing_code": null,
+              "area_code": "",
+              "telephone": "",
+              "national_number": "",
+              "international_number": ""
+            }
+          ],
+          "socials": [
+            {
+              "val": "https://www.facebook.com/youngnailsinc",
+              "social_url": "youngnailsinc",
+              "social_type": "facebook",
+              "is_valid": null,
+              "reason": null
+            },
+            {
+              "val": "https://www.instagram.com/youngnailsinc/?hl=en",
+              "social_url": "youngnailsinc/?hl=en",
+              "social_type": "instagram",
+              "is_valid": null,
+              "reason": null
+            },
+            {
+              "val": "https://www.linkedin.com/company/youngnailsinc",
+              "social_url": "company/youngnailsinc",
+              "social_type": "linkedin",
+              "is_valid": null,
+              "reason": null
+            },
+            {
+              "val": "https://twitter.com/youngnailsinc",
+              "social_url": "youngnailsinc",
+              "social_type": "twitter",
+              "is_valid": null,
+              "reason": null
+            },
+            {
+              "val": "https://www.youtube.com/youngnailsinc",
+              "social_url": "youngnailsinc",
+              "social_type": "youtube",
+              "is_valid": null,
+              "reason": null
+            }
+          ],
+          "websites": [
+            {
+              "val": "www.youngnails.com",
+              "is_valid": 0,
+              "is_sensitive": null,
+              "reason": null
+            }
+          ]
+        }
+      },
+      {
+        "companyId": 20441648,
+        "contact_data": {
+          "emails": [
+            {
+              "val": "hnguyen@sephora.sg",
+              "is_valid": 1,
+              "reason": ""
+            }
+          ],
+          "phones": [
+            {
+              "val": "911166544727",
+              "is_valid": 1,
+              "is_ws": 2,
+              "phone_type": 1,
+              "country_code": "91",
+              "dialing_code": null,
+              "area_code": "",
+              "telephone": "1166544727",
+              "national_number": "011 6654 4727",
+              "international_number": "+91 11 6654 4727"
+            }
+          ],
+          "socials": [],
+          "websites": [
+            {
+              "val": "www.sephora.nnnow.com",
+              "is_valid": 0,
+              "is_sensitive": null,
+              "reason": null
+            }
+          ]
+        }
+      },
+      {
+        "companyId": 20445306,
+        "contact_data": {
+          "emails": [
+            {
+              "val": "busopsips@ingramcontent.com",
+              "is_valid": 0,
+              "reason": ""
+            },
+            {
+              "val": "careers@ingramcontent.us",
+              "is_valid": 0,
+              "reason": ""
+            },
+            {
+              "val": "integrate@ingramcontent.com",
+              "is_valid": 0,
+              "reason": ""
+            },
+            {
+              "val": "ips@ingramcontent.com",
+              "is_valid": 1,
+              "reason": ""
+            },
+            {
+              "val": "newaccounts@ingramcontent.com",
+              "is_valid": 1,
+              "reason": ""
+            }
+          ],
+          "phones": [],
+          "socials": [
+            {
+              "val": "https://www.facebook.com/ingramcontent",
+              "social_url": "ingramcontent",
+              "social_type": "facebook",
+              "is_valid": null,
+              "reason": null
+            },
+            {
+              "val": "https://www.linkedin.com/company/ingram-content-group",
+              "social_url": "company/ingram-content-group",
+              "social_type": "linkedin",
+              "is_valid": null,
+              "reason": null
+            },
+            {
+              "val": "https://www.pinterest.com/ingramcontent",
+              "social_url": "ingramcontent",
+              "social_type": "pinterest",
+              "is_valid": null,
+              "reason": null
+            },
+            {
+              "val": "https://twitter.com/ingramcontent",
+              "social_url": "ingramcontent",
+              "social_type": "twitter",
+              "is_valid": null,
+              "reason": null
+            },
+            {
+              "val": "https://www.youtube.com/user/IngramContentGrp",
+              "social_url": "user/IngramContentGrp",
+              "social_type": "youtube",
+              "is_valid": null,
+              "reason": null
+            }
+          ],
+          "websites": [
+            {
+              "val": "ingramcontent.com",
+              "is_valid": 2,
+              "is_sensitive": null,
+              "reason": null
+            }
+          ]
+        }
+      },
+      {
+        "companyId": 20466557,
+        "contact_data": {
+          "emails": [
+            {
+              "val": "jepsonr@telusplanet.net",
+              "is_valid": 1,
+              "reason": ""
+            }
+          ],
+          "phones": [
+            {
+              "val": "18775784774",
+              "is_valid": 1,
+              "is_ws": 2,
+              "phone_type": 3,
+              "country_code": "1",
+              "dialing_code": null,
+              "area_code": "877",
+              "telephone": "5784774",
+              "national_number": "(877) 578-4774",
+              "international_number": "+1 877-578-4774"
+            }
+          ],
+          "socials": [],
+          "websites": [
+            {
+              "val": "http://www.pubservinc.com/",
+              "is_valid": 0,
+              "is_sensitive": null,
+              "reason": null
+            }
+          ]
+        }
+      },
+      {
+        "companyId": 71469496,
+        "contact_data": {
+          "emails": [
+            {
+              "val": "cs-01@resologix.com",
+              "is_valid": 1,
+              "reason": ""
+            },
+            {
+              "val": "lerry@usa-boss.com",
+              "is_valid": 1,
+              "reason": ""
+            }
+          ],
+          "phones": [
+            {
+              "val": "19096205907",
+              "is_valid": 1,
+              "is_ws": 2,
+              "phone_type": 3,
+              "country_code": "1",
+              "dialing_code": null,
+              "area_code": "909",
+              "telephone": "6205907",
+              "national_number": "(909) 620-5907",
+              "international_number": "+1 909-620-5907"
+            },
+            {
+              "val": "9096205907",
+              "is_valid": 2,
+              "is_ws": 0,
+              "phone_type": 0,
+              "country_code": "",
+              "dialing_code": null,
+              "area_code": "",
+              "telephone": "",
+              "national_number": "",
+              "international_number": ""
+            }
+          ],
+          "socials": [],
+          "websites": []
+        }
+      },
+      {
+        "companyId": 20441336,
+        "contact_data": {
+          "emails": [
+            {
+              "val": "cpulice@ppibeauty.com",
+              "is_valid": 1,
+              "reason": ""
+            },
+            {
+              "val": "u003ecpulice@ppibeauty.com",
+              "is_valid": 0,
+              "reason": ""
+            }
+          ],
+          "phones": [],
+          "socials": [
+            {
+              "val": "https://www.facebook.com/realtechniques",
+              "social_url": "realtechniques",
+              "social_type": "facebook",
+              "is_valid": null,
+              "reason": null
+            },
+            {
+              "val": "https://www.linkedin.com/company/paris-presents",
+              "social_url": "company/paris-presents",
+              "social_type": "linkedin",
+              "is_valid": null,
+              "reason": null
+            },
+            {
+              "val": "https://www.youtube.com/user/realtechniques",
+              "social_url": "user/realtechniques",
+              "social_type": "youtube",
+              "is_valid": null,
+              "reason": null
+            }
+          ],
+          "websites": [
+            {
+              "val": "parispresents.com",
+              "is_valid": 1,
+              "is_sensitive": null,
+              "reason": null
+            }
+          ]
+        }
+      },
+      {
+        "companyId": 20450491,
+        "contact_data": {
+          "emails": [
+            {
+              "val": "customer.service@prym-consumer-usa.com",
+              "is_valid": 2,
+              "reason": ""
+            }
+          ],
+          "phones": [
+            {
+              "val": "18645765050",
+              "is_valid": 1,
+              "is_ws": 2,
+              "phone_type": 3,
+              "country_code": "1",
+              "dialing_code": null,
+              "area_code": "864",
+              "telephone": "5765050",
+              "national_number": "(864) 576-5050",
+              "international_number": "+1 864-576-5050"
+            }
+          ],
+          "socials": [],
+          "websites": [
+            {
+              "val": "http://www.prym-consumer-usa.com/",
+              "is_valid": 0,
+              "is_sensitive": null,
+              "reason": null
+            }
+          ]
+        }
+      },
+      {
+        "companyId": 20451694,
+        "contact_data": {
+          "emails": [
+            {
+              "val": "contact@farmcity.co",
+              "is_valid": 1,
+              "reason": ""
+            },
+            {
+              "val": "ejemplo@mail.com",
+              "is_valid": 0,
+              "reason": ""
+            }
+          ],
+          "phones": [
+            {
+              "val": "541148213000",
+              "is_valid": 1,
+              "is_ws": 2,
+              "phone_type": 1,
+              "country_code": "54",
+              "dialing_code": null,
+              "area_code": "",
+              "telephone": "1148213000",
+              "national_number": "011 4821-3000",
+              "international_number": "+54 11 4821-3000"
+            }
+          ],
+          "socials": [
+            {
+              "val": "https://www.facebook.com/Farmacity",
+              "social_url": "Farmacity",
+              "social_type": "facebook",
+              "is_valid": null,
+              "reason": null
+            },
+            {
+              "val": "https://www.facebook.com/Farmacity/?locale=es_LA",
+              "social_url": "Farmacity/?locale=es_LA",
+              "social_type": "facebook",
+              "is_valid": null,
+              "reason": null
+            },
+            {
+              "val": "https://www.instagram.com/farmacityoficial",
+              "social_url": "farmacityoficial",
+              "social_type": "instagram",
+              "is_valid": null,
+              "reason": null
+            },
+            {
+              "val": "https://twitter.com/farmacity",
+              "social_url": "farmacity",
+              "social_type": "twitter",
+              "is_valid": null,
+              "reason": null
+            },
+            {
+              "val": "https://www.youtube.com/@farmacityarg",
+              "social_url": "@farmacityarg",
+              "social_type": "youtube",
+              "is_valid": null,
+              "reason": null
+            },
+            {
+              "val": "https://www.youtube.com/user/farmacityarg",
+              "social_url": "user/farmacityarg",
+              "social_type": "youtube",
+              "is_valid": null,
+              "reason": null
+            }
+          ],
+          "websites": [
+            {
+              "val": "www.farmacity.com",
+              "is_valid": 1,
+              "is_sensitive": null,
+              "reason": null
+            }
+          ]
+        }
+      },
+      {
+        "companyId": 71499254,
+        "contact_data": {
+          "emails": [
+            {
+              "val": "om@ufe2.com",
+              "is_valid": 0,
+              "reason": ""
+            }
+          ],
+          "phones": [
+            {
+              "val": "19093641661",
+              "is_valid": 1,
+              "is_ws": 2,
+              "phone_type": 3,
+              "country_code": "1",
+              "dialing_code": null,
+              "area_code": "909",
+              "telephone": "3641661",
+              "national_number": "(909) 364-1661",
+              "international_number": "+1 909-364-1661"
+            },
+            {
+              "val": "9093641661",
+              "is_valid": 2,
+              "is_ws": 0,
+              "phone_type": 0,
+              "country_code": "90",
+              "dialing_code": null,
+              "area_code": "",
+              "telephone": "",
+              "national_number": "",
+              "international_number": ""
+            },
+            {
+              "val": "9093641662",
+              "is_valid": 2,
+              "is_ws": 0,
+              "phone_type": 0,
+              "country_code": "90",
+              "dialing_code": null,
+              "area_code": "",
+              "telephone": "",
+              "national_number": "",
+              "international_number": ""
+            }
+          ],
+          "socials": [],
+          "websites": []
+        }
+      }
+    ]
+  },
+  "fee": {
+    "apiCost": 2000,
+    "accountBalance": 73540,
+    "uuid": "c06435c6-f754-4ff2-b8b2-117cadd71236"
+  }
+}
