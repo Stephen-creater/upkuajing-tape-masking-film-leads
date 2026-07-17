@@ -1,0 +1,777 @@
+{
+  "code": 0,
+  "msg": "success",
+  "data": {
+    "cursor": "eyJjb21wYW55X2lkIjoyMDIwNTQ3OX0=",
+    "list": [
+      {
+        "companyId": 217979,
+        "companyType": 2,
+        "name": "dollarama l p co",
+        "countryCode": "US",
+        "tradeTotal": 127197,
+        "scope": "clear diamond,cat dish,holder set,baking cup,bag a,colour pencil,ng tube,pvc anti slip,foam sticker,cool,foam paint brush,d clip,window squeegee,plastic hoop,gs m,wort,cover,litte,xmas snowman,3 ton",
+        "address": "5805 av royalmount mont-royal, qc h4p 0a1 canada",
+        "tradeMatchTotal": 177,
+        "tradeMatchPercent": 0.14,
+        "latestTradeDate": 1780243200000,
+        "productDesc": "SHIPPER_DESCRIPTION (METAL LEMON/LIME SQUEE ZER CRAFT-7/8PC ARTIST PAINT BRUSH SET RECTANGULAR 2 HANDLE PLASTIC WIDE WOVEN LOOK BASKETWITH TRIM DOUBLE SIDED FOAM MOUNTING TAPE 18 MM X 4.5M) - HSCD_DESCRIPTION (BRUSHES, FOR ARTISTS OR MAKE-UP) PLEASE NOTE - QUANTITY AND DESCRIPTION OF THE CARGO ARE BASED ON THE SHIPPER S LOAD AND CO UNT. OCEAN CARRIER HAS NO KNOWLEDGE, INFORMATION, OR REASON TO BELIEVE OR SUSPECT THAT TH E INFORMATION FURNISHED BY THE SHIPPER IS INCOMPLETE, INACCURATE, OR FALSE<br/>",
+        "productTags": [
+          "ocean carrier",
+          "cargo",
+          "note",
+          "ion",
+          "artis",
+          "trim",
+          "foam mounting tape",
+          "fur",
+          "hat",
+          "ppe",
+          "double side",
+          "angular",
+          "pc",
+          "look",
+          "inform",
+          "basket",
+          "lime",
+          "brush set",
+          "shed",
+          "cd",
+          "plastic",
+          "raft",
+          "oven",
+          "believe",
+          "artist paint",
+          "accurate",
+          "inco",
+          "lemon",
+          "e base",
+          "lease",
+          "ledge",
+          "2 handle",
+          "brushes",
+          "metal"
+        ],
+        "productNames": [],
+        "productAlias": [],
+        "productSuperordinate": [],
+        "productDownstream": []
+      },
+      {
+        "companyId": 20423323,
+        "companyType": 2,
+        "name": "TRUPER SA DE CV",
+        "countryCode": "MX",
+        "tradeTotal": 278045,
+        "scope": "",
+        "address": "PERIFERICO ECOLOGICO LATERAL OTRA (ESPECIFICAR) OTRA (ESPECIFICAR) OTRA (ESPECIFICAR) 2 A  0",
+        "tradeMatchTotal": 171,
+        "tradeMatchPercent": 0.06,
+        "latestTradeDate": 1753891200000,
+        "productDesc": "BROCHA PARA PINTAR",
+        "productTags": [
+          "Paint brush"
+        ],
+        "productNames": [
+          "Paint brush"
+        ],
+        "productAlias": [
+          "Paintbrush",
+          "Painting brush",
+          "Artist brush",
+          "Decorative brush",
+          "Household brush"
+        ],
+        "productSuperordinate": [
+          "Wood",
+          "Bristle",
+          "Nylon",
+          "Metal",
+          "Plastic"
+        ],
+        "productDownstream": [
+          "Wall painting",
+          "Furniture painting",
+          "Automobile painting",
+          "Artwork creation",
+          "Craft projects"
+        ]
+      },
+      {
+        "companyId": 1945196,
+        "companyType": 2,
+        "name": "laarcourier express s.a.",
+        "countryCode": "EC",
+        "tradeTotal": 1729929,
+        "scope": "",
+        "address": "GRUPO LAAR , DE LOS CIPRESES N26 , CARCELEN INDUSTRIAL",
+        "tradeMatchTotal": 152,
+        "tradeMatchPercent": 0.01,
+        "latestTradeDate": 1758556800000,
+        "productDesc": "PULSERA 9036831712 PENDIENTES 4060523396 MOLDE DE PLASTICO PARA HORNEAR 3918799761 PINCEL PARA PINTAR 85481340943 MOLDE 2449638793 CAJA DE ALMACENAJE DOMESTICA 23950893916 MOCHILA 2941598297 MOLDE 179",
+        "productTags": [
+          "PULSERA",
+          "PENDIENTES",
+          "Plastic",
+          "Mold",
+          "Painting"
+        ],
+        "productNames": [
+          "PULSERA",
+          "PENDIENTES",
+          "PLASTIC BAKING MOLD",
+          "PAINT BRUSH",
+          "DOMESTIC STORAGE BOX",
+          "BACKPACK"
+        ],
+        "productAlias": [
+          "Bracelet",
+          "Earrings",
+          "Plastic Mold",
+          "Paintbrush",
+          "Storage Box"
+        ],
+        "productSuperordinate": [
+          "Plastic Resin",
+          "Pigments",
+          "Fibers",
+          "Metals",
+          "Wood"
+        ],
+        "productDownstream": [
+          "Fashion Accessories",
+          "Baked Goods",
+          "Artwork",
+          "Home Decor",
+          "Travel Gear"
+        ]
+      },
+      {
+        "companyId": 28170,
+        "companyType": 2,
+        "name": "truper s.a.de c.v.",
+        "countryCode": "MX",
+        "tradeTotal": 360488,
+        "scope": "bits,accesorios,export document,agent,abro,13 pocket,a 60,caja de,le par,tipo,vin,carton,e 12,yt,hot rolled,packaged,moisture content,water tank,s 140,inco",
+        "address": "miguel de cervantes saavedra 67 granada miguel hidalgo ciudad de méxico df 11520 mexico",
+        "tradeMatchTotal": 128,
+        "tradeMatchPercent": 0.04,
+        "latestTradeDate": 1756310400000,
+        "productDesc": "CEPILLO PARA PINTAR",
+        "productTags": [
+          "Paint Brush"
+        ],
+        "productNames": [
+          "Paint Brush"
+        ],
+        "productAlias": [
+          "Painting Brush",
+          "Artist Brush",
+          "Decorative Brush",
+          "Household Brush",
+          "Wall Brush"
+        ],
+        "productSuperordinate": [
+          "Wood",
+          "Plastic",
+          "Bristle",
+          "Fiber",
+          "Metal"
+        ],
+        "productDownstream": [
+          "Wall Painting",
+          "Furniture Painting",
+          "Automobile Painting",
+          "Artwork Creation",
+          "Crafts"
+        ]
+      },
+      {
+        "companyId": 31609029,
+        "companyType": 2,
+        "name": "NOUR TRADING HOUSE INC",
+        "countryCode": "CA",
+        "tradeTotal": 188,
+        "scope": "Brooms and brushes",
+        "address": "637 COLBY DR",
+        "tradeMatchTotal": 113,
+        "tradeMatchPercent": 60.11,
+        "latestTradeDate": 1753027200000,
+        "productDesc": "Cover clamp, paint rollers (new goods)#&amp;VN",
+        "productTags": [
+          "Cover clamp",
+          "Paint roller"
+        ],
+        "productNames": [
+          "Cover clamp",
+          "Paint roller"
+        ],
+        "productAlias": [
+          "Clamp cover",
+          "Painting roller",
+          "Cover clip",
+          "Paint brush roller",
+          "Clamping cover"
+        ],
+        "productSuperordinate": [
+          "Metal",
+          "Plastic",
+          "Rubber",
+          "Fiber",
+          "Wood"
+        ],
+        "productDownstream": [
+          "Furniture manufacturing",
+          "Automobile painting",
+          "Building decoration",
+          "Ship painting",
+          "Electronics manufacturing"
+        ]
+      },
+      {
+        "companyId": 4396179,
+        "companyType": 2,
+        "name": "importadora agrofor ltd.",
+        "countryCode": "CL",
+        "tradeTotal": 148741,
+        "scope": "",
+        "address": "lautaro 341, local b, quilicura.",
+        "tradeMatchTotal": 101,
+        "tradeMatchPercent": 0.07,
+        "latestTradeDate": 1748534400000,
+        "productDesc": "REVOLVEDOR DE PINTURA 100MM",
+        "productTags": [
+          "Paint Roller",
+          "Painting"
+        ],
+        "productNames": [
+          "Paint Roller"
+        ],
+        "productAlias": [
+          "Paint Applicator",
+          "Wall Roller",
+          "Paint Brush Alternative",
+          "Roller for Painting",
+          "Coating Roller"
+        ],
+        "productSuperordinate": [
+          "Plastic",
+          "Foam",
+          "Fiber",
+          "Metal",
+          "Rubber"
+        ],
+        "productDownstream": [
+          "Interior Painting",
+          "Exterior Painting",
+          "Furniture Painting",
+          "Automotive Painting",
+          "Industrial Coating"
+        ]
+      },
+      {
+        "companyId": 71397816,
+        "companyType": 2,
+        "name": "DOLLARAMA L.P.",
+        "countryCode": "CA",
+        "tradeTotal": 43997,
+        "scope": "",
+        "address": "Mont-Royal, Canada",
+        "tradeMatchTotal": 94,
+        "tradeMatchPercent": 0.21,
+        "latestTradeDate": 1782403200000,
+        "productDesc": "PURE SILK CUTICLE NIPPER 5915 CARTON 2\" PAINT BRUSH POLYESTER BRISTLE RED LAQUER HANDLE W/GOLD E 10PK QUICK DRY PAINT STICKS",
+        "productTags": [],
+        "productNames": [],
+        "productAlias": [],
+        "productSuperordinate": [],
+        "productDownstream": []
+      },
+      {
+        "companyId": 183564,
+        "companyType": 2,
+        "name": "công ty tnhh m v liên minh",
+        "countryCode": "VN",
+        "tradeTotal": 2791,
+        "scope": "cylinders,l'oreal paris,air filter,acrylic resin,cutting machine,seal oil capsule,ring,stainless steel,maybelline,tie,scarves,blocks,hardened plastic,trade advertising material,eva foam,cutting machines,plastic,mantillas,trimmer,carton",
+        "address": "49 đường 1, cư xá chu văn an, p. 26, q. bình thạnh,tp. hồ chí minh (tphcm)",
+        "tradeMatchTotal": 86,
+        "tradeMatchPercent": 3.08,
+        "latestTradeDate": 1757952000000,
+        "productDesc": "LÁ PHÔI DẬP N-BRUSH AM 0-003 SP .Size 122Mx200MM/CUỘN. (HÀNG F.O.C), HÀNG MỚI 100%",
+        "productTags": [
+          "N-Brush",
+          "Brush"
+        ],
+        "productNames": [
+          "N-Brush"
+        ],
+        "productAlias": [
+          "N-Brush",
+          "Brush",
+          "Paint Brush",
+          "Decorative Brush",
+          "Art Brush"
+        ],
+        "productSuperordinate": [
+          "Bristles",
+          "Wood",
+          "Plastic",
+          "Metal",
+          "Fiber"
+        ],
+        "productDownstream": [
+          "Painting",
+          "Decorating",
+          "Artwork",
+          "Crafts",
+          "DIY Projects"
+        ]
+      },
+      {
+        "companyId": 581049,
+        "companyType": 2,
+        "name": "royal hardwar",
+        "countryCode": "US",
+        "tradeTotal": 4388,
+        "scope": "wood,hch,lids,cod,k2,s 15,packing material,drawer slide,s 136,s 10,2 drawer,for refrigerator,s 30,solid wood packaging,u 02,sol,heto,drawerslide,mater,drawer",
+        "address": "",
+        "tradeMatchTotal": 68,
+        "tradeMatchPercent": 1.55,
+        "latestTradeDate": 1768665600000,
+        "productDesc": "M 555 PAINT BRUSH 63MM",
+        "productTags": [
+          "3m",
+          "paint brush"
+        ],
+        "productNames": [],
+        "productAlias": [],
+        "productSuperordinate": [],
+        "productDownstream": []
+      },
+      {
+        "companyId": 4412694,
+        "companyType": 2,
+        "name": "công ty cổ phần vận tải và dịch vụ hàng hải",
+        "countryCode": "VN",
+        "tradeTotal": 49202,
+        "scope": "sodium chloride,blocks,photosensitive semiconductor devices,oats,preserved seeds,jam,carton,mixed fruit juice,children’s books,paper,friction material,lounge chair,static converters,extractor,preserved strawberries,rotary positive vane pumps,cucumbers,fish chondroitin capsules,gingerbread,fixed capacitors",
+        "address": "34 nguyễn thị nghĩa, p. bến thành, q. 1,tp. hồ chí minh (tphcm)",
+        "tradeMatchTotal": 53,
+        "tradeMatchPercent": 0.11,
+        "latestTradeDate": 1769097600000,
+        "productDesc": "Cọ quét sơn 2.5 inch hiệu Hiro,1 cái/gói-HIRO PAINT BRUSH 2.5 INCH 2X8X26.5CM, Code:74150024, Hàng mới 100%",
+        "productTags": [
+          "wire brush"
+        ],
+        "productNames": [],
+        "productAlias": [],
+        "productSuperordinate": [],
+        "productDownstream": []
+      },
+      {
+        "companyId": 26313699,
+        "companyType": 2,
+        "name": "IMPORTADORA Y MANUFACTURERA VON DER HEYDE S A C I",
+        "countryCode": "CL",
+        "tradeTotal": 1598,
+        "scope": "",
+        "address": "CALLE EL ESFUERZO 702 , QUILPUE",
+        "tradeMatchTotal": 50,
+        "tradeMatchPercent": 3.13,
+        "latestTradeDate": 1753632000000,
+        "productDesc": "RODILLOS PARA PINTARN.N.T.-F18 CM, (SET 10 PZA.)PARA ALBANILERIA BROCHAS Y PINCELES P.PINTAR,ENLUCIR,BARNIZAR O SIMILARES",
+        "productTags": [
+          "Painting Roller",
+          "Paint Brush",
+          "Paintbrush",
+          "Painting",
+          "Albanileria"
+        ],
+        "productNames": [
+          "Painting Roller",
+          "Paint Brush",
+          "Paintbrush"
+        ],
+        "productAlias": [
+          "Paint Roller",
+          "Painting Brush",
+          "Coating Brush",
+          "Varnishing Brush",
+          "Decorating Brush"
+        ],
+        "productSuperordinate": [
+          "Plastic",
+          "Wood",
+          "Fiber",
+          "Metal",
+          "Paint"
+        ],
+        "productDownstream": [
+          "Wall Painting",
+          "Furniture Painting",
+          "Automobile Painting",
+          "Art Painting",
+          "Industrial Coating"
+        ]
+      },
+      {
+        "companyId": 20616554,
+        "companyType": 2,
+        "name": "MEGA LINEAS SOCIEDAD ANONIMA",
+        "countryCode": "CR",
+        "tradeTotal": 26791,
+        "scope": "",
+        "address": "SAN JUAN DE ELECTRO NORTE 175 METROS NORTE",
+        "tradeMatchTotal": 45,
+        "tradeMatchPercent": 0.17,
+        "latestTradeDate": 1733155200000,
+        "productDesc": "BROCHA PARA PINTAR - ARTs. de FERRETERIA - MARCA TARGO TOOLS MODELO P2500-30W",
+        "productTags": [
+          "Paint Brush",
+          "Hardware",
+          "Targo Tools"
+        ],
+        "productNames": [
+          "Paint Brush"
+        ],
+        "productAlias": [
+          "Paintbrush",
+          "Painting Brush",
+          "Artist Brush",
+          "Decorative Brush",
+          "Household Brush"
+        ],
+        "productSuperordinate": [
+          "Bristles",
+          "Wood",
+          "Plastic",
+          "Metal",
+          "Glue"
+        ],
+        "productDownstream": [
+          "Wall Painting",
+          "Furniture Painting",
+          "Artwork Creation",
+          "Automotive Painting",
+          "Craft Projects"
+        ]
+      },
+      {
+        "companyId": 71383355,
+        "companyType": 2,
+        "name": "C.H. ROBINSON INTERNATIONAL, INC.",
+        "countryCode": "PR",
+        "tradeTotal": 425093,
+        "scope": "",
+        "address": "Miami, Florida",
+        "tradeMatchTotal": 44,
+        "tradeMatchPercent": 0.01,
+        "latestTradeDate": 1753545600000,
+        "productDesc": "FOOTREST BRACKET-MACHINED DRINKING DISPENSING EQUIPMENT KHQ 8 SKILLET ENAM CAST NS (BLACK) PAINT BRUSH FAUCETS AND FAUCET PARTS ...",
+        "productTags": [
+          "Footrest",
+          "Bracket",
+          "Drinking Dispenser",
+          "Skillet",
+          "Paint Brush",
+          "Faucets"
+        ],
+        "productNames": [
+          "Footrest Bracket",
+          "Drinking Dispensing Equipment",
+          "Skillet",
+          "Paint Brush",
+          "Faucets and Faucet Parts"
+        ],
+        "productAlias": [
+          "Footrest Support",
+          "Drink Dispenser",
+          "Frying Pan",
+          "Paint Roller",
+          "Tap"
+        ],
+        "productSuperordinate": [
+          "Metal",
+          "Plastic",
+          "Ceramic",
+          "Wood",
+          "Rubber"
+        ],
+        "productDownstream": [
+          "Furniture",
+          "Kitchen Appliances",
+          "Construction",
+          "Automotive",
+          "Home Decor"
+        ]
+      },
+      {
+        "companyId": 71456730,
+        "companyType": 2,
+        "name": "OCEANTRADE INC",
+        "countryCode": "US",
+        "tradeTotal": 812,
+        "scope": "",
+        "address": "New York City, New York",
+        "tradeMatchTotal": 38,
+        "tradeMatchPercent": 4.68,
+        "latestTradeDate": 1773849600000,
+        "productDesc": "HARROW SHEEPHOOK FRUIT PICKER SAW SUPPORT ROD PILING HANDLE SCOOTER BLENDER HOE LAWN PUSHI NG WALL FUR SHOVEL PAINT BRUSH STORAG...",
+        "productTags": [],
+        "productNames": [],
+        "productAlias": [],
+        "productSuperordinate": [],
+        "productDownstream": []
+      },
+      {
+        "companyId": 17242088,
+        "companyType": 2,
+        "name": "sun usa imports",
+        "countryCode": "US",
+        "tradeTotal": 6761,
+        "scope": "fresh apples,apple,melon,sand,cnt,s 30,carrier,esp,tempera,cargo,gh,honey,rst,box,full container,otto,cion,seal,hat,marg",
+        "address": "2230 sw 2nd street, pompano beach f 33069",
+        "tradeMatchTotal": 36,
+        "tradeMatchPercent": 0.53,
+        "latestTradeDate": 1771344000000,
+        "productDesc": "STATIONERY 6PCS COLOR PENCIL 1PCS PLASTIC COLOR PLATTE 1PCSERASER 1PCS SHARPENER 1PCS PAINT BRUSH 8PCS WATERCOLOR PIGMSTATIONERY 6PCS COLOR PENCIL 1PCS PLASTIC COLOR PLATTE 1PCS",
+        "productTags": [
+          "sharpener",
+          "plastic color",
+          "pla",
+          "pig",
+          "eraser",
+          "watercolor",
+          "stationery",
+          "color pencil",
+          "pc",
+          "paint brush"
+        ],
+        "productNames": [],
+        "productAlias": [],
+        "productSuperordinate": [],
+        "productDownstream": []
+      },
+      {
+        "companyId": 46334861,
+        "companyType": 2,
+        "name": "VINOD TRADERS",
+        "countryCode": "IN",
+        "tradeTotal": 395,
+        "scope": "yellow strip,blu,paint roller,decora,mini acrylic,vertical rice whitener,1 8m,e roller,uv,controller,handle,micro b,foam drilling machine,eye,paddy husker,md,stripe,1 2m,grey,model number",
+        "address": "plot no.18, survey no.27, meghpar borichi, anjar (kutch),pin-370110",
+        "tradeMatchTotal": 34,
+        "tradeMatchPercent": 8.61,
+        "latestTradeDate": 1752595200000,
+        "productDesc": "4\"PAINT ROLLER RED GREY STRIP ACRYLIC NAP 12MM DIA-25MM 4\"PAINT ROLLER RED GREY STRIP ACRYLIC NAP 12MM DIA-25MM",
+        "productTags": [
+          "Paint Roller",
+          "Acrylic",
+          "Strip"
+        ],
+        "productNames": [
+          "Paint Roller"
+        ],
+        "productAlias": [
+          "Paint Brush Roller",
+          "Wall Paint Roller",
+          "Decorative Paint Roller",
+          "DIY Paint Roller",
+          "Home Paint Roller"
+        ],
+        "productSuperordinate": [
+          "Acrylic Resin",
+          "Plastic",
+          "Metal",
+          "Fiber",
+          "Adhesive"
+        ],
+        "productDownstream": [
+          "Interior Painting",
+          "Exterior Painting",
+          "Furniture Painting",
+          "Automotive Painting",
+          "Industrial Painting"
+        ]
+      },
+      {
+        "companyId": 226828,
+        "companyType": 2,
+        "name": "j c sales",
+        "countryCode": "US",
+        "tradeTotal": 6591,
+        "scope": "floor,pc plate,stainless steel mug,bicycle lock,kit,ore,st b,head light,knob,brush pet,tuff,tong,y post,cucumber,dog collar,stackable desk,liner,velvet,cleaning brush,pastel",
+        "address": "10673 nw 62nd court, parkland, fl 33076",
+        "tradeMatchTotal": 31,
+        "tradeMatchPercent": 0.47,
+        "latestTradeDate": 1780588800000,
+        "productDesc": "SELF TAPPING SCREW ANCHOR SET WASHER BICYCLE LOCK SHOWER ROD TAPE MEASURE CAN OPENER DOOR STOPER SINK STRAINER CLEANING BLOCK CORNER BRACKETS AIGUILLE HAND SAW HASP STEEL GILD FLASHING LIGHT PAINT BRUSH PLASTIC ROPE CURTAIN ROD STEERING WHEEL COVER PLASTIC APRON BRUSH WITH WOODEN HANDLE PO#XXXXXX SHIPPER S LOAD C OUNT & SEALED THIS SHIPMENT DOES NOT CONTAIN ANY SOLID WOOD PACKING MATERIAL<br/>",
+        "productTags": [
+          "cleaning block",
+          "anchor set",
+          "xxxxx",
+          "sea",
+          "ppe",
+          "handle po",
+          "steering wheel cover",
+          "rope",
+          "steel",
+          "flashing light",
+          "self tapping screw",
+          "wooden",
+          "bicycle lock",
+          "sol",
+          "sink strainer",
+          "ipm",
+          "tape measure",
+          "packing material",
+          "wood",
+          "plastic apron",
+          "washer",
+          "paint brush plastic",
+          "brush",
+          "curtain rod",
+          "hand saw",
+          "shower rod",
+          "corner bracket",
+          "led t",
+          "can opener",
+          "door stoper"
+        ],
+        "productNames": [],
+        "productAlias": [],
+        "productSuperordinate": [],
+        "productDownstream": []
+      },
+      {
+        "companyId": 28452129,
+        "companyType": 2,
+        "name": "ABOLU S A",
+        "countryCode": "PA",
+        "tradeTotal": 57373,
+        "scope": "",
+        "address": "cl 2 llano bonito, panamá | panamá, panamá, panama",
+        "tradeMatchTotal": 31,
+        "tradeMatchPercent": 0.05,
+        "latestTradeDate": 1753286400000,
+        "productDesc": "BROCHAS P/ PINTAR",
+        "productTags": [
+          "Paint",
+          "Brushes"
+        ],
+        "productNames": [
+          "Paint Brushes"
+        ],
+        "productAlias": [
+          "Paint Brush",
+          "Painting Brush",
+          "Artist Brush",
+          "Decorative Brush",
+          "Household Brush"
+        ],
+        "productSuperordinate": [
+          "Wood",
+          "Plastic",
+          "Bristle",
+          "Fiber",
+          "Metal"
+        ],
+        "productDownstream": [
+          "Wall Painting",
+          "Furniture Painting",
+          "Automobile Painting",
+          "Artwork Creation",
+          "Craft Projects"
+        ]
+      },
+      {
+        "companyId": 61507020,
+        "companyType": 2,
+        "name": "COMERCIAL KYWI S A",
+        "countryCode": "EC",
+        "tradeTotal": 89916,
+        "scope": "rolls,n 70,mt a,isl,belo,yan,floor,ekom,ipm,mat,cod,non slip mat,non slip,ion,purchase order,household item,w 20,free on board,cover,ticl",
+        "address": "av. eloy alfaro y avigiras",
+        "tradeMatchTotal": 30,
+        "tradeMatchPercent": 0.03,
+        "latestTradeDate": 1732118400000,
+        "productDesc": "BROCHA PARA PINTAR DE 5",
+        "productTags": [
+          "Paint brush"
+        ],
+        "productNames": [
+          "Paint brush"
+        ],
+        "productAlias": [
+          "Paintbrush",
+          "Painting brush",
+          "Artist brush",
+          "Decorative brush",
+          "Household brush"
+        ],
+        "productSuperordinate": [
+          "Wood",
+          "Bristle",
+          "Fiber",
+          "Plastic",
+          "Metal"
+        ],
+        "productDownstream": [
+          "Wall painting",
+          "Furniture painting",
+          "Artwork creation",
+          "Automobile painting",
+          "Craft projects"
+        ]
+      },
+      {
+        "companyId": 20205479,
+        "companyType": 2,
+        "name": "CROMWELL INDUSTRIAL SUPPLIES PRIVATE LIMITED",
+        "countryCode": "IN",
+        "tradeTotal": 62830,
+        "scope": "",
+        "address": "NO. AB 1 TO AB 7, RAJLAXMI COMMERCIAL COMPLEX , THANE BHIWANDI ROAD , KALHER, TALUKA BHIWANDI",
+        "tradeMatchTotal": 29,
+        "tradeMatchPercent": 0.05,
+        "latestTradeDate": 1753372800000,
+        "productDesc": "KEN9070270K - PAINT BRUSH WOODEN HANDLED 1.1/2\"WIDE -  (FORINDUSTRIAL USE) (CN)KEN9070270K - PAINT BRUSH WOODEN HANDLED 1.1/2\"WIDE -  (FOR",
+        "productTags": [
+          "Paint Brush",
+          "Wooden",
+          "Industrial Use"
+        ],
+        "productNames": [
+          "Paint Brush"
+        ],
+        "productAlias": [
+          "Painting Brush",
+          "Industrial Brush",
+          "Wooden Brush",
+          "Paint Applicator",
+          "Brush for Painting"
+        ],
+        "productSuperordinate": [
+          "Wood",
+          "Bristles",
+          "Paint",
+          "Brush Handle",
+          "Brush Head"
+        ],
+        "productDownstream": [
+          "Industrial Painting Projects",
+          "Automotive Painting",
+          "Furniture Painting",
+          "Wall Painting",
+          "Metal Painting"
+        ]
+      }
+    ]
+  },
+  "fee": {
+    "apiCost": 150,
+    "accountBalance": 63690,
+    "uuid": "c3a1dea8-9c80-44cf-ac58-6fc1cfcec8bf"
+  }
+}

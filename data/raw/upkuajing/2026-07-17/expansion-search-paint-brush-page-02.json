@@ -1,0 +1,830 @@
+{
+  "code": 0,
+  "msg": "success",
+  "data": {
+    "cursor": "eyJjb21wYW55X2lkIjoyMDIyMTQ2NH0=",
+    "list": [
+      {
+        "companyId": 20210310,
+        "companyType": 2,
+        "name": "MURATA MACHINERY INDIA PRIVATE LIMITED",
+        "countryCode": "IN",
+        "tradeTotal": 60559,
+        "scope": "",
+        "address": "NO. 1010, HEMKUNT TOWER , NO. 98 , NEHRU PLACE",
+        "tradeMatchTotal": 13,
+        "tradeMatchPercent": 0.02,
+        "latestTradeDate": 1747929600000,
+        "productDesc": "TEXTILE MACHINERY PARTS: BRUSH 9C15409061 TEXTILE MACHINERY PARTS",
+        "productTags": [
+          "Textile machinery parts",
+          "Brush"
+        ],
+        "productNames": [
+          "Brush"
+        ],
+        "productAlias": [
+          "Bristle brush",
+          "Cleaning brush",
+          "Scrub brush",
+          "Wire brush",
+          "Paint brush"
+        ],
+        "productSuperordinate": [
+          "Bristles",
+          "Wood",
+          "Plastic",
+          "Metal",
+          "Fiber"
+        ],
+        "productDownstream": [
+          "Textile manufacturing",
+          "Garment production",
+          "Carpet making",
+          "Upholstery",
+          "Embroidery"
+        ]
+      },
+      {
+        "companyId": 20210902,
+        "companyType": 2,
+        "name": "TOYOTA INDUSTRIES ENGINE INDIA PRIVATE LIMITED",
+        "countryCode": "IN",
+        "tradeTotal": 17419,
+        "scope": "Textile machinery",
+        "address": "PLOT NO 9 , PHASE 2 , JIGANI INDUSTRIAL AREA JIGANI",
+        "tradeMatchTotal": 3,
+        "tradeMatchPercent": 0.02,
+        "latestTradeDate": 1747756800000,
+        "productDesc": "GX410I00010-BRUSH-KZ-017 GX410I00010-BRUSH-KZ-017",
+        "productTags": [
+          "Brush"
+        ],
+        "productNames": [
+          "Brush"
+        ],
+        "productAlias": [
+          "Bristle brush",
+          "Scrub brush",
+          "Paint brush",
+          "Toothbrush",
+          "Hairbrush"
+        ],
+        "productSuperordinate": [
+          "Bristles",
+          "Handle",
+          "Glue",
+          "Plastic",
+          "Wood"
+        ],
+        "productDownstream": [
+          "Home cleaning",
+          "Automotive detailing",
+          "Art and crafts",
+          "Personal hygiene",
+          "Industrial cleaning"
+        ]
+      },
+      {
+        "companyId": 20216301,
+        "companyType": 2,
+        "name": "GANGA ACROWOOLS LIMITED",
+        "countryCode": "IN",
+        "tradeTotal": 4817,
+        "scope": "Hosiery yarns, blanket yarns, carpet yarns, hand knitting yarns, and weaving yarns",
+        "address": "249, INDUSTRIAL AREA-A",
+        "tradeMatchTotal": 3,
+        "tradeMatchPercent": 0.06,
+        "latestTradeDate": 1744387200000,
+        "productDesc": "UPB21033AH BRUSH (SPARE PARTS FOR TEXTILE MACHINES - GILL BOX)UPB21033AH BRUSH (SPARE PARTS FOR TEXTILE MACHINES - GILL BO",
+        "productTags": [
+          "Brush",
+          "Spare parts",
+          "Textile machines",
+          "Gill box"
+        ],
+        "productNames": [
+          "Brush"
+        ],
+        "productAlias": [
+          "Bristle brush",
+          "Cleaning brush",
+          "Scrub brush",
+          "Wire brush",
+          "Paint brush"
+        ],
+        "productSuperordinate": [
+          "Bristles",
+          "Handle",
+          "Glue",
+          "Metal",
+          "Plastic"
+        ],
+        "productDownstream": [
+          "Textile manufacturing",
+          "Garment production",
+          "Carpet making",
+          "Upholstery",
+          "Home textiles"
+        ]
+      },
+      {
+        "companyId": 20207456,
+        "companyType": 2,
+        "name": "HINDUSTAN AERONAUTICS LIMITED",
+        "countryCode": "IN",
+        "tradeTotal": 110665,
+        "scope": "Aircraft, aerospace, navigation and communication equipment",
+        "address": "15/1, CUBBON ROAD",
+        "tradeMatchTotal": 2,
+        "tradeMatchPercent": 0.0,
+        "latestTradeDate": 1741708800000,
+        "productDesc": "BRUSH PN: N125843-1(AIRCRAFT PARTS FOR DEFENCE USE)BRUSH PN: N125843-1",
+        "productTags": [
+          "Brush",
+          "Aircraft parts",
+          "Defence use"
+        ],
+        "productNames": [
+          "Brush"
+        ],
+        "productAlias": [
+          "Bristle brush",
+          "Cleaning brush",
+          "Scrub brush",
+          "Paint brush",
+          "Wire brush"
+        ],
+        "productSuperordinate": [
+          "Bristles",
+          "Handle material",
+          "Adhesive",
+          "Metal parts",
+          "Plastic parts"
+        ],
+        "productDownstream": [
+          "Aircraft maintenance",
+          "Defence equipment",
+          "Aerospace industry",
+          "Military vehicles",
+          "Naval vessels"
+        ]
+      },
+      {
+        "companyId": 20218915,
+        "companyType": 2,
+        "name": "SUN PHARMACEUTICAL INDUSTRIES LIMITED",
+        "countryCode": "IN",
+        "tradeTotal": 21176,
+        "scope": "Specialty pharmaceuticals and active pharmaceutical ingredients (APIs)",
+        "address": "SUN PHARMA ADVANCED RESEARCH CENTRE (SPARC) , TANDALJA",
+        "tradeMatchTotal": 2,
+        "tradeMatchPercent": 0.01,
+        "latestTradeDate": 1743609600000,
+        "productDesc": "4470357 SILVER BRUSH 5 X 10 X 16 LS50 SP28, (PART FOR BONFIGLIOLI LEAK TEST MACHINE MODEL)4470357 SILVER BRUSH 5 X 10 X 16 LS50 SP28, (PART FOR BONFIG",
+        "productTags": [
+          "Silver",
+          "Brush",
+          "Leak test machine",
+          "Part"
+        ],
+        "productNames": [
+          "Silver brush"
+        ],
+        "productAlias": [
+          "Silver cleaning brush",
+          "Silver wire brush",
+          "Silver paint brush",
+          "Silver industrial brush",
+          "Silver precision brush"
+        ],
+        "productSuperordinate": [
+          "Silver ore",
+          "Metal alloy",
+          "Brush handle material",
+          "Brush bristle material",
+          "Manufacturing chemicals"
+        ],
+        "productDownstream": [
+          "Leak test machines",
+          "Industrial equipment",
+          "Automotive manufacturing",
+          "Electronics production",
+          "Quality control systems"
+        ]
+      },
+      {
+        "companyId": 20205518,
+        "companyType": 2,
+        "name": "KOMAX AUTOMATION INDIA PRIVATE LIMITED",
+        "countryCode": "IN",
+        "tradeTotal": 16724,
+        "scope": "Motor vehicles and motor vehicle parts and supplies (tires, tubes, and tire-related products; used motor vehicle parts; and new or used recreational vehicles; and motor vehicle accessories, tools, and equipment)",
+        "address": "NO. D-3, GROUND FLOOR, INFOCITY II , SECTOR-33",
+        "tradeMatchTotal": 1,
+        "tradeMatchPercent": 0.01,
+        "latestTradeDate": 1737907200000,
+        "productDesc": "100000457402 BRUSH (PARTS OF WIRE CRIMPING AND STRIPPING MACHINE)100000457402 BRUSH (PARTS OF WIRE CRIMPING AND STRIPPING MAC",
+        "productTags": [
+          "Brush",
+          "Wire crimping and stripping machine",
+          "Machine parts"
+        ],
+        "productNames": [
+          "Brush"
+        ],
+        "productAlias": [
+          "Bristle brush",
+          "Cleaning brush",
+          "Scrub brush",
+          "Wire brush",
+          "Paint brush"
+        ],
+        "productSuperordinate": [
+          "Bristles",
+          "Handle",
+          "Metal",
+          "Plastic",
+          "Wood"
+        ],
+        "productDownstream": [
+          "Electrical equipment",
+          "Automotive industry",
+          "Telecommunication",
+          "Manufacturing",
+          "Repair shops"
+        ]
+      },
+      {
+        "companyId": 20206070,
+        "companyType": 2,
+        "name": "ITW INDIA PRIVATE LIMITED",
+        "countryCode": "IN",
+        "tradeTotal": 18880,
+        "scope": "Liquid penetrant and magnetic particle materials, equipment and accessories",
+        "address": "PLOT NO. 51, 52, 207 AND 208 , PHASE-2, (35 KM FROM HYDERABAD) , IDA, TSIIC, PASHAMMYLARAM, MEDAK",
+        "tradeMatchTotal": 1,
+        "tradeMatchPercent": 0.01,
+        "latestTradeDate": 1728921600000,
+        "productDesc": "PAINT BRUSH 3/4BRISTLE 2WIDE",
+        "productTags": [
+          "Paint brush",
+          "Bristle"
+        ],
+        "productNames": [
+          "Paint brush"
+        ],
+        "productAlias": [
+          "Painting brush",
+          "Artist brush",
+          "Decorative brush",
+          "Wall brush",
+          "Household brush"
+        ],
+        "productSuperordinate": [
+          "Bristle",
+          "Wood",
+          "Plastic",
+          "Metal",
+          "Paint"
+        ],
+        "productDownstream": [
+          "Wall painting",
+          "Furniture painting",
+          "Artwork",
+          "Decorative projects",
+          "DIY projects"
+        ]
+      },
+      {
+        "companyId": 20206405,
+        "companyType": 2,
+        "name": "VARUN BEVERAGES LIMITED",
+        "countryCode": "IN",
+        "tradeTotal": 36296,
+        "scope": "Pepsi",
+        "address": "F-2/7, OKHLA INDUSTRIAL AREA , PHASE - I",
+        "tradeMatchTotal": 1,
+        "tradeMatchPercent": 0.0,
+        "latestTradeDate": 1751990400000,
+        "productDesc": "511663 BRUSH(SPARE PARTS FOR FILING MACHINE)PARTS",
+        "productTags": [
+          "Brush",
+          "Filing machine",
+          "Spare parts"
+        ],
+        "productNames": [
+          "Brush"
+        ],
+        "productAlias": [
+          "Scrub brush",
+          "Cleaning brush",
+          "Bristle brush",
+          "Wire brush",
+          "Paint brush"
+        ],
+        "productSuperordinate": [
+          "Bristles",
+          "Wood",
+          "Plastic",
+          "Metal",
+          "Fiber"
+        ],
+        "productDownstream": [
+          "Filing machines",
+          "Industrial equipment",
+          "Cleaning tools",
+          "Maintenance kits",
+          "DIY projects"
+        ]
+      },
+      {
+        "companyId": 20207337,
+        "companyType": 2,
+        "name": "CNH INDUSTRIAL (INDIA) PRIVATE LIMITED",
+        "countryCode": "IN",
+        "tradeTotal": 64252,
+        "scope": "Automobiles and commercial vehicles; Automobile accessories",
+        "address": "MARUTI INDUSTRIAL COMPLEX , 4TH FLOOR, PLOT NO 14A, SECTOR 18",
+        "tradeMatchTotal": 1,
+        "tradeMatchPercent": 0.0,
+        "latestTradeDate": 1741795200000,
+        "productDesc": "84818517 BRUSH ( Parts-Baler Parts Imp          ) 84818517 BRUSH ( Parts-Baler Parts Imp          )",
+        "productTags": [
+          "Brush",
+          "Baler parts"
+        ],
+        "productNames": [
+          "Brush"
+        ],
+        "productAlias": [
+          "Bristle brush",
+          "Scrub brush",
+          "Cleaning brush",
+          "Wire brush",
+          "Paint brush"
+        ],
+        "productSuperordinate": [
+          "Bristles",
+          "Wood",
+          "Plastic",
+          "Metal",
+          "Fiber"
+        ],
+        "productDownstream": [
+          "Agricultural machinery",
+          "Industrial equipment",
+          "Cleaning tools",
+          "Automotive parts",
+          "Home appliances"
+        ]
+      },
+      {
+        "companyId": 20207877,
+        "companyType": 2,
+        "name": "DAIKIN AIRCONDITIONING INDIA PRIVATE LIMITED",
+        "countryCode": "IN",
+        "tradeTotal": 103754,
+        "scope": "Both commercial and residential air-conditioning systems",
+        "address": "12TH FLOOR, BLDG NO. 9, TOWER A, DLF CYBER CITY , DLF PHASE III",
+        "tradeMatchTotal": 1,
+        "tradeMatchPercent": 0.0,
+        "latestTradeDate": 1723564800000,
+        "productDesc": "BRUSH MODEL#:BR-S65 (PARTS FOR JIGS)",
+        "productTags": [
+          "Brush",
+          "Jig parts"
+        ],
+        "productNames": [
+          "Brush"
+        ],
+        "productAlias": [
+          "Scrub brush",
+          "Cleaning brush",
+          "Bristle brush",
+          "Wire brush",
+          "Paint brush"
+        ],
+        "productSuperordinate": [
+          "Bristles",
+          "Handle material",
+          "Glue",
+          "Metal parts",
+          "Plastic parts"
+        ],
+        "productDownstream": [
+          "Jigs",
+          "Machinery",
+          "Automotive equipment",
+          "Industrial tools",
+          "Manufacturing devices"
+        ]
+      },
+      {
+        "companyId": 20207905,
+        "companyType": 2,
+        "name": "VARDHMAN TEXTILES LIMITED",
+        "countryCode": "IN",
+        "tradeTotal": 47790,
+        "scope": "Textile products",
+        "address": "VARDHMAN PREMISES , 341, CHANDIGARH ROAD",
+        "tradeMatchTotal": 1,
+        "tradeMatchPercent": 0.0,
+        "latestTradeDate": 1743004800000,
+        "productDesc": "9CB-5412A-60 (9CA545 004) BRUSH (S/P FOR TEXTILE MACHINERY I.E 21C PROCESS CONER AUTOMATIC LINK CONE WINDER M/C)9CB-5412A-60 (9CA545 004) BRUSH (S/P FOR TEXTILE MACHINERY I",
+        "productTags": [
+          "brush",
+          "textile machinery"
+        ],
+        "productNames": [
+          "Brush"
+        ],
+        "productAlias": [
+          "Bristle brush",
+          "Cleaning brush",
+          "Scrub brush",
+          "Wire brush",
+          "Paint brush"
+        ],
+        "productSuperordinate": [
+          "Bristles",
+          "Wood",
+          "Plastic",
+          "Metal",
+          "Fiber"
+        ],
+        "productDownstream": [
+          "Textile manufacturing",
+          "Garment production",
+          "Carpet making",
+          "Upholstery",
+          "Home textile"
+        ]
+      },
+      {
+        "companyId": 20208403,
+        "companyType": 2,
+        "name": "AIR WORKS INDIA (ENGINEERING)PVT LTD",
+        "countryCode": "IN",
+        "tradeTotal": 29811,
+        "scope": "Offers aircraft management, business and general aviation MRO, commercial aviation MRO, and avionics upgrade and retrofit services",
+        "address": "BOMBAY INTERNATIONAL AIR PORTGATE NO 8 SANTACRUZ E",
+        "tradeMatchTotal": 1,
+        "tradeMatchPercent": 0.0,
+        "latestTradeDate": 1731600000000,
+        "productDesc": "CN20 PAINT BRUSH WASH (5LI/CAN)(PAINT RELATED MATERIAL FOR AIRCRAFT USE)",
+        "productTags": [],
+        "productNames": [],
+        "productAlias": [],
+        "productSuperordinate": [],
+        "productDownstream": []
+      },
+      {
+        "companyId": 20208432,
+        "companyType": 2,
+        "name": "BARBUY TEAM S A",
+        "countryCode": "AR",
+        "tradeTotal": 18047,
+        "scope": "Accessories, adhesive sealant, airbrush, grinders, rigging, vacuum, screwdriver, magnetic base, fuel canister, bit, pumps, easel for vehicles, heaters, padlocks, planing, wire brushes, combined for metal 3 func., combined carpentry, compressors, quick coupler connectors",
+        "address": "CORDOBA BELL VILLE RUTA NRO 9 KM 501 0 00 000",
+        "tradeMatchTotal": 1,
+        "tradeMatchPercent": 0.01,
+        "latestTradeDate": 1747324800000,
+        "productDesc": "DE DIAMETRO EXTERIOR INFERIOR O IGUAL A 75 MM. ONDULADOS, INCLUSO REVESTIDOS, DE FORMA DE COPA O CONICO. DE ALAMBRE DE ACERO. LOS DEMAS CEPILLOS QUE CONSTITUYAN PARTES DE MAQUINAS, APARATOS O VEHICULOS. ESCOBAS Y ESCOBILLAS, CEPILLOS, BROCHAS Y PINCEL...",
+        "productTags": [
+          "Steel",
+          "Brushes",
+          "Brooms",
+          "Scrubbers",
+          "Paintbrushes"
+        ],
+        "productNames": [
+          "Steel Wire Brushes",
+          "Brooms",
+          "Scrubbers",
+          "Brushes",
+          "Paintbrushes"
+        ],
+        "productAlias": [
+          "Wire Brush",
+          "Cleaning Brush",
+          "Scrub Brush",
+          "Paint Brush",
+          "Broom"
+        ],
+        "productSuperordinate": [
+          "Steel Wire",
+          "Plastic",
+          "Wood",
+          "Bristles",
+          "Paint"
+        ],
+        "productDownstream": [
+          "Household Cleaning",
+          "Industrial Cleaning",
+          "Construction",
+          "Automotive",
+          "Art"
+        ]
+      },
+      {
+        "companyId": 20210573,
+        "companyType": 2,
+        "name": "LINCOLN ELECTRIC COMPANY (INDIA) PRIVATE LIMITED",
+        "countryCode": "IN",
+        "tradeTotal": 16996,
+        "scope": "Wide variety of electrical and electronic equipment and components and other related products",
+        "address": "NO. P-40, CENTRAL AVENUE, DOMESTIC TARIFF AREA, MAHINDRA WORLD CITY, NATHAM SUB POST OFFICE, CHENGALPATTU",
+        "tradeMatchTotal": 1,
+        "tradeMatchPercent": 0.01,
+        "latestTradeDate": 1732464000000,
+        "productDesc": "(P/N:L12604-A) BRUSH (WELDER PARTS)",
+        "productTags": [
+          "Brush",
+          "Welder parts"
+        ],
+        "productNames": [
+          "Brush"
+        ],
+        "productAlias": [
+          "Scrubber",
+          "Cleaning brush",
+          "Polishing brush",
+          "Wire brush",
+          "Paint brush"
+        ],
+        "productSuperordinate": [
+          "Plastic",
+          "Metal",
+          "Fiber",
+          "Wood",
+          "Rubber"
+        ],
+        "productDownstream": [
+          "Welding equipment",
+          "Industrial machinery",
+          "Automotive repair",
+          "Metalworking",
+          "Construction"
+        ]
+      },
+      {
+        "companyId": 20211481,
+        "companyType": 2,
+        "name": "JMS MINING PRIVATE LIMITED",
+        "countryCode": "IN",
+        "tradeTotal": 15217,
+        "scope": "Underground coal mining services",
+        "address": "DONG FANG ELECTRIC BUILDING , 3RD FLOOR PREMISES NO.16 , MAR-1111, AA-1A,NEW TOWN KOLKATA PARGANAS NORTH",
+        "tradeMatchTotal": 1,
+        "tradeMatchPercent": 0.01,
+        "latestTradeDate": 1738252800000,
+        "productDesc": "00035195-0000 BRUSH (PARTS FOR MINING MACHINE) 00035195-0000 BRUSH (PARTS FOR MINING MACHINE)",
+        "productTags": [
+          "Brush",
+          "Mining machine",
+          "Parts"
+        ],
+        "productNames": [
+          "Brush"
+        ],
+        "productAlias": [
+          "Bristle brush",
+          "Wire brush",
+          "Scrub brush",
+          "Paint brush",
+          "Pipe brush"
+        ],
+        "productSuperordinate": [
+          "Bristles",
+          "Wire",
+          "Plastic",
+          "Wood",
+          "Metal"
+        ],
+        "productDownstream": [
+          "Mining equipment",
+          "Construction machinery",
+          "Industrial machinery",
+          "Automotive",
+          "Agricultural machinery"
+        ]
+      },
+      {
+        "companyId": 20211956,
+        "companyType": 2,
+        "name": "TUBE INVESTMENTS OF INDIA LIMITED",
+        "countryCode": "IN",
+        "tradeTotal": 12227,
+        "scope": "",
+        "address": "DARE HOUSE , 2, NETAJI SUBASH CHANDRA BOSE ROAD",
+        "tradeMatchTotal": 1,
+        "tradeMatchPercent": 0.01,
+        "latestTradeDate": 1725206400000,
+        "productDesc": "CRATE BRUSHES 91X77X85 CM ( PARTS FOR CUTTING MACHINE)",
+        "productTags": [
+          "Brush",
+          "Cutting machine parts"
+        ],
+        "productNames": [
+          "Brush"
+        ],
+        "productAlias": [
+          "Scrub brush",
+          "Cleaning brush",
+          "Wire brush",
+          "Paint brush",
+          "Bristle brush"
+        ],
+        "productSuperordinate": [
+          "Plastic",
+          "Metal",
+          "Bristles",
+          "Wood",
+          "Fiber"
+        ],
+        "productDownstream": [
+          "Cutting machines",
+          "Industrial equipment",
+          "Manufacturing plants",
+          "Automotive industry",
+          "Construction sites"
+        ]
+      },
+      {
+        "companyId": 20214041,
+        "companyType": 2,
+        "name": "GLOBAL VECTRA HELICORP LIMITED",
+        "countryCode": "IN",
+        "tradeTotal": 12457,
+        "scope": "Helicopter charter services for onshore transportation; Bell Helicopters (Bell 412), Airbus Helicopters (H155B1, H135P2, H130T2 and AS350B3), and AgustaWestland Helicopters (AW 139); Seismic survey, powerline inspection and maintenance, and a range of other services to a range of clientele",
+        "address": "A-54, KAILASH COLONY",
+        "tradeMatchTotal": 1,
+        "tradeMatchPercent": 0.01,
+        "latestTradeDate": 1753632000000,
+        "productDesc": "TOOLS FOR  WORK ON AIRCRAFT - TEMPORARY IMPORT -Small PaintBrush P/N:No P/No(FOC)TOOLS FOR  WORK ON AIRCRAFT - TEMPORARY IMPORT -Small Paint",
+        "productTags": [
+          "Tools",
+          "Aircraft",
+          "Paint Brush",
+          "Paint"
+        ],
+        "productNames": [
+          "Paint Brush",
+          "Paint"
+        ],
+        "productAlias": [
+          "Painting Brush",
+          "Aircraft Paint Tool",
+          "Aircraft Painting Brush",
+          "Painting Instrument",
+          "Aircraft Painting Material"
+        ],
+        "productSuperordinate": [
+          "Wood",
+          "Plastic",
+          "Paint Pigments",
+          "Solvents",
+          "Binder"
+        ],
+        "productDownstream": [
+          "Aircraft Maintenance",
+          "Aircraft Manufacturing",
+          "Aircraft Refurbishment",
+          "Aircraft Restoration",
+          "Aircraft Decoration"
+        ]
+      },
+      {
+        "companyId": 20220703,
+        "companyType": 2,
+        "name": "CLAAS AGRICULTURAL MACHINERY PRIVATE LIMITED",
+        "countryCode": "IN",
+        "tradeTotal": 4365,
+        "scope": "Combine harvesters, square balers and transplanters; Ball bearings, batteries, belts, chains, double fingers, filters, knives, seats, shear bars, and spring tines; Lubricants and refrigerants",
+        "address": "FLAT NO. M , FIRST FLOOR , SAGAR APARTMENTS 6, TILAK MARG",
+        "tradeMatchTotal": 1,
+        "tradeMatchPercent": 0.02,
+        "latestTradeDate": 1727452800000,
+        "productDesc": "BRUSH (00 2931 948 0)(SPARE PARTS FOR AGRICULTURAL COMBINE HARVESTER MACHINES)",
+        "productTags": [
+          "Brush",
+          "Spare parts",
+          "Agricultural combine harvester machines"
+        ],
+        "productNames": [
+          "Brush"
+        ],
+        "productAlias": [
+          "Broom",
+          "Scrub brush",
+          "Cleaning brush",
+          "Wire brush",
+          "Paint brush"
+        ],
+        "productSuperordinate": [
+          "Plastic",
+          "Metal",
+          "Bristles",
+          "Wood",
+          "Fiber"
+        ],
+        "productDownstream": [
+          "Agricultural machinery",
+          "Harvesting equipment",
+          "Farm tools",
+          "Industrial cleaning",
+          "Automotive maintenance"
+        ]
+      },
+      {
+        "companyId": 20220815,
+        "companyType": 2,
+        "name": "LUXOR INTERNATIONAL PRIVATE LIMITED",
+        "countryCode": "IN",
+        "tradeTotal": 2523,
+        "scope": "Writing instruments",
+        "address": "C 42 , PHASE II NAGAR , GAUTAM BUDH NAGAR",
+        "tradeMatchTotal": 1,
+        "tradeMatchPercent": 0.04,
+        "latestTradeDate": 1742400000000,
+        "productDesc": "PAINT  BRISTLE BRUSH SIZE:12 PAINT  BRISTLE BRUSH SIZE:12",
+        "productTags": [
+          "Paint",
+          "Bristle",
+          "Brush"
+        ],
+        "productNames": [
+          "Paint Bristle Brush"
+        ],
+        "productAlias": [
+          "Paint Brush",
+          "Bristle Painting Brush",
+          "Painting Bristle Brush",
+          "Paint Bristled Brush",
+          "Bristle Brush for Paint"
+        ],
+        "productSuperordinate": [
+          "Bristle",
+          "Wood",
+          "Metal",
+          "Paint",
+          "Plastic"
+        ],
+        "productDownstream": [
+          "Home Decoration",
+          "Art Creation",
+          "Furniture Painting",
+          "Automobile Painting",
+          "Wall Painting"
+        ]
+      },
+      {
+        "companyId": 20221464,
+        "companyType": 2,
+        "name": "ALLEGRO BEVERAGE CORPORATION",
+        "countryCode": "PH",
+        "tradeTotal": 3270,
+        "scope": "",
+        "address": "3803 DAYAP STREET CORNER CUENCA STREETS, PALANAN VILLAGE \"",
+        "tradeMatchTotal": 1,
+        "tradeMatchPercent": 0.03,
+        "latestTradeDate": 1729094400000,
+        "productDesc": "PAINT BRUSH 25MM (10 PCS) BRAND: FRANKE",
+        "productTags": [
+          "Paint",
+          "Brush"
+        ],
+        "productNames": [
+          "Paint Brush"
+        ],
+        "productAlias": [
+          "Painting Brush",
+          "Artist Brush",
+          "Decorative Brush",
+          "Coating Brush",
+          "Wall Brush"
+        ],
+        "productSuperordinate": [
+          "Wood",
+          "Plastic",
+          "Bristle",
+          "Fiber",
+          "Metal"
+        ],
+        "productDownstream": [
+          "Wall Painting",
+          "Furniture Painting",
+          "Automobile Painting",
+          "Artwork Creation",
+          "Crafts Decoration"
+        ]
+      }
+    ]
+  },
+  "fee": {
+    "apiCost": 150,
+    "accountBalance": 63540,
+    "uuid": "6fed34c6-336d-422a-99a6-468b4938dceb"
+  }
+}
