@@ -1,0 +1,19 @@
+{
+  "selected_on": "2026-07-17",
+  "people": [
+    {"company_id": 229078, "hid": "fffc6ee99c2b8976eecf0b29b5ff610e", "name": "Joseph Scherrer", "title": "Assistant Buyer", "reason": "采购岗位，且公司精确匹配 PACOA"},
+    {"company_id": 20189128, "hid": "3c758ad6617836ec7f03f3469b6e9003", "name": "Kiran Shinde", "title": "Regional Distribution Manager", "reason": "供应链相关岗位，且公司匹配 Samsung India"},
+    {"company_id": 368379, "hid": "d3a30fc9aaa973469842c6d37f7d25d8", "name": "Madhumay Panigrahi", "title": "Branch Logistics Manager", "reason": "物流岗位，且公司精确匹配 Haier India"},
+    {"company_id": 20432358, "hid": "489335261e8872731062ead62e67597f", "name": "Rajeev Arora", "title": "Head of Operations", "reason": "运营负责人，且公司精确匹配 tesa India"},
+    {"company_id": 28930762, "hid": "e9ed506cec8c5b96873634fcc7afecb2", "name": "Naman Jain", "title": "Executive Partner", "reason": "企业合伙人，且公司精确匹配 Super Sales Corporation"},
+    {"company_id": 67078, "hid": "4c845ca9fa75dc9195fbb7e705ff2961", "name": "Danesh Weerarathne", "title": "Production Manager", "reason": "生产负责人，且公司精确匹配 Aqua Dynamics"}
+  ],
+  "rejected_searches": [
+    {"company_id": 209484, "reason": "结果均非 Thermwell Products"},
+    {"company_id": 71495262, "reason": "结果均非 TPLOGIX"},
+    {"company_id": 4421112, "reason": "结果均非 Honest Vietnam"},
+    {"company_id": 67944548, "reason": "结果均为 Oriental Bank of Commerce"},
+    {"company_id": 28403, "reason": "没有 Suzuki Motor de Mexico 精确人员结果"},
+    {"company_id": 78071611, "reason": "INNO FLEX 名称过于宽泛，结果均无法确认实体一致"}
+  ]
+}
