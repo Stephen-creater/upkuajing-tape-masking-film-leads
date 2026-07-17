@@ -1,0 +1,19 @@
+{
+  "code": 0,
+  "msg": "success",
+  "data": {
+    "list": [
+      {
+        "email": "arorarajeev2001@yahoo.com",
+        "status": 0,
+        "reason": ""
+      }
+    ],
+    "total": 1
+  },
+  "fee": {
+    "apiCost": 10,
+    "accountBalance": 92500,
+    "uuid": "5a0dc4a2-2f35-4acf-8ee0-fc1b81927f98"
+  }
+}
