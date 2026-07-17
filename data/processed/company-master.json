@@ -33,7 +33,11 @@
       "website_research_source": "",
       "website_research_notes": "",
       "research_status": "API联系方式已获取",
-      "market_priority": "高-欧美"
+      "market_priority": "高-欧美",
+      "website_emails": "",
+      "website_phones": "",
+      "website_address": "",
+      "website_contact_method": ""
     },
     {
       "company_id": 13957403,
@@ -65,7 +69,11 @@
       "website_research_source": "",
       "website_research_notes": "",
       "research_status": "API联系方式已获取",
-      "market_priority": "高-欧美"
+      "market_priority": "高-欧美",
+      "website_emails": "",
+      "website_phones": "",
+      "website_address": "",
+      "website_contact_method": ""
     },
     {
       "company_id": 229078,
@@ -94,10 +102,14 @@
       "websites": "www.pacoa.com",
       "socials": "",
       "contact_source": "UpKuajing customs company contact API",
-      "website_research_source": "",
-      "website_research_notes": "",
-      "research_status": "API联系方式已获取",
-      "market_priority": "高-欧美"
+      "website_research_source": "https://www.pacoa.com/contactus",
+      "website_research_notes": "Official contact page confirmed address, phone numbers and inquiry form; API email was not displayed on the page.",
+      "research_status": "官网已核验-仅表单与电话",
+      "market_priority": "高-欧美",
+      "website_emails": "",
+      "website_phones": "888.284.3000; 516.284.3000",
+      "website_address": "7 HARBOR PARK DR, PORT WASHINGTON, NY 11050, USA",
+      "website_contact_method": "Website inquiry form"
     },
     {
       "company_id": 209484,
@@ -126,10 +138,14 @@
       "websites": "http://www.frostking.com/",
       "socials": "",
       "contact_source": "UpKuajing customs company contact API",
-      "website_research_source": "",
-      "website_research_notes": "",
-      "research_status": "API联系方式已获取",
-      "market_priority": "高-欧美"
+      "website_research_source": "https://www.frostking.com/contact; https://www.frostking.com/accessibility-statement",
+      "website_research_notes": "Official accessibility page confirms support@frostking.com, matching the API email.",
+      "research_status": "官网已核验-API邮箱已确认",
+      "market_priority": "高-欧美",
+      "website_emails": "support@frostking.com",
+      "website_phones": "201-684-4400; 775-331-5291",
+      "website_address": "420 Route 17 South, Mahwah, NJ 07430, USA",
+      "website_contact_method": "Official email and website inquiry form"
     },
     {
       "company_id": 71495262,
@@ -158,10 +174,14 @@
       "websites": "",
       "socials": "",
       "contact_source": "UpKuajing customs company contact API",
-      "website_research_source": "",
-      "website_research_notes": "",
-      "research_status": "API联系方式已获取",
-      "market_priority": "高-欧美"
+      "website_research_source": "https://tplogix.com/contact-us/",
+      "website_research_notes": "Official contact page provides two customer-service emails; use these ahead of the unverified API email.",
+      "research_status": "官网已补充客服邮箱与电话",
+      "market_priority": "高-欧美",
+      "website_emails": "csr1@tplogix.com; csr5@tplogix.com",
+      "website_phones": "562-474-8460",
+      "website_address": "1901 HARRISON ST STE 1100, OAKLAND, CA 94612-3648, USA",
+      "website_contact_method": "Official customer-service emails, phone and inquiry form"
     },
     {
       "company_id": 20189222,
@@ -193,7 +213,11 @@
       "website_research_source": "",
       "website_research_notes": "",
       "research_status": "API联系方式已获取",
-      "market_priority": "常规-全球"
+      "market_priority": "常规-全球",
+      "website_emails": "",
+      "website_phones": "",
+      "website_address": "",
+      "website_contact_method": ""
     },
     {
       "company_id": 1945196,
@@ -225,7 +249,11 @@
       "website_research_source": "",
       "website_research_notes": "",
       "research_status": "API联系方式已获取",
-      "market_priority": "常规-全球"
+      "market_priority": "常规-全球",
+      "website_emails": "",
+      "website_phones": "",
+      "website_address": "",
+      "website_contact_method": ""
     },
     {
       "company_id": 20189128,
@@ -257,7 +285,11 @@
       "website_research_source": "",
       "website_research_notes": "",
       "research_status": "API联系方式已获取",
-      "market_priority": "常规-全球"
+      "market_priority": "常规-全球",
+      "website_emails": "",
+      "website_phones": "",
+      "website_address": "",
+      "website_contact_method": ""
     },
     {
       "company_id": 20195417,
@@ -289,7 +321,11 @@
       "website_research_source": "",
       "website_research_notes": "",
       "research_status": "API联系方式已获取",
-      "market_priority": "常规-全球"
+      "market_priority": "常规-全球",
+      "website_emails": "",
+      "website_phones": "",
+      "website_address": "",
+      "website_contact_method": ""
     },
     {
       "company_id": 80133,
@@ -321,7 +357,11 @@
       "website_research_source": "",
       "website_research_notes": "",
       "research_status": "API联系方式已获取",
-      "market_priority": "常规-全球"
+      "market_priority": "常规-全球",
+      "website_emails": "",
+      "website_phones": "",
+      "website_address": "",
+      "website_contact_method": ""
     },
     {
       "company_id": 4421112,
@@ -353,7 +393,11 @@
       "website_research_source": "",
       "website_research_notes": "",
       "research_status": "API联系方式已获取",
-      "market_priority": "常规-全球"
+      "market_priority": "常规-全球",
+      "website_emails": "",
+      "website_phones": "",
+      "website_address": "",
+      "website_contact_method": ""
     },
     {
       "company_id": 369752,
@@ -385,7 +429,11 @@
       "website_research_source": "",
       "website_research_notes": "",
       "research_status": "API联系方式已获取",
-      "market_priority": "常规-全球"
+      "market_priority": "常规-全球",
+      "website_emails": "",
+      "website_phones": "",
+      "website_address": "",
+      "website_contact_method": ""
     },
     {
       "company_id": 67944548,
@@ -417,7 +465,11 @@
       "website_research_source": "",
       "website_research_notes": "",
       "research_status": "API联系方式已获取",
-      "market_priority": "常规-全球"
+      "market_priority": "常规-全球",
+      "website_emails": "",
+      "website_phones": "",
+      "website_address": "",
+      "website_contact_method": ""
     },
     {
       "company_id": 1005206,
@@ -449,7 +501,11 @@
       "website_research_source": "",
       "website_research_notes": "",
       "research_status": "API联系方式已获取",
-      "market_priority": "常规-全球"
+      "market_priority": "常规-全球",
+      "website_emails": "",
+      "website_phones": "",
+      "website_address": "",
+      "website_contact_method": ""
     },
     {
       "company_id": 28403,
@@ -481,7 +537,11 @@
       "website_research_source": "",
       "website_research_notes": "",
       "research_status": "API联系方式已获取",
-      "market_priority": "常规-全球"
+      "market_priority": "常规-全球",
+      "website_emails": "",
+      "website_phones": "",
+      "website_address": "",
+      "website_contact_method": ""
     },
     {
       "company_id": 368379,
@@ -513,7 +573,11 @@
       "website_research_source": "",
       "website_research_notes": "",
       "research_status": "API联系方式已获取",
-      "market_priority": "常规-全球"
+      "market_priority": "常规-全球",
+      "website_emails": "",
+      "website_phones": "",
+      "website_address": "",
+      "website_contact_method": ""
     },
     {
       "company_id": 22316517,
@@ -545,7 +609,11 @@
       "website_research_source": "",
       "website_research_notes": "",
       "research_status": "API联系方式已获取",
-      "market_priority": "常规-全球"
+      "market_priority": "常规-全球",
+      "website_emails": "",
+      "website_phones": "",
+      "website_address": "",
+      "website_contact_method": ""
     },
     {
       "company_id": 20410195,
@@ -577,7 +645,11 @@
       "website_research_source": "",
       "website_research_notes": "",
       "research_status": "API联系方式已获取",
-      "market_priority": "常规-全球"
+      "market_priority": "常规-全球",
+      "website_emails": "",
+      "website_phones": "",
+      "website_address": "",
+      "website_contact_method": ""
     },
     {
       "company_id": 8206989,
@@ -609,7 +681,11 @@
       "website_research_source": "",
       "website_research_notes": "",
       "research_status": "API联系方式已获取",
-      "market_priority": "常规-全球"
+      "market_priority": "常规-全球",
+      "website_emails": "",
+      "website_phones": "",
+      "website_address": "",
+      "website_contact_method": ""
     },
     {
       "company_id": 78071611,
@@ -641,7 +717,11 @@
       "website_research_source": "",
       "website_research_notes": "",
       "research_status": "API联系方式已获取",
-      "market_priority": "常规-全球"
+      "market_priority": "常规-全球",
+      "website_emails": "",
+      "website_phones": "",
+      "website_address": "",
+      "website_contact_method": ""
     },
     {
       "company_id": 5141777,
@@ -673,7 +753,11 @@
       "website_research_source": "",
       "website_research_notes": "",
       "research_status": "API联系方式已获取",
-      "market_priority": "常规-全球"
+      "market_priority": "常规-全球",
+      "website_emails": "",
+      "website_phones": "",
+      "website_address": "",
+      "website_contact_method": ""
     },
     {
       "company_id": 20482013,
@@ -705,7 +789,11 @@
       "website_research_source": "",
       "website_research_notes": "",
       "research_status": "API联系方式已获取",
-      "market_priority": "常规-全球"
+      "market_priority": "常规-全球",
+      "website_emails": "",
+      "website_phones": "",
+      "website_address": "",
+      "website_contact_method": ""
     },
     {
       "company_id": 86190,
@@ -737,7 +825,11 @@
       "website_research_source": "",
       "website_research_notes": "",
       "research_status": "API联系方式已获取",
-      "market_priority": "常规-全球"
+      "market_priority": "常规-全球",
+      "website_emails": "",
+      "website_phones": "",
+      "website_address": "",
+      "website_contact_method": ""
     },
     {
       "company_id": 20432358,
@@ -769,7 +861,11 @@
       "website_research_source": "",
       "website_research_notes": "",
       "research_status": "API联系方式已获取",
-      "market_priority": "常规-全球"
+      "market_priority": "常规-全球",
+      "website_emails": "",
+      "website_phones": "",
+      "website_address": "",
+      "website_contact_method": ""
     },
     {
       "company_id": 28739610,
@@ -801,7 +897,11 @@
       "website_research_source": "",
       "website_research_notes": "",
       "research_status": "API联系方式已获取",
-      "market_priority": "常规-全球"
+      "market_priority": "常规-全球",
+      "website_emails": "",
+      "website_phones": "",
+      "website_address": "",
+      "website_contact_method": ""
     },
     {
       "company_id": 20208403,
@@ -833,7 +933,11 @@
       "website_research_source": "",
       "website_research_notes": "",
       "research_status": "API联系方式已获取",
-      "market_priority": "常规-全球"
+      "market_priority": "常规-全球",
+      "website_emails": "",
+      "website_phones": "",
+      "website_address": "",
+      "website_contact_method": ""
     },
     {
       "company_id": 22311398,
@@ -865,7 +969,11 @@
       "website_research_source": "",
       "website_research_notes": "",
       "research_status": "API联系方式已获取",
-      "market_priority": "常规-全球"
+      "market_priority": "常规-全球",
+      "website_emails": "",
+      "website_phones": "",
+      "website_address": "",
+      "website_contact_method": ""
     },
     {
       "company_id": 370961,
@@ -897,7 +1005,11 @@
       "website_research_source": "",
       "website_research_notes": "",
       "research_status": "API联系方式已获取",
-      "market_priority": "常规-全球"
+      "market_priority": "常规-全球",
+      "website_emails": "",
+      "website_phones": "",
+      "website_address": "",
+      "website_contact_method": ""
     },
     {
       "company_id": 27951674,
@@ -929,7 +1041,11 @@
       "website_research_source": "",
       "website_research_notes": "",
       "research_status": "API联系方式已获取",
-      "market_priority": "常规-全球"
+      "market_priority": "常规-全球",
+      "website_emails": "",
+      "website_phones": "",
+      "website_address": "",
+      "website_contact_method": ""
     },
     {
       "company_id": 20199535,
@@ -961,7 +1077,11 @@
       "website_research_source": "",
       "website_research_notes": "",
       "research_status": "API联系方式已获取",
-      "market_priority": "常规-全球"
+      "market_priority": "常规-全球",
+      "website_emails": "",
+      "website_phones": "",
+      "website_address": "",
+      "website_contact_method": ""
     },
     {
       "company_id": 168017,
@@ -993,7 +1113,11 @@
       "website_research_source": "",
       "website_research_notes": "",
       "research_status": "API联系方式已获取",
-      "market_priority": "常规-全球"
+      "market_priority": "常规-全球",
+      "website_emails": "",
+      "website_phones": "",
+      "website_address": "",
+      "website_contact_method": ""
     },
     {
       "company_id": 22315229,
@@ -1025,7 +1149,11 @@
       "website_research_source": "",
       "website_research_notes": "",
       "research_status": "API联系方式已获取",
-      "market_priority": "常规-全球"
+      "market_priority": "常规-全球",
+      "website_emails": "",
+      "website_phones": "",
+      "website_address": "",
+      "website_contact_method": ""
     },
     {
       "company_id": 28930762,
@@ -1057,7 +1185,11 @@
       "website_research_source": "",
       "website_research_notes": "",
       "research_status": "API联系方式已获取",
-      "market_priority": "常规-全球"
+      "market_priority": "常规-全球",
+      "website_emails": "",
+      "website_phones": "",
+      "website_address": "",
+      "website_contact_method": ""
     },
     {
       "company_id": 67078,
@@ -1089,7 +1221,11 @@
       "website_research_source": "",
       "website_research_notes": "",
       "research_status": "API联系方式已获取",
-      "market_priority": "常规-全球"
+      "market_priority": "常规-全球",
+      "website_emails": "",
+      "website_phones": "",
+      "website_address": "",
+      "website_contact_method": ""
     },
     {
       "company_id": 381348,
@@ -1121,7 +1257,11 @@
       "website_research_source": "",
       "website_research_notes": "",
       "research_status": "API联系方式已获取",
-      "market_priority": "常规-全球"
+      "market_priority": "常规-全球",
+      "website_emails": "",
+      "website_phones": "",
+      "website_address": "",
+      "website_contact_method": ""
     }
   ]
 }

@@ -1,0 +1,38 @@
+{
+  "researched_at": "2026-07-17",
+  "scope": "Western-priority companies whose UpKuajing email validity status was not confirmed",
+  "companies": [
+    {
+      "company_id": 229078,
+      "company_name": "pacoa",
+      "contact_page": "https://www.pacoa.com/contactus",
+      "website_emails": [],
+      "website_phones": ["888.284.3000", "516.284.3000"],
+      "website_address": "7 HARBOR PARK DR, PORT WASHINGTON, NY 11050, USA",
+      "contact_method": "Website inquiry form",
+      "verification_result": "Official contact page confirmed address, phone numbers and inquiry form; API email was not displayed on the page."
+    },
+    {
+      "company_id": 209484,
+      "company_name": "thermwell products",
+      "contact_page": "https://www.frostking.com/contact",
+      "additional_source": "https://www.frostking.com/accessibility-statement",
+      "website_emails": ["support@frostking.com"],
+      "website_phones": ["201-684-4400", "775-331-5291"],
+      "website_address": "420 Route 17 South, Mahwah, NJ 07430, USA",
+      "contact_method": "Official email and website inquiry form",
+      "verification_result": "Official accessibility page confirms support@frostking.com, matching the API email."
+    },
+    {
+      "company_id": 71495262,
+      "company_name": "TPLOGIX, INC",
+      "contact_page": "https://tplogix.com/contact-us/",
+      "website_emails": ["csr1@tplogix.com", "csr5@tplogix.com"],
+      "website_phones": ["562-474-8460"],
+      "website_address": "1901 HARRISON ST STE 1100, OAKLAND, CA 94612-3648, USA",
+      "contact_method": "Official customer-service emails, phone and inquiry form",
+      "verification_result": "Official contact page provides two customer-service emails; use these ahead of the unverified API email."
+    }
+  ]
+}
+
