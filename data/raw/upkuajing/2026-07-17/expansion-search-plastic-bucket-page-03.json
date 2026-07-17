@@ -1,0 +1,575 @@
+{
+  "code": 0,
+  "msg": "success",
+  "data": {
+    "cursor": "eyJjb21wYW55X2lkIjo3MTQ0NDc0N30=",
+    "list": [
+      {
+        "companyId": 71437269,
+        "companyType": 2,
+        "name": "LACINOS SPEEDCARGO CORP.",
+        "countryCode": "US",
+        "tradeTotal": 49767,
+        "scope": "",
+        "address": "El Monte, California",
+        "tradeMatchTotal": 65,
+        "tradeMatchPercent": 0.13,
+        "latestTradeDate": 1782835200000,
+        "productDesc": "NAC:HKHKGSPOT1 PLASTIC BUCKET/PLASTIC BAG/PLA STIC TRAY SCAC CODE: XXXX CUCC: CNNGBCASIN TH IS SHIPMENT CONTAINS NO SOLID WOOD P...",
+        "productTags": [],
+        "productNames": [],
+        "productAlias": [],
+        "productSuperordinate": [],
+        "productDownstream": []
+      },
+      {
+        "companyId": 71438036,
+        "companyType": 2,
+        "name": "LC LOGISTICS SERVICES, INC.",
+        "countryCode": "CA",
+        "tradeTotal": 42977,
+        "scope": "",
+        "address": "Ontario, California",
+        "tradeMatchTotal": 52,
+        "tradeMatchPercent": 0.12,
+        "latestTradeDate": 1781884800000,
+        "productDesc": "PULP EGG TRAY 20L PLASTIC BUCKET WITH COVER US REGULAR HS CODE FLOWMETERS COMPONENTS CATALOG CELLOPHANE WRAPPING MACHINE PULP EG...",
+        "productTags": [],
+        "productNames": [],
+        "productAlias": [],
+        "productSuperordinate": [],
+        "productDownstream": []
+      },
+      {
+        "companyId": 71432248,
+        "companyType": 2,
+        "name": "JRY EXPRESS INC",
+        "countryCode": "US",
+        "tradeTotal": 20871,
+        "scope": "",
+        "address": "Baldwin Park, California",
+        "tradeMatchTotal": 16,
+        "tradeMatchPercent": 0.08,
+        "latestTradeDate": 1782835200000,
+        "productDesc": "PLASTIC ICE BUCKET PLASTIC ICE BUCKET @ XXXXXXXXXXXXXXX@@ XXXXXXXXXXXXXX",
+        "productTags": [],
+        "productNames": [],
+        "productAlias": [],
+        "productSuperordinate": [],
+        "productDownstream": []
+      },
+      {
+        "companyId": 71434950,
+        "companyType": 2,
+        "name": "KINGS INTERNATIONAL GROUP INC.",
+        "countryCode": "US",
+        "tradeTotal": 25047,
+        "scope": "",
+        "address": "Arcadia, California",
+        "tradeMatchTotal": 11,
+        "tradeMatchPercent": 0.04,
+        "latestTradeDate": 1780070400000,
+        "productDesc": "EMPTY PLASTIC BUCKET SHIPPER LOAD AND COUNT",
+        "productTags": [],
+        "productNames": [],
+        "productAlias": [],
+        "productSuperordinate": [],
+        "productDownstream": []
+      },
+      {
+        "companyId": 71441992,
+        "companyType": 2,
+        "name": "LONGSAIL USA CORPORATION",
+        "countryCode": "US",
+        "tradeTotal": 23964,
+        "scope": "",
+        "address": "Walnut, California",
+        "tradeMatchTotal": 10,
+        "tradeMatchPercent": 0.04,
+        "latestTradeDate": 1776787200000,
+        "productDesc": "PLASTIC BUCKET PLASTIC BUCKET THIS SHIPMENT CONTAINS NO SOLID WOOD PACKING MATERIALS @PROVINCE, P.R. CHINA ZIP CODE TEL -",
+        "productTags": [],
+        "productNames": [],
+        "productAlias": [],
+        "productSuperordinate": [],
+        "productDownstream": []
+      },
+      {
+        "companyId": 71431807,
+        "companyType": 2,
+        "name": "JOHNNY TRADING INC",
+        "countryCode": "US",
+        "tradeTotal": 1811,
+        "scope": "",
+        "address": "Covina, California",
+        "tradeMatchTotal": 6,
+        "tradeMatchPercent": 0.33,
+        "latestTradeDate": 1772380800000,
+        "productDesc": "PLASTIC BUCKET,CUSHION",
+        "productTags": [],
+        "productNames": [],
+        "productAlias": [],
+        "productSuperordinate": [],
+        "productDownstream": []
+      },
+      {
+        "companyId": 71434274,
+        "companyType": 2,
+        "name": "KERRY APEX (NYC)",
+        "countryCode": "US",
+        "tradeTotal": 26646,
+        "scope": "",
+        "address": "Elmont, New York",
+        "tradeMatchTotal": 5,
+        "tradeMatchPercent": 0.02,
+        "latestTradeDate": 1741881600000,
+        "productDesc": "PLASTIC BUCKET HAND PALLET TRUCK HANDLE MOP H",
+        "productTags": [
+          "Plastic",
+          "Bucket",
+          "Truck Handle",
+          "Mop"
+        ],
+        "productNames": [
+          "Plastic Bucket",
+          "Hand Pallet Truck Handle",
+          "Mop"
+        ],
+        "productAlias": [
+          "Plastic Container",
+          "Pallet Jack Handle",
+          "Floor Mop",
+          "Plastic Pail",
+          "Hand Truck Handle"
+        ],
+        "productSuperordinate": [
+          "Plastic Resin",
+          "Metal",
+          "Rubber",
+          "Fiber",
+          "Wood"
+        ],
+        "productDownstream": [
+          "Warehouse",
+          "Factory",
+          "Cleaning Service",
+          "Retail Store",
+          "Home"
+        ]
+      },
+      {
+        "companyId": 71438191,
+        "companyType": 2,
+        "name": "LEDA TECHNOLOGY, INC.",
+        "countryCode": "US",
+        "tradeTotal": 3425,
+        "scope": "",
+        "address": "Broomfield, Colorado",
+        "tradeMatchTotal": 4,
+        "tradeMatchPercent": 0.12,
+        "latestTradeDate": 1753372800000,
+        "productDesc": "PLASTIC FOOT WASHING BUCKET",
+        "productTags": [
+          "Plastic",
+          "Foot washing",
+          "Bucket"
+        ],
+        "productNames": [
+          "Plastic foot washing bucket"
+        ],
+        "productAlias": [
+          "Plastic foot bath bucket",
+          "Plastic foot tub",
+          "Foot washing plastic container",
+          "Plastic foot basin",
+          "Foot bath plastic bucket"
+        ],
+        "productSuperordinate": [
+          "Plastic resin",
+          "Additives",
+          "Colorants",
+          "Plasticizers",
+          "Stabilizers"
+        ],
+        "productDownstream": [
+          "Household use",
+          "Beauty salon",
+          "Foot spa",
+          "Medical institution",
+          "Gym"
+        ]
+      },
+      {
+        "companyId": 71444539,
+        "companyType": 2,
+        "name": "MATRIX FREIGHT SOLUTION,INC",
+        "countryCode": "US",
+        "tradeTotal": 15010,
+        "scope": "",
+        "address": "City of Industry, California",
+        "tradeMatchTotal": 4,
+        "tradeMatchPercent": 0.03,
+        "latestTradeDate": 1779811200000,
+        "productDesc": "PLASTIC BUCKET PLASTIC STORAGE BOX GROUP A",
+        "productTags": [],
+        "productNames": [],
+        "productAlias": [],
+        "productSuperordinate": [],
+        "productDownstream": []
+      },
+      {
+        "companyId": 71432677,
+        "companyType": 2,
+        "name": "JUNYI TRADING CO LTD",
+        "countryCode": "US",
+        "tradeTotal": 2116,
+        "scope": "",
+        "address": "Irwindale, California",
+        "tradeMatchTotal": 3,
+        "tradeMatchPercent": 0.14,
+        "latestTradeDate": 1753286400000,
+        "productDesc": "PLASTIC BASIN",
+        "productTags": [
+          "Plastic",
+          "Basin"
+        ],
+        "productNames": [
+          "Plastic Basin"
+        ],
+        "productAlias": [
+          "Plastic Tub",
+          "Plastic Container",
+          "Plastic Bucket",
+          "Plastic Dish",
+          "Plastic Vessel"
+        ],
+        "productSuperordinate": [
+          "Plastic Resin",
+          "Polymer",
+          "Additives",
+          "Plasticizer",
+          "Colorant"
+        ],
+        "productDownstream": [
+          "Kitchenware",
+          "Bathroom Supplies",
+          "Cleaning Tools",
+          "Gardening Tools",
+          "Industrial Containers"
+        ]
+      },
+      {
+        "companyId": 71437825,
+        "companyType": 2,
+        "name": "LAUFER GROUP INTERNATIONAL LTD.",
+        "countryCode": "US",
+        "tradeTotal": 90230,
+        "scope": "",
+        "address": "Kansas City, Missouri",
+        "tradeMatchTotal": 3,
+        "tradeMatchPercent": 0.0,
+        "latestTradeDate": 1739116800000,
+        "productDesc": "PLASTIC BUCKET",
+        "productTags": [],
+        "productNames": [],
+        "productAlias": [],
+        "productSuperordinate": [],
+        "productDownstream": []
+      },
+      {
+        "companyId": 71444238,
+        "companyType": 2,
+        "name": "MASCOT INTERNATIONAL LOGISTICS, INC",
+        "countryCode": "US",
+        "tradeTotal": 7832,
+        "scope": "",
+        "address": "Corona, California",
+        "tradeMatchTotal": 3,
+        "tradeMatchPercent": 0.04,
+        "latestTradeDate": 1759507200000,
+        "productDesc": "PLASTIC BUCKET THIS SHIPMENT CONTAINS NO WOOD PACKAGING MATERIALS",
+        "productTags": [],
+        "productNames": [],
+        "productAlias": [],
+        "productSuperordinate": [],
+        "productDownstream": []
+      },
+      {
+        "companyId": 71431498,
+        "companyType": 2,
+        "name": "JLTH USA INC.",
+        "countryCode": "US",
+        "tradeTotal": 2400,
+        "scope": "",
+        "address": "Flushing, New York",
+        "tradeMatchTotal": 2,
+        "tradeMatchPercent": 0.08,
+        "latestTradeDate": 1749916800000,
+        "productDesc": "PLASTIC BASIN THIS SHIPMENT CONTAINS NO SOLID WOOD PACKING MATERIAL",
+        "productTags": [
+          "Plastic",
+          "Basin"
+        ],
+        "productNames": [
+          "Plastic basin"
+        ],
+        "productAlias": [
+          "Plastic tub",
+          "Plastic container",
+          "Plastic bucket",
+          "Plastic receptacle",
+          "Plastic vessel"
+        ],
+        "productSuperordinate": [
+          "Plastic resin",
+          "Petrochemicals",
+          "Plastic polymers",
+          "Plastic compounds",
+          "Plastic raw materials"
+        ],
+        "productDownstream": [
+          "Kitchenware",
+          "Bathroom accessories",
+          "Cleaning supplies",
+          "Gardening tools",
+          "Industrial storage"
+        ]
+      },
+      {
+        "companyId": 71432038,
+        "companyType": 2,
+        "name": "JOMA LOGISTICS INC.",
+        "countryCode": "US",
+        "tradeTotal": 5388,
+        "scope": "",
+        "address": "Plainfield, Illinois",
+        "tradeMatchTotal": 2,
+        "tradeMatchPercent": 0.04,
+        "latestTradeDate": 1752768000000,
+        "productDesc": "PLASTIC CONTAINER PLASTIC CONTAINER @XIXIANG SUB-DISTRICT,BAO'AN DISTRICT,SHENZHEN,CHINA 518100 EMAIL JOLIE@SZEAC.COM TEL +(86)-...",
+        "productTags": [
+          "Plastic",
+          "Container"
+        ],
+        "productNames": [
+          "Plastic container"
+        ],
+        "productAlias": [
+          "Plastic box",
+          "Plastic bin",
+          "Plastic case",
+          "Plastic jar",
+          "Plastic bucket"
+        ],
+        "productSuperordinate": [
+          "Plastic resin",
+          "Polyethylene",
+          "Polypropylene",
+          "PVC",
+          "PET"
+        ],
+        "productDownstream": [
+          "Food storage",
+          "Clothing storage",
+          "Tool storage",
+          "Toy storage",
+          "Office supply storage"
+        ]
+      },
+      {
+        "companyId": 71440806,
+        "companyType": 2,
+        "name": "LONG SHINE INTERNATIONAL TRADE INC",
+        "countryCode": "US",
+        "tradeTotal": 3058,
+        "scope": "",
+        "address": "Howard, Washington",
+        "tradeMatchTotal": 2,
+        "tradeMatchPercent": 0.07,
+        "latestTradeDate": 1770220800000,
+        "productDesc": "PLASTIC STORAGE BOX PLASTIC STORAGE BUCKET CONTACT - THIS SHIPMENT CONTAINS NO SOLID WOOD PACKING MATERIALS FREIGHT PREPAID CBP: -",
+        "productTags": [],
+        "productNames": [],
+        "productAlias": [],
+        "productSuperordinate": [],
+        "productDownstream": []
+      },
+      {
+        "companyId": 71440740,
+        "companyType": 2,
+        "name": "LOLLICUP USA INC.",
+        "countryCode": "US",
+        "tradeTotal": 34843,
+        "scope": "",
+        "address": "Chino, California",
+        "tradeMatchTotal": 1,
+        "tradeMatchPercent": 0.0,
+        "latestTradeDate": 1768060800000,
+        "productDesc": "PRODUCT ESSENTIAL FOR SUPERMARKET & FOOD MANU FACTURING DISTRIBUTION PAPER CUPS PAPER TRAY PAPER BUCKET PLASTIC CUPS PLASTIC LID...",
+        "productTags": [],
+        "productNames": [],
+        "productAlias": [],
+        "productSuperordinate": [],
+        "productDownstream": []
+      },
+      {
+        "companyId": 71441111,
+        "companyType": 2,
+        "name": "LOUMIDIS FOODS INC",
+        "countryCode": "US",
+        "tradeTotal": 1152,
+        "scope": "",
+        "address": "Lyndhurst, New Jersey",
+        "tradeMatchTotal": 1,
+        "tradeMatchPercent": 0.09,
+        "latestTradeDate": 1750521600000,
+        "productDesc": "S PER ANALYSIS : 120 PLASTIC BUCKETS OF FINE SEA SALT AND 144 C/BOXES OF CHION FINE SEA SA LT NW: 3228 KGS LOADED ON 4 PALLETS H...",
+        "productTags": [
+          "Fine sea salt",
+          "Plastic bucket",
+          "Chion",
+          "Seasoning",
+          "Salt"
+        ],
+        "productNames": [
+          "Fine sea salt"
+        ],
+        "productAlias": [
+          "Table salt",
+          "Edible salt",
+          "Cooking salt",
+          "Sea salt crystals",
+          "Refined sea salt"
+        ],
+        "productSuperordinate": [
+          "Seawater",
+          "Halite",
+          "Minerals",
+          "Sodium chloride",
+          "Brine"
+        ],
+        "productDownstream": [
+          "Food products",
+          "Baked goods",
+          "Processed meats",
+          "Snacks",
+          "Pickles"
+        ]
+      },
+      {
+        "companyId": 71443023,
+        "companyType": 2,
+        "name": "MALLORY ALEXANDER INTERNATIONAL LOG",
+        "countryCode": "US",
+        "tradeTotal": 10883,
+        "scope": "",
+        "address": "Lynbrook, New York",
+        "tradeMatchTotal": 1,
+        "tradeMatchPercent": 0.01,
+        "latestTradeDate": 1757779200000,
+        "productDesc": "PLASTIC BUCKET (WIRCKED) PO# PLASTIC CUP WITH TIPPER (WICKED) PO# SHIPMENT # US-AU G- SHIPPER DECLARED THAT: THIS SHIPMENT CON T...",
+        "productTags": [
+          "Plastic",
+          "Bucket",
+          "Cup"
+        ],
+        "productNames": [
+          "Plastic bucket",
+          "Plastic cup with tipper"
+        ],
+        "productAlias": [
+          "Plastic pail",
+          "Plastic mug",
+          "Plastic container",
+          "Plastic tumbler",
+          "Plastic can"
+        ],
+        "productSuperordinate": [
+          "Plastic resin",
+          "Petrochemicals",
+          "Polymers",
+          "Plastic granules",
+          "Plastic raw materials"
+        ],
+        "productDownstream": [
+          "Household use",
+          "Food storage",
+          "Industrial use",
+          "Camping",
+          "Picnics"
+        ]
+      },
+      {
+        "companyId": 71443220,
+        "companyType": 2,
+        "name": "MANITOULIN GLOBAL FORWARDING",
+        "countryCode": "CA",
+        "tradeTotal": 11339,
+        "scope": "",
+        "address": "Mississauga, Canada",
+        "tradeMatchTotal": 1,
+        "tradeMatchPercent": 0.01,
+        "latestTradeDate": 1741017600000,
+        "productDesc": "METAL SHOVEL NON-SKID LINER PLASTIC BUCKET PL ASTIC BOX",
+        "productTags": [
+          "Metal",
+          "Shovel",
+          "Non-Skid",
+          "Plastic",
+          "Bucket",
+          "Box"
+        ],
+        "productNames": [
+          "Metal Shovel",
+          "Non-Skid Liner",
+          "Plastic Bucket",
+          "Plastic Box"
+        ],
+        "productAlias": [
+          "Shovel",
+          "Anti-slip Liner",
+          "Plastic Pail",
+          "Plastic Container",
+          "Spade"
+        ],
+        "productSuperordinate": [
+          "Metal Ore",
+          "Plastic Resin",
+          "Iron",
+          "Polyethylene",
+          "Polypropylene"
+        ],
+        "productDownstream": [
+          "Gardening",
+          "Construction",
+          "Warehousing",
+          "Household",
+          "Industrial"
+        ]
+      },
+      {
+        "companyId": 71444747,
+        "companyType": 2,
+        "name": "MARRY NY LOGISTICS INC",
+        "countryCode": "JM",
+        "tradeTotal": 208,
+        "scope": "",
+        "address": "Jamaica, New York",
+        "tradeMatchTotal": 1,
+        "tradeMatchPercent": 0.48,
+        "latestTradeDate": 1759507200000,
+        "productDesc": "GLASS CUP PLASTIC SEASONING BOX REFRIGERATO R STORAGE BOX PLASTIC CUP STAINLESS STEEL S EASONING DISH PLASTIC FRUIT BUCKET BAKIN...",
+        "productTags": [],
+        "productNames": [],
+        "productAlias": [],
+        "productSuperordinate": [],
+        "productDownstream": []
+      }
+    ]
+  },
+  "fee": {
+    "apiCost": 150,
+    "accountBalance": 69190,
+    "uuid": "1461856e-2d2d-450f-88c6-09ea1e495427"
+  }
+}

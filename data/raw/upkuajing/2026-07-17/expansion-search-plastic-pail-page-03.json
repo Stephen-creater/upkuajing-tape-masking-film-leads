@@ -1,0 +1,760 @@
+{
+  "code": 0,
+  "msg": "success",
+  "data": {
+    "cursor": "eyJjb21wYW55X2lkIjoyNTYyMjR9",
+    "list": [
+      {
+        "companyId": 226023,
+        "companyType": 2,
+        "name": "paramount global inc.",
+        "countryCode": "US",
+        "tradeTotal": 2063,
+        "scope": "6 oz,t rib,ilp,trigger sprayer,frost,kala chana,husk,spice jar,packaging material,chas,bottles,dropper,hkm,diamond,non medical,tin box,bottle,jar pet,foma,spray",
+        "address": "yankee office park, 1458 yankee park pl,dayton oh 45458",
+        "tradeMatchTotal": 87,
+        "tradeMatchPercent": 4.22,
+        "latestTradeDate": 1757606400000,
+        "productDesc": "Hũ nhựa 8OZ - (Mới 100%) #&VN",
+        "productTags": [
+          "Plastic",
+          "Bucket",
+          "8OZ"
+        ],
+        "productNames": [
+          "Plastic Bucket"
+        ],
+        "productAlias": [
+          "Plastic Pail",
+          "Plastic Tub",
+          "Plastic Can",
+          "Plastic Bin",
+          "Plastic Vessel"
+        ],
+        "productSuperordinate": [
+          "Plastic Resin",
+          "Petrochemicals",
+          "Polymer",
+          "Additives",
+          "Plasticizer"
+        ],
+        "productDownstream": [
+          "Food Storage",
+          "Liquid Storage",
+          "Tool Storage",
+          "Chemical Storage",
+          "Agricultural Use"
+        ]
+      },
+      {
+        "companyId": 229773,
+        "companyType": 2,
+        "name": "archer co usa inc",
+        "countryCode": "US",
+        "tradeTotal": 469,
+        "scope": "plastic pail,iron,toys,decoration,wheel,sinter,electro plated,grinding wheels,welding rods,fin,lids,electroplat,wheel plastic,core bits,welding wire,p profile,sky,core blade,fence finials,polishing pads",
+        "address": "1665 futurity dr. suite b sunland park, nm 88063. united states",
+        "tradeMatchTotal": 19,
+        "tradeMatchPercent": 4.05,
+        "latestTradeDate": 1770307200000,
+        "productDesc": "DEXPAN(EXPANSIVE CEMENT) OUTER BOX PLASTIC PAILS PLASTIC LIDS<br/>",
+        "productTags": [
+          "dexpan",
+          "plastic pail",
+          "plastic lid",
+          "expansive cement",
+          "outer box"
+        ],
+        "productNames": [],
+        "productAlias": [],
+        "productSuperordinate": [],
+        "productDownstream": []
+      },
+      {
+        "companyId": 226094,
+        "companyType": 2,
+        "name": "walgreen co",
+        "countryCode": "US",
+        "tradeTotal": 57506,
+        "scope": "adult snorkel,blush brush,straw,student,w ma,zet,dow,clip fan,bed sheet pillow,cleaning set,light dome,mahjong,paper stationery,sketchbook,cub,mail car,clpl,bands,puppy training pads,nitrile",
+        "address": "200 wilmot road deerfield, il 60015",
+        "tradeMatchTotal": 10,
+        "tradeMatchPercent": 0.02,
+        "latestTradeDate": 1782835200000,
+        "productDesc": "ADHESIVE DRESSINGS AND OTHER ARTCL HAVING ADHPOXXXXXXXXXX WALG FLEX FABRIC BANDAGE ASST 30S HTS3005105000 POXXXXXXXXXX WALG SOFT FABRIC BAND 2X4 IN XL 10S HTS3005105000 POXXXXXXXXXX WALG SOFT FABRIC BANDAGE ASST 30S HTS3005105000 POXXXXXXXXXX WALG CLOTH TAPE ROLL 1 IN X10YDS2S HTS3005105000 POXXXXXXXXXX WALG WTRPRF ADHV TAPE 1/2 IN X 5YD HTS3005105000 WADDING GAUZE AND SIMILAR ARTICLES ETC NESOI POXXXXXXXXXX WALG ADHESIVE GRIP WRAP 3 IN X 1.9YD HTS3005905090 ART FOR CONVEYING OR PACKING OF GOODS PLAST POXXXXXXXXXX T/T WALG SILICONE JAR MLT 4S ASTHTS3923900080 TABLEWARE AND KITCHENWARE OF PLASTICS POXXXXXXXXXX WALG ICE CUBE TRAYS HTS3924104000 HOUSEHOLD AND TOILET ARTICLES NESOI OF PLASTIPOXXXXXXXXXX CH STORAGE BASKET LARGE HTS3924905650 POXXXXXXXXXX NOTE HOLDER - CLOUD HTS3924905650 HTS4820102020 HTS9608100000 POXXXXXXXXXX WALG BATH POUF EXFOLIATNG HTS3924905650 POXXXXXXXXXX WAG M 2IN1 MSH SPNG 1S HTS3924905650 OFFICE OR SCHOOL SUPPLIES OF PLASTIC POXXXXXXXXXX WEXFORD PENCIL BOX AST HTS3926100000 POXXXXXXXXXX PLUSH JOURNAL NOTEBOOK HTS3926100000 HTS4820102060 POXXXXXXXXXX WEXFORD PINK ERASERS 2S HTS3926100000 FITTINGS FOR FURNITURE COACHWORK ETC OF PLA POXXXXXXXXXX LAMP PARTS(PLASTIC FASTENER) HTS3926305000 ARTICLES OF PLASTICS NESOI POXXXXXXXXXX SEASONAL PLASTIC PAIL HTS3926901000 ERASERS OF VULCANIZED RUBBER POXXXXXXXXXX ERASERJAR - 2ASST HTS4016920000 OTHER ARTICLES OF VULCANIZED RUBBER POXXXXXXXXXX C/H TUB STOPPER W/ CHAIN 1CT HTS4016991500 REGISTERS ACCT BKS NOTEBKS LETTER PAD ETC PPRPOXXXXXXXXXX STICKOFBUTTERNOTES HTS4820102020 POXXXXXXXXXX PASTRY AND WAFFLE STICKY NOTE ASST HTS4820102020 ARTICLES OF PPR PULP PPR PPRBRD CELLULSE ETC POXXXXXXXXXX WEXFORD COIN WRAPPERS HTS4823908680 POXXXXXXXXXX WEXFORD INDX DVDR CLOR TAB 5S PPR HTS4823908680 TOILET KITCHEN LINEN OF MANMADE FIBERS POXXXXXXXXXX WALG MESH BATH SHOWR GLVS HTS6302932000 OTHER MADE UP TEXTILE ARTICLES POXXXXXXXXXX PET TOYS HTS6307907500 ABRASIVES ON A BASE OF PAPER OR PAPERBOARD ONPOXXXXXXXXXX WALG CURVED FOOT FILE HTS6805200000 ABRASIVES ON A BASE MATERIAL OTH THN FABRC O POXXXXXXXXXX WALG CRYSTAL HAIR REMOVER HTS6805305000 NAILS TACKS DRAWING PINS ETC OF IRON OR STE POXXXXXXXXXX WEXFORD THUMBTACKS 200S HTS7317001000 HOUSEHOLD HAND TOOLS NESOI AND PARTS BASE ME POXXXXXXXXXX WALG FRUIT AND VEGETABLE PEELER HTS8205513030 SERVICE CONTRACT NO. XXXXXX THIS SHIPMENT CONTAINS NO WOOD PACKAGING MATERIAL THIS SHIPMENT CONTAINS NO WOOD PACKAGING MATERIAL HANDTOOLS NESOI AND BASE METAL PARTS THEREOF POXXXXXXXXXX WEXFORD MINI STAPLER HTS8205595560 KNVS HVG OTH TH FXD BLDS A PTS EXC BLDS POXXXXXXXXXX WEXFORD PRECSION KNIFE HTS8211930060 POXXXXXXXXXX FOLDING KNIFE HTS8211930035 DRAWNG MARKNG-OUT MATH CALCULTNG INS EX DRFT POXXXXXXXXXX WEXFORD MATH KIT HTS9017208080 INSTRUMENTS FOR MEASURING LENGTH NESOI POXXXXXXXXXX ACME ALUMINUM RULER 12IN ASMT HTS9017800000 MED NEEDLES. NESOI CATHERERS ETC AND PARTS E POXXXXXXXXXX WALG LANCETS 30G REG 100S HTS9018390050 HTS98170096 TRICYCLES SCOOTERS PEDAL CARS AND SIMILAR W POXXXXXXXXXX SQUEEZE CHEESE HTS9503000073 POXXXXXXXXXX PLUSH STUFFED TOYS HTS9503000090 SHAVING BRUSHES HAIRBRUSHES ETC FOR PERSON POXXXXXXXXXX WALG SFT BRISTLE BRSH W/HNDL 1S HTS9603298090 ARTISTS BRUSHES SIMILAR BRUSHES FOR COSEMT POXXXXXXXXXX WALG BTY KABUKI BRUSH 1S HTS9603306000 POXXXXXXXXXX WALG BTY TOTAL FACE BRUSH SET HTS9603306000 POXXXXXXXXXX WALG BTY EYE BRUSH SET 6 S HTS9603306000 HTS9616200000 BALL POINT PENS POXXXXXXXXXX WEXFORD BLUE STICK BALLPOINT PEN20S HTS9608100000 POXXXXXXXXXX PEN PURPLE HTS9608100000 POXXXXXXXXXX PEN WATERMELON HTS9608100000 POXXXXXXXXXX PEN RAINBOW HTS9608100000 POXXXXXXXXXX PEN WHITE HTS9608100000 POXXXXXXXXXX PEN AQUE HTS9608100000 POXXXXXXXXXX PEN OMBRE HTS9608100000 POXXXXXXXXXX WIGGLYPENS-3ASST HTS9608100000<br/>",
+        "productTags": [
+          "dvdr",
+          "plush stuffed toy",
+          "dh",
+          "tape",
+          "plastics",
+          "lv",
+          "melon",
+          "lamp parts",
+          "ticl",
+          "folding knife",
+          "adhesive",
+          "registers",
+          "i cat",
+          "s 30",
+          "exfo",
+          "e stick",
+          "base material",
+          "face brush set",
+          "kabuki brush",
+          "handtools",
+          "notes",
+          "kitchen linen",
+          "instrument",
+          "pink eraser",
+          "fittings",
+          "chain",
+          "manmade fiber",
+          "jar",
+          "stopper",
+          "clor",
+          "wexford",
+          "ice cube tray",
+          "silicone jar",
+          "rtc",
+          "bandage",
+          "base metal",
+          "plastic fastener",
+          "acme",
+          "wood",
+          "ipm"
+        ],
+        "productNames": [],
+        "productAlias": [],
+        "productSuperordinate": [],
+        "productDownstream": []
+      },
+      {
+        "companyId": 226828,
+        "companyType": 2,
+        "name": "j c sales",
+        "countryCode": "US",
+        "tradeTotal": 6591,
+        "scope": "floor,pc plate,stainless steel mug,bicycle lock,kit,ore,st b,head light,knob,brush pet,tuff,tong,y post,cucumber,dog collar,stackable desk,liner,velvet,cleaning brush,pastel",
+        "address": "10673 nw 62nd court, parkland, fl 33076",
+        "tradeMatchTotal": 6,
+        "tradeMatchPercent": 0.09,
+        "latestTradeDate": 1760025600000,
+        "productDesc": "PLASTIC CUTTING BOARD METAL DUST PAN PAIL PLASTIC BASIN FLOWER POT STORAGE BASKET PO# SHIPPER S LOAD COUNT & SEALED THIS SHIPME NT DOES NOT CONTAIN ANY SOLID WOOD PACKING MATERIAL<br/>",
+        "productTags": [
+          "Plastic",
+          "Metal",
+          "Cutting Board",
+          "Dust Pan",
+          "Pail",
+          "Basin",
+          "Flower Pot",
+          "Storage Basket"
+        ],
+        "productNames": [
+          "Plastic Cutting Board",
+          "Metal Dust Pan",
+          "Pail",
+          "Plastic Basin",
+          "Flower Pot",
+          "Storage Basket"
+        ],
+        "productAlias": [
+          "Plastic Chopping Board",
+          "Metal Dust Bin",
+          "Bucket",
+          "Plastic Tub",
+          "Plant Pot"
+        ],
+        "productSuperordinate": [
+          "Plastic Resin",
+          "Metal Ore",
+          "Sand",
+          "Clay",
+          "Wood Pulp"
+        ],
+        "productDownstream": [
+          "Kitchen",
+          "Cleaning Supplies",
+          "Gardening",
+          "Home Storage",
+          "Office"
+        ]
+      },
+      {
+        "companyId": 248291,
+        "companyType": 2,
+        "name": "graver technologies",
+        "countryCode": "US",
+        "tradeTotal": 1417,
+        "scope": "ring stand,t 16,crt,turbo,wood,f head,dpt,t filter,elem,sac,sdf,cod,s base,ion,strong base,epdm,jumbo bag,orma,resin,rim",
+        "address": "200 lake drive glasgow, de 19702 usa",
+        "tradeMatchTotal": 5,
+        "tradeMatchPercent": 0.35,
+        "latestTradeDate": 1733760000000,
+        "productDesc": "PLASTIC DRUM",
+        "productTags": [
+          "Plastic",
+          "Drum",
+          "Storage"
+        ],
+        "productNames": [
+          "Plastic drum"
+        ],
+        "productAlias": [
+          "Plastic barrel",
+          "Plastic can",
+          "Plastic pail",
+          "Plastic tank",
+          "Plastic vessel"
+        ],
+        "productSuperordinate": [
+          "Plastic resin",
+          "Polyethylene",
+          "Polypropylene",
+          "Additives",
+          "Colorants"
+        ],
+        "productDownstream": [
+          "Chemical storage",
+          "Food storage",
+          "Liquid transportation",
+          "Waste collection",
+          "Industrial use"
+        ]
+      },
+      {
+        "companyId": 270210,
+        "companyType": 2,
+        "name": "pisopak peru s.a.c.",
+        "countryCode": "PE",
+        "tradeTotal": 10907,
+        "scope": "pvc,flakes,kluber,triocyl trimellitate,copy,hydrocarbon resin ink,dashboard,polyformaldehyde,celecoxib,oak,telescope,industrial sewing machine,bank transfer,flow control valve,polyethylene chloroacetate,structural wood,top silent design,wood flake floor,overlay  paper,mirror floor",
+        "address": "av. enrique canaval moreyra nro. 555san isidro, lima, , peru",
+        "tradeMatchTotal": 4,
+        "tradeMatchPercent": 0.04,
+        "latestTradeDate": 1772553600000,
+        "productDesc": "PEGAMENTO, BOSTIK, S/M PLASTIC PAIL 6 KG/P80 PARA USO COMERCIAL BOSTIK STIX A800 PREMIUM COD: 30615489",
+        "productTags": [
+          "bostik",
+          "glue",
+          "building adhesive"
+        ],
+        "productNames": [],
+        "productAlias": [],
+        "productSuperordinate": [],
+        "productDownstream": []
+      },
+      {
+        "companyId": 224888,
+        "companyType": 2,
+        "name": "matsui international co",
+        "countryCode": "US",
+        "tradeTotal": 739,
+        "scope": "printing paste,blu,t 24,top,cod,acrylic resin,water,ice,ink,vine,printing ink,8k,pigment dispersion,decoration,textile,ting,orange,rubi,d 21,d 300",
+        "address": "1501 west 178th street, gardena, ca 90248",
+        "tradeMatchTotal": 3,
+        "tradeMatchPercent": 0.41,
+        "latestTradeDate": 1780502400000,
+        "productDesc": "TEXTILE FINISHING AGENT TOTAL NET WEIGHT : 14,130.16KGS HS CODE : 3906.90/3204.17/ 3809.91/3402.90/2834.29 54 CARTONS 415 PLASTIC PAILS 48 PLASTIC DRUMS 517 PACKAGES<br/>",
+        "productTags": [
+          "plastic drum",
+          "textile finishing agent",
+          "cod",
+          "gh",
+          "plastic pail",
+          "carton"
+        ],
+        "productNames": [],
+        "productAlias": [],
+        "productSuperordinate": [],
+        "productDownstream": []
+      },
+      {
+        "companyId": 227189,
+        "companyType": 2,
+        "name": "w y international inc.",
+        "countryCode": "US",
+        "tradeTotal": 8216,
+        "scope": "huang jin,talbe,ale,clamp,sichuan,som,sweet sour sauce,pads machine,labe,vine,flavor,sos,soy sauce sweet,ginger,ppe,baby cucumber,hang,d can,lathe machine,2 ch",
+        "address": "po box 842221, houston, texas 77284, usa",
+        "tradeMatchTotal": 3,
+        "tradeMatchPercent": 0.04,
+        "latestTradeDate": 1779379200000,
+        "productDesc": "SUPERIOR LIGHT SOY SAUCE, 1.8LX12 PLASTIC PAILS;SUPERIOR DAR<br/>SUPERIOR LIGHT SOY SAUCE, 1.8LX12 PLASTIC PAILS;SUPERIOR DAR<br/>",
+        "productTags": [
+          "light soy sauce",
+          "peri",
+          "plastic pail"
+        ],
+        "productNames": [],
+        "productAlias": [],
+        "productSuperordinate": [],
+        "productDownstream": []
+      },
+      {
+        "companyId": 224858,
+        "companyType": 2,
+        "name": "tractor supply co",
+        "countryCode": "US",
+        "tradeTotal": 111751,
+        "scope": "hunting blind,sanshui,saa,enzyme,color glass,hook set,pe jar,seat cushion,top pet,smast,w ma,m5,foldable wagon,y68,n seal,n spotlight,w re,al bar,platform truck,poultry",
+        "address": "5401 virginia way brentwood, tn 37027",
+        "tradeMatchTotal": 2,
+        "tradeMatchPercent": 0.0,
+        "latestTradeDate": 1746201600000,
+        "productDesc": "PLASTIC BUCKET PO#1039122041 THIS SHIPMENT CONTAINS NO WOOD PACKING MATERIALS ALL MOTOR +++ALSO NOYIFY: EXPEDITORS INTERNATIONAL OF WASHINGTON, INC. 26 CENTURY BLVD, STE 702 NASHVILLE TN 27214 USA ATTN: GRANT HUDSON PH: 629-232-0662<br/>",
+        "productTags": [
+          "Plastic",
+          "Bucket"
+        ],
+        "productNames": [
+          "Plastic bucket"
+        ],
+        "productAlias": [
+          "Plastic pail",
+          "Plastic container",
+          "Plastic tub",
+          "Plastic can",
+          "Plastic bin"
+        ],
+        "productSuperordinate": [
+          "Plastic resin",
+          "Petrochemicals",
+          "Additives",
+          "Plasticizers",
+          "Colorants"
+        ],
+        "productDownstream": [
+          "Home storage",
+          "Industrial storage",
+          "Agricultural use",
+          "Construction use",
+          "Food storage"
+        ]
+      },
+      {
+        "companyId": 228140,
+        "companyType": 2,
+        "name": "global trade solutions inc",
+        "countryCode": "US",
+        "tradeTotal": 9890,
+        "scope": "ev,ale,inflatable boat,consol,unit,bra,packaging material,kit,handle,oxygen hose,ore,differential,piston ring,non medical,lp,gear,aluminium,piston,disposable cap,tial",
+        "address": "1009 nikki drive springfield tn 37172",
+        "tradeMatchTotal": 2,
+        "tradeMatchPercent": 0.02,
+        "latestTradeDate": 1782316800000,
+        "productDesc": "0.5 GAL ROUND PLASTIC PAIL WITH LID 1 GAL ROUND PLASTIC PAIL WITH LID<br/>",
+        "productTags": [
+          "lid",
+          "round plastic",
+          "pail"
+        ],
+        "productNames": [],
+        "productAlias": [],
+        "productSuperordinate": [],
+        "productDownstream": []
+      },
+      {
+        "companyId": 228747,
+        "companyType": 2,
+        "name": "seppic inc co",
+        "countryCode": "US",
+        "tradeTotal": 3548,
+        "scope": "ammo,adipate,acids,m hs,minerals,epi,e ig,e pen,cosmetic material,compound,le havre,methyl,tano,vegarol,arm,wax,fcc,sos,gluconate,urit",
+        "address": "30, two bridges road, suite 210 fairfield, new jersey 07004-1530",
+        "tradeMatchTotal": 2,
+        "tradeMatchPercent": 0.06,
+        "latestTradeDate": 1758902400000,
+        "productDesc": "PLASTIC BARREL<br/>",
+        "productTags": [
+          "Plastic",
+          "Barrel"
+        ],
+        "productNames": [
+          "Plastic Barrel"
+        ],
+        "productAlias": [
+          "Plastic Drum",
+          "Plastic Container",
+          "Plastic Tub",
+          "Plastic Can",
+          "Plastic Pail"
+        ],
+        "productSuperordinate": [
+          "Plastic Resin",
+          "Petroleum",
+          "Chemical Additives",
+          "Plasticizer",
+          "Colorant"
+        ],
+        "productDownstream": [
+          "Food Storage",
+          "Liquid Storage",
+          "Industrial Chemical Storage",
+          "Waste Collection",
+          "Agricultural Use"
+        ]
+      },
+      {
+        "companyId": 238463,
+        "companyType": 2,
+        "name": "dol gen corp llc",
+        "countryCode": "US",
+        "tradeTotal": 43026,
+        "scope": "saa,bathmats,crafts item,bath,place mat,coat,aluminium light,student,mdf wood,decorative item,cotton hand,hand woven,store bag,amb,ems,mat,apple juice,table,feet,festivities",
+        "address": "100 mission ridge,goodlettsville",
+        "tradeMatchTotal": 2,
+        "tradeMatchPercent": 0.0,
+        "latestTradeDate": 1767283200000,
+        "productDesc": "E PAIL PLASTIC IN PO RV / ITEM E PAIL PLASTIC IN PO RVH / ITEM E SQ GLITTER PAIL PO ZM / ITEM S BH TUMB W/STRAW OZ PO ZP / ITEM S BH TUMB W/STRAW OZ HS CODE S/C S NSW<br/>E PAIL PLASTIC IN PO RV / ITEM E PAIL PLASTIC IN PO RVH / ITEM E SQ GLITTER PAIL PO ZM / ITEM S BH TUMB W/STRAW OZ PO ZP / ITEM S BH TUMB W/STRAW OZ HS CODE S/C S NSW<br/>E PAIL PLASTIC IN PO RV / ITEM E PAIL PLASTIC IN PO RVH / ITEM E SQ GLITTER PAIL PO ZM / ITEM S BH TUMB W/STRAW OZ PO ZP / ITEM S BH TUMB W/STRAW OZ HS CODE S/C S NSW<br/>",
+        "productTags": [
+          "pail",
+          "straw",
+          "pail plastic",
+          "glitter",
+          "cod",
+          "rv"
+        ],
+        "productNames": [],
+        "productAlias": [],
+        "productSuperordinate": [],
+        "productDownstream": []
+      },
+      {
+        "companyId": 265568,
+        "companyType": 2,
+        "name": "insular trading",
+        "countryCode": "PR",
+        "tradeTotal": 19373,
+        "scope": "boiler,accesorios,alum,aluminum boiler,plastic spoon,mop,putty knife,tipo,italian,carton,he i,inco,plastic seed,plastic tray,cana,door stopper,cleaners,rice cooker,plastic garden,var",
+        "address": "carr 647 km 0.5po box 3069vega alta p.r. 00692",
+        "tradeMatchTotal": 2,
+        "tradeMatchPercent": 0.01,
+        "latestTradeDate": 1755187200000,
+        "productDesc": "PLASTIC BUCKETS<br/>",
+        "productTags": [
+          "Plastic",
+          "Bucket"
+        ],
+        "productNames": [
+          "Plastic bucket"
+        ],
+        "productAlias": [
+          "Plastic pail",
+          "Plastic container",
+          "Plastic tub",
+          "Plastic bin",
+          "Plastic can"
+        ],
+        "productSuperordinate": [
+          "Plastic resin",
+          "Petrochemicals",
+          "Plastic polymers",
+          "Plastic additives",
+          "Plasticizers"
+        ],
+        "productDownstream": [
+          "Home storage",
+          "Industrial storage",
+          "Agricultural use",
+          "Construction use",
+          "Food storage"
+        ]
+      },
+      {
+        "companyId": 229233,
+        "companyType": 2,
+        "name": "dollar empire llc",
+        "countryCode": "US",
+        "tradeTotal": 7918,
+        "scope": "plastic plant,ev,l file,calculator,gg,cyclone,flower bath mat,sheet,pata,bicycle lock,count,fir,rubber hammer,compac,food container,locking plier,welcome mat,kit,board,peg",
+        "address": "4423 e bandini blvd., vernon, ca 90058, usa",
+        "tradeMatchTotal": 1,
+        "tradeMatchPercent": 0.01,
+        "latestTradeDate": 1725552000000,
+        "productDesc": "PLASTIC PAILBASIN",
+        "productTags": [
+          "Plastic",
+          "Pail",
+          "Basin"
+        ],
+        "productNames": [
+          "Plastic Pail",
+          "Plastic Basin"
+        ],
+        "productAlias": [
+          "Plastic Bucket",
+          "Plastic Tub",
+          "Plastic Can",
+          "Plastic Container",
+          "Plastic Vessel"
+        ],
+        "productSuperordinate": [
+          "Plastic Resin",
+          "Polyethylene",
+          "Polypropylene",
+          "PVC",
+          "PET"
+        ],
+        "productDownstream": [
+          "Household",
+          "Agriculture",
+          "Industry",
+          "Food Service",
+          "Cleaning"
+        ]
+      },
+      {
+        "companyId": 243125,
+        "companyType": 2,
+        "name": "supliservicios s.a.",
+        "countryCode": "US",
+        "tradeTotal": 1078,
+        "scope": "bags load,courier bag,plast,plastic bag,plastics bag,box,kids,plastic,cod,lows",
+        "address": "p.o.. box 1651-1000. san joes, costa rica",
+        "tradeMatchTotal": 1,
+        "tradeMatchPercent": 0.09,
+        "latestTradeDate": 1722873600000,
+        "productDesc": "BOLSA PLASTICA DE SEGURIDAD SUPL-1H-MONEDAS MARCA SIN MARCA MODELO SIN MODELO",
+        "productTags": [
+          "Security",
+          "Plastic",
+          "Bag"
+        ],
+        "productNames": [
+          "Security Plastic Bag"
+        ],
+        "productAlias": [
+          "Safety Plastic Bag",
+          "Plastic Security Pouch",
+          "Secure Plastic Sack",
+          "Plastic Safety Container",
+          "Security Plastic Pail"
+        ],
+        "productSuperordinate": [
+          "Plastic Resin",
+          "Polyethylene",
+          "Polypropylene",
+          "Plastic Granules",
+          "Plastic Sheets"
+        ],
+        "productDownstream": [
+          "Cash Handling",
+          "Document Storage",
+          "Small Item Storage",
+          "Retail Packaging",
+          "Security Applications"
+        ]
+      },
+      {
+        "companyId": 253569,
+        "companyType": 2,
+        "name": "all categories inc.",
+        "countryCode": "US",
+        "tradeTotal": 566,
+        "scope": "believe,caulking gun,mowing line,hammock,ale,roller paint brush,xch,pole,safety glasses,xt,count,4 piece,hole saw kit,ledge,painting,cable clip,knife,irene,water sprayer,ppe",
+        "address": "amelia st no 46 amelia industrial park guaynabo pr 00968 puerto rico",
+        "tradeMatchTotal": 1,
+        "tradeMatchPercent": 0.18,
+        "latestTradeDate": 1752595200000,
+        "productDesc": "COATINGS 01X40HC CONTAINER CONTAINING 2770 PACKAGES 2710 CARDBOARD BOXES AND 60 PLASTIC COATINGS 27.000 UN - BANDEJA FLEX P/PINTURA - 23CM - 36X28CM 720 UN - ESCOBA PLASTICA PARA JARDIN - 22 DIENTES 1.200 UN - BALDE PLASTICO 14 LITROS C/SOPORTE P/MOPA MANUAL INVOICE 25/2025 DUE 25BR000936876-9 NCM 39269090 HS CODE 392690 FREIGHT PREPAID WOODEN PACKAGE NOT APPLICABLE (NOT USED) XXXCENTRO SANTA CRUZ DO SUL RIO GRANDE DO SUL 96810 034 BRAZIL<br/>",
+        "productTags": [
+          "Coatings",
+          "Plastic",
+          "Brush",
+          "Bucket",
+          "Garden"
+        ],
+        "productNames": [
+          "Coatings",
+          "Plastic brush for garden",
+          "Plastic bucket"
+        ],
+        "productAlias": [
+          "Paint",
+          "Plastic broom",
+          "Plastic pail",
+          "Coating materials",
+          "Garden brush"
+        ],
+        "productSuperordinate": [
+          "Plastic resin",
+          "Pigments",
+          "Solvents",
+          "Additives",
+          "Fibers"
+        ],
+        "productDownstream": [
+          "Building construction",
+          "Automotive industry",
+          "Gardening",
+          "Household cleaning",
+          "Industrial maintenance"
+        ]
+      },
+      {
+        "companyId": 253780,
+        "companyType": 2,
+        "name": "asia primera kimika inc.",
+        "countryCode": "US",
+        "tradeTotal": 6286,
+        "scope": "ev,s phos,green card,precipitated silica,som,white pet,castor,flexible packing,wax,lemon,oap,acti,tinopal,pen,powder,optical bright,loro,prep,drum,brightener",
+        "address": "unit 303 alabang business center tower, 1216 acacia avenue, muntinlupa city, metro manila 1770",
+        "tradeMatchTotal": 1,
+        "tradeMatchPercent": 0.02,
+        "latestTradeDate": 1726502400000,
+        "productDesc": "1 PALLET STC 5 PLASTIC PAIL X 20KG LAMESOFT PO 65",
+        "productTags": [
+          "meso",
+          "plastic pail",
+          "t po"
+        ],
+        "productNames": [],
+        "productAlias": [],
+        "productSuperordinate": [],
+        "productDownstream": []
+      },
+      {
+        "companyId": 253921,
+        "companyType": 2,
+        "name": "msrf inc",
+        "countryCode": "US",
+        "tradeTotal": 1982,
+        "scope": "gift ribbon,schiller,sauce gift set,spices bottle,e gift,balsam,blister pack,candy gift set,cy door,packaging material,kit,caco,e dog,ppe,stoneware,paper card,d can,p 18,brush gift,carton bottle",
+        "address": "2501 n elston avechicago, il. 60647-2003",
+        "tradeMatchTotal": 1,
+        "tradeMatchPercent": 0.05,
+        "latestTradeDate": 1753977600000,
+        "productDesc": "PLASTIC POPCORN BUCKET PLASTIC POPCORN BUCKET (HS 39241000)<br/>",
+        "productTags": [
+          "Plastic",
+          "Popcorn bucket"
+        ],
+        "productNames": [
+          "Plastic popcorn bucket"
+        ],
+        "productAlias": [
+          "Plastic popcorn container",
+          "Popcorn plastic pail",
+          "Plastic popcorn holder",
+          "Popcorn plastic tub",
+          "Plastic popcorn receptacle"
+        ],
+        "productSuperordinate": [
+          "Plastic resin",
+          "Petroleum",
+          "Chemical additives",
+          "Plastic polymers",
+          "Plastic raw materials"
+        ],
+        "productDownstream": [
+          "Movie theaters",
+          "Carnivals",
+          "Amusement parks",
+          "Convenience stores",
+          "Snack bars"
+        ]
+      },
+      {
+        "companyId": 255507,
+        "companyType": 2,
+        "name": "molded dimension inc.",
+        "countryCode": "US",
+        "tradeTotal": 583,
+        "scope": "rubber seals,cod,valve sleeve,s 15,rubber seal,s30,grommet,s10,s14,s5,chas,s 10,isol,s17,bucket,liquid level,tack,solid wood packaging,ppi,ev b",
+        "address": "701 sunset road",
+        "tradeMatchTotal": 1,
+        "tradeMatchPercent": 0.17,
+        "latestTradeDate": 1737043200000,
+        "productDesc": "PLASTIC BUCKET<br/>",
+        "productTags": [
+          "Plastic",
+          "Bucket"
+        ],
+        "productNames": [
+          "Plastic bucket"
+        ],
+        "productAlias": [
+          "Plastic pail",
+          "Plastic container",
+          "Plastic tub",
+          "Plastic can",
+          "Plastic bin"
+        ],
+        "productSuperordinate": [
+          "Plastic resin",
+          "Petrochemicals",
+          "Additives",
+          "Plastic polymers",
+          "Plastic raw materials"
+        ],
+        "productDownstream": [
+          "Home storage",
+          "Industrial storage",
+          "Agricultural use",
+          "Construction use",
+          "Food storage"
+        ]
+      },
+      {
+        "companyId": 256224,
+        "companyType": 2,
+        "name": "hub city industries inc.",
+        "countryCode": "US",
+        "tradeTotal": 210,
+        "scope": "rolls,mop,yarn,reef,r 12,ale,c 14,fcl container,tin,r 11,cod,ion,r pet,brushes,s wire,s form,ice,20gp container,cotton mop head,door delivery",
+        "address": "2914 industrial ave, aberdeen, sd 57401",
+        "tradeMatchTotal": 1,
+        "tradeMatchPercent": 0.48,
+        "latestTradeDate": 1741190400000,
+        "productDesc": "MOP HANDLE MOP WRINGER BUCKET LOBBY DUSTPAN ANGLE BROOM DUST MOP REFILL JANITOR CART MICROFIBER CLOTH PLASTIC PAIL OIL PAPER<br/>",
+        "productTags": [
+          "Mop",
+          "Dustpan",
+          "Broom",
+          "Microfiber",
+          "Plastic"
+        ],
+        "productNames": [
+          "Mop Handle",
+          "Mop Wringer",
+          "Bucket",
+          "Lobby Dustpan",
+          "Angle Broom",
+          "Dust Mop Refill",
+          "Janitor Cart",
+          "Microfiber Cloth",
+          "Plastic Pail",
+          "Oil Paper"
+        ],
+        "productAlias": [
+          "Cleaning handle",
+          "Wringer device",
+          "Cleaning bucket",
+          "Dust collector",
+          "Cleaning cart"
+        ],
+        "productSuperordinate": [
+          "Wood",
+          "Plastic resin",
+          "Microfiber material",
+          "Paper pulp",
+          "Metal"
+        ],
+        "productDownstream": [
+          "Household cleaning",
+          "Office cleaning",
+          "Hotel cleaning",
+          "School cleaning",
+          "Factory cleaning"
+        ]
+      }
+    ]
+  },
+  "fee": {
+    "apiCost": 150,
+    "accountBalance": 69040,
+    "uuid": "fc66dd08-24b2-4658-a117-3ed68e7f5b75"
+  }
+}

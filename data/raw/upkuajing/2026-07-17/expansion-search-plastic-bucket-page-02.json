@@ -1,0 +1,530 @@
+{
+  "code": 0,
+  "msg": "success",
+  "data": {
+    "cursor": "eyJjb21wYW55X2lkIjo3MTQzMTQ2Mn0=",
+    "list": [
+      {
+        "companyId": 71417687,
+        "companyType": 2,
+        "name": "HAI-WIND WORLDWIDE INC",
+        "countryCode": "US",
+        "tradeTotal": 72151,
+        "scope": "",
+        "address": "Monterey Park, California",
+        "tradeMatchTotal": 39,
+        "tradeMatchPercent": 0.05,
+        "latestTradeDate": 1775577600000,
+        "productDesc": "WIPING PAPER;MICROFIBER TOWEL;WRINGER BUCKET; PLASTIC CUPS;PL",
+        "productTags": [],
+        "productNames": [],
+        "productAlias": [],
+        "productSuperordinate": [],
+        "productDownstream": []
+      },
+      {
+        "companyId": 71417741,
+        "companyType": 2,
+        "name": "HAILY TRADING INC",
+        "countryCode": "US",
+        "tradeTotal": 1127,
+        "scope": "",
+        "address": "Covina, California",
+        "tradeMatchTotal": 7,
+        "tradeMatchPercent": 0.62,
+        "latestTradeDate": 1762358400000,
+        "productDesc": "PLASTIC BUCKET",
+        "productTags": [],
+        "productNames": [],
+        "productAlias": [],
+        "productSuperordinate": [],
+        "productDownstream": []
+      },
+      {
+        "companyId": 71431179,
+        "companyType": 2,
+        "name": "JIUFANG E-COMMERCE LOGISTICS INC.",
+        "countryCode": "US",
+        "tradeTotal": 10400,
+        "scope": "",
+        "address": "Irwindale, California",
+        "tradeMatchTotal": 5,
+        "tradeMatchPercent": 0.05,
+        "latestTradeDate": 1783440000000,
+        "productDesc": "PLASTIC BUCKET BATH BRUSH PLASTIC BUCKET BATH BRUSH VACUUM CUP WALL SCONCE THE VACUUM PUMP THE TV STANDS CEILING FAN WITH LIGHT ...",
+        "productTags": [],
+        "productNames": [],
+        "productAlias": [],
+        "productSuperordinate": [],
+        "productDownstream": []
+      },
+      {
+        "companyId": 71430344,
+        "companyType": 2,
+        "name": "JAS FORWARDING (USA) INC",
+        "countryCode": "US",
+        "tradeTotal": 60170,
+        "scope": "",
+        "address": "Wood Dale, Illinois",
+        "tradeMatchTotal": 4,
+        "tradeMatchPercent": 0.01,
+        "latestTradeDate": 1754841600000,
+        "productDesc": "CONSTRUCTION BRACKET SUPPORT PLASTIC BUCKET",
+        "productTags": [],
+        "productNames": [],
+        "productAlias": [],
+        "productSuperordinate": [],
+        "productDownstream": []
+      },
+      {
+        "companyId": 71417742,
+        "companyType": 2,
+        "name": "HAILYWOO INC",
+        "countryCode": "CO",
+        "tradeTotal": 1126,
+        "scope": "",
+        "address": "Elisabeth, Colombia",
+        "tradeMatchTotal": 3,
+        "tradeMatchPercent": 0.27,
+        "latestTradeDate": 1744300800000,
+        "productDesc": "STORAGE BUCKET PLASTIC JAR",
+        "productTags": [],
+        "productNames": [],
+        "productAlias": [],
+        "productSuperordinate": [],
+        "productDownstream": []
+      },
+      {
+        "companyId": 71420309,
+        "companyType": 2,
+        "name": "HELLMANN WORLDWIDE LOGISTICS INC.",
+        "countryCode": "US",
+        "tradeTotal": 57229,
+        "scope": "",
+        "address": "Schiller Park, Illinois",
+        "tradeMatchTotal": 3,
+        "tradeMatchPercent": 0.01,
+        "latestTradeDate": 1775318400000,
+        "productDesc": "PLASTIC BUCKET PHOTO FRAME PLASTIC BUCKET PHOTO FRAME CEL CONFETTI WOODEN DECORATION(DESKTOP ORNAMENT, SHADOWBOX,ETC) S/C RASNCD",
+        "productTags": [],
+        "productNames": [],
+        "productAlias": [],
+        "productSuperordinate": [],
+        "productDownstream": []
+      },
+      {
+        "companyId": 71424999,
+        "companyType": 2,
+        "name": "IKEA SUPPLY AG",
+        "countryCode": "US",
+        "tradeTotal": 830540,
+        "scope": "",
+        "address": "Lebec, California",
+        "tradeMatchTotal": 2,
+        "tradeMatchPercent": 0.0,
+        "latestTradeDate": 1774886400000,
+        "productDesc": "IKEA HOME FURNISHINGPRODUCTS,NOJIG BOX XX NOJIG BOX XX PLASTIC/BEIGE PEPPRIG BUCKET SET W LID SGREY/BLUE LILLNAGGEN SQUEEGEE VES...",
+        "productTags": [],
+        "productNames": [],
+        "productAlias": [],
+        "productSuperordinate": [],
+        "productDownstream": []
+      },
+      {
+        "companyId": 71427319,
+        "companyType": 2,
+        "name": "INTERNATIONAL TOUCH CONSOLIDATOR IN",
+        "countryCode": "JM",
+        "tradeTotal": 2850,
+        "scope": "",
+        "address": "Jamaica, New York",
+        "tradeMatchTotal": 2,
+        "tradeMatchPercent": 0.07,
+        "latestTradeDate": 1773504000000,
+        "productDesc": "FILMS PLASTIC BUCKET",
+        "productTags": [],
+        "productNames": [],
+        "productAlias": [],
+        "productSuperordinate": [],
+        "productDownstream": []
+      },
+      {
+        "companyId": 71431137,
+        "companyType": 2,
+        "name": "JINTONG TRANSPORTATION INC",
+        "countryCode": "US",
+        "tradeTotal": 4283,
+        "scope": "",
+        "address": "El Monte, California",
+        "tradeMatchTotal": 2,
+        "tradeMatchPercent": 0.05,
+        "latestTradeDate": 1772726400000,
+        "productDesc": "PLASTIC BUCKET PLASTIC BUCKET HS CODE PLASTIC CUP HS CODE THIS SHIPMENT CONTAIN NO SOLID WOODEN PACKAGE. @ TEL - FAX -",
+        "productTags": [],
+        "productNames": [],
+        "productAlias": [],
+        "productSuperordinate": [],
+        "productDownstream": []
+      },
+      {
+        "companyId": 71420110,
+        "companyType": 2,
+        "name": "HECNY TRANSPORTATION, INC.",
+        "countryCode": "US",
+        "tradeTotal": 186913,
+        "scope": "",
+        "address": "Carson, California",
+        "tradeMatchTotal": 1,
+        "tradeMatchPercent": 0.0,
+        "latestTradeDate": 1721664000000,
+        "productDesc": "HOOK PLASTIC CABLE TIES CHRI STMAS BALL DOOR MAT PLASTIC BUCKET PIPE PLIER SCAC CODE: HYSL S/C:299079210",
+        "productTags": [
+          "Hook",
+          "Plastic",
+          "Cable ties",
+          "Christmas ball",
+          "Door mat",
+          "Plastic bucket",
+          "Pipe",
+          "Plier"
+        ],
+        "productNames": [
+          "Hook",
+          "Plastic cable ties",
+          "Christmas ball",
+          "Door mat",
+          "Plastic bucket",
+          "Pipe",
+          "Plier"
+        ],
+        "productAlias": [
+          "Hanger",
+          "Plastic ties",
+          "Holiday ball",
+          "Floor mat",
+          "Plastic container"
+        ],
+        "productSuperordinate": [
+          "Steel",
+          "Plastic resin",
+          "Fabric",
+          "Glass",
+          "Rubber"
+        ],
+        "productDownstream": [
+          "Home decoration",
+          "Electrical installation",
+          "Household use",
+          "Construction",
+          "DIY projects"
+        ]
+      },
+      {
+        "companyId": 71421323,
+        "companyType": 2,
+        "name": "HINGTAT INTERNATIONAL TRADING INC",
+        "countryCode": "US",
+        "tradeTotal": 802,
+        "scope": "",
+        "address": "Irvine, California",
+        "tradeMatchTotal": 1,
+        "tradeMatchPercent": 0.12,
+        "latestTradeDate": 1738771200000,
+        "productDesc": "PLASTIC CONTAINER",
+        "productTags": [
+          "Plastic",
+          "Container"
+        ],
+        "productNames": [
+          "Plastic container"
+        ],
+        "productAlias": [
+          "Plastic box",
+          "Plastic case",
+          "Plastic bin",
+          "Plastic jar",
+          "Plastic bucket"
+        ],
+        "productSuperordinate": [
+          "Plastic resin",
+          "Polyethylene",
+          "Polypropylene",
+          "PVC",
+          "PET"
+        ],
+        "productDownstream": [
+          "Food storage",
+          "Cosmetic packaging",
+          "Industrial storage",
+          "Stationery storage",
+          "Tool storage"
+        ]
+      },
+      {
+        "companyId": 71422960,
+        "companyType": 2,
+        "name": "HOYA INTERNATIONAL CORP.",
+        "countryCode": "US",
+        "tradeTotal": 6932,
+        "scope": "",
+        "address": "South El Monte, California",
+        "tradeMatchTotal": 1,
+        "tradeMatchPercent": 0.01,
+        "latestTradeDate": 1738512000000,
+        "productDesc": "STORAGE CABINET PLASTIC BUCKET BOTTLE THE SH IPMENT CONTAINS NO SOLID WOOD PACKING MATERIA LS",
+        "productTags": [
+          "Storage",
+          "Cabinet",
+          "Plastic",
+          "Bucket",
+          "Bottle"
+        ],
+        "productNames": [
+          "Storage Cabinet",
+          "Plastic Bucket",
+          "Bottle"
+        ],
+        "productAlias": [
+          "Storage Box",
+          "Plastic Bin",
+          "Jug",
+          "Container",
+          "Storage Shelf"
+        ],
+        "productSuperordinate": [
+          "Plastic Resin",
+          "Petroleum",
+          "Chemical Additives",
+          "Colorants",
+          "Fillers"
+        ],
+        "productDownstream": [
+          "Home Storage",
+          "Office Storage",
+          "Warehouse Storage",
+          "Food Storage",
+          "Liquid Storage"
+        ]
+      },
+      {
+        "companyId": 71423220,
+        "companyType": 2,
+        "name": "HOW TON TRADING YONG KANG LTD",
+        "countryCode": "US",
+        "tradeTotal": 268,
+        "scope": "",
+        "address": "Moreno Valley, California",
+        "tradeMatchTotal": 1,
+        "tradeMatchPercent": 0.37,
+        "latestTradeDate": 1776355200000,
+        "productDesc": "PLASTIC MOP BUCKET/STAINLESS STEEL CUP",
+        "productTags": [],
+        "productNames": [],
+        "productAlias": [],
+        "productSuperordinate": [],
+        "productDownstream": []
+      },
+      {
+        "companyId": 71425297,
+        "companyType": 2,
+        "name": "IMPECCABLE LOGISTICS SERVICE",
+        "countryCode": "US",
+        "tradeTotal": 5171,
+        "scope": "",
+        "address": "Garden City, New York",
+        "tradeMatchTotal": 1,
+        "tradeMatchPercent": 0.02,
+        "latestTradeDate": 1773676800000,
+        "productDesc": "PLASTIC BUCKET THIS SHIPMENT HAS NO SOLID WOO D MATERIAL PACK",
+        "productTags": [],
+        "productNames": [],
+        "productAlias": [],
+        "productSuperordinate": [],
+        "productDownstream": []
+      },
+      {
+        "companyId": 71425311,
+        "companyType": 2,
+        "name": "IMPERIAL DISTRIBUTORS INC.",
+        "countryCode": "US",
+        "tradeTotal": 819,
+        "scope": "",
+        "address": "Blackstone, Massachusetts",
+        "tradeMatchTotal": 1,
+        "tradeMatchPercent": 0.12,
+        "latestTradeDate": 1742486400000,
+        "productDesc": "PLASTIC BUCKET",
+        "productTags": [
+          "Plastic",
+          "Bucket"
+        ],
+        "productNames": [
+          "Plastic bucket"
+        ],
+        "productAlias": [
+          "Plastic pail",
+          "Plastic container",
+          "Plastic tub",
+          "Plastic bin",
+          "Plastic can"
+        ],
+        "productSuperordinate": [
+          "Plastic resin",
+          "Petrochemicals",
+          "Polymer",
+          "Additives",
+          "Plastic granules"
+        ],
+        "productDownstream": [
+          "Home storage",
+          "Industrial storage",
+          "Agricultural use",
+          "Construction use",
+          "Cleaning supplies"
+        ]
+      },
+      {
+        "companyId": 71426975,
+        "companyType": 2,
+        "name": "INTERNATIONAL FLAVORS & FRAGRANCES",
+        "countryCode": "US",
+        "tradeTotal": 3547,
+        "scope": "",
+        "address": "Dayton, New Jersey",
+        "tradeMatchTotal": 1,
+        "tradeMatchPercent": 0.03,
+        "latestTradeDate": 1741017600000,
+        "productDesc": "2 PJR 01 PALLET CONTAINING02 PLASTIC JERRICAN WITH FRAG LIQ TANGERINE DIST WATER WHITEBATCH : 0016938902PO: 4504583853UN1993 - C...",
+        "productTags": [
+          "Plastic",
+          "Jerrican",
+          "Liquid"
+        ],
+        "productNames": [
+          "Plastic Jerrican"
+        ],
+        "productAlias": [
+          "Plastic can",
+          "Plastic bucket",
+          "Plastic container",
+          "Plastic drum",
+          "Plastic vessel"
+        ],
+        "productSuperordinate": [
+          "Plastic resin",
+          "Petrochemicals",
+          "Additives",
+          "Colorants",
+          "Stabilizers"
+        ],
+        "productDownstream": [
+          "Chemical industry",
+          "Food industry",
+          "Pharmaceutical industry",
+          "Cosmetics industry",
+          "Agriculture"
+        ]
+      },
+      {
+        "companyId": 71428160,
+        "companyType": 2,
+        "name": "IWIN GROUP CORP",
+        "countryCode": "US",
+        "tradeTotal": 3877,
+        "scope": "",
+        "address": "La Mirada, California",
+        "tradeMatchTotal": 1,
+        "tradeMatchPercent": 0.03,
+        "latestTradeDate": 1778342400000,
+        "productDesc": "PLASTIC BUCKET THIS SHIPMENT CONTAINS NO SOLID WOOD PACKING MATERIAL",
+        "productTags": [],
+        "productNames": [],
+        "productAlias": [],
+        "productSuperordinate": [],
+        "productDownstream": []
+      },
+      {
+        "companyId": 71429753,
+        "companyType": 2,
+        "name": "JD LOGISTICS UNITED STATES COMPANY",
+        "countryCode": "MT",
+        "tradeTotal": 2802,
+        "scope": "",
+        "address": "Fontana, California",
+        "tradeMatchTotal": 1,
+        "tradeMatchPercent": 0.04,
+        "latestTradeDate": 1752768000000,
+        "productDesc": "PLASTIC BASIN",
+        "productTags": [
+          "Plastic",
+          "Basin"
+        ],
+        "productNames": [
+          "Plastic basin"
+        ],
+        "productAlias": [
+          "Plastic tub",
+          "Plastic bucket",
+          "Plastic container",
+          "Plastic receptacle",
+          "Plastic vessel"
+        ],
+        "productSuperordinate": [
+          "Plastic resin",
+          "Polymer",
+          "Petrochemicals",
+          "Plastic granules",
+          "Plastic raw materials"
+        ],
+        "productDownstream": [
+          "Household cleaning",
+          "Kitchenware",
+          "Bathroom supplies",
+          "Gardening",
+          "Industrial storage"
+        ]
+      },
+      {
+        "companyId": 71431415,
+        "companyType": 2,
+        "name": "JOE FRESH GROUP INC",
+        "countryCode": "US",
+        "tradeTotal": 923,
+        "scope": "",
+        "address": "Utah",
+        "tradeMatchTotal": 1,
+        "tradeMatchPercent": 0.11,
+        "latestTradeDate": 1757779200000,
+        "productDesc": "PLASTIC FOLDING BUCKET",
+        "productTags": [],
+        "productNames": [],
+        "productAlias": [],
+        "productSuperordinate": [],
+        "productDownstream": []
+      },
+      {
+        "companyId": 71431462,
+        "companyType": 2,
+        "name": "JKMY LOGISTICS LLC",
+        "countryCode": "US",
+        "tradeTotal": 3854,
+        "scope": "",
+        "address": "East Brunswick, New Jersey",
+        "tradeMatchTotal": 1,
+        "tradeMatchPercent": 0.03,
+        "latestTradeDate": 1767888000000,
+        "productDesc": "PLASTIC BUCKET BULLETS B SCAC CODE(NFIF) FREIGHT PREPAID DISTRICT,NINGBO, CHINA NINGBO,",
+        "productTags": [],
+        "productNames": [],
+        "productAlias": [],
+        "productSuperordinate": [],
+        "productDownstream": []
+      }
+    ]
+  },
+  "fee": {
+    "apiCost": 150,
+    "accountBalance": 69490,
+    "uuid": "2b9eb2b1-8361-49af-bf89-1f63f7291a37"
+  }
+}
