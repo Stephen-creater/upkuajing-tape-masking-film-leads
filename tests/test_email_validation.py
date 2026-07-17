@@ -43,6 +43,23 @@ class EmailValidationTests(unittest.TestCase):
         self.assertEqual(master["companies"][0]["email_statuses"], "a@example.com:2; b@example.com:1")
         self.assertEqual(counts, {"valid": 1, "invalid": 1, "unknown": 0, "unchecked": 0})
 
+    def test_apply_response_keeps_website_email_in_shared_ledger(self):
+        master = {
+            "companies": [
+                {
+                    "emails": "api@example.com",
+                    "website_emails": "official@example.com",
+                    "email_statuses": "api@example.com:2; official@example.com:1",
+                }
+            ]
+        }
+        counts = apply_response(master, {"data": {"list": []}})
+        self.assertEqual(
+            master["companies"][0]["email_statuses"],
+            "api@example.com:2; official@example.com:1",
+        )
+        self.assertEqual(counts, {"valid": 1, "invalid": 1, "unknown": 0, "unchecked": 0})
+
 
 if __name__ == "__main__":
     unittest.main()

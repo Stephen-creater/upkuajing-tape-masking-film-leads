@@ -74,10 +74,10 @@ def apply_results(master: dict[str, Any], plan: dict[str, Any], response: dict[s
         row["email_statuses"] = join_values(
             split_values(row.get("email_statuses", "")), [f"{email}:{status}"]
         )
+        row["website_emails"] = join_values(
+            split_values(row.get("website_emails", "")), [email]
+        )
         if status == 1:
-            row["website_emails"] = join_values(
-                split_values(row.get("website_emails", "")), [email]
-            )
             row["email_validation_summary"] = "有有效邮箱"
             row["research_status"] = "官网/权威来源补充有效邮箱"
         elif status == 3 and "有有效邮箱" not in row.get("email_validation_summary", ""):

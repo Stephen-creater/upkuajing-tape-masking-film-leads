@@ -47,7 +47,13 @@ def unchecked_emails(master: dict[str, Any]) -> list[str]:
     values: list[str] = []
     for company in master["companies"]:
         statuses = parse_statuses(company.get("email_statuses", ""))
-        for email in split_values(company.get("emails", "")):
+        all_emails = list(
+            dict.fromkeys(
+                split_values(company.get("emails", ""))
+                + split_values(company.get("website_emails", ""))
+            )
+        )
+        for email in all_emails:
             if statuses.get(email.casefold(), 0) == 0:
                 values.append(email)
     return list(dict.fromkeys(values))
@@ -88,7 +94,13 @@ def apply_response(master: dict[str, Any], response: dict[str, Any]) -> dict[str
         existing = parse_statuses(company.get("email_statuses", ""))
         reasons: list[str] = split_values(company.get("email_validation_reasons", ""))
         rendered: list[str] = []
-        for email in split_values(company.get("emails", "")):
+        all_emails = list(
+            dict.fromkeys(
+                split_values(company.get("emails", ""))
+                + split_values(company.get("website_emails", ""))
+            )
+        )
+        for email in all_emails:
             result = results.get(email.casefold())
             status = result["status"] if result else existing.get(email.casefold(), 0)
             rendered.append(f"{email}:{status}")
