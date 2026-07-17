@@ -1,0 +1,825 @@
+{
+  "code": 0,
+  "msg": "success",
+  "data": {
+    "list": [
+      {
+        "companyId": 30914676,
+        "contact_data": {
+          "emails": [
+            {
+              "val": "7.asesor@euromobilia.com",
+              "is_valid": 0,
+              "reason": ""
+            },
+            {
+              "val": "asesor@euromobilia.com",
+              "is_valid": 1,
+              "reason": ""
+            },
+            {
+              "val": "euromobilia@euromobilia.com",
+              "is_valid": 1,
+              "reason": ""
+            },
+            {
+              "val": "mercadeo@euromobilia.com",
+              "is_valid": 1,
+              "reason": ""
+            }
+          ],
+          "phones": [],
+          "socials": [
+            {
+              "val": "https://www.facebook.com/euromobilialatam",
+              "social_url": "euromobilialatam",
+              "social_type": "facebook",
+              "is_valid": null,
+              "reason": null
+            },
+            {
+              "val": "https://www.instagram.com/euromobilia.latam",
+              "social_url": "euromobilia.latam",
+              "social_type": "instagram",
+              "is_valid": null,
+              "reason": null
+            },
+            {
+              "val": "https://www.linkedin.com/company/euromobilia",
+              "social_url": "company/euromobilia",
+              "social_type": "linkedin",
+              "is_valid": null,
+              "reason": null
+            }
+          ],
+          "websites": [
+            {
+              "val": "http://www.euromobilia.com",
+              "is_valid": 0,
+              "is_sensitive": null,
+              "reason": null
+            }
+          ]
+        }
+      },
+      {
+        "companyId": 94644,
+        "contact_data": {
+          "emails": [
+            {
+              "val": "bhawani@lucastvs.co.in",
+              "is_valid": 1,
+              "reason": ""
+            }
+          ],
+          "phones": [
+            {
+              "val": "914426258211",
+              "is_valid": 1,
+              "is_ws": 2,
+              "phone_type": 1,
+              "country_code": "91",
+              "dialing_code": null,
+              "area_code": "",
+              "telephone": "4426258211",
+              "national_number": "044 2625 8211",
+              "international_number": "+91 44 2625 8211"
+            }
+          ],
+          "socials": [],
+          "websites": [
+            {
+              "val": "http://www.lucas-tvs.com/",
+              "is_valid": 0,
+              "is_sensitive": null,
+              "reason": null
+            }
+          ]
+        }
+      },
+      {
+        "companyId": 456996,
+        "contact_data": {
+          "emails": [
+            {
+              "val": "quochungscale@hcm.vnn.vn",
+              "is_valid": 1,
+              "reason": ""
+            }
+          ],
+          "phones": [],
+          "socials": [],
+          "websites": [
+            {
+              "val": "http://www.quochung-scale.vn",
+              "is_valid": 0,
+              "is_sensitive": null,
+              "reason": null
+            }
+          ]
+        }
+      },
+      {
+        "companyId": 4415040,
+        "contact_data": {
+          "emails": [
+            {
+              "val": "info@yamazenvn.com",
+              "is_valid": 2,
+              "reason": ""
+            }
+          ],
+          "phones": [],
+          "socials": [],
+          "websites": [
+            {
+              "val": "http://www.yamazenvn.com",
+              "is_valid": 0,
+              "is_sensitive": null,
+              "reason": null
+            }
+          ]
+        }
+      },
+      {
+        "companyId": 188428,
+        "contact_data": {
+          "emails": [
+            {
+              "val": "kythuatviethan@gmail.com",
+              "is_valid": 1,
+              "reason": ""
+            }
+          ],
+          "phones": [],
+          "socials": [],
+          "websites": []
+        }
+      },
+      {
+        "companyId": 66884,
+        "contact_data": {
+          "emails": [
+            {
+              "val": "info@globalvinyl.lk",
+              "is_valid": 1,
+              "reason": ""
+            }
+          ],
+          "phones": [],
+          "socials": [],
+          "websites": [
+            {
+              "val": "http://www.globalvinyl.lk/",
+              "is_valid": 0,
+              "is_sensitive": null,
+              "reason": null
+            }
+          ]
+        }
+      },
+      {
+        "companyId": 20406552,
+        "contact_data": {
+          "emails": [
+            {
+              "val": "info.in@kaercher.com",
+              "is_valid": 1,
+              "reason": ""
+            },
+            {
+              "val": "service.in@kaercher.com",
+              "is_valid": 1,
+              "reason": ""
+            },
+            {
+              "val": "service.in@karcher.com",
+              "is_valid": 1,
+              "reason": ""
+            },
+            {
+              "val": "sumit.kumar@in.kaercher.com",
+              "is_valid": 0,
+              "reason": ""
+            }
+          ],
+          "phones": [],
+          "socials": [
+            {
+              "val": "https://www.facebook.com/KaercherIndia",
+              "social_url": "KaercherIndia",
+              "social_type": "facebook",
+              "is_valid": null,
+              "reason": null
+            },
+            {
+              "val": "https://www.facebook.com/Karcher-India-633428713389440",
+              "social_url": "Karcher-India-633428713389440",
+              "social_type": "facebook",
+              "is_valid": null,
+              "reason": null
+            },
+            {
+              "val": "https://www.instagram.com/karcherindiaofficial",
+              "social_url": "karcherindiaofficial",
+              "social_type": "instagram",
+              "is_valid": null,
+              "reason": null
+            },
+            {
+              "val": "https://www.linkedin.com/company/karcher-india",
+              "social_url": "company/karcher-india",
+              "social_type": "linkedin",
+              "is_valid": null,
+              "reason": null
+            },
+            {
+              "val": "https://www.linkedin.com/company/karcherindia",
+              "social_url": "company/karcherindia",
+              "social_type": "linkedin",
+              "is_valid": null,
+              "reason": null
+            },
+            {
+              "val": "https://twitter.com/KaercherIndia",
+              "social_url": "KaercherIndia",
+              "social_type": "twitter",
+              "is_valid": null,
+              "reason": null
+            },
+            {
+              "val": "https://www.youtube.com/@karcherindia4237",
+              "social_url": "@karcherindia4237",
+              "social_type": "youtube",
+              "is_valid": null,
+              "reason": null
+            },
+            {
+              "val": "https://www.youtube.com/channel/UCkYU8BuORw2WhRP9oaTMfHw",
+              "social_url": "channel/UCkYU8BuORw2WhRP9oaTMfHw",
+              "social_type": "youtube",
+              "is_valid": null,
+              "reason": null
+            }
+          ],
+          "websites": [
+            {
+              "val": "www.karcher.in",
+              "is_valid": 0,
+              "is_sensitive": null,
+              "reason": null
+            }
+          ]
+        }
+      },
+      {
+        "companyId": 461378,
+        "contact_data": {
+          "emails": [
+            {
+              "val": "cambodia@pebsteel.com",
+              "is_valid": 1,
+              "reason": ""
+            },
+            {
+              "val": "marketing@pebsteel.com",
+              "is_valid": 1,
+              "reason": ""
+            },
+            {
+              "val": "pebm@pebsteel.com",
+              "is_valid": 1,
+              "reason": ""
+            },
+            {
+              "val": "rinaldi-rusli@pebsteel.com",
+              "is_valid": 1,
+              "reason": ""
+            },
+            {
+              "val": "sales.myanmar@pebsteel.com",
+              "is_valid": 1,
+              "reason": ""
+            },
+            {
+              "val": "thaisales@pebsteel.com",
+              "is_valid": 1,
+              "reason": ""
+            }
+          ],
+          "phones": [
+            {
+              "val": "849088",
+              "is_valid": 2,
+              "is_ws": 2,
+              "phone_type": 0,
+              "country_code": "84",
+              "dialing_code": null,
+              "area_code": "",
+              "telephone": "",
+              "national_number": "",
+              "international_number": ""
+            },
+            {
+              "val": "84908883531",
+              "is_valid": 1,
+              "is_ws": 1,
+              "phone_type": 2,
+              "country_code": "84",
+              "dialing_code": null,
+              "area_code": "",
+              "telephone": "908883531",
+              "national_number": "0908 883 531",
+              "international_number": "+84 908 883 531"
+            }
+          ],
+          "socials": [
+            {
+              "val": "https://www.facebook.com/PEBSteelBuildings.vn",
+              "social_url": "PEBSteelBuildings.vn",
+              "social_type": "facebook",
+              "is_valid": null,
+              "reason": null
+            },
+            {
+              "val": "https://www.linkedin.com/company/pebsteel/posts",
+              "social_url": "company/pebsteel/posts",
+              "social_type": "linkedin",
+              "is_valid": null,
+              "reason": null
+            },
+            {
+              "val": "https://www.youtube.com/PEBSteelBuildingsOfficial",
+              "social_url": "PEBSteelBuildingsOfficial",
+              "social_type": "youtube",
+              "is_valid": null,
+              "reason": null
+            }
+          ],
+          "websites": [
+            {
+              "val": "http://www.pebsteel.com",
+              "is_valid": 0,
+              "is_sensitive": null,
+              "reason": null
+            }
+          ]
+        }
+      },
+      {
+        "companyId": 27401,
+        "contact_data": {
+          "emails": [
+            {
+              "val": "servicioaclientes@austromex.com.mx",
+              "is_valid": 1,
+              "reason": ""
+            }
+          ],
+          "phones": [
+            {
+              "val": "525555571966",
+              "is_valid": 1,
+              "is_ws": 2,
+              "phone_type": 3,
+              "country_code": "52",
+              "dialing_code": null,
+              "area_code": "",
+              "telephone": "5555571966",
+              "national_number": "55 5557 1966",
+              "international_number": "+52 55 5557 1966"
+            }
+          ],
+          "socials": [],
+          "websites": [
+            {
+              "val": "http://www.austromex.com.mx/",
+              "is_valid": 0,
+              "is_sensitive": null,
+              "reason": null
+            }
+          ]
+        }
+      },
+      {
+        "companyId": 296473,
+        "contact_data": {
+          "emails": [
+            {
+              "val": "esimons@hopsa.com",
+              "is_valid": 0,
+              "reason": ""
+            },
+            {
+              "val": "info@hopsa.com",
+              "is_valid": 1,
+              "reason": ""
+            },
+            {
+              "val": "ventas24diciembre@hopsa.com",
+              "is_valid": 1,
+              "reason": ""
+            }
+          ],
+          "phones": [],
+          "socials": [],
+          "websites": [
+            {
+              "val": "http://www.hopsa.com",
+              "is_valid": 0,
+              "is_sensitive": null,
+              "reason": null
+            }
+          ]
+        }
+      },
+      {
+        "companyId": 379750,
+        "contact_data": {
+          "emails": [
+            {
+              "val": "az@cocoandmore.com",
+              "is_valid": 1,
+              "reason": ""
+            }
+          ],
+          "phones": [],
+          "socials": [],
+          "websites": []
+        }
+      },
+      {
+        "companyId": 28415649,
+        "contact_data": {
+          "emails": [
+            {
+              "val": "ventas@grupomadeira.com",
+              "is_valid": 0,
+              "reason": ""
+            }
+          ],
+          "phones": [
+            {
+              "val": "528717938017",
+              "is_valid": 1,
+              "is_ws": 2,
+              "phone_type": 3,
+              "country_code": "52",
+              "dialing_code": null,
+              "area_code": "",
+              "telephone": "8717938017",
+              "national_number": "871 793 8017",
+              "international_number": "+52 871 793 8017"
+            },
+            {
+              "val": "6188337555",
+              "is_valid": 2,
+              "is_ws": 2,
+              "phone_type": 0,
+              "country_code": "",
+              "dialing_code": null,
+              "area_code": "",
+              "telephone": "",
+              "national_number": "",
+              "international_number": ""
+            },
+            {
+              "val": "8717133501",
+              "is_valid": 2,
+              "is_ws": 2,
+              "phone_type": 0,
+              "country_code": "",
+              "dialing_code": null,
+              "area_code": "",
+              "telephone": "",
+              "national_number": "",
+              "international_number": ""
+            },
+            {
+              "val": "8717502320",
+              "is_valid": 2,
+              "is_ws": 2,
+              "phone_type": 0,
+              "country_code": "",
+              "dialing_code": null,
+              "area_code": "",
+              "telephone": "",
+              "national_number": "",
+              "international_number": ""
+            }
+          ],
+          "socials": [
+            {
+              "val": "https://www.facebook.com/Grupo-Madeira-101630524730753/?__tn__=%2Cd%2CP-R&eid=ARAAyUT2I14SdrK2qqGaSeDQKvCNklSAV6kkNCeK7WeMFJJXxc5ukfwQ1vcjq9GFTirEYrXZbd173Trr",
+              "social_url": "Grupo-Madeira-101630524730753/?__tn__=%2Cd%2CP-R&eid=ARAAyUT2I14SdrK2qqGaSeDQKvCNklSAV6kkNCeK7WeMFJJXxc5ukfwQ1vcjq9GFTirEYrXZbd173Trr",
+              "social_type": "facebook",
+              "is_valid": null,
+              "reason": null
+            },
+            {
+              "val": "https://www.facebook.com/grupomadeiramx",
+              "social_url": "grupomadeiramx",
+              "social_type": "facebook",
+              "is_valid": null,
+              "reason": null
+            },
+            {
+              "val": "https://www.instagram.com/grupo_madeira",
+              "social_url": "grupo_madeira",
+              "social_type": "instagram",
+              "is_valid": null,
+              "reason": null
+            },
+            {
+              "val": "https://www.youtube.com/channel/UCvvX2N1woEyqFVIqYE2oOAg?view_as=subscriber",
+              "social_url": "channel/UCvvX2N1woEyqFVIqYE2oOAg?view_as=subscriber",
+              "social_type": "youtube",
+              "is_valid": null,
+              "reason": null
+            }
+          ],
+          "websites": [
+            {
+              "val": "www.grupomadeira.com",
+              "is_valid": 0,
+              "is_sensitive": null,
+              "reason": null
+            }
+          ]
+        }
+      },
+      {
+        "companyId": 272249,
+        "contact_data": {
+          "emails": [
+            {
+              "val": "sdelgado@dimfer.com.pe",
+              "is_valid": 1,
+              "reason": ""
+            }
+          ],
+          "phones": [],
+          "socials": [],
+          "websites": [
+            {
+              "val": "www.dimfer.com.pe",
+              "is_valid": 0,
+              "is_sensitive": null,
+              "reason": null
+            }
+          ]
+        }
+      },
+      {
+        "companyId": 4412694,
+        "contact_data": {
+          "emails": [
+            {
+              "val": "info@trasas.com.vn",
+              "is_valid": 0,
+              "reason": ""
+            }
+          ],
+          "phones": [],
+          "socials": [],
+          "websites": [
+            {
+              "val": "http://www.trasas.com.vn",
+              "is_valid": 0,
+              "is_sensitive": null,
+              "reason": null
+            }
+          ]
+        }
+      },
+      {
+        "companyId": 304076,
+        "contact_data": {
+          "emails": [
+            {
+              "val": "admin@alitrader.net",
+              "is_valid": 0,
+              "reason": ""
+            }
+          ],
+          "phones": [
+            {
+              "val": "920514452831",
+              "is_valid": 1,
+              "is_ws": 2,
+              "phone_type": 1,
+              "country_code": "92",
+              "dialing_code": null,
+              "area_code": "051",
+              "telephone": "4452831",
+              "national_number": "(051) 4452831",
+              "international_number": "+92 51 4452831"
+            },
+            {
+              "val": "923155032644",
+              "is_valid": 1,
+              "is_ws": 2,
+              "phone_type": 2,
+              "country_code": "92",
+              "dialing_code": null,
+              "area_code": "",
+              "telephone": "3155032644",
+              "national_number": "0315 5032644",
+              "international_number": "+92 315 5032644"
+            }
+          ],
+          "socials": [],
+          "websites": [
+            {
+              "val": "http://alitrader.net/",
+              "is_valid": 0,
+              "is_sensitive": null,
+              "reason": null
+            }
+          ]
+        }
+      },
+      {
+        "companyId": 91806,
+        "contact_data": {
+          "emails": [
+            {
+              "val": "colorplas@globalpolybags.com",
+              "is_valid": 0,
+              "reason": ""
+            },
+            {
+              "val": "global@globalpolybags.com",
+              "is_valid": 1,
+              "reason": ""
+            }
+          ],
+          "phones": [
+            {
+              "val": "914562247120",
+              "is_valid": 1,
+              "is_ws": 2,
+              "phone_type": 1,
+              "country_code": "91",
+              "dialing_code": null,
+              "area_code": "",
+              "telephone": "4562247120",
+              "national_number": "04562 247 120",
+              "international_number": "+91 4562 247 120"
+            }
+          ],
+          "socials": [],
+          "websites": [
+            {
+              "val": "http://www.globalpolybags.com",
+              "is_valid": 0,
+              "is_sensitive": null,
+              "reason": null
+            }
+          ]
+        }
+      },
+      {
+        "companyId": 178632,
+        "contact_data": {
+          "emails": [
+            {
+              "val": "sales@vthco.com",
+              "is_valid": 1,
+              "reason": ""
+            }
+          ],
+          "phones": [],
+          "socials": [],
+          "websites": [
+            {
+              "val": "http://www.vthco.com",
+              "is_valid": 0,
+              "is_sensitive": null,
+              "reason": null
+            }
+          ]
+        }
+      },
+      {
+        "companyId": 4679989,
+        "contact_data": {
+          "emails": [
+            {
+              "val": "achonvta@rieder.net.py",
+              "is_valid": 0,
+              "reason": ""
+            }
+          ],
+          "phones": [
+            {
+              "val": "595021607999",
+              "is_valid": 1,
+              "is_ws": 2,
+              "phone_type": 1,
+              "country_code": "595",
+              "dialing_code": null,
+              "area_code": "021",
+              "telephone": "607 999",
+              "national_number": "(021) 607 999",
+              "international_number": "+595 21 607 999"
+            }
+          ],
+          "socials": [
+            {
+              "val": "https://www.facebook.com/mundoachon",
+              "social_url": "mundoachon",
+              "social_type": "facebook",
+              "is_valid": null,
+              "reason": null
+            },
+            {
+              "val": "https://www.linkedin.com/company/achonindustrialsa",
+              "social_url": "company/achonindustrialsa",
+              "social_type": "linkedin",
+              "is_valid": null,
+              "reason": null
+            },
+            {
+              "val": "https://twitter.com/MundoAchon",
+              "social_url": "MundoAchon",
+              "social_type": "twitter",
+              "is_valid": null,
+              "reason": null
+            }
+          ],
+          "websites": [
+            {
+              "val": "www.achon.com.py",
+              "is_valid": 0,
+              "is_sensitive": null,
+              "reason": null
+            }
+          ]
+        }
+      },
+      {
+        "companyId": 22319751,
+        "contact_data": {
+          "emails": [
+            {
+              "val": "support@mayducgiang.com.vn",
+              "is_valid": 0,
+              "reason": ""
+            }
+          ],
+          "phones": [
+            {
+              "val": "842438271344",
+              "is_valid": 1,
+              "is_ws": 2,
+              "phone_type": 1,
+              "country_code": "84",
+              "dialing_code": null,
+              "area_code": "",
+              "telephone": "2438271344",
+              "national_number": "024 3827 1344",
+              "international_number": "+84 24 3827 1344"
+            }
+          ],
+          "socials": [],
+          "websites": [
+            {
+              "val": "www.mayducgiang.com.vn",
+              "is_valid": 0,
+              "is_sensitive": null,
+              "reason": null
+            }
+          ]
+        }
+      },
+      {
+        "companyId": 457731,
+        "contact_data": {
+          "emails": [
+            {
+              "val": "sales.lienviet@univitek.com",
+              "is_valid": 0,
+              "reason": ""
+            }
+          ],
+          "phones": [],
+          "socials": [],
+          "websites": [
+            {
+              "val": "http://www.univitek.com",
+              "is_valid": 0,
+              "is_sensitive": null,
+              "reason": null
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "fee": {
+    "apiCost": 2000,
+    "accountBalance": 84890,
+    "uuid": "786899d3-c07f-4bef-a04e-0feaec166718"
+  }
+}
