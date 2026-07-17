@@ -357,35 +357,35 @@ costSheet.getRange("A1:F1").format = {
   fill: "#17365D", font: { bold: true, color: "#FFFFFF", size: 16 },
   horizontalAlignment: "center", verticalAlignment: "center",
 };
-costSheet.getRange("A3:C3").values = [["指标", "结果", "严格口径"]];
-costSheet.getRange("A4:C16").values = [
+costSheet.getRange("A3:D3").values = [["业务指标", "公司数", "计算方式", "获客成本"]];
+costSheet.getRange("A4:C6").values = [
+  ["拥有至少一种有效联系方式的公司", companiesWithAnyValidContact, `¥${projectSpend.toFixed(2)} ÷ ${companiesWithAnyValidContact}`],
+  ["拥有有效邮箱的公司", companiesWithValidEmails, `¥${projectSpend.toFixed(2)} ÷ ${companiesWithValidEmails}`],
+  ["拥有有效电话的公司", companiesWithValidPhones, `¥${projectSpend.toFixed(2)} ÷ ${companiesWithValidPhones}`],
+];
+costSheet.getRange("D4:D6").formulas = [
+  ["=ROUND($B$14/B4,2)"],
+  ["=ROUND($B$14/B5,2)"],
+  ["=ROUND($B$14/B6,2)"],
+];
+costSheet.getRange("A8:C8").values = [["覆盖与预算", "结果", "严格口径"]];
+costSheet.getRange("A9:C15").values = [
   ["公司总数", companies.length, "一行一家公司ID"],
-  ["拥有至少一种有效联系方式的公司", companiesWithAnyValidContact, "至少1个状态=1的邮箱或电话；核心总业务指标"],
-  ["拥有有效邮箱的公司", companiesWithValidEmails, "至少1个状态=1的邮箱；不按邮箱数量重复计算"],
-  ["拥有有效电话的公司", companiesWithValidPhones, "至少1个状态=1的电话；不按电话数量重复计算"],
   ["邮箱和电话都有的公司", companiesWithBoth, "同时计入邮箱公司和电话公司"],
   ["只有有效邮箱的公司", companiesWithEmailOnly, "有有效邮箱、无有效电话"],
   ["只有有效电话的公司", companiesWithPhoneOnly, "无有效邮箱、有有效电话"],
   ["两者都没有的公司", companiesWithNoValidContact, "无状态=1的邮箱，也无状态=1的电话"],
   ["OpenAPI累计费用", projectSpend, "人民币；已审计本项目全部调用"],
-  ["每家有效联系方式公司成本", null, "累计费用 ÷ 拥有至少一种有效联系方式的公司"],
-  ["每家有效邮箱公司成本", null, "累计费用 ÷ 拥有有效邮箱的公司"],
-  ["每家有效电话公司成本", null, "累计费用 ÷ 拥有有效电话的公司"],
   ["预算剩余", null, "预算上限 ¥500.00 - 累计费用"],
 ];
-costSheet.getRange("B13:B16").formulas = [
-  ["=ROUND(B12/B5,2)"],
-  ["=ROUND(B12/B6,2)"],
-  ["=ROUND(B12/B7,2)"],
-  [`=ROUND(${projectCap}-B12,2)`],
-];
-costSheet.getRange("A18:C18").values = [["邮箱技术审计", "数量", "说明"]];
-costSheet.getRange("A19:C20").values = [
+costSheet.getRange("B15").formulas = [[`=ROUND(${projectCap}-B14,2)`]];
+costSheet.getRange("A17:C17").values = [["邮箱技术审计", "数量", "说明"]];
+costSheet.getRange("A18:C19").values = [
   ["去重后的有效邮箱地址", uniqueValidEmails, "按邮箱文本跨公司去重；不是公司级业务指标"],
   ["公司—邮箱有效关联记录", validEmailAssociations, "未跨公司去重；仅供数据审计"],
 ];
-costSheet.getRange("A22:C22").values = [["费用构成", "金额（元）", "说明"]];
-costSheet.getRange("A23:C28").values = [
+costSheet.getRange("A21:C21").values = [["费用构成", "金额（元）", "说明"]];
+costSheet.getRange("A22:C27").values = [
   ["海关客户搜索", 49.50, "七类产品搜索与同义词翻页"],
   ["海关公司联系方式", 280.00, "按公司ID去重后的批量联系方式"],
   ["人物搜索", 19.50, "混合搜索1页 + 逐公司12页"],
@@ -393,27 +393,31 @@ costSheet.getRange("A23:C28").values = [
   ["邮箱验证", 3.00, "API、官网及人物新增邮箱"],
   ["电话验证", 6.60, "主批58个 + 权威来源新增8个"],
 ];
-costSheet.getRange("A30:C30").values = [["流程改进", "优先级", "执行规则"]];
-costSheet.getRange("A31:C35").values = [
+costSheet.getRange("A29:C29").values = [["流程改进", "优先级", "执行规则"]];
+costSheet.getRange("A30:C34").values = [
   ["先做法人实体去重", "P0", "公司名称+官网域名+国家归一化；重复实体复用已验证联系方式"],
   ["所有来源进入统一验证队列", "P0", "API、官网、人物邮箱增量入库后立即验证；禁止只验API字段"],
   ["人物搜索按公司逐个执行", "P0", "人工确认公司精确匹配后，每家公司最多购买1位高相关人员"],
   ["状态3/0不盲目重试", "P1", "先查官网或换人物；避免反垃圾拦截导致重复付费"],
   ["发送后用真实退信闭环", "P0", "小批量投递、记录硬退信、永久抑制无效地址；验证状态1仍非送达保证"],
 ];
-for (const range of ["A3:C3", "A18:C18", "A22:C22", "A30:C30"]) {
+for (const range of ["A3:D3", "A8:C8", "A17:C17", "A21:C21", "A29:C29"]) {
   costSheet.getRange(range).format = { fill: "#4472C4", font: { bold: true, color: "#FFFFFF" } };
 }
-costSheet.getRange("A3:C35").format.wrapText = true;
-costSheet.getRange("B4:B11").format.numberFormat = "#,##0";
-costSheet.getRange("B12:B16").format.numberFormat = '"¥"#,##0.00';
-costSheet.getRange("B19:B20").format.numberFormat = "#,##0";
-costSheet.getRange("B23:B28").format.numberFormat = '"¥"#,##0.00';
-costSheet.getRange("B4:B28").format.horizontalAlignment = "right";
-costSheet.getRange("4:16").format.rowHeight = 26;
+costSheet.getRange("A3:D34").format.wrapText = true;
+costSheet.getRange("B4:B6").format.numberFormat = '#,##0" 家"';
+costSheet.getRange("D4:D6").format.numberFormat = '"¥"#,##0.00"/家"';
+costSheet.getRange("B9:B13").format.numberFormat = "#,##0";
+costSheet.getRange("B14:B15").format.numberFormat = '"¥"#,##0.00';
+costSheet.getRange("B18:B19").format.numberFormat = "#,##0";
+costSheet.getRange("B22:B27").format.numberFormat = '"¥"#,##0.00';
+costSheet.getRange("B4:B27").format.horizontalAlignment = "right";
+costSheet.getRange("D4:D6").format.horizontalAlignment = "right";
+costSheet.getRange("4:15").format.rowHeight = 28;
 costSheet.getRange("A:A").format.columnWidth = 30;
 costSheet.getRange("B:B").format.columnWidth = 16;
-costSheet.getRange("C:C").format.columnWidth = 66;
+costSheet.getRange("C:C").format.columnWidth = 44;
+costSheet.getRange("D:D").format.columnWidth = 18;
 costSheet.freezePanes.freezeRows(3);
 
 const guideSheet = workbook.worksheets.add("字段说明");
@@ -476,10 +480,10 @@ console.log(errors.ndjson);
 
 const costCheck = await workbook.inspect({
   kind: "table",
-  range: "成本与流程!A3:C20",
+  range: "成本与流程!A3:D19",
   include: "values,formulas",
-  tableMaxRows: 20,
-  tableMaxCols: 3,
+  tableMaxRows: 19,
+  tableMaxCols: 4,
   maxChars: 5000,
 });
 console.log(costCheck.ndjson);
