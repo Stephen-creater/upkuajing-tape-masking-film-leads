@@ -1,0 +1,1270 @@
+{
+  "code": 0,
+  "msg": "success",
+  "data": {
+    "list": [
+      {
+        "companyId": 20458817,
+        "contact_data": {
+          "emails": [
+            {
+              "val": "antioquia@spltda.com",
+              "is_valid": 1,
+              "reason": ""
+            },
+            {
+              "val": "bio@spltda.com",
+              "is_valid": 1,
+              "reason": ""
+            },
+            {
+              "val": "bogota@spltda.com",
+              "is_valid": 1,
+              "reason": ""
+            },
+            {
+              "val": "coordinacion@spltda.com",
+              "is_valid": 1,
+              "reason": ""
+            },
+            {
+              "val": "distribuidores@spltda.com",
+              "is_valid": 1,
+              "reason": ""
+            },
+            {
+              "val": "microbiologia@spltda.com",
+              "is_valid": 1,
+              "reason": ""
+            },
+            {
+              "val": "regional2@spltda.com",
+              "is_valid": 1,
+              "reason": ""
+            },
+            {
+              "val": "sp@spltda.com",
+              "is_valid": 1,
+              "reason": ""
+            },
+            {
+              "val": "standard@spltda.com",
+              "is_valid": 1,
+              "reason": ""
+            },
+            {
+              "val": "ventas1@spltda.com",
+              "is_valid": 1,
+              "reason": ""
+            },
+            {
+              "val": "ventas2@spltda.com",
+              "is_valid": 1,
+              "reason": ""
+            },
+            {
+              "val": "ventas3@spltda.com",
+              "is_valid": 1,
+              "reason": ""
+            },
+            {
+              "val": "ventas5@spltda.com",
+              "is_valid": 1,
+              "reason": ""
+            },
+            {
+              "val": "ventas6@spltda.com",
+              "is_valid": 1,
+              "reason": ""
+            },
+            {
+              "val": "ventas7@spltda.com",
+              "is_valid": 1,
+              "reason": ""
+            }
+          ],
+          "phones": [
+            {
+              "val": "3013322684",
+              "is_valid": 2,
+              "is_ws": 2,
+              "phone_type": 0,
+              "country_code": "",
+              "dialing_code": null,
+              "area_code": "",
+              "telephone": "",
+              "national_number": "",
+              "international_number": ""
+            },
+            {
+              "val": "3017685580",
+              "is_valid": 2,
+              "is_ws": 2,
+              "phone_type": 0,
+              "country_code": "",
+              "dialing_code": null,
+              "area_code": "",
+              "telephone": "",
+              "national_number": "",
+              "international_number": ""
+            },
+            {
+              "val": "3017688640",
+              "is_valid": 2,
+              "is_ws": 2,
+              "phone_type": 0,
+              "country_code": "",
+              "dialing_code": null,
+              "area_code": "",
+              "telephone": "",
+              "national_number": "",
+              "international_number": ""
+            },
+            {
+              "val": "3044359895",
+              "is_valid": 2,
+              "is_ws": 2,
+              "phone_type": 0,
+              "country_code": "",
+              "dialing_code": null,
+              "area_code": "",
+              "telephone": "",
+              "national_number": "",
+              "international_number": ""
+            },
+            {
+              "val": "3044359899",
+              "is_valid": 2,
+              "is_ws": 2,
+              "phone_type": 0,
+              "country_code": "",
+              "dialing_code": null,
+              "area_code": "",
+              "telephone": "",
+              "national_number": "",
+              "international_number": ""
+            },
+            {
+              "val": "3045685395",
+              "is_valid": 2,
+              "is_ws": 2,
+              "phone_type": 0,
+              "country_code": "",
+              "dialing_code": null,
+              "area_code": "",
+              "telephone": "",
+              "national_number": "",
+              "international_number": ""
+            },
+            {
+              "val": "3152728931",
+              "is_valid": 2,
+              "is_ws": 2,
+              "phone_type": 0,
+              "country_code": "",
+              "dialing_code": null,
+              "area_code": "",
+              "telephone": "",
+              "national_number": "",
+              "international_number": ""
+            },
+            {
+              "val": "3154088585",
+              "is_valid": 2,
+              "is_ws": 2,
+              "phone_type": 0,
+              "country_code": "",
+              "dialing_code": null,
+              "area_code": "",
+              "telephone": "",
+              "national_number": "",
+              "international_number": ""
+            },
+            {
+              "val": "3158979130",
+              "is_valid": 2,
+              "is_ws": 2,
+              "phone_type": 0,
+              "country_code": "",
+              "dialing_code": null,
+              "area_code": "",
+              "telephone": "",
+              "national_number": "",
+              "international_number": ""
+            },
+            {
+              "val": "3162211852",
+              "is_valid": 2,
+              "is_ws": 2,
+              "phone_type": 0,
+              "country_code": "",
+              "dialing_code": null,
+              "area_code": "",
+              "telephone": "",
+              "national_number": "",
+              "international_number": ""
+            },
+            {
+              "val": "3163036554",
+              "is_valid": 2,
+              "is_ws": 2,
+              "phone_type": 0,
+              "country_code": "",
+              "dialing_code": null,
+              "area_code": "",
+              "telephone": "",
+              "national_number": "",
+              "international_number": ""
+            },
+            {
+              "val": "3163477524",
+              "is_valid": 2,
+              "is_ws": 2,
+              "phone_type": 0,
+              "country_code": "",
+              "dialing_code": null,
+              "area_code": "",
+              "telephone": "",
+              "national_number": "",
+              "international_number": ""
+            },
+            {
+              "val": "3177276468",
+              "is_valid": 2,
+              "is_ws": 2,
+              "phone_type": 0,
+              "country_code": "",
+              "dialing_code": null,
+              "area_code": "",
+              "telephone": "",
+              "national_number": "",
+              "international_number": ""
+            },
+            {
+              "val": "3187129403",
+              "is_valid": 2,
+              "is_ws": 2,
+              "phone_type": 0,
+              "country_code": "",
+              "dialing_code": null,
+              "area_code": "",
+              "telephone": "",
+              "national_number": "",
+              "international_number": ""
+            },
+            {
+              "val": "5726411100",
+              "is_valid": 2,
+              "is_ws": 2,
+              "phone_type": 0,
+              "country_code": "57",
+              "dialing_code": null,
+              "area_code": "",
+              "telephone": "",
+              "national_number": "",
+              "international_number": ""
+            }
+          ],
+          "socials": [
+            {
+              "val": "https://www.facebook.com/ScientificProductsSAS",
+              "social_url": "ScientificProductsSAS",
+              "social_type": "facebook",
+              "is_valid": null,
+              "reason": null
+            },
+            {
+              "val": "https://www.instagram.com/scientificproductssas",
+              "social_url": "scientificproductssas",
+              "social_type": "instagram",
+              "is_valid": null,
+              "reason": null
+            },
+            {
+              "val": "https://www.linkedin.com/company/scientific-products-ltda/?viewAsMember=true",
+              "social_url": "company/scientific-products-ltda/?viewAsMember=true",
+              "social_type": "linkedin",
+              "is_valid": null,
+              "reason": null
+            },
+            {
+              "val": "https://twitter.com/ScientificSas",
+              "social_url": "ScientificSas",
+              "social_type": "twitter",
+              "is_valid": null,
+              "reason": null
+            },
+            {
+              "val": "https://www.youtube.com/channel/UC4EcGGUu3TmaJTDRJ0E7uCg",
+              "social_url": "channel/UC4EcGGUu3TmaJTDRJ0E7uCg",
+              "social_type": "youtube",
+              "is_valid": null,
+              "reason": null
+            }
+          ],
+          "websites": [
+            {
+              "val": "www.spltda.com",
+              "is_valid": 0,
+              "is_sensitive": null,
+              "reason": null
+            }
+          ]
+        }
+      },
+      {
+        "companyId": 20452531,
+        "contact_data": {
+          "emails": [
+            {
+              "val": "info@pharmavetperu.com",
+              "is_valid": 1,
+              "reason": ""
+            }
+          ],
+          "phones": [
+            {
+              "val": "51012430185",
+              "is_valid": 1,
+              "is_ws": 2,
+              "phone_type": 1,
+              "country_code": "51",
+              "dialing_code": null,
+              "area_code": "01",
+              "telephone": "2430185",
+              "national_number": "(01) 2430185",
+              "international_number": "+51 1 2430185"
+            },
+            {
+              "val": "51015460444",
+              "is_valid": 1,
+              "is_ws": 2,
+              "phone_type": 1,
+              "country_code": "51",
+              "dialing_code": null,
+              "area_code": "01",
+              "telephone": "5460444",
+              "national_number": "(01) 5460444",
+              "international_number": "+51 1 5460444"
+            },
+            {
+              "val": "998167035",
+              "is_valid": 2,
+              "is_ws": 2,
+              "phone_type": 0,
+              "country_code": "",
+              "dialing_code": null,
+              "area_code": "",
+              "telephone": "",
+              "national_number": "",
+              "international_number": ""
+            }
+          ],
+          "socials": [],
+          "websites": [
+            {
+              "val": "http://www.pharmavetperu.com/",
+              "is_valid": 0,
+              "is_sensitive": null,
+              "reason": null
+            }
+          ]
+        }
+      },
+      {
+        "companyId": 20455700,
+        "contact_data": {
+          "emails": [
+            {
+              "val": "info@auxpke.com",
+              "is_valid": 0,
+              "reason": ""
+            }
+          ],
+          "phones": [
+            {
+              "val": "254735253411",
+              "is_valid": 1,
+              "is_ws": 2,
+              "phone_type": 2,
+              "country_code": "254",
+              "dialing_code": null,
+              "area_code": "",
+              "telephone": "735253411",
+              "national_number": "0735 253411",
+              "international_number": "+254 735 253411"
+            }
+          ],
+          "socials": [
+            {
+              "val": "https://www.facebook.com/AutoXpressKenya/?_rdc=1&_rdr",
+              "social_url": "AutoXpressKenya/?_rdc=1&_rdr",
+              "social_type": "facebook",
+              "is_valid": null,
+              "reason": null
+            },
+            {
+              "val": "https://www.instagram.com/autoxpresskenya?igshid=1pfbomn0zw2pg",
+              "social_url": "autoxpresskenya?igshid=1pfbomn0zw2pg",
+              "social_type": "instagram",
+              "is_valid": null,
+              "reason": null
+            },
+            {
+              "val": "https://twitter.com/AutoxpressKenya?s=21",
+              "social_url": "AutoxpressKenya?s=21",
+              "social_type": "twitter",
+              "is_valid": null,
+              "reason": null
+            }
+          ],
+          "websites": [
+            {
+              "val": "www.auto-xpress.co.ke",
+              "is_valid": 0,
+              "is_sensitive": null,
+              "reason": null
+            }
+          ]
+        }
+      },
+      {
+        "companyId": 20457978,
+        "contact_data": {
+          "emails": [
+            {
+              "val": "ben.sumba@tbc.co",
+              "is_valid": 0,
+              "reason": ""
+            },
+            {
+              "val": "brian.kadima@tbc.co",
+              "is_valid": 0,
+              "reason": ""
+            },
+            {
+              "val": "customerservice@tbc.co",
+              "is_valid": 0,
+              "reason": ""
+            },
+            {
+              "val": "eunice.kamau@tbc.co",
+              "is_valid": 0,
+              "reason": ""
+            },
+            {
+              "val": "jane.kimaru@tbc.co",
+              "is_valid": 0,
+              "reason": ""
+            },
+            {
+              "val": "jane.nyokabi@tbc.co",
+              "is_valid": 0,
+              "reason": ""
+            },
+            {
+              "val": "ken.indambira@tbc.co",
+              "is_valid": 0,
+              "reason": ""
+            },
+            {
+              "val": "leonard.kihima@tbc.co",
+              "is_valid": 0,
+              "reason": ""
+            },
+            {
+              "val": "moses.ndiema@tbc.co",
+              "is_valid": 0,
+              "reason": ""
+            },
+            {
+              "val": "online.orders@tbc.co",
+              "is_valid": 0,
+              "reason": ""
+            },
+            {
+              "val": "rodgers.khaemba@tbc.co",
+              "is_valid": 0,
+              "reason": ""
+            },
+            {
+              "val": "shem.otieno@tbc.co",
+              "is_valid": 0,
+              "reason": ""
+            },
+            {
+              "val": "suresh.kumar@tbc.co",
+              "is_valid": 0,
+              "reason": ""
+            }
+          ],
+          "phones": [
+            {
+              "val": "254111011300",
+              "is_valid": 1,
+              "is_ws": 2,
+              "phone_type": 2,
+              "country_code": "254",
+              "dialing_code": null,
+              "area_code": "",
+              "telephone": "111011300",
+              "national_number": "0111 011300",
+              "international_number": "+254 111 011300"
+            },
+            {
+              "val": "254114509617",
+              "is_valid": 1,
+              "is_ws": 1,
+              "phone_type": 2,
+              "country_code": "254",
+              "dialing_code": null,
+              "area_code": "",
+              "telephone": "114509617",
+              "national_number": "0114 509617",
+              "international_number": "+254 114 509617"
+            },
+            {
+              "val": "254730735000",
+              "is_valid": 1,
+              "is_ws": 2,
+              "phone_type": 2,
+              "country_code": "254",
+              "dialing_code": null,
+              "area_code": "",
+              "telephone": "730735000",
+              "national_number": "0730 735000",
+              "international_number": "+254 730 735000"
+            },
+            {
+              "val": "254730735120",
+              "is_valid": 1,
+              "is_ws": 2,
+              "phone_type": 2,
+              "country_code": "254",
+              "dialing_code": null,
+              "area_code": "",
+              "telephone": "730735120",
+              "national_number": "0730 735120",
+              "international_number": "+254 730 735120"
+            },
+            {
+              "val": "254730735126",
+              "is_valid": 1,
+              "is_ws": 2,
+              "phone_type": 2,
+              "country_code": "254",
+              "dialing_code": null,
+              "area_code": "",
+              "telephone": "730735126",
+              "national_number": "0730 735126",
+              "international_number": "+254 730 735126"
+            },
+            {
+              "val": "254730735127",
+              "is_valid": 1,
+              "is_ws": 2,
+              "phone_type": 2,
+              "country_code": "254",
+              "dialing_code": null,
+              "area_code": "",
+              "telephone": "730735127",
+              "national_number": "0730 735127",
+              "international_number": "+254 730 735127"
+            },
+            {
+              "val": "254730735129",
+              "is_valid": 1,
+              "is_ws": 2,
+              "phone_type": 2,
+              "country_code": "254",
+              "dialing_code": null,
+              "area_code": "",
+              "telephone": "730735129",
+              "national_number": "0730 735129",
+              "international_number": "+254 730 735129"
+            },
+            {
+              "val": "254730735142",
+              "is_valid": 1,
+              "is_ws": 2,
+              "phone_type": 2,
+              "country_code": "254",
+              "dialing_code": null,
+              "area_code": "",
+              "telephone": "730735142",
+              "national_number": "0730 735142",
+              "international_number": "+254 730 735142"
+            },
+            {
+              "val": "254730735153",
+              "is_valid": 1,
+              "is_ws": 2,
+              "phone_type": 2,
+              "country_code": "254",
+              "dialing_code": null,
+              "area_code": "",
+              "telephone": "730735153",
+              "national_number": "0730 735153",
+              "international_number": "+254 730 735153"
+            },
+            {
+              "val": "254730735156",
+              "is_valid": 1,
+              "is_ws": 2,
+              "phone_type": 2,
+              "country_code": "254",
+              "dialing_code": null,
+              "area_code": "",
+              "telephone": "730735156",
+              "national_number": "0730 735156",
+              "international_number": "+254 730 735156"
+            },
+            {
+              "val": "254730735157",
+              "is_valid": 1,
+              "is_ws": 2,
+              "phone_type": 2,
+              "country_code": "254",
+              "dialing_code": null,
+              "area_code": "",
+              "telephone": "730735157",
+              "national_number": "0730 735157",
+              "international_number": "+254 730 735157"
+            },
+            {
+              "val": "254730735159",
+              "is_valid": 1,
+              "is_ws": 2,
+              "phone_type": 2,
+              "country_code": "254",
+              "dialing_code": null,
+              "area_code": "",
+              "telephone": "730735159",
+              "national_number": "0730 735159",
+              "international_number": "+254 730 735159"
+            },
+            {
+              "val": "254730735191",
+              "is_valid": 1,
+              "is_ws": 2,
+              "phone_type": 2,
+              "country_code": "254",
+              "dialing_code": null,
+              "area_code": "",
+              "telephone": "730735191",
+              "national_number": "0730 735191",
+              "international_number": "+254 730 735191"
+            },
+            {
+              "val": "254730735302",
+              "is_valid": 1,
+              "is_ws": 2,
+              "phone_type": 2,
+              "country_code": "254",
+              "dialing_code": null,
+              "area_code": "",
+              "telephone": "730735302",
+              "national_number": "0730 735302",
+              "international_number": "+254 730 735302"
+            }
+          ],
+          "socials": [
+            {
+              "val": "https://www.facebook.com/textbookcentre",
+              "social_url": "textbookcentre",
+              "social_type": "facebook",
+              "is_valid": null,
+              "reason": null
+            },
+            {
+              "val": "https://www.linkedin.com/company/text-book-centre-ltd",
+              "social_url": "company/text-book-centre-ltd",
+              "social_type": "linkedin",
+              "is_valid": null,
+              "reason": null
+            },
+            {
+              "val": "https://twitter.com/textbookcentrel",
+              "social_url": "textbookcentrel",
+              "social_type": "twitter",
+              "is_valid": null,
+              "reason": null
+            }
+          ],
+          "websites": [
+            {
+              "val": "textbookcentre.com",
+              "is_valid": 1,
+              "is_sensitive": null,
+              "reason": null
+            }
+          ]
+        }
+      },
+      {
+        "companyId": 20452743,
+        "contact_data": {
+          "emails": [
+            {
+              "val": "info@sgplindia.co",
+              "is_valid": 0,
+              "reason": ""
+            },
+            {
+              "val": "yogesh@sunglasspalace.net",
+              "is_valid": 1,
+              "reason": ""
+            }
+          ],
+          "phones": [
+            {
+              "val": "911204359711",
+              "is_valid": 1,
+              "is_ws": 2,
+              "phone_type": 1,
+              "country_code": "91",
+              "dialing_code": null,
+              "area_code": "",
+              "telephone": "1204359711",
+              "national_number": "0120 435 9711",
+              "international_number": "+91 120 435 9711"
+            }
+          ],
+          "socials": [],
+          "websites": [
+            {
+              "val": "www.sgplindia.co.in",
+              "is_valid": 0,
+              "is_sensitive": null,
+              "reason": null
+            }
+          ]
+        }
+      },
+      {
+        "companyId": 20443113,
+        "contact_data": {
+          "emails": [
+            {
+              "val": "vijay.kulkarni@clarke-energy.com",
+              "is_valid": 1,
+              "reason": ""
+            }
+          ],
+          "phones": [
+            {
+              "val": "919373408632",
+              "is_valid": 1,
+              "is_ws": 1,
+              "phone_type": 2,
+              "country_code": "91",
+              "dialing_code": null,
+              "area_code": "",
+              "telephone": "9373408632",
+              "national_number": "093734 08632",
+              "international_number": "+91 93734 08632"
+            }
+          ],
+          "socials": [
+            {
+              "val": "https://www.facebook.com/ClarkeEnergy",
+              "social_url": "ClarkeEnergy",
+              "social_type": "facebook",
+              "is_valid": null,
+              "reason": null
+            },
+            {
+              "val": "https://www.instagram.com/clarkeenergy",
+              "social_url": "clarkeenergy",
+              "social_type": "instagram",
+              "is_valid": null,
+              "reason": null
+            },
+            {
+              "val": "https://www.linkedin.com/company/clarke-energy",
+              "social_url": "company/clarke-energy",
+              "social_type": "linkedin",
+              "is_valid": null,
+              "reason": null
+            },
+            {
+              "val": "https://twitter.com/ClarkeEnergy",
+              "social_url": "ClarkeEnergy",
+              "social_type": "twitter",
+              "is_valid": null,
+              "reason": null
+            },
+            {
+              "val": "https://www.youtube.com/channel/UCk8yPGKae3FdoPVTj-X3c3A",
+              "social_url": "channel/UCk8yPGKae3FdoPVTj-X3c3A",
+              "social_type": "youtube",
+              "is_valid": null,
+              "reason": null
+            }
+          ],
+          "websites": [
+            {
+              "val": "www.clarke-energy.com",
+              "is_valid": 0,
+              "is_sensitive": null,
+              "reason": null
+            }
+          ]
+        }
+      },
+      {
+        "companyId": 20463284,
+        "contact_data": {
+          "emails": [
+            {
+              "val": "sgfl@servis.com",
+              "is_valid": 1,
+              "reason": ""
+            },
+            {
+              "val": "shareholders@servis.com",
+              "is_valid": 1,
+              "reason": ""
+            }
+          ],
+          "phones": [
+            {
+              "val": "9204235751990",
+              "is_valid": 1,
+              "is_ws": 2,
+              "phone_type": 1,
+              "country_code": "92",
+              "dialing_code": null,
+              "area_code": "042",
+              "telephone": "35751990",
+              "national_number": "(042) 35751990",
+              "international_number": "+92 42 35751990"
+            },
+            {
+              "val": "9242357519906",
+              "is_valid": 2,
+              "is_ws": 2,
+              "phone_type": 0,
+              "country_code": "92",
+              "dialing_code": null,
+              "area_code": "",
+              "telephone": "",
+              "national_number": "",
+              "international_number": ""
+            }
+          ],
+          "socials": [],
+          "websites": [
+            {
+              "val": "www.serviceglobalfootwear.com",
+              "is_valid": 0,
+              "is_sensitive": null,
+              "reason": null
+            }
+          ]
+        }
+      },
+      {
+        "companyId": 20441331,
+        "contact_data": {
+          "emails": [
+            {
+              "val": "accounts_bom@irtech.in",
+              "is_valid": 1,
+              "reason": ""
+            },
+            {
+              "val": "info@irtech.in",
+              "is_valid": 1,
+              "reason": ""
+            }
+          ],
+          "phones": [
+            {
+              "val": "02267896600",
+              "is_valid": 2,
+              "is_ws": 0,
+              "phone_type": 0,
+              "country_code": "",
+              "dialing_code": null,
+              "area_code": "",
+              "telephone": "",
+              "national_number": "",
+              "international_number": ""
+            },
+            {
+              "val": "912267896600",
+              "is_valid": 1,
+              "is_ws": 2,
+              "phone_type": 1,
+              "country_code": "91",
+              "dialing_code": null,
+              "area_code": "",
+              "telephone": "2267896600",
+              "national_number": "022 6789 6600",
+              "international_number": "+91 22 6789 6600"
+            },
+            {
+              "val": "913340361800",
+              "is_valid": 1,
+              "is_ws": 2,
+              "phone_type": 1,
+              "country_code": "91",
+              "dialing_code": null,
+              "area_code": "",
+              "telephone": "3340361800",
+              "national_number": "033 4036 1800",
+              "international_number": "+91 33 4036 1800"
+            }
+          ],
+          "socials": [
+            {
+              "val": "https://www.facebook.com/IRTechInstruments",
+              "social_url": "IRTechInstruments",
+              "social_type": "facebook",
+              "is_valid": null,
+              "reason": null
+            },
+            {
+              "val": "https://www.instagram.com/IRTechInstruments",
+              "social_url": "IRTechInstruments",
+              "social_type": "instagram",
+              "is_valid": null,
+              "reason": null
+            },
+            {
+              "val": "https://www.linkedin.com/company/irtechinstruments",
+              "social_url": "company/irtechinstruments",
+              "social_type": "linkedin",
+              "is_valid": null,
+              "reason": null
+            },
+            {
+              "val": "https://www.youtube.com/channel/UCnyw6mclIjZ5AFXaScoD9wQ",
+              "social_url": "channel/UCnyw6mclIjZ5AFXaScoD9wQ",
+              "social_type": "youtube",
+              "is_valid": null,
+              "reason": null
+            }
+          ],
+          "websites": [
+            {
+              "val": "www.irtech.in",
+              "is_valid": 0,
+              "is_sensitive": null,
+              "reason": null
+            }
+          ]
+        }
+      },
+      {
+        "companyId": 20443266,
+        "contact_data": {
+          "emails": [
+            {
+              "val": "admin@aesl.com.pk",
+              "is_valid": 1,
+              "reason": ""
+            }
+          ],
+          "phones": [
+            {
+              "val": "9202135066901",
+              "is_valid": 1,
+              "is_ws": 2,
+              "phone_type": 1,
+              "country_code": "92",
+              "dialing_code": null,
+              "area_code": "021",
+              "telephone": "35066901",
+              "national_number": "(021) 35066901",
+              "international_number": "+92 21 35066901"
+            }
+          ],
+          "socials": [
+            {
+              "val": "https://www.facebook.com/Allied-Engineering-Services-Pvt-Ltd-386518831363373/?ref=br_rs",
+              "social_url": "Allied-Engineering-Services-Pvt-Ltd-386518831363373/?ref=br_rs",
+              "social_type": "facebook",
+              "is_valid": null,
+              "reason": null
+            },
+            {
+              "val": "https://www.linkedin.com/company/alliedengineering",
+              "social_url": "company/alliedengineering",
+              "social_type": "linkedin",
+              "is_valid": null,
+              "reason": null
+            },
+            {
+              "val": "https://twitter.com/Allied_Cat",
+              "social_url": "Allied_Cat",
+              "social_type": "twitter",
+              "is_valid": null,
+              "reason": null
+            },
+            {
+              "val": "https://www.youtube.com/channel/UCc6CQuekZGRdbCqfL_ZdjCA",
+              "social_url": "channel/UCc6CQuekZGRdbCqfL_ZdjCA",
+              "social_type": "youtube",
+              "is_valid": null,
+              "reason": null
+            }
+          ],
+          "websites": [
+            {
+              "val": "www.aesl.com.pk",
+              "is_valid": 0,
+              "is_sensitive": null,
+              "reason": null
+            }
+          ]
+        }
+      },
+      {
+        "companyId": 20438416,
+        "contact_data": {
+          "emails": [
+            {
+              "val": "ajay@shindengen.co.in",
+              "is_valid": 0,
+              "reason": ""
+            },
+            {
+              "val": "astigma@astigmatic.com",
+              "is_valid": 0,
+              "reason": ""
+            },
+            {
+              "val": "info@kom.net",
+              "is_valid": 0,
+              "reason": ""
+            }
+          ],
+          "phones": [],
+          "socials": [],
+          "websites": [
+            {
+              "val": "komyoengineering.com",
+              "is_valid": 0,
+              "is_sensitive": null,
+              "reason": null
+            }
+          ]
+        }
+      },
+      {
+        "companyId": 20443723,
+        "contact_data": {
+          "emails": [
+            {
+              "val": "ibi@ibi.net",
+              "is_valid": 1,
+              "reason": ""
+            },
+            {
+              "val": "jwkim@ibi.net",
+              "is_valid": 1,
+              "reason": ""
+            },
+            {
+              "val": "reportabuse@ibi.net",
+              "is_valid": 1,
+              "reason": ""
+            }
+          ],
+          "phones": [
+            {
+              "val": "82261812114",
+              "is_valid": 1,
+              "is_ws": 2,
+              "phone_type": 1,
+              "country_code": "82",
+              "dialing_code": null,
+              "area_code": "",
+              "telephone": "261812114",
+              "national_number": "02-6181-2114",
+              "international_number": "+82 2-6181-2114"
+            }
+          ],
+          "socials": [
+            {
+              "val": "https://www.linkedin.com/company/hyosung-tns",
+              "social_url": "company/hyosung-tns",
+              "social_type": "linkedin",
+              "is_valid": null,
+              "reason": null
+            },
+            {
+              "val": "https://www.youtube.com/channel/UCo3bEHJKigql4quL_pAB6sA",
+              "social_url": "channel/UCo3bEHJKigql4quL_pAB6sA",
+              "social_type": "youtube",
+              "is_valid": null,
+              "reason": null
+            }
+          ],
+          "websites": [
+            {
+              "val": "www.hyosung-tns.co.kr",
+              "is_valid": 0,
+              "is_sensitive": null,
+              "reason": null
+            }
+          ]
+        }
+      },
+      {
+        "companyId": 20461799,
+        "contact_data": {
+          "emails": [
+            {
+              "val": "leidy.lopez@lincolnelectric.com.co",
+              "is_valid": 0,
+              "reason": ""
+            }
+          ],
+          "phones": [
+            {
+              "val": "5713648800",
+              "is_valid": 2,
+              "is_ws": 2,
+              "phone_type": 0,
+              "country_code": "57",
+              "dialing_code": null,
+              "area_code": "",
+              "telephone": "",
+              "national_number": "",
+              "international_number": ""
+            }
+          ],
+          "socials": [
+            {
+              "val": "https://www.facebook.com/LincolnElectricLatinoamerica",
+              "social_url": "LincolnElectricLatinoamerica",
+              "social_type": "facebook",
+              "is_valid": null,
+              "reason": null
+            },
+            {
+              "val": "https://www.instagram.com/accounts/login/?next=/lincolnelectriclatinoamerica",
+              "social_url": "accounts/login/?next=/lincolnelectriclatinoamerica",
+              "social_type": "instagram",
+              "is_valid": null,
+              "reason": null
+            },
+            {
+              "val": "https://www.instagram.com/lincolnelectriclatinoamerica/?hl=es-la",
+              "social_url": "lincolnelectriclatinoamerica/?hl=es-la",
+              "social_type": "instagram",
+              "is_valid": null,
+              "reason": null
+            },
+            {
+              "val": "https://www.linkedin.com/company/lincoln-electric",
+              "social_url": "company/lincoln-electric",
+              "social_type": "linkedin",
+              "is_valid": null,
+              "reason": null
+            },
+            {
+              "val": "https://www.linkedin.com/company/lincoln-electric-latinoamérica",
+              "social_url": "company/lincoln-electric-latinoamérica",
+              "social_type": "linkedin",
+              "is_valid": null,
+              "reason": null
+            },
+            {
+              "val": "https://twitter.com/LincolnElecLat",
+              "social_url": "LincolnElecLat",
+              "social_type": "twitter",
+              "is_valid": null,
+              "reason": null
+            },
+            {
+              "val": "https://www.youtube.com/channel/UCDF3JnK44P_J0GdZZYD7u5A",
+              "social_url": "channel/UCDF3JnK44P_J0GdZZYD7u5A",
+              "social_type": "youtube",
+              "is_valid": null,
+              "reason": null
+            }
+          ],
+          "websites": [
+            {
+              "val": "www.lincolnelectric.com.co",
+              "is_valid": 0,
+              "is_sensitive": null,
+              "reason": null
+            }
+          ]
+        }
+      },
+      {
+        "companyId": 20456698,
+        "contact_data": {
+          "emails": [
+            {
+              "val": "batheif@ta.cp",
+              "is_valid": 0,
+              "reason": ""
+            },
+            {
+              "val": "sales@hondapower.co",
+              "is_valid": 0,
+              "reason": ""
+            }
+          ],
+          "phones": [],
+          "socials": [],
+          "websites": [
+            {
+              "val": "ke.honda",
+              "is_valid": 0,
+              "is_sensitive": null,
+              "reason": null
+            }
+          ]
+        }
+      },
+      {
+        "companyId": 20455320,
+        "contact_data": {
+          "emails": [
+            {
+              "val": "info@axis-kenya.com",
+              "is_valid": 1,
+              "reason": ""
+            }
+          ],
+          "phones": [
+            {
+              "val": "254732775590",
+              "is_valid": 1,
+              "is_ws": 2,
+              "phone_type": 2,
+              "country_code": "254",
+              "dialing_code": null,
+              "area_code": "",
+              "telephone": "732775590",
+              "national_number": "0732 775590",
+              "international_number": "+254 732 775590"
+            }
+          ],
+          "socials": [],
+          "websites": [
+            {
+              "val": "www.globalbajaj.com/kenya",
+              "is_valid": 0,
+              "is_sensitive": null,
+              "reason": null
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "fee": {
+    "apiCost": 1400,
+    "accountBalance": 70140,
+    "uuid": "23f133be-74e7-4522-aee7-01e86462d52f"
+  }
+}
