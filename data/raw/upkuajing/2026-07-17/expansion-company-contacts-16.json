@@ -1,0 +1,433 @@
+{
+  "code": 0,
+  "msg": "success",
+  "data": {
+    "list": [
+      {
+        "companyId": 71425311,
+        "contact_data": {
+          "emails": [
+            {
+              "val": "customerservice@hoyashipping.com",
+              "is_valid": 1,
+              "reason": ""
+            }
+          ],
+          "phones": [
+            {
+              "val": "16262791268",
+              "is_valid": 1,
+              "is_ws": 2,
+              "phone_type": 3,
+              "country_code": "1",
+              "dialing_code": null,
+              "area_code": "626",
+              "telephone": "2791268",
+              "national_number": "(626) 279-1268",
+              "international_number": "+1 626-279-1268"
+            },
+            {
+              "val": "6262791268",
+              "is_valid": 2,
+              "is_ws": 2,
+              "phone_type": 0,
+              "country_code": "",
+              "dialing_code": null,
+              "area_code": "",
+              "telephone": "",
+              "national_number": "",
+              "international_number": ""
+            }
+          ],
+          "socials": [],
+          "websites": []
+        }
+      },
+      {
+        "companyId": 71423220,
+        "contact_data": {
+          "emails": [
+            {
+              "val": "harvey@ydhexpress.com",
+              "is_valid": 1,
+              "reason": ""
+            }
+          ],
+          "phones": [
+            {
+              "val": "15628325455",
+              "is_valid": 1,
+              "is_ws": 1,
+              "phone_type": 3,
+              "country_code": "1",
+              "dialing_code": null,
+              "area_code": "562",
+              "telephone": "8325455",
+              "national_number": "(562) 832-5455",
+              "international_number": "+1 562-832-5455"
+            },
+            {
+              "val": "5628325455",
+              "is_valid": 2,
+              "is_ws": 0,
+              "phone_type": 0,
+              "country_code": "",
+              "dialing_code": null,
+              "area_code": "",
+              "telephone": "",
+              "national_number": "",
+              "international_number": ""
+            }
+          ],
+          "socials": [],
+          "websites": []
+        }
+      },
+      {
+        "companyId": 229233,
+        "contact_data": {
+          "emails": [
+            {
+              "val": "sales@dollarempirellc.com",
+              "is_valid": 1,
+              "reason": ""
+            }
+          ],
+          "phones": [
+            {
+              "val": "13232688999",
+              "is_valid": 1,
+              "is_ws": 2,
+              "phone_type": 3,
+              "country_code": "1",
+              "dialing_code": null,
+              "area_code": "323",
+              "telephone": "2688999",
+              "national_number": "(323) 268-8999",
+              "international_number": "+1 323-268-8999"
+            }
+          ],
+          "socials": [],
+          "websites": [
+            {
+              "val": "www.dollarempirellc.com",
+              "is_valid": 0,
+              "is_sensitive": null,
+              "reason": null
+            }
+          ]
+        }
+      },
+      {
+        "companyId": 71425297,
+        "contact_data": {
+          "emails": [
+            {
+              "val": "op@ilsi.global",
+              "is_valid": 0,
+              "reason": ""
+            }
+          ],
+          "phones": [
+            {
+              "val": "15163232238",
+              "is_valid": 1,
+              "is_ws": 2,
+              "phone_type": 3,
+              "country_code": "1",
+              "dialing_code": null,
+              "area_code": "516",
+              "telephone": "3232238",
+              "national_number": "(516) 323-2238",
+              "international_number": "+1 516-323-2238"
+            },
+            {
+              "val": "5163232238",
+              "is_valid": 2,
+              "is_ws": 2,
+              "phone_type": 0,
+              "country_code": "",
+              "dialing_code": null,
+              "area_code": "",
+              "telephone": "",
+              "national_number": "",
+              "international_number": ""
+            },
+            {
+              "val": "5169778788",
+              "is_valid": 2,
+              "is_ws": 0,
+              "phone_type": 0,
+              "country_code": "",
+              "dialing_code": null,
+              "area_code": "",
+              "telephone": "",
+              "national_number": "",
+              "international_number": ""
+            }
+          ],
+          "socials": [],
+          "websites": []
+        }
+      },
+      {
+        "companyId": 220252,
+        "contact_data": {
+          "emails": [
+            {
+              "val": "info@homedecorfactory.com",
+              "is_valid": 0,
+              "reason": ""
+            }
+          ],
+          "phones": [
+            {
+              "val": "19099473228",
+              "is_valid": 1,
+              "is_ws": 2,
+              "phone_type": 3,
+              "country_code": "1",
+              "dialing_code": null,
+              "area_code": "909",
+              "telephone": "9473228",
+              "national_number": "(909) 947-3228",
+              "international_number": "+1 909-947-3228"
+            }
+          ],
+          "socials": [],
+          "websites": [
+            {
+              "val": "http://homedecorfactory.com",
+              "is_valid": 1,
+              "is_sensitive": null,
+              "reason": null
+            }
+          ]
+        }
+      },
+      {
+        "companyId": 256224,
+        "contact_data": {
+          "emails": [
+            {
+              "val": "hubsales@regalbeloit.com",
+              "is_valid": 1,
+              "reason": ""
+            }
+          ],
+          "phones": [
+            {
+              "val": "16052250360",
+              "is_valid": 1,
+              "is_ws": 2,
+              "phone_type": 3,
+              "country_code": "1",
+              "dialing_code": null,
+              "area_code": "605",
+              "telephone": "2250360",
+              "national_number": "(605) 225-0360",
+              "international_number": "+1 605-225-0360"
+            }
+          ],
+          "socials": [],
+          "websites": [
+            {
+              "val": "www.hubcityinc.com",
+              "is_valid": 0,
+              "is_sensitive": null,
+              "reason": null
+            }
+          ]
+        }
+      },
+      {
+        "companyId": 253780,
+        "contact_data": {
+          "emails": [
+            {
+              "val": "sonnychua@asiaprimera.net",
+              "is_valid": 0,
+              "reason": ""
+            }
+          ],
+          "phones": [],
+          "socials": [],
+          "websites": []
+        }
+      },
+      {
+        "companyId": 253569,
+        "contact_data": {
+          "emails": [
+            {
+              "val": "tbrown@dft-valves.com",
+              "is_valid": 0,
+              "reason": ""
+            }
+          ],
+          "phones": [
+            {
+              "val": "17877323300",
+              "is_valid": 1,
+              "is_ws": 2,
+              "phone_type": 3,
+              "country_code": "1",
+              "dialing_code": null,
+              "area_code": "787",
+              "telephone": "7323300",
+              "national_number": "(787) 732-3300",
+              "international_number": "+1 787-732-3300"
+            }
+          ],
+          "socials": [],
+          "websites": [
+            {
+              "val": "www.dft-valves.com",
+              "is_valid": 0,
+              "is_sensitive": null,
+              "reason": null
+            }
+          ]
+        }
+      },
+      {
+        "companyId": 71420110,
+        "contact_data": {
+          "emails": [
+            {
+              "val": "hecnyan@hecny.com",
+              "is_valid": 1,
+              "reason": ""
+            },
+            {
+              "val": "miaop@hency.com",
+              "is_valid": 0,
+              "reason": ""
+            }
+          ],
+          "phones": [
+            {
+              "val": "13054714706",
+              "is_valid": 2,
+              "is_ws": 2,
+              "phone_type": 0,
+              "country_code": "",
+              "dialing_code": null,
+              "area_code": "",
+              "telephone": "",
+              "national_number": "",
+              "international_number": ""
+            },
+            {
+              "val": "13055945882",
+              "is_valid": 2,
+              "is_ws": 2,
+              "phone_type": 0,
+              "country_code": "",
+              "dialing_code": null,
+              "area_code": "",
+              "telephone": "",
+              "national_number": "",
+              "international_number": ""
+            },
+            {
+              "val": "15626167888",
+              "is_valid": 1,
+              "is_ws": 2,
+              "phone_type": 3,
+              "country_code": "1",
+              "dialing_code": null,
+              "area_code": "562",
+              "telephone": "6167888",
+              "national_number": "(562) 616-7888",
+              "international_number": "+1 562-616-7888"
+            },
+            {
+              "val": "3055947084",
+              "is_valid": 2,
+              "is_ws": 0,
+              "phone_type": 0,
+              "country_code": "",
+              "dialing_code": null,
+              "area_code": "",
+              "telephone": "",
+              "national_number": "",
+              "international_number": ""
+            },
+            {
+              "val": "5626167888",
+              "is_valid": 2,
+              "is_ws": 0,
+              "phone_type": 0,
+              "country_code": "",
+              "dialing_code": null,
+              "area_code": "",
+              "telephone": "",
+              "national_number": "",
+              "international_number": ""
+            },
+            {
+              "val": "5626167895",
+              "is_valid": 2,
+              "is_ws": 0,
+              "phone_type": 0,
+              "country_code": "",
+              "dialing_code": null,
+              "area_code": "",
+              "telephone": "",
+              "national_number": "",
+              "international_number": ""
+            }
+          ],
+          "socials": [],
+          "websites": []
+        }
+      },
+      {
+        "companyId": 71422960,
+        "contact_data": {
+          "emails": [
+            {
+              "val": "customerservice@hoyashipping.com",
+              "is_valid": 1,
+              "reason": ""
+            }
+          ],
+          "phones": [
+            {
+              "val": "16262791268",
+              "is_valid": 1,
+              "is_ws": 2,
+              "phone_type": 3,
+              "country_code": "1",
+              "dialing_code": null,
+              "area_code": "626",
+              "telephone": "2791268",
+              "national_number": "(626) 279-1268",
+              "international_number": "+1 626-279-1268"
+            },
+            {
+              "val": "6262791268",
+              "is_valid": 2,
+              "is_ws": 2,
+              "phone_type": 0,
+              "country_code": "",
+              "dialing_code": null,
+              "area_code": "",
+              "telephone": "",
+              "national_number": "",
+              "international_number": ""
+            }
+          ],
+          "socials": [],
+          "websites": []
+        }
+      }
+    ]
+  },
+  "fee": {
+    "apiCost": 1000,
+    "accountBalance": 64040,
+    "uuid": "bfc6d8ff-26a8-47da-ab7e-fe6dee1f5bf2"
+  }
+}
