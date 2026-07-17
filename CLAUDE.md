@@ -2,7 +2,7 @@
 
 ## Purpose and sources of truth
 
-- Find global buyers of `tape` and `masking film`, with Europe and North America prioritized.
+- Find global buyers of tape, masking film, brushes, hog-bristle brushes, wool brushes, and PVC corner guards, with Europe and North America prioritized.
 - `deliverables/tape-masking-film-customer-master.xlsx` is the only customer-facing master table.
 - `data/processed/company-master.json` is the workbook's structured input. Files under `data/raw/` are immutable evidence.
 
@@ -10,10 +10,10 @@
 
 - Keep exactly one row per `company_id`; do not merge different company IDs silently.
 - Count an email as valid only when its validation status is `1`.
-- Treat company-level coverage as the business metric: 50 companies with any valid contact, 39 with a valid email, and 41 with a valid phone.
-- Report the coverage split as 30 with both, 9 email-only, 11 phone-only, and 0 with neither.
-- Use ¥2.10 per company with any valid contact, ¥2.69 per valid-email company, and ¥2.56 per valid-phone company. These are alternative views and must not be added.
-- Keep 46 globally deduplicated valid email strings and 49 company-email associations as technical audit counts, not business KPIs.
+- Treat company-level coverage as the business metric: 200 companies with any valid contact, 155 with a valid email, and 152 with a valid phone.
+- Report the coverage split as 107 with both, 48 email-only, 45 phone-only, and 0 with neither.
+- Use ¥1.50 per company with any valid contact, ¥1.94 per valid-email company, and ¥1.98 per valid-phone company. These are alternative views and must not be added.
+- Keep 236 globally deduplicated valid email strings and 241 company-email associations as technical audit counts, not business KPIs.
 - Preserve source URLs and raw API fields. Never invent missing contact details.
 - Localize business-facing workbook values into Chinese: `tape` = `胶带`, `masking film` = `遮蔽膜`; use the same Chinese terms for categories and search terms.
 - Prefer Chinese country and product terminology in the workbook, but preserve company names, contact details, URLs, trade descriptions, addresses, business scopes, model numbers, and uncertain terms in their original form.
@@ -21,7 +21,7 @@
 ## Paid API and secrets
 
 - Paid scripts must default to dry-run and require an explicit execution flag.
-- Do not exceed the current cumulative cap of ¥500 without new user approval. Current audited spend before the four-product campaign is ¥105.10.
+- Do not exceed the current cumulative cap of ¥500 without new user approval. Current audited spend is ¥300.60.
 - Do not retry email status `0` or `3` blindly. Prefer a new official source, a relevant person, or a real delivery test.
 - Read the API key only from `UPKUAJING_API_KEY`; never commit it.
 

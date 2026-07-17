@@ -10,8 +10,8 @@ const sourcePath = path.join(root, "data", "processed", "company-master.json");
 const outputDir = path.join(root, "deliverables");
 const workDir = path.join(root, "work");
 const outputPath = path.join(outputDir, "tape-masking-film-customer-master.xlsx");
-const projectSpend = 105.10;
-const projectCap = 200.00;
+const projectSpend = 300.60;
+const projectCap = 500.00;
 
 const source = JSON.parse(await fs.readFile(sourcePath, "utf8"));
 const companies = source.companies;
@@ -59,12 +59,20 @@ const categoryTranslations = new Map([
   ["pvc护角条", "PVC护角条"],
 ]);
 const countryTranslations = new Map([
-  ["EC", "厄瓜多尔"], ["GB", "英国"], ["IN", "印度"], ["KR", "韩国"],
-  ["JP", "日本"], ["KE", "肯尼亚"], ["LK", "斯里兰卡"], ["MX", "墨西哥"],
-  ["US", "美国"], ["VN", "越南"],
+  ["AR", "阿根廷"], ["CA", "加拿大"], ["CL", "智利"], ["CO", "哥伦比亚"],
+  ["CR", "哥斯达黎加"], ["EC", "厄瓜多尔"], ["GB", "英国"], ["IN", "印度"],
+  ["JP", "日本"], ["KE", "肯尼亚"], ["KR", "韩国"], ["LK", "斯里兰卡"],
+  ["MN", "蒙古"], ["MX", "墨西哥"], ["PA", "巴拿马"], ["PE", "秘鲁"],
+  ["PK", "巴基斯坦"], ["PR", "波多黎各"], ["PY", "巴拉圭"], ["RU", "俄罗斯"],
+  ["UA", "乌克兰"], ["US", "美国"], ["VN", "越南"],
 ]);
 const productTermTranslations = new Map(Object.entries({
   "rubber tape": "橡胶胶带", "parts for led tv": "LED电视零部件", "tape-1 p1 duo": "TAPE-1 P1 DUO（胶带型号）",
+  "brush": "刷子", "brushes": "刷子", "paint brush": "油漆刷", "paint brushes": "油漆刷",
+  "hog bristle": "猪鬃", "hog bristles": "猪鬃", "natural hog bristles": "天然猪鬃",
+  "boar brush": "猪鬃刷", "wool brush": "羊毛刷", "wool brushes": "羊毛刷",
+  "pvc corner guard": "PVC护角条", "pvc corner protector": "PVC护角条",
+  "pvc wall corner trim": "PVC墙角护条", "pvc corner bead": "PVC护角条",
   "pe masking film": "PE遮蔽膜", "masking film": "遮蔽膜", "pretaped masking film": "预贴胶带遮蔽膜",
   "masking tape": "遮蔽胶带", "plastic masking film": "塑料遮蔽膜", "pre-taped masking film": "预贴胶带遮蔽膜",
   "tape": "胶带", "masking": "遮蔽", "film": "薄膜", "plastic": "塑料", "rubber": "橡胶",
@@ -171,10 +179,10 @@ const companiesWithPhoneOnly = companies.filter((_, index) => (
 const companiesWithNoValidContact = companies.length - companiesWithAnyValidContact;
 
 sheet.mergeCells("A1:N1");
-sheet.getRange("A1").values = [["胶带与遮蔽膜全球客户总表"]];
+sheet.getRange("A1").values = [["六类产品全球客户总表"]];
 sheet.mergeCells("A2:N2");
 sheet.getRange("A2").values = [[
-  "一行一家公司 · 全球覆盖、欧美优先 · 来源：跨境魔方 OpenAPI + 官方网站核验 · 更新：2026-07-17",
+  "胶带、遮蔽膜、刷子、猪毛刷、羊毛刷、PVC护角条 · 一行一家公司 · 全球覆盖、欧美优先 · 更新：2026-07-17",
 ]];
 
 const cards = [
@@ -361,7 +369,7 @@ costSheet.getRange("A4:C16").values = [
   ["每家有效联系方式公司成本", null, "累计费用 ÷ 拥有至少一种有效联系方式的公司"],
   ["每家有效邮箱公司成本", null, "累计费用 ÷ 拥有有效邮箱的公司"],
   ["每家有效电话公司成本", null, "累计费用 ÷ 拥有有效电话的公司"],
-  ["预算剩余", null, "预算上限 ¥200.00 - 累计费用"],
+  ["预算剩余", null, "预算上限 ¥500.00 - 累计费用"],
 ];
 costSheet.getRange("B13:B16").formulas = [
   ["=ROUND(B12/B5,2)"],
@@ -376,8 +384,8 @@ costSheet.getRange("A19:C20").values = [
 ];
 costSheet.getRange("A22:C22").values = [["费用构成", "金额（元）", "说明"]];
 costSheet.getRange("A23:C28").values = [
-  ["海关客户搜索", 12.00, "早期搜索 + 本轮3次增量翻页"],
-  ["海关公司联系方式", 61.00, "早期调用 + 本轮19家公司"],
+  ["海关客户搜索", 40.50, "六类产品搜索与同义词翻页"],
+  ["海关公司联系方式", 228.00, "按公司ID去重后的批量联系方式"],
   ["人物搜索", 19.50, "混合搜索1页 + 逐公司12页"],
   ["人物联系方式", 3.00, "人工审查后仅购买6人"],
   ["邮箱验证", 3.00, "API、官网及人物新增邮箱"],
@@ -415,7 +423,7 @@ guideSheet.getRange("A1:D1").format = {
 };
 guideSheet.getRange("A3:D3").values = [["字段", "人话解释", "来源/计算", "是否关键"]];
 const fieldHelp = {
-  "研究状态": "这家公司目前调研到哪一步", "市场优先级": "欧美优先或全球常规", "产品品类（中文）": "胶带、遮蔽膜或两者都命中",
+  "研究状态": "这家公司目前调研到哪一步", "市场优先级": "欧美优先或全球常规", "产品品类（中文）": "六类产品中该公司实际命中的一个或多个品类",
   "公司ID": "跨境魔方中的公司唯一编号", "公司名称": "公司名称；一行只放一家", "国家/地区（中文）": "公司所在国家的中文名称",
   "首选邮箱": "优先取官网补充邮箱，否则取API/人物邮箱", "邮箱可用状态": "有效、无效、不确定或接口未能检测",
   "首选电话": "优先取官网电话，否则取API电话", "官网": "公司网站", "联系完整度": "按有效邮箱、有效电话、官网、社媒加权",
