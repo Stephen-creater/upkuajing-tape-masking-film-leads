@@ -1,0 +1,846 @@
+{
+  "code": 0,
+  "msg": "success",
+  "data": {
+    "cursor": "eyJjb21wYW55X2lkIjoyMDQyNzc2OX0=",
+    "list": [
+      {
+        "companyId": 20427633,
+        "companyType": 2,
+        "name": "PROCTER & GAMBLE CHILE LIMITADA",
+        "countryCode": "CL",
+        "tradeTotal": 25557,
+        "scope": "Consumer goods",
+        "address": "AVENIDA PRESIDENTE RIESCO 5335 PISO 17 , LAS CONDES",
+        "tradeMatchTotal": 296,
+        "tradeMatchPercent": 1.16,
+        "latestTradeDate": 1753632000000,
+        "productDesc": "CEPILLO DE DIENTESPROCTER-FPRO DURALON 6M 60MPACK DE 2 UNIDADESARTICULO PARA HIGIENEDENTAL CEPILLOS DE DIENTES.",
+        "productTags": [
+          "Toothbrush",
+          "Oral hygiene"
+        ],
+        "productNames": [
+          "Toothbrush"
+        ],
+        "productAlias": [
+          "Dental brush",
+          "Oral brush",
+          "Teeth brush",
+          "Oral hygiene brush",
+          "Dental hygiene brush"
+        ],
+        "productSuperordinate": [
+          "Plastic",
+          "Nylon",
+          "Bristles",
+          "Handle material",
+          "Cleaning agent"
+        ],
+        "productDownstream": [
+          "Toothpaste",
+          "Mouthwash",
+          "Dental floss",
+          "Tongue cleaner",
+          "Dental pick"
+        ]
+      },
+      {
+        "companyId": 20423622,
+        "companyType": 2,
+        "name": "PRICESMART PANAMA S A",
+        "countryCode": "PA",
+        "tradeTotal": 729487,
+        "scope": "s case,s 140,voyage,tr a,refrigerated container,sd c,puerta,t 1500,pecti,cock tail,aerosol cans,para mascotas,ffs,termo,s 30,juic,g 210,carriage,terol,juice jug",
+        "address": "centro comercial los pueblos 2, local 36, juan diaz ciudad de panamá, panamá",
+        "tradeMatchTotal": 81,
+        "tradeMatchPercent": 0.01,
+        "latestTradeDate": 1753200000000,
+        "productDesc": "452155/DESBROZADORA",
+        "productTags": [
+          "DESBROZADORA"
+        ],
+        "productNames": [
+          "DESBROZADORA"
+        ],
+        "productAlias": [
+          "Weeder",
+          "Brush Cutter",
+          "Grass Trimmer",
+          "Lawn Mower",
+          "Hedge Trimmer"
+        ],
+        "productSuperordinate": [
+          "Metal",
+          "Plastic",
+          "Engine Parts",
+          "Blades",
+          "Fuel"
+        ],
+        "productDownstream": [
+          "Gardening",
+          "Landscaping",
+          "Agriculture",
+          "Forestry",
+          "Park Maintenance"
+        ]
+      },
+      {
+        "companyId": 20424424,
+        "companyType": 2,
+        "name": "CITY MALL S A",
+        "countryCode": "PA",
+        "tradeTotal": 89936,
+        "scope": "made up article,cotton terry towel,bath towel,8 inc",
+        "address": "2150 martin luther king jr. blvd.,panama city",
+        "tradeMatchTotal": 64,
+        "tradeMatchPercent": 0.07,
+        "latestTradeDate": 1752076800000,
+        "productDesc": "CEPILLOS/ PEINILLAS",
+        "productTags": [
+          "Brushes",
+          "Combs"
+        ],
+        "productNames": [
+          "Brushes",
+          "Combs"
+        ],
+        "productAlias": [
+          "Hairbrush",
+          "Hair comb",
+          "Toothbrush",
+          "Body brush",
+          "Beard comb"
+        ],
+        "productSuperordinate": [
+          "Plastic",
+          "Wood",
+          "Bristles",
+          "Nylon",
+          "Metal"
+        ],
+        "productDownstream": [
+          "Beauty products",
+          "Personal care kits",
+          "Pet grooming",
+          "Household cleaning",
+          "Art supplies"
+        ]
+      },
+      {
+        "companyId": 20424340,
+        "companyType": 2,
+        "name": "KHURRAM INTERNATIONAL",
+        "countryCode": "PK",
+        "tradeTotal": 3933,
+        "scope": "coat,m5,vechi,cam shaft,digital finger counter,led bulb 11w,cotton buds,table,sn 99,brake shoe,makeup,piston,steel nail,electric shaver,electroplat,hair shaver,lipgloss,plastic,steel pot,u bra",
+        "address": "46 – manzoor square, plaza square, noman street, karachi, pakistan",
+        "tradeMatchTotal": 59,
+        "tradeMatchPercent": 1.5,
+        "latestTradeDate": 1742918400000,
+        "productDesc": "BRUSH",
+        "productTags": [
+          "Brush"
+        ],
+        "productNames": [
+          "Brush"
+        ],
+        "productAlias": [
+          "Broom",
+          "Scrubber",
+          "Duster",
+          "Sweeper",
+          "Polisher"
+        ],
+        "productSuperordinate": [
+          "Plastic",
+          "Wood",
+          "Metal",
+          "Bristles",
+          "Fiber"
+        ],
+        "productDownstream": [
+          "Home cleaning",
+          "Automotive cleaning",
+          "Industrial cleaning",
+          "Art supplies",
+          "Cosmetics"
+        ]
+      },
+      {
+        "companyId": 20428387,
+        "companyType": 2,
+        "name": "GRUPO PARISINA SA DE CV",
+        "countryCode": "MX",
+        "tradeTotal": 15096,
+        "scope": "",
+        "address": "20 DE NOVIEMBRE 79 Y 81 CENTRO",
+        "tradeMatchTotal": 25,
+        "tradeMatchPercent": 0.17,
+        "latestTradeDate": 1747238400000,
+        "productDesc": "PINCEL",
+        "productTags": [
+          "PINCEL"
+        ],
+        "productNames": [
+          "PINCEL"
+        ],
+        "productAlias": [
+          "Paintbrush",
+          "Artist Brush",
+          "Decorative Brush",
+          "Coating Brush",
+          "Fine Brush"
+        ],
+        "productSuperordinate": [
+          "Bristle",
+          "Wood",
+          "Plastic",
+          "Metal",
+          "Fiber"
+        ],
+        "productDownstream": [
+          "Artwork",
+          "Furniture",
+          "Wall Painting",
+          "Automobile",
+          "Crafts"
+        ]
+      },
+      {
+        "companyId": 20427300,
+        "companyType": 2,
+        "name": "RELIANZ MINING SOLUTIONS S A S",
+        "countryCode": "CO",
+        "tradeTotal": 102536,
+        "scope": "Oil and gas field machinery and equipment, and other related petroleum exploring special equipment",
+        "address": "CALLE 30 CR 19 04",
+        "tradeMatchTotal": 22,
+        "tradeMatchPercent": 0.02,
+        "latestTradeDate": 1747756800000,
+        "productDesc": "DO: 2549131, 014 F898854 RSTO 092 092. MERCANCIA NUEVO. NOS ACOGEMOS AL DTO. 925 DE 9 MAYO 2013. MANIFIESTO 116575015602732 FECHA 2025-05-21. FACTURA: INV-000301017 2025-05-17 PRODUCTO: CEPILLO. MATERIA CONSTITUTIVA: ACERO. USO: INDUSTRIAL, EN TALLER ...",
+        "productTags": [
+          "Brush",
+          "Steel",
+          "Industrial"
+        ],
+        "productNames": [
+          "Brush"
+        ],
+        "productAlias": [
+          "Scrub brush",
+          "Cleaning brush",
+          "Wire brush",
+          "Bristle brush",
+          "Industrial brush"
+        ],
+        "productSuperordinate": [
+          "Steel",
+          "Metal",
+          "Wire",
+          "Bristles",
+          "Plastic"
+        ],
+        "productDownstream": [
+          "Manufacturing",
+          "Automotive",
+          "Construction",
+          "Maintenance",
+          "Cleaning"
+        ]
+      },
+      {
+        "companyId": 20428644,
+        "companyType": 2,
+        "name": "VIRUTEX ILKO S A",
+        "countryCode": "CL",
+        "tradeTotal": 6669,
+        "scope": "Fabricated metal products (architectural aluminum products that include commercial entrance framing, storefront doors, blast resistant systems, impact systems, entrance doors, curtain wall systems, sun shade, and a wide variety of heavy duty commercial windows)",
+        "address": "CAMINO A MELIPILLA 7875 , CERRILLOS",
+        "tradeMatchTotal": 22,
+        "tradeMatchPercent": 0.33,
+        "latestTradeDate": 1729612800000,
+        "productDesc": "ESCOBILLONV.I.C.-FEXTERIOR GRANDEDE USO DOMESTICO",
+        "productTags": [
+          "ESCOBILLON",
+          "Domestic use"
+        ],
+        "productNames": [
+          "ESCOBILLON"
+        ],
+        "productAlias": [
+          "Broom",
+          "Brush",
+          "Sweeper",
+          "Duster",
+          "Cleaning tool"
+        ],
+        "productSuperordinate": [
+          "Plastic",
+          "Wood",
+          "Fiber",
+          "Metal",
+          "Bristles"
+        ],
+        "productDownstream": [
+          "Household cleaning",
+          "Office cleaning",
+          "Industrial cleaning",
+          "Outdoor cleaning",
+          "Vehicle cleaning"
+        ]
+      },
+      {
+        "companyId": 20427347,
+        "companyType": 2,
+        "name": "DURESPO S A",
+        "countryCode": "CO",
+        "tradeTotal": 13452,
+        "scope": "Agricultural and farm machinery and equipment, and other turf and grounds care equipment, including planting, harvesting, and grass mowing equipment",
+        "address": "29 97 IN 101, CARRERA 42",
+        "tradeMatchTotal": 15,
+        "tradeMatchPercent": 0.11,
+        "latestTradeDate": 1739462400000,
+        "productDesc": "DO 022025040179 DECLARACION(13-17) FACTURA: 2024-4992 FECHA: 2024-12-10 CANT (50) UNIDADES HJ2184E-42 BRUSH PRODUCTO: E",
+        "productTags": [
+          "Brush"
+        ],
+        "productNames": [
+          "Brush"
+        ],
+        "productAlias": [
+          "Broom",
+          "Scrubber",
+          "Duster",
+          "Sweeper",
+          "Polisher"
+        ],
+        "productSuperordinate": [
+          "Bristles",
+          "Handle",
+          "Plastic",
+          "Wood",
+          "Metal"
+        ],
+        "productDownstream": [
+          "Household cleaning",
+          "Industrial cleaning",
+          "Automotive cleaning",
+          "Office cleaning",
+          "Pet cleaning"
+        ]
+      },
+      {
+        "companyId": 20428101,
+        "companyType": 2,
+        "name": "AUTOGERMANA S A S",
+        "countryCode": "CO",
+        "tradeTotal": 104980,
+        "scope": "New and used automobiles and light trucks, such as sport utility vehicles, and passenger and cargo vans; Motor vehicle supplies, tires and new and used parts, as well as its accessories, tools and equipment; Provision of repair and maintenance services",
+        "address": "197 35, CARRERA 45",
+        "tradeMatchTotal": 15,
+        "tradeMatchPercent": 0.01,
+        "latestTradeDate": 1748275200000,
+        "productDesc": "DO: 41MDE0525103, DECLARACI N: 15 20; A1771907 EMPRESA DE TRANSPORTE AEROLINEA DEL CARIBE S.A. DEPOSITO ADUANERO DESCARGA COLOMBIA, KM 1 VIA SIBERIA-FUNZA BODEGA 30, ZONA FRANCA PERMANENTE INTEXZONA.; PRODUCTO: JUEGO DE ESCOBILLAS, MARCA COMERCIAL: SI...",
+        "productTags": [
+          "Brush Set"
+        ],
+        "productNames": [
+          "Brush Set"
+        ],
+        "productAlias": [
+          "Brush Kit",
+          "Set of Brushes",
+          "Brush Collection",
+          "Brush Bundle",
+          "Brush Assortment"
+        ],
+        "productSuperordinate": [
+          "Plastic",
+          "Metal",
+          "Bristles",
+          "Wood",
+          "Fiber"
+        ],
+        "productDownstream": [
+          "Household Cleaning",
+          "Industrial Cleaning",
+          "Automotive Cleaning",
+          "Art and Craft",
+          "Gardening"
+        ]
+      },
+      {
+        "companyId": 20428712,
+        "companyType": 2,
+        "name": "HIPERMERCADOS TOTTUS SA",
+        "countryCode": "CL",
+        "tradeTotal": 22808,
+        "scope": "General line of food products and other related consumer products",
+        "address": "SAN MARTIN 174 , BUIN",
+        "tradeMatchTotal": 15,
+        "tradeMatchPercent": 0.07,
+        "latestTradeDate": 1751904000000,
+        "productDesc": " ESCOBILLACASA JOVENWC PLASTICODE USO DOMESTICO LOS DEMAS ARTICULOS DE USO DOMESTICO, DE HIGIENE O DE TOCADOR, DE PLASTICO.",
+        "productTags": [
+          "ESCOBILLA CASA JOVENWC",
+          "Plastic",
+          "Household use"
+        ],
+        "productNames": [
+          "ESCOBILLA CASA JOVENWC"
+        ],
+        "productAlias": [
+          "Household brush",
+          "Domestic brush",
+          "Plastic brush",
+          "Home cleaning brush",
+          "Daily use brush"
+        ],
+        "productSuperordinate": [
+          "Plastic resin",
+          "Chemical additives",
+          "Colorants",
+          "Fibers",
+          "Molding materials"
+        ],
+        "productDownstream": [
+          "Household cleaning products",
+          "Home decoration",
+          "Personal hygiene products",
+          "Kitchenware",
+          "Bathroom accessories"
+        ]
+      },
+      {
+        "companyId": 20426639,
+        "companyType": 2,
+        "name": "DIFFUPAR SA",
+        "countryCode": "AR",
+        "tradeTotal": 27682,
+        "scope": "Fragrances and cosmetics and treatment products",
+        "address": "CIUDAD AUTONOMA BUENOS AIRES CAPITAL FEDERAL ESTOMBA 580",
+        "tradeMatchTotal": 12,
+        "tradeMatchPercent": 0.04,
+        "latestTradeDate": 1753632000000,
+        "productDesc": "PARA CABELLO. CON MONTURA DE PLASTICO. LOS DEMAS DE PLASTICO, INCLUSO CON MONTURA DE OTRAS MATERIAS. LOS DEMAS. ESCOBAS Y ESCOBILLAS, CEPILLOS, BROCHAS Y PINCELES (INCLUSO SI SON PARTES DE MAQUINAS, APARATOS O VEHICULOS), ESCOBAS MECANICAS, SIN MOTOR,...",
+        "productTags": [
+          "Brooms",
+          "Brushes",
+          "Plastic",
+          "Cleaning",
+          "Painting"
+        ],
+        "productNames": [
+          "Brooms",
+          "Brushes",
+          "Scrubbers",
+          "Paintbrushes"
+        ],
+        "productAlias": [
+          "Sweeping broom",
+          "Scrubbing brush",
+          "Paint brush",
+          "Cleaning brush",
+          "Hand broom"
+        ],
+        "productSuperordinate": [
+          "Plastic resin",
+          "Fiber",
+          "Wood",
+          "Metal",
+          "Bristle"
+        ],
+        "productDownstream": [
+          "Household cleaning",
+          "Industrial cleaning",
+          "Art painting",
+          "Automobile painting",
+          "Wall painting"
+        ]
+      },
+      {
+        "companyId": 20428491,
+        "companyType": 2,
+        "name": "DERCO COLOMBIA S A S",
+        "countryCode": "CO",
+        "tradeTotal": 44277,
+        "scope": "Motor vehicles",
+        "address": "CARRERA 7 KILOMETRO 18",
+        "tradeMatchTotal": 11,
+        "tradeMatchPercent": 0.02,
+        "latestTradeDate": 1734451200000,
+        "productDesc": "DO 18167800-001 DECLARACION(16-17) DERCO COLOMBIA S.A.S USUARIO OEA CODIGO OE0255, PEDIDO: CMBR085-24-001, FACTURA: 96488925 FECHA: 2024-09-20 PRODUCTO: PLUMILLA DE LIMPIA PARABRISAS PARA USO EN VEHICULOS, DESTINO: ENSAMBLE EN VEHICULOS, MARCA: CITROEN...",
+        "productTags": [
+          "Windshield wiper brush",
+          "Vehicle",
+          "Cleaning"
+        ],
+        "productNames": [
+          "Windshield wiper brush"
+        ],
+        "productAlias": [
+          "Wiper blade",
+          "Windshield wiper",
+          "Wiper",
+          "Windshield cleaner",
+          "Automotive wiper"
+        ],
+        "productSuperordinate": [
+          "Plastic",
+          "Rubber",
+          "Metal",
+          "Glass fiber",
+          "Resin"
+        ],
+        "productDownstream": [
+          "Cars",
+          "Trucks",
+          "Buses",
+          "Motorcycles",
+          "RVs"
+        ]
+      },
+      {
+        "companyId": 20423809,
+        "companyType": 2,
+        "name": "MODA INFANTIL MAYORAL SA DE CV",
+        "countryCode": "MX",
+        "tradeTotal": 208059,
+        "scope": "",
+        "address": "AVENIDA INSURGENTES SUR 1457 12A PISO",
+        "tradeMatchTotal": 10,
+        "tradeMatchPercent": 0.0,
+        "latestTradeDate": 1729612800000,
+        "productDesc": "DONA PARA CABELLO MAYORAL Y DISENO 4069",
+        "productTags": [
+          "Hair comb"
+        ],
+        "productNames": [
+          "Hair Comb"
+        ],
+        "productAlias": [
+          "Hair brush",
+          "Hair pick",
+          "Hair stick",
+          "Hair clasp",
+          "Hair pin"
+        ],
+        "productSuperordinate": [
+          "Plastic",
+          "Wood",
+          "Metal",
+          "Bamboo",
+          "Resin"
+        ],
+        "productDownstream": [
+          "Salon",
+          "Beauty store",
+          "Retail store",
+          "Online shop",
+          "Gift shop"
+        ]
+      },
+      {
+        "companyId": 20428354,
+        "companyType": 2,
+        "name": "3M CHILE S A",
+        "countryCode": "CL",
+        "tradeTotal": 38940,
+        "scope": "Adhesives, abrasives, laminates, passive fire protection, dental and orthodontic products, electronic materials, medical products, car-care products (sun films, polish, wax, car shampoo, treatment for the exterior, interior and the under chassis rust protection), electronic circuits, and optical films",
+        "address": "SANTA ISABEL 1001 , PROVIDENCIA",
+        "tradeMatchTotal": 9,
+        "tradeMatchPercent": 0.02,
+        "latestTradeDate": 1751904000000,
+        "productDesc": " MOPA3MMF600-SP F1PARA USO DOMESTICO ESCOBAS MECANICAS USO MANUAL, PINCELES Y PLUMEROS",
+        "productTags": [
+          "Mechanical broom",
+          "Brush",
+          "Duster",
+          "Domestic use",
+          "Manual use"
+        ],
+        "productNames": [
+          "Mechanical broom",
+          "Brush",
+          "Duster"
+        ],
+        "productAlias": [
+          "Household broom",
+          "Hand brush",
+          "House duster",
+          "Cleaning broom",
+          "Manual brush"
+        ],
+        "productSuperordinate": [
+          "Bristles",
+          "Wood",
+          "Plastic",
+          "Metal",
+          "Fiber"
+        ],
+        "productDownstream": [
+          "Home cleaning",
+          "Office cleaning",
+          "Hotel cleaning",
+          "School cleaning",
+          "Shop cleaning"
+        ]
+      },
+      {
+        "companyId": 20424680,
+        "companyType": 2,
+        "name": "COMERCIAL FERRETERA LOS SAUCES S R LTDA",
+        "countryCode": "PE",
+        "tradeTotal": 5201,
+        "scope": "drilling machine,wincha,textile sewing,black overall sealant,sandpaper,integrated driver,shovel spoon,used drill,dormer,strengthening rake,fine wire mixer,separated shielding,petrolat,tools,maneral truper,towel bar,calendar,traction spring,steel cable,galvanized",
+        "address": "av. los sauces mza. c int. 2 ate lima, perú",
+        "tradeMatchTotal": 8,
+        "tradeMatchPercent": 0.15,
+        "latestTradeDate": 1752681600000,
+        "productDesc": "CARDA CIRC TR 4\"X0.35MM M14, SURTEK, S/M CARDA CIRC TR 4\"X0.35MM M14 HERRAMIENTAS MANUALES TWD WR WHL BRSH 4\"X0.35MM M14 31171805,C529 DEMAS HERRAMIENTAS DE MANO",
+        "productTags": [
+          "CARDA CIRC TR",
+          "TWD WR WHL BRSH",
+          "Manual tools"
+        ],
+        "productNames": [
+          "CARDA CIRC TR",
+          "TWD WR WHL BRSH"
+        ],
+        "productAlias": [
+          "Circular tool",
+          "Wheel brush",
+          "Manual implement",
+          "Handheld tool",
+          "Circular brush"
+        ],
+        "productSuperordinate": [
+          "Metal",
+          "Alloy",
+          "Plastic",
+          "Rubber",
+          "Composite"
+        ],
+        "productDownstream": [
+          "Construction",
+          "Maintenance",
+          "Repair",
+          "DIY projects",
+          "Industrial production"
+        ]
+      },
+      {
+        "companyId": 20428156,
+        "companyType": 2,
+        "name": "PRICESMART COLOMBIA S A S",
+        "countryCode": "CO",
+        "tradeTotal": 97781,
+        "scope": "Membership warehouse club (Consumer electronics; Computers; Baby products; Automotive supplies; Sporting goods; Outdoor equipment; Hardware products; Toys and games; Household appliances; Housewares; Bed and bath products; Luggage; Healthcare products; Furniture; Office supplies; Fashion accessories; Restaurant/institutional products)",
+        "address": "CALLE 26 71 A 16 OFICINAS ADMINISTRATIVAS",
+        "tradeMatchTotal": 8,
+        "tradeMatchPercent": 0.01,
+        "latestTradeDate": 1728230400000,
+        "productDesc": "DO 042024086059 CODIGO / RESOLUCION OEA IMPORTADOR: 000930; PEDIDO TRAMITE: SMLU7882926 DECLARACION(7-24) NOS ACOGEMOS A LA RESOLUCION CONJUNTA DEL MINISTERIO COMERCIO, INDUSTRIA Y TURISMO, DIAN 057 DEL 2015.//. FACTURA: 13542529 FECHA: 2024-09-19 CANT...",
+        "productTags": [
+          "Brushes"
+        ],
+        "productNames": [
+          "Other brushes, brooms, mops and squeegees"
+        ],
+        "productAlias": [
+          "Broom",
+          "Mop",
+          "Squeegee",
+          "Scrub Brush",
+          "Duster"
+        ],
+        "productSuperordinate": [
+          "Plastic",
+          "Wood",
+          "Metal",
+          "Fiber",
+          "Rubber"
+        ],
+        "productDownstream": [
+          "Household Cleaning",
+          "Industrial Cleaning",
+          "Commercial Cleaning",
+          "Automotive Cleaning",
+          "Office Cleaning"
+        ]
+      },
+      {
+        "companyId": 20428563,
+        "companyType": 2,
+        "name": "MARINA SILCER SA DE CV",
+        "countryCode": "MX",
+        "tradeTotal": 9319,
+        "scope": "",
+        "address": "CALLE NUEVA CARRETERA PROGRESO-CHELEM 5155",
+        "tradeMatchTotal": 8,
+        "tradeMatchPercent": 0.09,
+        "latestTradeDate": 1752681600000,
+        "productDesc": "CEPILLOS DE CERDAS PLASTICAS",
+        "productTags": [
+          "Brush",
+          "Plastic",
+          "Bristle"
+        ],
+        "productNames": [
+          "Plastic bristle brush"
+        ],
+        "productAlias": [
+          "Plastic brush",
+          "Bristle brush",
+          "Cleaning brush",
+          "Plastic bristle cleaning brush",
+          "Brush with plastic bristles"
+        ],
+        "productSuperordinate": [
+          "Plastic resin",
+          "Bristle material",
+          "Molding equipment",
+          "Colorant",
+          "Lubricant"
+        ],
+        "productDownstream": [
+          "Household cleaning",
+          "Industrial cleaning",
+          "Automotive cleaning",
+          "Pet grooming",
+          "Art and craft"
+        ]
+      },
+      {
+        "companyId": 20426337,
+        "companyType": 2,
+        "name": "CANTIA SA DE CV",
+        "countryCode": "MX",
+        "tradeTotal": 6002,
+        "scope": "",
+        "address": "SALVADOR QUEZADA LIMON NO. 1512 , CURTIDORES",
+        "tradeMatchTotal": 4,
+        "tradeMatchPercent": 0.07,
+        "latestTradeDate": 1745942400000,
+        "productDesc": "CEPILLO PARA DUCHA",
+        "productTags": [
+          "Shower",
+          "Brush"
+        ],
+        "productNames": [
+          "Shower brush"
+        ],
+        "productAlias": [
+          "Bath brush",
+          "Shower scrubber",
+          "Bathing brush",
+          "Shower cleaning brush",
+          "Body brush"
+        ],
+        "productSuperordinate": [
+          "Plastic",
+          "Bristles",
+          "Wood",
+          "Metal",
+          "Rubber"
+        ],
+        "productDownstream": [
+          "Bathroom",
+          "Shower room",
+          "Hotel",
+          "Gym",
+          "Residential"
+        ]
+      },
+      {
+        "companyId": 20424781,
+        "companyType": 2,
+        "name": "ESTABLECIMIENTOS INCA SAC",
+        "countryCode": "PE",
+        "tradeTotal": 22918,
+        "scope": "Grocery products",
+        "address": "AVENIDA ARGENTINA 6360 URB JORGE CHAVEZ ETAPA DOS",
+        "tradeMatchTotal": 2,
+        "tradeMatchPercent": 0.01,
+        "latestTradeDate": 1723478400000,
+        "productDesc": "BBQ CEPILLO  (3 EN 1), BISTRO BBQ, S/M",
+        "productTags": [
+          "BBQ",
+          "Brush"
+        ],
+        "productNames": [
+          "BBQ Brush"
+        ],
+        "productAlias": [
+          "BBQ Cleaner Brush",
+          "Grill Brush",
+          "Barbecue Brush",
+          "BBQ Scrubber",
+          "Grill Cleaner"
+        ],
+        "productSuperordinate": [
+          "Plastic",
+          "Metal",
+          "Bristles",
+          "Handle Material",
+          "Cleaning Components"
+        ],
+        "productDownstream": [
+          "BBQ Equipment",
+          "Grill Sets",
+          "Outdoor Kitchens",
+          "Cooking Utensils",
+          "BBQ Accessories"
+        ]
+      },
+      {
+        "companyId": 20427769,
+        "companyType": 2,
+        "name": "CASATORO S A",
+        "countryCode": "CO",
+        "tradeTotal": 160663,
+        "scope": "Offers new and used cars, vans, trucks, and SUVs (sports utility vehicles) under some of the world's leading brands, including Ford, Volkswagen, Mazda and Renault",
+        "address": "170 97, CARRERA 72",
+        "tradeMatchTotal": 1,
+        "tradeMatchPercent": 0.0,
+        "latestTradeDate": 1732464000000,
+        "productDesc": "DO: 11BOGBO11240121, DECLARACION: 23/24; CODIGO USUARIO UTS: B00263 ; MERCANCIA NUEVA DE PRIMERA CALIDAD, NO REQUIERE REGISTRO DE IMPORTACION DE ACUERDO CON LO ESTABLECIDO EN EL DECRETO 0925 DEL 09 DE MAYO DEL 2013; NOMBRE COMERCIAL: CEPILLO RASPADOR, ...",
+        "productTags": [
+          "Scraper Brush",
+          "Scraper",
+          "Brush"
+        ],
+        "productNames": [
+          "Scraper Brush"
+        ],
+        "productAlias": [
+          "Scrub Brush",
+          "Scouring Brush",
+          "Wire Brush",
+          "Scraping Brush",
+          "Cleaning Brush"
+        ],
+        "productSuperordinate": [
+          "Plastic",
+          "Metal",
+          "Fiber",
+          "Wood",
+          "Rubber"
+        ],
+        "productDownstream": [
+          "Home Cleaning",
+          "Industrial Cleaning",
+          "Automotive Cleaning",
+          "Construction",
+          "Maintenance"
+        ]
+      }
+    ]
+  },
+  "fee": {
+    "apiCost": 150,
+    "accountBalance": 84190,
+    "uuid": "0507df34-5d7b-4ca3-9f06-ebee917c8bfa"
+  }
+}

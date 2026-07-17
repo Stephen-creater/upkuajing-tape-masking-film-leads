@@ -1,0 +1,677 @@
+{
+  "code": 0,
+  "msg": "success",
+  "data": {
+    "cursor": "eyJjb21wYW55X2lkIjoyMDQzNzk0M30=",
+    "list": [
+      {
+        "companyId": 20431871,
+        "companyType": 2,
+        "name": "FORMOSA INDUSTRIES CORPORATION",
+        "countryCode": "VN",
+        "tradeTotal": 18827,
+        "scope": "Yarn and textile fibers",
+        "address": "NHON TRACH 3 INDUSTRIAL ZONE, HIEP PHUOC COMMUNE, NHON TRACH DISTRICT",
+        "tradeMatchTotal": 18,
+        "tradeMatchPercent": 0.1,
+        "latestTradeDate": 1773244800000,
+        "productDesc": "Graphite brushes for turbine generators BRUSH DWG NO. M530-278715 M798-5G1901 C1 P/N: 3 320, 100% new",
+        "productTags": [],
+        "productNames": [],
+        "productAlias": [],
+        "productSuperordinate": [],
+        "productDownstream": []
+      },
+      {
+        "companyId": 20432253,
+        "companyType": 2,
+        "name": "JAY JAY MILLS INDIA PRIVATE LIMITED",
+        "countryCode": "IN",
+        "tradeTotal": 9638,
+        "scope": "Cotton knitwear (bodysuits; sleepsuits; caps, mittens and booties; blankets; bibs; hooded towels, washcloths; fitted sheets for bassinets / cradles / cribs / cots; t-shirts; thermal nightwear; and long johns (pyjama sets))",
+        "address": "10, K.V. P. LAYOUT , ALANGADU, KARUVAMPALAYAM",
+        "tradeMatchTotal": 13,
+        "tradeMatchPercent": 0.13,
+        "latestTradeDate": 1750089600000,
+        "productDesc": "NT300110 BRUSH 1018 - SPARE PARTS FOR STRIPPING MACHINE (NOVAJET 3500)NT300110 BRUSH 1018 - SPARE PARTS FOR STRIPPING MACHINE (NOV",
+        "productTags": [],
+        "productNames": [],
+        "productAlias": [],
+        "productSuperordinate": [],
+        "productDownstream": []
+      },
+      {
+        "companyId": 20437934,
+        "companyType": 2,
+        "name": "METTLER-TOLEDO INDIA PRIVATE LIMITED",
+        "countryCode": "IN",
+        "tradeTotal": 65242,
+        "scope": "Precision instruments and services for many applications in research and development, quality control, production, logistics and retail to customers around the world",
+        "address": "AMAR HILLSAKI VIHAR ROAD POWAI MUMBAI",
+        "tradeMatchTotal": 13,
+        "tradeMatchPercent": 0.02,
+        "latestTradeDate": 1750003200000,
+        "productDesc": "28130698 Brush, Strip, Mink 100mm 28130698 Brush, Strip, Mink 100mm",
+        "productTags": [],
+        "productNames": [],
+        "productAlias": [],
+        "productSuperordinate": [],
+        "productDownstream": []
+      },
+      {
+        "companyId": 20436546,
+        "companyType": 2,
+        "name": "ALEMAUTOS PANAMA S A",
+        "countryCode": "PA",
+        "tradeTotal": 26747,
+        "scope": "platinum,a1,targa,a3,t po,automoviles,zn,model y,hybrid,cayenne,ronic,carrera,tipt,4 ch,p1,turbo,porsche cayenne,maca,tayca,ring",
+        "address": "edificio porsche, avenida centenario costa del este. apartado postal 0833-0040 plaza panamá, panamá",
+        "tradeMatchTotal": 10,
+        "tradeMatchPercent": 0.04,
+        "latestTradeDate": 1753372800000,
+        "productDesc": "ESCOBILLA",
+        "productTags": [
+          "ESCOBILLA"
+        ],
+        "productNames": [
+          "ESCOBILLA"
+        ],
+        "productAlias": [
+          "Brush",
+          "Scrubber",
+          "Broom",
+          "Duster",
+          "Mop"
+        ],
+        "productSuperordinate": [
+          "Plastic",
+          "Wood",
+          "Metal",
+          "Fiber",
+          "Rubber"
+        ],
+        "productDownstream": [
+          "Home Cleaning",
+          "Industrial Cleaning",
+          "Automotive Cleaning",
+          "Office Cleaning",
+          "Kitchen Cleaning"
+        ]
+      },
+      {
+        "companyId": 20437799,
+        "companyType": 2,
+        "name": "Y T ENTERPRISES",
+        "countryCode": "IN",
+        "tradeTotal": 1628,
+        "scope": "screw,gym accessory,android,tripod stand,exercise,small basket,cycle,skating board,mobile back cover,sunglasses,shoe accessory,body massager,pill box,magnet button,gag,microphone,shoes with light,small glass,ladies umbrella,mmi",
+        "address": "no.22-4-358, alijah kotla, yakutpura, hyderabad, ap.,pin-500053",
+        "tradeMatchTotal": 10,
+        "tradeMatchPercent": 0.61,
+        "latestTradeDate": 1752422400000,
+        "productDesc": "SMALL CLEANING BRUSH SMALL CLEANING BRUSH",
+        "productTags": [],
+        "productNames": [],
+        "productAlias": [],
+        "productSuperordinate": [],
+        "productDownstream": []
+      },
+      {
+        "companyId": 20432069,
+        "companyType": 2,
+        "name": "IVOCLAR VIVADENT MARKETING (INDIA) PRIVATE LIMITED",
+        "countryCode": "IN",
+        "tradeTotal": 23348,
+        "scope": "",
+        "address": "NO. 824/825/826/827, EIGHH FLOOR, TOWER A, EMMAR DIGITAL GREEN, SECTOR-61, GOLF EXTENSION",
+        "tradeMatchTotal": 7,
+        "tradeMatchPercent": 0.03,
+        "latestTradeDate": 1753200000000,
+        "productDesc": "593403 IPS Ceramic Sep. Liq. w. Brush 15 ml(FOR DENTAL PRODUCTS)(FOR DENTAL PRODUCTS)",
+        "productTags": [
+          "Ceramic",
+          "Dental products"
+        ],
+        "productNames": [
+          "IPS Ceramic Sep. Liq."
+        ],
+        "productAlias": [
+          "Ceramic Separating Liquid",
+          "Dental Ceramic Separator",
+          "IPS Ceramic Solution",
+          "Ceramic Dental Liquid",
+          "Separating Liquid for Ceramics"
+        ],
+        "productSuperordinate": [
+          "Ceramic raw materials",
+          "Chemical solvents",
+          "Separating agents",
+          "Brush",
+          "Dental additives"
+        ],
+        "productDownstream": [
+          "Dental crowns",
+          "Dental bridges",
+          "Dental implants",
+          "Dental inlays",
+          "Dental onlays"
+        ]
+      },
+      {
+        "companyId": 20432358,
+        "companyType": 2,
+        "name": "TESA TAPES (INDIA) PRIVATE LIMITED",
+        "countryCode": "IN",
+        "tradeTotal": 9090,
+        "scope": "Self-adhesive·products·and·solutions",
+        "address": "301, 3RD FLOOR , LAKHANI CENTRIUM , PLOT NO. 27, SECTOR 15, CBD BELAPUR NAVI MUMBAI",
+        "tradeMatchTotal": 6,
+        "tradeMatchPercent": 0.07,
+        "latestTradeDate": 1747929600000,
+        "productDesc": "(52064-00000-02) CLEANING ROLLER ; LENGTH: M: 6,00 ; WIDTH:MM: 120,00 ; BASE PRODUCT COLOR: WITHOUT COLOR / NOT DEFINED(52064-00000-02) CLEANING ROLLER ; LENGTH: M: 6,00 ; WIDTH:",
+        "productTags": [
+          "Cleaning",
+          "Roller"
+        ],
+        "productNames": [
+          "Cleaning Roller"
+        ],
+        "productAlias": [
+          "Cleaning Cylinder",
+          "Cleaning Drum",
+          "Dust Roller",
+          "Lint Roller",
+          "Cleaning Brush Roller"
+        ],
+        "productSuperordinate": [
+          "Plastic",
+          "Fiber",
+          "Adhesive",
+          "Metal",
+          "Rubber"
+        ],
+        "productDownstream": [
+          "Home Cleaning",
+          "Office Cleaning",
+          "Vehicle Cleaning",
+          "Industrial Cleaning",
+          "Hotel Cleaning"
+        ]
+      },
+      {
+        "companyId": 20432918,
+        "companyType": 2,
+        "name": "DAETWYLER SWISSTEC INDIA PRIVATE LIMITED",
+        "countryCode": "IN",
+        "tradeTotal": 2220,
+        "scope": "",
+        "address": "Gut No 262, Lavale Road,",
+        "tradeMatchTotal": 6,
+        "tradeMatchPercent": 0.27,
+        "latestTradeDate": 1735228800000,
+        "productDesc": "538912 STAINLESS STEEL BRUSH FOR PRINTING MACHINES",
+        "productTags": [],
+        "productNames": [],
+        "productAlias": [],
+        "productSuperordinate": [],
+        "productDownstream": []
+      },
+      {
+        "companyId": 20431266,
+        "companyType": 2,
+        "name": "PEE VEE TEXTILES LIMITED",
+        "countryCode": "IN",
+        "tradeTotal": 9452,
+        "scope": "Textile fibres",
+        "address": "AT-JAMBTAHSIL-SAMUDRAPUR JAMB",
+        "tradeMatchTotal": 5,
+        "tradeMatchPercent": 0.05,
+        "latestTradeDate": 1748793600000,
+        "productDesc": "SPARES FOR OVERHEAD TRAVELLING CLEANER (OTC) LC003501 BRUSHPC-2 WITHOUT SPRINGSPARES FOR OVERHEAD TRAVELLING CLEANER (OTC)",
+        "productTags": [
+          "Spares",
+          "Overhead travelling cleaner",
+          "Brush"
+        ],
+        "productNames": [
+          "Spares for overhead travelling cleaner",
+          "Brush"
+        ],
+        "productAlias": [
+          "Overhead cleaner parts",
+          "Cleaner spares",
+          "Travelling cleaner components",
+          "Brush for cleaner",
+          "Overhead cleaner brush"
+        ],
+        "productSuperordinate": [
+          "Metal",
+          "Plastic",
+          "Rubber",
+          "Fiber",
+          "Alloy"
+        ],
+        "productDownstream": [
+          "Warehouses",
+          "Factories",
+          "Workshops",
+          "Garages",
+          "Cleaning equipment"
+        ]
+      },
+      {
+        "companyId": 20432695,
+        "companyType": 2,
+        "name": "SCHUNK INTEC INDIA PRIVATE LIMITED",
+        "countryCode": "IN",
+        "tradeTotal": 32243,
+        "scope": "",
+        "address": "NO. 80-B , YESHWANTHPUR INDUSTRIAL SUBURBS",
+        "tradeMatchTotal": 5,
+        "tradeMatchPercent": 0.02,
+        "latestTradeDate": 1739548800000,
+        "productDesc": "CLEANING BRUSH,TYPE ZB DIA 16 - 9102017 CLEANING BRUSH,TYPE ZB DIA 16 - 9102017",
+        "productTags": [
+          "Cleaning",
+          "Brush"
+        ],
+        "productNames": [
+          "Cleaning brush"
+        ],
+        "productAlias": [
+          "Scrub brush",
+          "Broom brush",
+          "Duster brush",
+          "Toothbrush",
+          "Paintbrush"
+        ],
+        "productSuperordinate": [
+          "Plastic",
+          "Wood",
+          "Bristles",
+          "Metal",
+          "Fiber"
+        ],
+        "productDownstream": [
+          "Household cleaning",
+          "Industrial cleaning",
+          "Automotive cleaning",
+          "Office cleaning",
+          "Kitchen cleaning"
+        ]
+      },
+      {
+        "companyId": 20431960,
+        "companyType": 2,
+        "name": "BANDO INDIA PRIVATE LIMITED",
+        "countryCode": "IN",
+        "tradeTotal": 38028,
+        "scope": "Belts and belting products",
+        "address": "PLOT NO. 436 , SECTOR 8 , IMT MANESAR",
+        "tradeMatchTotal": 3,
+        "tradeMatchPercent": 0.01,
+        "latestTradeDate": 1743523200000,
+        "productDesc": "FLAP WHEEL NH F-5 200X100MM (FOR WASHING BRUSH) (1PCS) (EQUIPMENT FOR RUBBER BELT FOR PROCESSING & FOR CAPTIVE CONSUMPTIFLAP WHEEL NH F-5 200X100MM (FOR WASHING BRUSH) (1PCS) (EQUI",
+        "productTags": [
+          "Flap wheel",
+          "Washing brush",
+          "Rubber belt processing"
+        ],
+        "productNames": [
+          "Flap wheel"
+        ],
+        "productAlias": [
+          "Flap brush wheel",
+          "Buffing flap wheel",
+          "Abrasive flap wheel",
+          "Polishing flap wheel",
+          "Grinding flap wheel"
+        ],
+        "productSuperordinate": [
+          "Abrasive materials",
+          "Bonding agents",
+          "Metal hubs",
+          "Fabric",
+          "Resin"
+        ],
+        "productDownstream": [
+          "Automotive manufacturing",
+          "Metalworking",
+          "Woodworking",
+          "Furniture production",
+          "Aerospace industry"
+        ]
+      },
+      {
+        "companyId": 20431306,
+        "companyType": 2,
+        "name": "BHOTIKA TRADE AND SERVICES PRIVATE LIMITED",
+        "countryCode": "IN",
+        "tradeTotal": 1211,
+        "scope": "",
+        "address": "NO. SF-11, SECOND FLOOR, VASANT SQUARE MALL, COMMUNITY CENTRE, VAST KUNJ",
+        "tradeMatchTotal": 2,
+        "tradeMatchPercent": 0.17,
+        "latestTradeDate": 1752854400000,
+        "productDesc": "BRUSH & SPRING ASBLY (PART NO:M13312-12)(FOR WELDING EQUIPMENT)(C.O:USA)BRUSH & SPRING ASBLY (FOR WELDING EQUIPMENT)",
+        "productTags": [
+          "Brush",
+          "Spring",
+          "Assembly",
+          "Welding equipment"
+        ],
+        "productNames": [
+          "Brush & Spring Assembly"
+        ],
+        "productAlias": [
+          "Brush and Spring Combination",
+          "Brush Spring Unit",
+          "Spring Brush Assembly",
+          "Welding Brush Spring Assembly",
+          "Brush Spring Component"
+        ],
+        "productSuperordinate": [
+          "Metal",
+          "Plastic",
+          "Brush material",
+          "Spring steel",
+          "Electrical components"
+        ],
+        "productDownstream": [
+          "Welding machines",
+          "Industrial welding equipment",
+          "Automotive welding tools",
+          "Construction welding devices",
+          "Manufacturing welding systems"
+        ]
+      },
+      {
+        "companyId": 20431550,
+        "companyType": 2,
+        "name": "MEHALA MACHINES INDIA LIMITED",
+        "countryCode": "IN",
+        "tradeTotal": 11325,
+        "scope": "Offers designing, cutting (CAD/CAM), sewing, unit production systems, embroidery, and completes range of high-tech finishing equipment, packing, material handling systems, and other related products",
+        "address": "36, HARVEY ROAD , TIRUPUR",
+        "tradeMatchTotal": 2,
+        "tradeMatchPercent": 0.02,
+        "latestTradeDate": 1750176000000,
+        "productDesc": "BRISTLE BLOCK (CUTTING MACHINE SPARE PRTS) BRISTLE BLOCK (CUTTING MACHINE SPARE PRTS)",
+        "productTags": [
+          "Bristle Block",
+          "Cutting machine",
+          "Spare parts"
+        ],
+        "productNames": [
+          "Bristle Block"
+        ],
+        "productAlias": [
+          "Bristle Pad",
+          "Bristle Brush Block",
+          "Scrubbing Block",
+          "Cleaning Block",
+          "Polishing Block"
+        ],
+        "productSuperordinate": [
+          "Bristles",
+          "Plastic",
+          "Resin",
+          "Fiber",
+          "Glue"
+        ],
+        "productDownstream": [
+          "Cutting Machines",
+          "Milling Machines",
+          "Drilling Machines",
+          "Grinding Machines",
+          "Lathes"
+        ]
+      },
+      {
+        "companyId": 20432315,
+        "companyType": 2,
+        "name": "TIRTH AGRO TECHNOLOGY PRIVATE LIMITED",
+        "countryCode": "IN",
+        "tradeTotal": 5253,
+        "scope": "Agricultural implements (rotary tiller, roto seed drill, rotary plough/power harrow, post hole digger, rotary slasher, fertilizer broadcaster, mobile shredder, compost spreader, round baler SRB 60, hay rake, sugarcane harvester, square baler, boom sprayer, and others)",
+        "address": "SHAKTIMAN , SURVEY NO.-108/1 , PLOT NO. B NH-27, NR. BHARUDI TOLL PLAZA, BHUNAVA (VILLAGE) GONDAL",
+        "tradeMatchTotal": 2,
+        "tradeMatchPercent": 0.04,
+        "latestTradeDate": 1752163200000,
+        "productDesc": "BILL HOOK CPT COMPARABLE TO 1240 23 03 01 TA11554BO (AGRICULTURE SPARE PARTS)BILL HOOK CPT COMPARABLE TO 1240 23 03 01 TA11554BO (AGRICUL",
+        "productTags": [
+          "Bill Hook",
+          "Agriculture",
+          "Spare Parts"
+        ],
+        "productNames": [
+          "Bill Hook"
+        ],
+        "productAlias": [
+          "Billhook",
+          "Brush Hook",
+          "Scythe Hook",
+          "Pruning Hook",
+          "Farm Hook"
+        ],
+        "productSuperordinate": [
+          "Metal",
+          "Wood",
+          "Steel",
+          "Iron",
+          "Handle Material"
+        ],
+        "productDownstream": [
+          "Farm",
+          "Garden",
+          "Orchard",
+          "Ranch",
+          "Agricultural Field"
+        ]
+      },
+      {
+        "companyId": 20432489,
+        "companyType": 2,
+        "name": "FAIRWAY SPORTS PRIVATE LIMITED",
+        "countryCode": "IN",
+        "tradeTotal": 1573,
+        "scope": "",
+        "address": "63/ 64 , 6TH FLOOR , MEHERZIN BLDG, 109/ A WOOD HOUSE ROAD, COLABA MUMBAI",
+        "tradeMatchTotal": 1,
+        "tradeMatchPercent": 0.06,
+        "latestTradeDate": 1744387200000,
+        "productDesc": "Carbon Brush1017946 [PARTS OF ELECTRIC GOLF CAR] Carbon Brush1017946 [PARTS OF ELECTRIC GOLF CAR]",
+        "productTags": [
+          "Carbon Brush",
+          "Electric Golf Car",
+          "Parts"
+        ],
+        "productNames": [
+          "Carbon Brush"
+        ],
+        "productAlias": [
+          "Graphite Brush",
+          "Motor Brush",
+          "Commutator Brush",
+          "Electrical Brush",
+          "Conductive Brush"
+        ],
+        "productSuperordinate": [
+          "Carbon",
+          "Graphite",
+          "Copper",
+          "Resin",
+          "Metal"
+        ],
+        "productDownstream": [
+          "Electric Golf Cars",
+          "Electric Bicycles",
+          "Electric Scooters",
+          "Electric Motors",
+          "Generators"
+        ]
+      },
+      {
+        "companyId": 20432849,
+        "companyType": 2,
+        "name": "MICRONTECH ENGINEERS PRIVATE LIMITED",
+        "countryCode": "IN",
+        "tradeTotal": 7727,
+        "scope": "",
+        "address": "NO. R-22, FIRST FLOOR, RITA BLOCK , SHAKAR PUR",
+        "tradeMatchTotal": 1,
+        "tradeMatchPercent": 0.01,
+        "latestTradeDate": 1751040000000,
+        "productDesc": "MC21411  - Car bon brush (long) (SPARE PARTS OF INDUSTRIAL PNEUMATIC TOOLS)MC21411  - Car bon brush (long) (SPARE PARTS OF INDUSTRIAL P",
+        "productTags": [],
+        "productNames": [],
+        "productAlias": [],
+        "productSuperordinate": [],
+        "productDownstream": []
+      },
+      {
+        "companyId": 20433595,
+        "companyType": 2,
+        "name": "PAWAN HANS LIMITED",
+        "countryCode": "IN",
+        "tradeTotal": 4057,
+        "scope": "Helicopter support services",
+        "address": "C-14, SECTOR-1 NOIDA GAUTAM BUDDHA",
+        "tradeMatchTotal": 1,
+        "tradeMatchPercent": 0.02,
+        "latestTradeDate": 1722182400000,
+        "productDesc": "HELICOPTER PARTS: BRUSH (228004) (5977-14-468-1122)",
+        "productTags": [],
+        "productNames": [],
+        "productAlias": [],
+        "productSuperordinate": [],
+        "productDownstream": []
+      },
+      {
+        "companyId": 20435743,
+        "companyType": 2,
+        "name": "AUTO CENTRO S A",
+        "countryCode": "PA",
+        "tradeTotal": 17585,
+        "scope": "t2,e 30,h4,h7,e 31,e 23,e 18,f1",
+        "address": "avenida ricardo j alfaro panama city, panama",
+        "tradeMatchTotal": 1,
+        "tradeMatchPercent": 0.01,
+        "latestTradeDate": 1722614400000,
+        "productDesc": "ESCOBILLAS",
+        "productTags": [
+          "Escobillas"
+        ],
+        "productNames": [
+          "Escobillas"
+        ],
+        "productAlias": [
+          "Broom",
+          "Brush",
+          "Sweeper",
+          "Duster",
+          "Scrubber"
+        ],
+        "productSuperordinate": [
+          "Wood",
+          "Plastic",
+          "Bristles",
+          "Fiber",
+          "Metal"
+        ],
+        "productDownstream": [
+          "Household cleaning",
+          "Industrial cleaning",
+          "Office cleaning",
+          "Hotel cleaning",
+          "School cleaning"
+        ]
+      },
+      {
+        "companyId": 20436168,
+        "companyType": 2,
+        "name": "AIR FACILITY PANAMA S A",
+        "countryCode": "PA",
+        "tradeTotal": 9518,
+        "scope": "",
+        "address": "calle 1era, el carmen, atras de la caja de ahorros de via espa�a entrando por la calle de eterna plaque, chalet #137.",
+        "tradeMatchTotal": 1,
+        "tradeMatchPercent": 0.01,
+        "latestTradeDate": 1736179200000,
+        "productDesc": "CEPILLO PARA CABELLO, REF.: 2325",
+        "productTags": [
+          "Hair brush"
+        ],
+        "productNames": [
+          "Hair Brush"
+        ],
+        "productAlias": [
+          "Hair comb",
+          "Scalp brush",
+          "Styling brush",
+          "Paddle brush",
+          "Round brush"
+        ],
+        "productSuperordinate": [
+          "Plastic",
+          "Wood",
+          "Bristles",
+          "Nylon",
+          "Metal"
+        ],
+        "productDownstream": [
+          "Salon",
+          "Beauty store",
+          "Online retailer",
+          "Department store",
+          "Drugstore"
+        ]
+      },
+      {
+        "companyId": 20437943,
+        "companyType": 2,
+        "name": "INTAS PHARMACEUTICALS LIMITED",
+        "countryCode": "IN",
+        "tradeTotal": 15548,
+        "scope": "Pharmaceutical preparations",
+        "address": "MORAIYA SARKHEJ BAWLA ROAD, TAL-SANAND, MO, PLOT NO :423P A GIDC",
+        "tradeMatchTotal": 1,
+        "tradeMatchPercent": 0.01,
+        "latestTradeDate": 1726761600000,
+        "productDesc": "BRUSHES ( FOC )",
+        "productTags": [
+          "Brushes"
+        ],
+        "productNames": [
+          "Brushes"
+        ],
+        "productAlias": [
+          "Bristle brush",
+          "Scrub brush",
+          "Paintbrush",
+          "Toothbrush",
+          "Hairbrush"
+        ],
+        "productSuperordinate": [
+          "Bristles",
+          "Wood",
+          "Plastic",
+          "Metal",
+          "Fiber"
+        ],
+        "productDownstream": [
+          "Household cleaning",
+          "Painting",
+          "Personal hygiene",
+          "Automotive cleaning",
+          "Industrial cleaning"
+        ]
+      }
+    ]
+  },
+  "fee": {
+    "apiCost": 150,
+    "accountBalance": 83740,
+    "uuid": "509d7e2d-d5b2-4808-b747-8f96e3871158"
+  }
+}

@@ -1,0 +1,767 @@
+{
+  "code": 0,
+  "msg": "success",
+  "data": {
+    "cursor": "eyJjb21wYW55X2lkIjoxNDgwNDN9",
+    "list": [
+      {
+        "companyId": 20245209,
+        "companyType": 2,
+        "name": "MARKET NINETY NINE PRIVATE LIMITED",
+        "countryCode": "IN",
+        "tradeTotal": 16706,
+        "scope": "",
+        "address": "D-153 OKHLA INDUSTRIAL AREA, PHASE-I, NEW  SOUTH",
+        "tradeMatchTotal": 31,
+        "tradeMatchPercent": 0.19,
+        "latestTradeDate": 1753027200000,
+        "productDesc": "HAIR BRUSH (DB0308) (HOUSE HOLD ITEMS) (HOUSE HOLD ITEMS)",
+        "productTags": [
+          "Hair Brush",
+          "Household Items"
+        ],
+        "productNames": [
+          "Hair Brush"
+        ],
+        "productAlias": [
+          "Hair Comb",
+          "Scalp Brush",
+          "Paddle Brush",
+          "Round Brush",
+          "Boar Bristle Brush"
+        ],
+        "productSuperordinate": [
+          "Plastic",
+          "Wood",
+          "Bristles",
+          "Nylon",
+          "Metal"
+        ],
+        "productDownstream": [
+          "Salon",
+          "Beauty Store",
+          "Retail Store",
+          "Online Shop",
+          "Personal Use"
+        ]
+      },
+      {
+        "companyId": 22593803,
+        "companyType": 2,
+        "name": "VEGA INDUSTRIES PRIVATE LIMITED",
+        "countryCode": "IN",
+        "tradeTotal": 7590,
+        "scope": "Beauty accessory tools and equipment; Personal care appliances; Men's grooming tools; Manicure tools; Pedicure tools",
+        "address": "SECOND FLOOR , NO. 57 , SHIV ARCADE, A-2, ACHARYA NIKETAN, MAYUR VIHAR PHASE -I,  EAST",
+        "tradeMatchTotal": 9,
+        "tradeMatchPercent": 0.12,
+        "latestTradeDate": 1750262400000,
+        "productDesc": "HAIR BRUSH-MODEL NO: E14-RB-BRAND: VEGA-MAKE: NINGBO YONGSHENG-ENDUSE: SALEHAIR BRUSH-MODEL NO: E14-RB-BRAND: VEGA-MAKE: NINGBO YONGSHE",
+        "productTags": [
+          "Hair Brush",
+          "VEGA",
+          "SALE"
+        ],
+        "productNames": [
+          "Hair Brush"
+        ],
+        "productAlias": [
+          "Hair Comb",
+          "Scalp Brush",
+          "Paddle Brush",
+          "Round Brush",
+          "Boar Bristle Brush"
+        ],
+        "productSuperordinate": [
+          "Plastic",
+          "Wood",
+          "Bristles",
+          "Nylon",
+          "Metal"
+        ],
+        "productDownstream": [
+          "Salon",
+          "Beauty Store",
+          "Online Retailer",
+          "Department Store",
+          "Drugstore"
+        ]
+      },
+      {
+        "companyId": 297290,
+        "companyType": 2,
+        "name": "riba smith s.a.",
+        "countryCode": "PA",
+        "tradeTotal": 369871,
+        "scope": "accesorios,ice,pindstrup,plastic boxes,85 pa,forestry machinery,pick up,tura,ys,sphagnum,dangerous good,r 12,substrate,e time,agricultura,sports ground,horti,arg,yan,ip p",
+        "address": "via simon bolivar panama city, panama",
+        "tradeMatchTotal": 8,
+        "tradeMatchPercent": 0.0,
+        "latestTradeDate": 1735228800000,
+        "productDesc": "CEPILLOS PARA EL CABELLO",
+        "productTags": [
+          "Hairbrush"
+        ],
+        "productNames": [
+          "Hairbrush"
+        ],
+        "productAlias": [
+          "Hair comb",
+          "Scalp brush",
+          "Paddle brush",
+          "Round brush",
+          "Boar bristle brush"
+        ],
+        "productSuperordinate": [
+          "Plastic",
+          "Wood",
+          "Bristles",
+          "Metal",
+          "Nylon"
+        ],
+        "productDownstream": [
+          "Salon",
+          "Beauty store",
+          "Online retailer",
+          "Department store",
+          "Drugstore"
+        ]
+      },
+      {
+        "companyId": 20366959,
+        "companyType": 2,
+        "name": "SUNNY MARKETING SYSTEMS INC",
+        "countryCode": "US",
+        "tradeTotal": 1141,
+        "scope": "Grocery products",
+        "address": "163 E BETHPAGE RD",
+        "tradeMatchTotal": 7,
+        "tradeMatchPercent": 0.61,
+        "latestTradeDate": 1757865600000,
+        "productDesc": "BACK BRUSH BOAR BRISTLE BACK BRUSH BRISTLE BRUSH FOOT BRUSH PUMICE STONE W BRUSH DC NO.:DC US ISF NO.:SO - - THIS SHIPMENT CONTAINS NO SOLID WOOD PACKING MATERIAL ",
+        "productTags": [],
+        "productNames": [],
+        "productAlias": [],
+        "productSuperordinate": [],
+        "productDownstream": []
+      },
+      {
+        "companyId": 20424424,
+        "companyType": 2,
+        "name": "CITY MALL S A",
+        "countryCode": "PA",
+        "tradeTotal": 89936,
+        "scope": "made up article,cotton terry towel,bath towel,8 inc",
+        "address": "2150 martin luther king jr. blvd.,panama city",
+        "tradeMatchTotal": 7,
+        "tradeMatchPercent": 0.01,
+        "latestTradeDate": 1743004800000,
+        "productDesc": "CEPILLOS DE CABELLO",
+        "productTags": [
+          "Hairbrush"
+        ],
+        "productNames": [
+          "Hairbrush"
+        ],
+        "productAlias": [
+          "Hair comb",
+          "Scalp brush",
+          "Paddle brush",
+          "Round brush",
+          "Boar bristle brush"
+        ],
+        "productSuperordinate": [
+          "Plastic",
+          "Wood",
+          "Bristles",
+          "Metal",
+          "Nylon"
+        ],
+        "productDownstream": [
+          "Salon",
+          "Beauty store",
+          "Retail store",
+          "Online store",
+          "Personal use"
+        ]
+      },
+      {
+        "companyId": 21304103,
+        "companyType": 2,
+        "name": "THE CRICKET COMPANY LLC",
+        "countryCode": "US",
+        "tradeTotal": 716,
+        "scope": "no wooden,shears,plastic ma,facial,cat,card,bowl,apron,model,sensi,razor blade,ppe,aber,paper card,comb,spin bike,cement,shears scissors,hair clip,stainless",
+        "address": "68 leveroni ct., suite 200 novato, ca 94949",
+        "tradeMatchTotal": 7,
+        "tradeMatchPercent": 0.98,
+        "latestTradeDate": 1750867200000,
+        "productDesc": "HAIR BRUSHES ",
+        "productTags": [
+          "Hair brush"
+        ],
+        "productNames": [
+          "Hair brush"
+        ],
+        "productAlias": [
+          "Hair comb",
+          "Scalp brush",
+          "Paddle brush",
+          "Round brush",
+          "Boar bristle brush"
+        ],
+        "productSuperordinate": [
+          "Plastic",
+          "Wood",
+          "Bristles",
+          "Metal",
+          "Nylon"
+        ],
+        "productDownstream": [
+          "Salon",
+          "Beauty store",
+          "Retail store",
+          "Online store",
+          "Personal use"
+        ]
+      },
+      {
+        "companyId": 213144,
+        "companyType": 2,
+        "name": "kiss nail products",
+        "countryCode": "US",
+        "tradeTotal": 6821,
+        "scope": "paper strips,eyelash,ev,master box,no n,pet cover,broadway,cat,hair products,makeup cosmetic,k2,cure,cap hair,xt,air c,packaging material,kit,nail art paint,makeup preparation,skin care cosmetics",
+        "address": "57 seaview boulevard port washington ny 11050 united states",
+        "tradeMatchTotal": 6,
+        "tradeMatchPercent": 0.09,
+        "latestTradeDate": 1753286400000,
+        "productDesc": "5-KBSH30Y1#&Bàn chải chải tóc bằng nhựa ( kích thước 20.9x5.7x4.3cm), HAIR BRUSHES - KBSH30Y1, Hiệu: Kiss, hàng mới 100%#&VN",
+        "productTags": [
+          "Hair Brush",
+          "Plastic",
+          "Kiss"
+        ],
+        "productNames": [
+          "Hair Brush"
+        ],
+        "productAlias": [
+          "Hair Comb",
+          "Scalp Brush",
+          "Paddle Brush",
+          "Round Brush",
+          "Boar Bristle Brush"
+        ],
+        "productSuperordinate": [
+          "Plastic Resin",
+          "Colorant",
+          "Molding Additives",
+          "Packaging Materials",
+          "Manufacturing Equipment"
+        ],
+        "productDownstream": [
+          "Salon",
+          "Beauty Store",
+          "Online Retailer",
+          "Department Store",
+          "Drugstore"
+        ]
+      },
+      {
+        "companyId": 71380857,
+        "companyType": 2,
+        "name": "BOC INTERNATIONAL, INC.",
+        "countryCode": "US",
+        "tradeTotal": 45286,
+        "scope": "",
+        "address": "Boston, Massachusetts",
+        "tradeMatchTotal": 6,
+        "tradeMatchPercent": 0.01,
+        "latestTradeDate": 1762704000000,
+        "productDesc": "CUSTOM STYLE BRUSH PADDLE THICK- CT-NP STYLE BOOST BRUSH PADDLE BLUE- CT-NP AMZ WOOD BOAR STYLER- CT ACE BOAR STYLER CURL FLEXI ...",
+        "productTags": [
+          "Brush Paddle",
+          "Wood Boar Styler",
+          "Curl Flexi",
+          "Hair Styling"
+        ],
+        "productNames": [
+          "Brush Paddle",
+          "Wood Boar Styler",
+          "Curl Flexi"
+        ],
+        "productAlias": [
+          "Hair Brush",
+          "Styling Brush",
+          "Paddle Brush",
+          "Boar Bristle Brush",
+          "Flexi Curl Brush"
+        ],
+        "productSuperordinate": [
+          "Wood",
+          "Boar Bristles",
+          "Plastic",
+          "Metal",
+          "Synthetic Fibers"
+        ],
+        "productDownstream": [
+          "Salons",
+          "Beauty Stores",
+          "Online Retailers",
+          "Consumers",
+          "Hair Stylists"
+        ]
+      },
+      {
+        "companyId": 330791,
+        "companyType": 2,
+        "name": "tiendas industriales asociadas tia s.a.",
+        "countryCode": "EC",
+        "tradeTotal": 48803,
+        "scope": "cart,three cart,ail,oris,easy open tin,writer,tienda,fcl container,wet wipes,candles,carton,cake,labe,ndr,stainless steel,handicraft,ni ti,tack,delivery,c ec",
+        "address": "chimborazo 217 y luque, guayaquil, , ecuador",
+        "tradeMatchTotal": 4,
+        "tradeMatchPercent": 0.01,
+        "latestTradeDate": 1743696000000,
+        "productDesc": "CEPILLO P CABELLO 18 CM",
+        "productTags": [
+          "Hair Brush",
+          "18 CM"
+        ],
+        "productNames": [
+          "Hair Brush"
+        ],
+        "productAlias": [
+          "Hair Comb",
+          "Scalp Brush",
+          "Paddle Brush",
+          "Round Brush",
+          "Boar Bristle Brush"
+        ],
+        "productSuperordinate": [
+          "Plastic",
+          "Wood",
+          "Bristles",
+          "Nylon",
+          "Metal"
+        ],
+        "productDownstream": [
+          "Salon",
+          "Beauty Store",
+          "Online Retailer",
+          "Department Store",
+          "Drugstore"
+        ]
+      },
+      {
+        "companyId": 28383084,
+        "companyType": 2,
+        "name": "COPPEL SA DE CV",
+        "countryCode": "MX",
+        "tradeTotal": 583858,
+        "scope": "Clothing apparels",
+        "address": "SANTA CRUZ NO 39",
+        "tradeMatchTotal": 4,
+        "tradeMatchPercent": 0.0,
+        "latestTradeDate": 1747152000000,
+        "productDesc": "CEPILLO PARA EL CABELLO GLASH&TRENDS MY1876",
+        "productTags": [
+          "Hairbrush",
+          "GLASH&TRENDS"
+        ],
+        "productNames": [
+          "Hairbrush"
+        ],
+        "productAlias": [
+          "Hair comb",
+          "Scalp brush",
+          "Paddle brush",
+          "Round brush",
+          "Boar bristle brush"
+        ],
+        "productSuperordinate": [
+          "Plastic",
+          "Wood",
+          "Bristles",
+          "Metal",
+          "Nylon"
+        ],
+        "productDownstream": [
+          "Salon",
+          "Beauty store",
+          "Online retailer",
+          "Department store",
+          "Gift shop"
+        ]
+      },
+      {
+        "companyId": 218590,
+        "companyType": 2,
+        "name": "burmax",
+        "countryCode": "US",
+        "tradeTotal": 4748,
+        "scope": "ev,mist spray,nonwoven,large car,un no,black vinyl,hair products,non woven roll,plastic bottle pump,down timer,collapsible bowl,cure,cuticle,fir,accessories hair,styling cap,holder plastic,divi,kit,t 23",
+        "address": "28 barretts avenue holtsville, ny 11742",
+        "tradeMatchTotal": 3,
+        "tradeMatchPercent": 0.06,
+        "latestTradeDate": 1773590400000,
+        "productDesc": "SCALPMASTER CUSHION PADDLE BRUSH<br/>SCALPMASTER CUSHION PADDLE BRUSH GOLD MAGIC FIST PIK ARISTOCRAT BUCKET OF RAT TAIL COMBS SOFT N STYLE PC. FROSTING KIT DL PRO / GRIT -SIDED CURVED FOOT FILE FANTASEA NATURAL BRISTLE BODY BRUSH LATINA PIECE BONECOMB ROLL UP LATINA RAT TAIL COMB LATINA IN COMB SCALPMASTER TORTOISE WET COMB SCALPMASTER CUSHION BRUSH BALL-TIPPED ROW SCALPMASTER % BOAR BRISTLE BEARD BRUSH SCALPMASTER NYLON WOOD TEASING BRUSH - ROW SCALPMASTER OVAL CUSHION PADDLE BRUSH SCALPMASTER RECTANGULAR CUSHION PADDLE BRUSH SCALPMASTER CUSHION PADDLE BRUSH SCALPMASTER VENT BRUSH SCALPMASTER . BOAR BRISTLE ROUND BRUSH SALONCHIC DETANGLING COMB SOFT N STYLE PICTURE MIRROR X . - BLACK SOFT N STYLE MAKE-UP MIRROR - BLACK SOFT N STYLE MAKE-UP MIRROR - BURGUNDY SNS -SIDED MIRROR WITH HANDLE AND STAND - X/X SOFT N STYLE TIPPING CAPS - /BX W/NEEDLE BABYLISS % BOAR BRISTLE BEARD BRUSH ARISTOCRAT PC PROFESS IONAL COMB SET ROLL- UP FANTASEA EYELASH CURLER FANTASEA GLAMOUR LASHES INDIVIDUAL LONG BLACK LATINA PC. FROSTING KIT SCALPMASTER WAVE BRUSH - BOAR/NYLON SALON CHIC -/ CONCAVE THERMAL BRUSH SCALPMASTER STYLING BRUSH SCALPMASTER BOAR/NYLON FLEXIBLE DETANGLING BRUSH DL PRO ERGONOMIC NAIL BRUSH FANTASEA PC. COTTON ASSORTMENT PCS SHOWER CAP DISPOSABLE PROCESSING CAPS CT PCS SHOWER CAP FANTASEA NATURAL BRISTLEBODY MASSAGE @, P.R. CHINA. @TEL -- FAX @-- @@@@PH ()- @@@@FAX ()-<br/>",
+        "productTags": [
+          "pro",
+          "sea",
+          "aristo",
+          "gund",
+          "styling",
+          "concave",
+          "shower cap",
+          "divi",
+          "cushion paddle brush",
+          "mirror",
+          "nail brush",
+          "grit",
+          "brush",
+          "ball",
+          "comb set",
+          "ppe",
+          "k ar",
+          "roll",
+          "foot file",
+          "rat",
+          "oar",
+          "rv",
+          "salon",
+          "boar bristle",
+          "gold",
+          "picture",
+          "natural bristle",
+          "body brush",
+          "pc",
+          "iec",
+          "bucket",
+          "vent",
+          "chi",
+          "fanta",
+          "roll up",
+          "tin",
+          "angular",
+          "cotton",
+          "lp",
+          "wood"
+        ],
+        "productNames": [],
+        "productAlias": [],
+        "productSuperordinate": [],
+        "productDownstream": []
+      },
+      {
+        "companyId": 304650,
+        "companyType": 2,
+        "name": "conair corp.",
+        "countryCode": "PK",
+        "tradeTotal": 63614,
+        "scope": "icma,high street,t hong kong,ice,macys,ev,cano,memo,clover,root,nas,asics,x man,sled,exfo,replacement kit,brush diamond,board,spir,sky",
+        "address": "1 cummings point roadstamford, ct 06902",
+        "tradeMatchTotal": 3,
+        "tradeMatchPercent": 0.0,
+        "latestTradeDate": 1733760000000,
+        "productDesc": "HAIR BRUSH",
+        "productTags": [
+          "Hair brush"
+        ],
+        "productNames": [
+          "Hair brush"
+        ],
+        "productAlias": [
+          "Hair comb",
+          "Scalp brush",
+          "Paddle brush",
+          "Round brush",
+          "Boar bristle brush"
+        ],
+        "productSuperordinate": [
+          "Plastic",
+          "Wood",
+          "Bristles",
+          "Metal",
+          "Nylon"
+        ],
+        "productDownstream": [
+          "Salon",
+          "Beauty store",
+          "Online retailer",
+          "Department store",
+          "Drugstore"
+        ]
+      },
+      {
+        "companyId": 71408362,
+        "companyType": 2,
+        "name": "FLEXPORT INTERNATIONAL LLC",
+        "countryCode": "US",
+        "tradeTotal": 225958,
+        "scope": "",
+        "address": "San Francisco, California",
+        "tradeMatchTotal": 3,
+        "tradeMatchPercent": 0.0,
+        "latestTradeDate": 1776700800000,
+        "productDesc": "SUNGLASSES GLASSES CASE GLASSES POUCH DUAL-SIDED BOAR BRISTLE BRUSH OMEGA COPPER FINNED TUBES BRONZE HEADER PLATES/BACK PLATE WA...",
+        "productTags": [],
+        "productNames": [],
+        "productAlias": [],
+        "productSuperordinate": [],
+        "productDownstream": []
+      },
+      {
+        "companyId": 71499290,
+        "companyType": 2,
+        "name": "US PACIFIC TRANSPORT INC.",
+        "countryCode": "US",
+        "tradeTotal": 42284,
+        "scope": "",
+        "address": "Flushing, New York",
+        "tradeMatchTotal": 3,
+        "tradeMatchPercent": 0.01,
+        "latestTradeDate": 1753977600000,
+        "productDesc": "COMBS HAIR-SLIDES AND THE LIKE NESOI RED PROFESSIONAL 100 BOAR MED C.BRUSH,WOODEN RED PROFESSIONAL 2-SIDED PM.BRISTLE BRUSH,WOOD...",
+        "productTags": [
+          "Comb",
+          "Hair-slide",
+          "Boar",
+          "Wooden",
+          "Brush"
+        ],
+        "productNames": [
+          "Comb",
+          "Hair-slide",
+          "Boar Bristle Brush",
+          "Wooden Bristle Brush"
+        ],
+        "productAlias": [
+          "Hair Comb",
+          "Hair Clip",
+          "Pig Bristle Brush",
+          "Timber Bristle Brush",
+          "Hair Ornament"
+        ],
+        "productSuperordinate": [
+          "Boar Hair",
+          "Wood",
+          "Plastic",
+          "Metal",
+          "Resin"
+        ],
+        "productDownstream": [
+          "Salon",
+          "Beauty Shop",
+          "Retail Store",
+          "Online Shop",
+          "Personal Use"
+        ]
+      },
+      {
+        "companyId": 33983,
+        "companyType": 2,
+        "name": "letmex s.a.de c.v.",
+        "countryCode": "MX",
+        "tradeTotal": 3949,
+        "scope": "",
+        "address": "terranova 414 casi esq.enrique c. livas col.vistahermosa",
+        "tradeMatchTotal": 2,
+        "tradeMatchPercent": 0.05,
+        "latestTradeDate": 1750089600000,
+        "productDesc": "CEPILLO PARA CABELLO TIMCO C8820",
+        "productTags": [
+          "Hairbrush",
+          "TIMCO"
+        ],
+        "productNames": [
+          "Hairbrush"
+        ],
+        "productAlias": [
+          "Hair comb",
+          "Scalp brush",
+          "Paddle brush",
+          "Round brush",
+          "Boar bristle brush"
+        ],
+        "productSuperordinate": [
+          "Plastic",
+          "Wood",
+          "Bristles",
+          "Nylon",
+          "Metal"
+        ],
+        "productDownstream": [
+          "Salon",
+          "Beauty store",
+          "Retail store",
+          "Online store",
+          "Personal use"
+        ]
+      },
+      {
+        "companyId": 5704702,
+        "companyType": 2,
+        "name": "mercado luz s a",
+        "countryCode": "PY",
+        "tradeTotal": 19635,
+        "scope": "",
+        "address": "av. e. madero # 942, piso 1",
+        "tradeMatchTotal": 2,
+        "tradeMatchPercent": 0.01,
+        "latestTradeDate": 1730131200000,
+        "productDesc": "CEPILLOS PARA CABELLO, PARA USO DOMESTICO DETALLDOS EN SUB ITEMS",
+        "productTags": [
+          "Hairbrush",
+          "Domestic use"
+        ],
+        "productNames": [
+          "Hairbrush"
+        ],
+        "productAlias": [
+          "Hair comb",
+          "Scalp brush",
+          "Paddle brush",
+          "Round brush",
+          "Boar bristle brush"
+        ],
+        "productSuperordinate": [
+          "Plastic",
+          "Wood",
+          "Bristles",
+          "Nylon",
+          "Metal"
+        ],
+        "productDownstream": [
+          "Salon",
+          "Household",
+          "Beauty store",
+          "Hotel",
+          "Barbershop"
+        ]
+      },
+      {
+        "companyId": 20648333,
+        "companyType": 2,
+        "name": "MATRIZ IDEAS S A",
+        "countryCode": "CL",
+        "tradeTotal": 11010,
+        "scope": "Management and administration of investments and assets in the fields of design, sale and distribution of small furniture, housewear, house decoration and items for kids (acquisition, management and use of investments, as well as holding the securities or other equity interests of its corporate subsidiaries: the DH Empresas SA, which is involved in the operation of the Casa&Ideas and Nino&Ideas chain stores; Inversiones Casa & Ideas SA; and Servicios Logisticos Retail Ltda)",
+        "address": "MANUEL ANTONIO TOCORNAL 356",
+        "tradeMatchTotal": 2,
+        "tradeMatchPercent": 0.02,
+        "latestTradeDate": 1731427200000,
+        "productDesc": "CEPILLOCASA IDEASCABELLOPARA CUIDADO PERSONAL.",
+        "productTags": [
+          "Hairbrush",
+          "Personal care"
+        ],
+        "productNames": [
+          "Hairbrush"
+        ],
+        "productAlias": [
+          "Hair comb",
+          "Scalp brush",
+          "Paddle brush",
+          "Round brush",
+          "Boar bristle brush"
+        ],
+        "productSuperordinate": [
+          "Plastic",
+          "Wood",
+          "Bristles",
+          "Nylon",
+          "Metal"
+        ],
+        "productDownstream": [
+          "Salon",
+          "Beauty store",
+          "Online retailer",
+          "Department store",
+          "Drugstore"
+        ]
+      },
+      {
+        "companyId": 71396678,
+        "companyType": 2,
+        "name": "DHY SHIPPING LINE INC.",
+        "countryCode": "US",
+        "tradeTotal": 110846,
+        "scope": "",
+        "address": "Monterey Park, California",
+        "tradeMatchTotal": 2,
+        "tradeMatchPercent": 0.0,
+        "latestTradeDate": 1767110400000,
+        "productDesc": "RAIN CAP IN CLEAR KIDS CT COIL TRAVEL CASE PC DENMAN BRUSH BOAR BRISTLE ROUND BRUSH COLO R BLOCK HANDLE PK ASSORTED COLOR HAIR R...",
+        "productTags": [],
+        "productNames": [],
+        "productAlias": [],
+        "productSuperordinate": [],
+        "productDownstream": []
+      },
+      {
+        "companyId": 71512528,
+        "companyType": 2,
+        "name": "ZIM LOGISTICS USA LLC",
+        "countryCode": "PR",
+        "tradeTotal": 48187,
+        "scope": "",
+        "address": "Miami, Florida",
+        "tradeMatchTotal": 2,
+        "tradeMatchPercent": 0.0,
+        "latestTradeDate": 1772380800000,
+        "productDesc": "DETANGLE BRUSH PADDLE DETANGLER HAIRBRUSH HEA TLESS HAIR CURLER, PINK PC DENMAN BRUSH BOAR BRISTLE ROUND BRUSH COLOR BLOCK HANDL...",
+        "productTags": [],
+        "productNames": [],
+        "productAlias": [],
+        "productSuperordinate": [],
+        "productDownstream": []
+      },
+      {
+        "companyId": 148043,
+        "companyType": 2,
+        "name": "g b kent&sons plc",
+        "countryCode": "",
+        "tradeTotal": 1382,
+        "scope": "handmade bowl,bowls,handicrafts,acacia wood,iu,hair,boil,handicraft woodware handmade,white pig,lids,bristle,cut bristle,pig hair,pig,butt,oar,lid,xtr,indian,woodware",
+        "address": "river gade works,london road,apsley,hemel hempstead herts",
+        "tradeMatchTotal": 1,
+        "tradeMatchPercent": 0.07,
+        "latestTradeDate": 1738339200000,
+        "productDesc": "HAIR BRUSHES",
+        "productTags": [
+          "Hair brush"
+        ],
+        "productNames": [
+          "Hair brush"
+        ],
+        "productAlias": [
+          "Hair comb",
+          "Scalp brush",
+          "Paddle brush",
+          "Round brush",
+          "Boar bristle brush"
+        ],
+        "productSuperordinate": [
+          "Plastic",
+          "Wood",
+          "Bristles",
+          "Metal",
+          "Nylon"
+        ],
+        "productDownstream": [
+          "Salon",
+          "Beauty store",
+          "Online retailer",
+          "Department store",
+          "Drugstore"
+        ]
+      }
+    ]
+  },
+  "fee": {
+    "apiCost": 150,
+    "accountBalance": 84640,
+    "uuid": "2197ef05-b840-4cad-9b47-a72c1ba862c2"
+  }
+}

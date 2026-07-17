@@ -1,0 +1,673 @@
+{
+  "code": 0,
+  "msg": "success",
+  "data": {
+    "cursor": "eyJjb21wYW55X2lkIjoyMDQzMTIxOX0=",
+    "list": [
+      {
+        "companyId": 20430861,
+        "companyType": 2,
+        "name": "MITSUBA INDIA PRIVATE LIMITED",
+        "countryCode": "IN",
+        "tradeTotal": 20890,
+        "scope": "Motor vehicle parts and accessories",
+        "address": "D-8, SIPCOT INDUSTRIAL COMPLEX , GUMMIDIPOONDI",
+        "tradeMatchTotal": 530,
+        "tradeMatchPercent": 2.54,
+        "latestTradeDate": 1770739200000,
+        "productDesc": "A6297-261-01-000#&Steel spring, coiled type, used in the manufacture of pump devices for electronic fuel pumps in motorcycles/FP26A001A,SPRING,,BRUSH P/N: A6297-261-01-000, 100% new#&VN",
+        "productTags": [],
+        "productNames": [],
+        "productAlias": [],
+        "productSuperordinate": [],
+        "productDownstream": []
+      },
+      {
+        "companyId": 20430995,
+        "companyType": 2,
+        "name": "MUMUSO RETAIL PRIVATE LIMITED",
+        "countryCode": "IN",
+        "tradeTotal": 10832,
+        "scope": "",
+        "address": "SIKKIM COMMERCE HOUSE, SIXTH FLOOR, NO. 4/1, MIDDLETON STREET",
+        "tradeMatchTotal": 220,
+        "tradeMatchPercent": 2.03,
+        "latestTradeDate": 1753632000000,
+        "productDesc": "AIR CUSHION HAIR BRUSH WITH CLEANING SCRAPER (RECTANGULAR/BLUE)AIR CUSHION HAIR BRUSH WITH CLEANING SCRAPER (RECTANGULAR/BL",
+        "productTags": [],
+        "productNames": [],
+        "productAlias": [],
+        "productSuperordinate": [],
+        "productDownstream": []
+      },
+      {
+        "companyId": 20430846,
+        "companyType": 2,
+        "name": "G R AGRO INDUSTRIES",
+        "countryCode": "IN",
+        "tradeTotal": 4970,
+        "scope": "double side,nozzle plastic,straight type,aspire,cock,r 12,big clip,brochure,waist support,big core,plunger,carton,r bra,water tank,bharat,heavy belt,w re,automat,plastic stand,drill",
+        "address": "2 trivedi chamber maharani road near babadeep complex maharani road indore mp 452007",
+        "tradeMatchTotal": 81,
+        "tradeMatchPercent": 1.63,
+        "latestTradeDate": 1752940800000,
+        "productDesc": "AGRICULTURAL BRUSH CUTTER SIDEPACK GX35 AGRICULTURAL BRUSH CUTTER SIDEPACK GX35",
+        "productTags": [],
+        "productNames": [],
+        "productAlias": [],
+        "productSuperordinate": [],
+        "productDownstream": []
+      },
+      {
+        "companyId": 20431055,
+        "companyType": 2,
+        "name": "ARTSANA INDIA PRIVATE LIMITED",
+        "countryCode": "IN",
+        "tradeTotal": 17053,
+        "scope": "",
+        "address": "SEVENTH FLOOR, PARAS TWIN TOWER , GOLF COURSE ROAD , SECTOR-54",
+        "tradeMatchTotal": 66,
+        "tradeMatchPercent": 0.39,
+        "latestTradeDate": 1753459200000,
+        "productDesc": "00069189200000 BOTTLE BRUSH (3 IN 1) (BRAND CHICCO) 00069189200000 BOTTLE BRUSH (3 IN 1) (BRAND CHICCO)",
+        "productTags": [],
+        "productNames": [],
+        "productAlias": [],
+        "productSuperordinate": [],
+        "productDownstream": []
+      },
+      {
+        "companyId": 20430971,
+        "companyType": 2,
+        "name": "JUNGHEINRICH LIFT TRUCK INDIA PRIVATE LIMITED",
+        "countryCode": "IN",
+        "tradeTotal": 45721,
+        "scope": "",
+        "address": "FLAT NO. 203 & 204 , 2ND FLOOR , A-WING, DELPHI BLDG CENTRAL AVENUE, HIRANANDANI BUSINESS PARK,POWAI MUMBAI",
+        "tradeMatchTotal": 41,
+        "tradeMatchPercent": 0.09,
+        "latestTradeDate": 1753718400000,
+        "productDesc": "28718060AT BRUSH ROCKER (SPARE PARTS FOR FORKLIFTS) 28718060AT BRUSH ROCKER (SPARE PARTS FOR FORKLIFTS)",
+        "productTags": [
+          "brush rocker",
+          "spare parts",
+          "forklifts"
+        ],
+        "productNames": [
+          "Brush Rocker"
+        ],
+        "productAlias": [
+          "Rocker Brush",
+          "Forklift Brush Rocker",
+          "Brush Rocker Assembly",
+          "Rocker for Forklift Brush",
+          "Forklift Spare Brush Rocker"
+        ],
+        "productSuperordinate": [
+          "Metal",
+          "Plastic",
+          "Copper",
+          "Insulating Material",
+          "Brush"
+        ],
+        "productDownstream": [
+          "Forklift",
+          "Warehouse Equipment",
+          "Industrial Vehicle",
+          "Lifting Equipment",
+          "Material Handling Machine"
+        ]
+      },
+      {
+        "companyId": 20430327,
+        "companyType": 2,
+        "name": "L OREAL CHILE S A",
+        "countryCode": "CL",
+        "tradeTotal": 127360,
+        "scope": "Cosmetics and other related products (skin care, hair care, hair coloring, make-up and styling products)",
+        "address": "AVENIDA APOQUINDO 3885 201 , LAS CONDES",
+        "tradeMatchTotal": 26,
+        "tradeMatchPercent": 0.02,
+        "latestTradeDate": 1745424000000,
+        "productDesc": "BROCHALOREAL PINCELES Y BROCHAS P/PINTURA ARTISTICA, P/ESCRIBIR Y SIMILARES, P/COSMETICA",
+        "productTags": [
+          "Brush",
+          "Painting",
+          "Writing",
+          "Cosmetics"
+        ],
+        "productNames": [
+          "Painting brush",
+          "Writing brush",
+          "Cosmetic brush"
+        ],
+        "productAlias": [
+          "Paintbrush",
+          "Calligraphy brush",
+          "Makeup brush",
+          "Artist's brush",
+          "Writing implement"
+        ],
+        "productSuperordinate": [
+          "Bristles",
+          "Wood",
+          "Plastic",
+          "Metal",
+          "Fur"
+        ],
+        "productDownstream": [
+          "Artwork",
+          "Calligraphy works",
+          "Makeup products",
+          "Writing materials",
+          "Decorative items"
+        ]
+      },
+      {
+        "companyId": 20431871,
+        "companyType": 2,
+        "name": "FORMOSA INDUSTRIES CORPORATION",
+        "countryCode": "VN",
+        "tradeTotal": 18827,
+        "scope": "Yarn and textile fibers",
+        "address": "NHON TRACH 3 INDUSTRIAL ZONE, HIEP PHUOC COMMUNE, NHON TRACH DISTRICT",
+        "tradeMatchTotal": 18,
+        "tradeMatchPercent": 0.1,
+        "latestTradeDate": 1773244800000,
+        "productDesc": "Graphite brushes for turbine generators BRUSH DWG NO. M530-278715 M798-5G1901 C1 P/N: 3 320, 100% new",
+        "productTags": [],
+        "productNames": [],
+        "productAlias": [],
+        "productSuperordinate": [],
+        "productDownstream": []
+      },
+      {
+        "companyId": 20431034,
+        "companyType": 2,
+        "name": "FRONIUS INDIA PRIVATE LIMITED",
+        "countryCode": "IN",
+        "tradeTotal": 63941,
+        "scope": "",
+        "address": "PLOT NO. 71/2/B , PIMPRI INDUSTRIAL AREA , MIDC BHOSARI",
+        "tradeMatchTotal": 14,
+        "tradeMatchPercent": 0.02,
+        "latestTradeDate": 1750176000000,
+        "productDesc": "CARBON BRUSH MC 150(5 PCS PER SET) 5PCS 42,0510,0510 (3 PK) CARBON BRUSH MC 150(5 PCS PER SET) 5PCS 42,0510,0510 (3 PK)",
+        "productTags": [],
+        "productNames": [],
+        "productAlias": [],
+        "productSuperordinate": [],
+        "productDownstream": []
+      },
+      {
+        "companyId": 20432253,
+        "companyType": 2,
+        "name": "JAY JAY MILLS INDIA PRIVATE LIMITED",
+        "countryCode": "IN",
+        "tradeTotal": 9638,
+        "scope": "Cotton knitwear (bodysuits; sleepsuits; caps, mittens and booties; blankets; bibs; hooded towels, washcloths; fitted sheets for bassinets / cradles / cribs / cots; t-shirts; thermal nightwear; and long johns (pyjama sets))",
+        "address": "10, K.V. P. LAYOUT , ALANGADU, KARUVAMPALAYAM",
+        "tradeMatchTotal": 13,
+        "tradeMatchPercent": 0.13,
+        "latestTradeDate": 1750089600000,
+        "productDesc": "NT300110 BRUSH 1018 - SPARE PARTS FOR STRIPPING MACHINE (NOVAJET 3500)NT300110 BRUSH 1018 - SPARE PARTS FOR STRIPPING MACHINE (NOV",
+        "productTags": [],
+        "productNames": [],
+        "productAlias": [],
+        "productSuperordinate": [],
+        "productDownstream": []
+      },
+      {
+        "companyId": 20432069,
+        "companyType": 2,
+        "name": "IVOCLAR VIVADENT MARKETING (INDIA) PRIVATE LIMITED",
+        "countryCode": "IN",
+        "tradeTotal": 23348,
+        "scope": "",
+        "address": "NO. 824/825/826/827, EIGHH FLOOR, TOWER A, EMMAR DIGITAL GREEN, SECTOR-61, GOLF EXTENSION",
+        "tradeMatchTotal": 7,
+        "tradeMatchPercent": 0.03,
+        "latestTradeDate": 1753200000000,
+        "productDesc": "593403 IPS Ceramic Sep. Liq. w. Brush 15 ml(FOR DENTAL PRODUCTS)(FOR DENTAL PRODUCTS)",
+        "productTags": [
+          "Ceramic",
+          "Dental products"
+        ],
+        "productNames": [
+          "IPS Ceramic Sep. Liq."
+        ],
+        "productAlias": [
+          "Ceramic Separating Liquid",
+          "Dental Ceramic Separator",
+          "IPS Ceramic Solution",
+          "Ceramic Dental Liquid",
+          "Separating Liquid for Ceramics"
+        ],
+        "productSuperordinate": [
+          "Ceramic raw materials",
+          "Chemical solvents",
+          "Separating agents",
+          "Brush",
+          "Dental additives"
+        ],
+        "productDownstream": [
+          "Dental crowns",
+          "Dental bridges",
+          "Dental implants",
+          "Dental inlays",
+          "Dental onlays"
+        ]
+      },
+      {
+        "companyId": 20430449,
+        "companyType": 2,
+        "name": "CODELCO CHILE",
+        "countryCode": "CL",
+        "tradeTotal": 73956,
+        "scope": "grinding ball",
+        "address": "huerfanos 1270, santiago, chile",
+        "tradeMatchTotal": 6,
+        "tradeMatchPercent": 0.01,
+        "latestTradeDate": 1747238400000,
+        "productDesc": "BOQUILLABRUSHMETAL COMUNPARTE PARA SISTEMA DE DISPERSIONDE LIQUIDOS, DE CHANCADOR DEMATERIA MINERAL. LAS DEMÁS",
+        "productTags": [
+          "Brush Metal Nozzle",
+          "Liquid Dispersion",
+          "Mineral Material Crusher"
+        ],
+        "productNames": [
+          "Brush Metal Nozzle"
+        ],
+        "productAlias": [
+          "Metal Brush Nozzle",
+          "Nozzle for Liquid Dispersion",
+          "Dispersion Nozzle",
+          "Brush Nozzle",
+          "Metal Nozzle"
+        ],
+        "productSuperordinate": [
+          "Metal",
+          "Alloy",
+          "Steel",
+          "Iron",
+          "Copper"
+        ],
+        "productDownstream": [
+          "Liquid Dispersion Systems",
+          "Mineral Material Crushers",
+          "Industrial Equipment",
+          "Chemical Plants",
+          "Manufacturing Facilities"
+        ]
+      },
+      {
+        "companyId": 20432358,
+        "companyType": 2,
+        "name": "TESA TAPES (INDIA) PRIVATE LIMITED",
+        "countryCode": "IN",
+        "tradeTotal": 9090,
+        "scope": "Self-adhesive·products·and·solutions",
+        "address": "301, 3RD FLOOR , LAKHANI CENTRIUM , PLOT NO. 27, SECTOR 15, CBD BELAPUR NAVI MUMBAI",
+        "tradeMatchTotal": 6,
+        "tradeMatchPercent": 0.07,
+        "latestTradeDate": 1747929600000,
+        "productDesc": "(52064-00000-02) CLEANING ROLLER ; LENGTH: M: 6,00 ; WIDTH:MM: 120,00 ; BASE PRODUCT COLOR: WITHOUT COLOR / NOT DEFINED(52064-00000-02) CLEANING ROLLER ; LENGTH: M: 6,00 ; WIDTH:",
+        "productTags": [
+          "Cleaning",
+          "Roller"
+        ],
+        "productNames": [
+          "Cleaning Roller"
+        ],
+        "productAlias": [
+          "Cleaning Cylinder",
+          "Cleaning Drum",
+          "Dust Roller",
+          "Lint Roller",
+          "Cleaning Brush Roller"
+        ],
+        "productSuperordinate": [
+          "Plastic",
+          "Fiber",
+          "Adhesive",
+          "Metal",
+          "Rubber"
+        ],
+        "productDownstream": [
+          "Home Cleaning",
+          "Office Cleaning",
+          "Vehicle Cleaning",
+          "Industrial Cleaning",
+          "Hotel Cleaning"
+        ]
+      },
+      {
+        "companyId": 20431266,
+        "companyType": 2,
+        "name": "PEE VEE TEXTILES LIMITED",
+        "countryCode": "IN",
+        "tradeTotal": 9452,
+        "scope": "Textile fibres",
+        "address": "AT-JAMBTAHSIL-SAMUDRAPUR JAMB",
+        "tradeMatchTotal": 5,
+        "tradeMatchPercent": 0.05,
+        "latestTradeDate": 1748793600000,
+        "productDesc": "SPARES FOR OVERHEAD TRAVELLING CLEANER (OTC) LC003501 BRUSHPC-2 WITHOUT SPRINGSPARES FOR OVERHEAD TRAVELLING CLEANER (OTC)",
+        "productTags": [
+          "Spares",
+          "Overhead travelling cleaner",
+          "Brush"
+        ],
+        "productNames": [
+          "Spares for overhead travelling cleaner",
+          "Brush"
+        ],
+        "productAlias": [
+          "Overhead cleaner parts",
+          "Cleaner spares",
+          "Travelling cleaner components",
+          "Brush for cleaner",
+          "Overhead cleaner brush"
+        ],
+        "productSuperordinate": [
+          "Metal",
+          "Plastic",
+          "Rubber",
+          "Fiber",
+          "Alloy"
+        ],
+        "productDownstream": [
+          "Warehouses",
+          "Factories",
+          "Workshops",
+          "Garages",
+          "Cleaning equipment"
+        ]
+      },
+      {
+        "companyId": 20431960,
+        "companyType": 2,
+        "name": "BANDO INDIA PRIVATE LIMITED",
+        "countryCode": "IN",
+        "tradeTotal": 38028,
+        "scope": "Belts and belting products",
+        "address": "PLOT NO. 436 , SECTOR 8 , IMT MANESAR",
+        "tradeMatchTotal": 3,
+        "tradeMatchPercent": 0.01,
+        "latestTradeDate": 1743523200000,
+        "productDesc": "FLAP WHEEL NH F-5 200X100MM (FOR WASHING BRUSH) (1PCS) (EQUIPMENT FOR RUBBER BELT FOR PROCESSING & FOR CAPTIVE CONSUMPTIFLAP WHEEL NH F-5 200X100MM (FOR WASHING BRUSH) (1PCS) (EQUI",
+        "productTags": [
+          "Flap wheel",
+          "Washing brush",
+          "Rubber belt processing"
+        ],
+        "productNames": [
+          "Flap wheel"
+        ],
+        "productAlias": [
+          "Flap brush wheel",
+          "Buffing flap wheel",
+          "Abrasive flap wheel",
+          "Polishing flap wheel",
+          "Grinding flap wheel"
+        ],
+        "productSuperordinate": [
+          "Abrasive materials",
+          "Bonding agents",
+          "Metal hubs",
+          "Fabric",
+          "Resin"
+        ],
+        "productDownstream": [
+          "Automotive manufacturing",
+          "Metalworking",
+          "Woodworking",
+          "Furniture production",
+          "Aerospace industry"
+        ]
+      },
+      {
+        "companyId": 20430284,
+        "companyType": 2,
+        "name": "SERIMAX SRL",
+        "countryCode": "PY",
+        "tradeTotal": 6635,
+        "scope": "",
+        "address": "ACAHAY C/ RUTA TRANSCHACO",
+        "tradeMatchTotal": 2,
+        "tradeMatchPercent": 0.03,
+        "latestTradeDate": 1749139200000,
+        "productDesc": "MANUFACTURAS DIVERSAS ESCOBAS, CEPILLOS Y BROCHAS, AUNQUE SEAN PARTES DE MAQUINAS, APARATOS O VEHICULOS, ESCOBAS MECANICAS DE USO MANUAL, EXCEPTO LAS DE MOTOR, PINCELES Y PLUMEROS, CABEZAS PREPARADAS PARA ARTICULOS DE CEPILLERIA, ALMOHADILLAS Y RODILLOS, ",
+        "productTags": [
+          "Broom",
+          "Brush",
+          "Scrubber",
+          "Paintbrush",
+          "Cleaning",
+          "Painting"
+        ],
+        "productNames": [
+          "Broom",
+          "Brush",
+          "Scrubber",
+          "Paintbrush",
+          "Head for brushing articles"
+        ],
+        "productAlias": [
+          "Sweeper",
+          "Scrubbing brush",
+          "Cleaning brush",
+          "Paint roller",
+          "Scrubbing pad"
+        ],
+        "productSuperordinate": [
+          "Plastic",
+          "Wood",
+          "Bristle",
+          "Fiber",
+          "Metal"
+        ],
+        "productDownstream": [
+          "Household cleaning",
+          "Industrial cleaning",
+          "Automotive cleaning",
+          "Construction painting",
+          "Art painting"
+        ]
+      },
+      {
+        "companyId": 20431136,
+        "companyType": 2,
+        "name": "TUUSHIN LLC",
+        "countryCode": "MN",
+        "tradeTotal": 3752,
+        "scope": "",
+        "address": "TUUSHIN BLDG , AMAR STREET , 8TH KHOROO , SUKHBAATAR DISTRICT",
+        "tradeMatchTotal": 2,
+        "tradeMatchPercent": 0.05,
+        "latestTradeDate": 1725033600000,
+        "productDesc": "BRUSH D | NAILS",
+        "productTags": [],
+        "productNames": [],
+        "productAlias": [],
+        "productSuperordinate": [],
+        "productDownstream": []
+      },
+      {
+        "companyId": 20431306,
+        "companyType": 2,
+        "name": "BHOTIKA TRADE AND SERVICES PRIVATE LIMITED",
+        "countryCode": "IN",
+        "tradeTotal": 1211,
+        "scope": "",
+        "address": "NO. SF-11, SECOND FLOOR, VASANT SQUARE MALL, COMMUNITY CENTRE, VAST KUNJ",
+        "tradeMatchTotal": 2,
+        "tradeMatchPercent": 0.17,
+        "latestTradeDate": 1752854400000,
+        "productDesc": "BRUSH & SPRING ASBLY (PART NO:M13312-12)(FOR WELDING EQUIPMENT)(C.O:USA)BRUSH & SPRING ASBLY (FOR WELDING EQUIPMENT)",
+        "productTags": [
+          "Brush",
+          "Spring",
+          "Assembly",
+          "Welding equipment"
+        ],
+        "productNames": [
+          "Brush & Spring Assembly"
+        ],
+        "productAlias": [
+          "Brush and Spring Combination",
+          "Brush Spring Unit",
+          "Spring Brush Assembly",
+          "Welding Brush Spring Assembly",
+          "Brush Spring Component"
+        ],
+        "productSuperordinate": [
+          "Metal",
+          "Plastic",
+          "Brush material",
+          "Spring steel",
+          "Electrical components"
+        ],
+        "productDownstream": [
+          "Welding machines",
+          "Industrial welding equipment",
+          "Automotive welding tools",
+          "Construction welding devices",
+          "Manufacturing welding systems"
+        ]
+      },
+      {
+        "companyId": 20431550,
+        "companyType": 2,
+        "name": "MEHALA MACHINES INDIA LIMITED",
+        "countryCode": "IN",
+        "tradeTotal": 11325,
+        "scope": "Offers designing, cutting (CAD/CAM), sewing, unit production systems, embroidery, and completes range of high-tech finishing equipment, packing, material handling systems, and other related products",
+        "address": "36, HARVEY ROAD , TIRUPUR",
+        "tradeMatchTotal": 2,
+        "tradeMatchPercent": 0.02,
+        "latestTradeDate": 1750176000000,
+        "productDesc": "BRISTLE BLOCK (CUTTING MACHINE SPARE PRTS) BRISTLE BLOCK (CUTTING MACHINE SPARE PRTS)",
+        "productTags": [
+          "Bristle Block",
+          "Cutting machine",
+          "Spare parts"
+        ],
+        "productNames": [
+          "Bristle Block"
+        ],
+        "productAlias": [
+          "Bristle Pad",
+          "Bristle Brush Block",
+          "Scrubbing Block",
+          "Cleaning Block",
+          "Polishing Block"
+        ],
+        "productSuperordinate": [
+          "Bristles",
+          "Plastic",
+          "Resin",
+          "Fiber",
+          "Glue"
+        ],
+        "productDownstream": [
+          "Cutting Machines",
+          "Milling Machines",
+          "Drilling Machines",
+          "Grinding Machines",
+          "Lathes"
+        ]
+      },
+      {
+        "companyId": 20432315,
+        "companyType": 2,
+        "name": "TIRTH AGRO TECHNOLOGY PRIVATE LIMITED",
+        "countryCode": "IN",
+        "tradeTotal": 5253,
+        "scope": "Agricultural implements (rotary tiller, roto seed drill, rotary plough/power harrow, post hole digger, rotary slasher, fertilizer broadcaster, mobile shredder, compost spreader, round baler SRB 60, hay rake, sugarcane harvester, square baler, boom sprayer, and others)",
+        "address": "SHAKTIMAN , SURVEY NO.-108/1 , PLOT NO. B NH-27, NR. BHARUDI TOLL PLAZA, BHUNAVA (VILLAGE) GONDAL",
+        "tradeMatchTotal": 2,
+        "tradeMatchPercent": 0.04,
+        "latestTradeDate": 1752163200000,
+        "productDesc": "BILL HOOK CPT COMPARABLE TO 1240 23 03 01 TA11554BO (AGRICULTURE SPARE PARTS)BILL HOOK CPT COMPARABLE TO 1240 23 03 01 TA11554BO (AGRICUL",
+        "productTags": [
+          "Bill Hook",
+          "Agriculture",
+          "Spare Parts"
+        ],
+        "productNames": [
+          "Bill Hook"
+        ],
+        "productAlias": [
+          "Billhook",
+          "Brush Hook",
+          "Scythe Hook",
+          "Pruning Hook",
+          "Farm Hook"
+        ],
+        "productSuperordinate": [
+          "Metal",
+          "Wood",
+          "Steel",
+          "Iron",
+          "Handle Material"
+        ],
+        "productDownstream": [
+          "Farm",
+          "Garden",
+          "Orchard",
+          "Ranch",
+          "Agricultural Field"
+        ]
+      },
+      {
+        "companyId": 20431219,
+        "companyType": 2,
+        "name": "MANDARIN INTERNATIONAL PRIVATE LIMITED",
+        "countryCode": "IN",
+        "tradeTotal": 10214,
+        "scope": "",
+        "address": "111, GROUND FLOOR , NAVSARJAN INDUSTRIAL SOCIETY , UDHNA MAGDALLA ROAD",
+        "tradeMatchTotal": 1,
+        "tradeMatchPercent": 0.01,
+        "latestTradeDate": 1738598400000,
+        "productDesc": "(EMBROIDERY MACHINE SPARE PARTS) CLEANING BRUSH SMALL (686760 PCS)(EMBROIDERY MACHINE SPARE PARTS)",
+        "productTags": [
+          "Embroidery machine",
+          "Spare parts",
+          "Cleaning brush"
+        ],
+        "productNames": [
+          "Cleaning brush",
+          "Embroidery machine spare parts"
+        ],
+        "productAlias": [
+          "Brush for cleaning",
+          "Embroidery machine accessory",
+          "Machine cleaning brush",
+          "Embroidery machine component",
+          "Spare part for embroidery machine"
+        ],
+        "productSuperordinate": [
+          "Plastic",
+          "Metal",
+          "Bristles",
+          "Wood",
+          "Rubber"
+        ],
+        "productDownstream": [
+          "Embroidery factories",
+          "Textile workshops",
+          "Garment manufacturing plants",
+          "Craft studios",
+          "Home embroidery setups"
+        ]
+      }
+    ]
+  },
+  "fee": {
+    "apiCost": 150,
+    "accountBalance": 83890,
+    "uuid": "9f493d4c-15e1-4249-b2d0-40a55461f28f"
+  }
+}

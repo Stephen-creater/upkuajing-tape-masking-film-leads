@@ -1,0 +1,207 @@
+{
+  "code": 0,
+  "msg": "success",
+  "data": {
+    "cursor": null,
+    "list": [
+      {
+        "companyId": 71403858,
+        "companyType": 2,
+        "name": "ETS SCM US INC.",
+        "countryCode": "US",
+        "tradeTotal": 5718,
+        "scope": "",
+        "address": "Pomona, California",
+        "tradeMatchTotal": 9,
+        "tradeMatchPercent": 0.16,
+        "latestTradeDate": 1777910400000,
+        "productDesc": "HS CODE: 392590 PVC CORNER BEAD",
+        "productTags": [],
+        "productNames": [],
+        "productAlias": [],
+        "productSuperordinate": [],
+        "productDownstream": []
+      },
+      {
+        "companyId": 71391994,
+        "companyType": 2,
+        "name": "COSMIC EXPRESS CORP.",
+        "countryCode": "US",
+        "tradeTotal": 4237,
+        "scope": "",
+        "address": "Santa Fe Springs, California",
+        "tradeMatchTotal": 8,
+        "tradeMatchPercent": 0.19,
+        "latestTradeDate": 1780416000000,
+        "productDesc": "PVC CORNER BEAD XXXXXXXXXXXXX JENNIFER COSMICUSA. COM XXXXXXXXXXXXXX COSMICUSA.COM JENNIFER COSMICUSA. COM XXXXXXXXXXXXXX",
+        "productTags": [],
+        "productNames": [],
+        "productAlias": [],
+        "productSuperordinate": [],
+        "productDownstream": []
+      },
+      {
+        "companyId": 184913,
+        "companyType": 2,
+        "name": "công ty cổ phần kosmos việt nam",
+        "countryCode": "VN",
+        "tradeTotal": 3014,
+        "scope": "felt tipped,polyurethane,bags,hardened plastic,polyester,aluminium alloy,insulation board,medium density fiberboard,sacks,aluminium bar,laminated wood salon table,plastic plate,wood furniture,porous-tipped pens,trade advertising material,stainless steel,fibreboard,board fireproofing",
+        "address": "469 cộng hòa, p. 15, q. tân bình,tp. hồ chí minh (tphcm)",
+        "tradeMatchTotal": 7,
+        "tradeMatchPercent": 0.23,
+        "latestTradeDate": 1757692800000,
+        "productDesc": "Thanh nẹp góc âm bằng nhựa PVC, không tự dính, Model: GA-905, kích thước ( 3000x40x20) mm, dạng tấm rời để lắp ghép,không in hình, không in chữ, hiệu Galawood. Hàng mới 100%",
+        "productTags": [
+          "PVC",
+          "corner bead",
+          "decoration"
+        ],
+        "productNames": [
+          "PVC corner bead"
+        ],
+        "productAlias": [
+          "PVC corner trim",
+          "PVC angle bead",
+          "Plastic corner bead",
+          "PVC edge protector",
+          "PVC corner molding"
+        ],
+        "productSuperordinate": [
+          "PVC resin",
+          "Plasticizer",
+          "Stabilizer",
+          "Filler",
+          "Pigment"
+        ],
+        "productDownstream": [
+          "Interior decoration",
+          "Building construction",
+          "Furniture manufacturing",
+          "Wall finishing",
+          "Ceiling installation"
+        ]
+      },
+      {
+        "companyId": 71413022,
+        "companyType": 2,
+        "name": "GLOBAL FREIGHT SERVICES USA LLC",
+        "countryCode": "US",
+        "tradeTotal": 62928,
+        "scope": "",
+        "address": "Itasca, Illinois",
+        "tradeMatchTotal": 6,
+        "tradeMatchPercent": 0.01,
+        "latestTradeDate": 1781712000000,
+        "productDesc": "PVC CORNER BEAD NAC:HKHKGLIVIN TEL: 02123518 888 FAX: 02134627580 XXXXX@GFSMANAGEMENT.CO M ATTN: OCEAN IMPORTS",
+        "productTags": [],
+        "productNames": [],
+        "productAlias": [],
+        "productSuperordinate": [],
+        "productDownstream": []
+      },
+      {
+        "companyId": 6219972,
+        "companyType": 2,
+        "name": "diamond engineering pvt ltd.",
+        "countryCode": "IN",
+        "tradeTotal": 1210,
+        "scope": "roof tile,expander plug,steel sleeve,steel ball,xtr,sleeve,arg,mm st,clay roofing tile,expansion plug,10mm",
+        "address": "rajiv gandhi salai, thanthai periyar nagar, valasaravakkam chennai, tamil nadu, india",
+        "tradeMatchTotal": 2,
+        "tradeMatchPercent": 0.17,
+        "latestTradeDate": 1748361600000,
+        "productDesc": "PVC CORNER BEAD+MESH 10X10-2.5M PVC CORNER BEAD+MESH 10X10-2.5M",
+        "productTags": [
+          "pvc corner bead",
+          "m pvc",
+          "corner bead",
+          "mesh"
+        ],
+        "productNames": [],
+        "productAlias": [],
+        "productSuperordinate": [],
+        "productDownstream": []
+      },
+      {
+        "companyId": 19706855,
+        "companyType": 2,
+        "name": "master products",
+        "countryCode": "CO",
+        "tradeTotal": 2425,
+        "scope": "perlita expandida,insta,puerto rico,black b,cone,ail,sacks and bags,party,methyl hydroxyethyl cellulose,t 90,e 44,pla,acrylic polymer,pvc corner bead,white po,polyisocyanate,ale,reef,paper kraft bag,gat",
+        "address": "51 cutlers roadsaltcoats industrial estatesouth woodham ferrersessexcm3 5wa",
+        "tradeMatchTotal": 2,
+        "tradeMatchPercent": 0.08,
+        "latestTradeDate": 1734796800000,
+        "productDesc": "PVC CORNER BEADS",
+        "productTags": [
+          "pvc corner bead"
+        ],
+        "productNames": [],
+        "productAlias": [],
+        "productSuperordinate": [],
+        "productDownstream": []
+      },
+      {
+        "companyId": 31595387,
+        "companyType": 2,
+        "name": "GM SHIPTECH TRAINING PRIVATE LIMITED",
+        "countryCode": "IN",
+        "tradeTotal": 27,
+        "scope": "",
+        "address": "1/374 BHARATHI NAGAR FIRST STREET VENGAIVASAL",
+        "tradeMatchTotal": 1,
+        "tradeMatchPercent": 3.7,
+        "latestTradeDate": 1722960000000,
+        "productDesc": "PVC CORNERING BEADING - CORNER BEAD CRV -2S(2.2M) (FOC ITEM) ",
+        "productTags": [],
+        "productNames": [],
+        "productAlias": [],
+        "productSuperordinate": [],
+        "productDownstream": []
+      },
+      {
+        "companyId": 31689692,
+        "companyType": 2,
+        "name": "PROGRESSIVE PLASTERING INC",
+        "countryCode": "US",
+        "tradeTotal": 4,
+        "scope": "",
+        "address": "3428 SW 15TH ST",
+        "tradeMatchTotal": 1,
+        "tradeMatchPercent": 25.0,
+        "latestTradeDate": 1725292800000,
+        "productDesc": "3925900000 PVC CORNER BEAD",
+        "productTags": [],
+        "productNames": [],
+        "productAlias": [],
+        "productSuperordinate": [],
+        "productDownstream": []
+      },
+      {
+        "companyId": 71515429,
+        "companyType": 2,
+        "name": "JUPITER INTERNATIONAL (USA) INC",
+        "countryCode": "CA",
+        "tradeTotal": 21559,
+        "scope": "",
+        "address": "Ontario, California",
+        "tradeMatchTotal": 1,
+        "tradeMatchPercent": 0.0,
+        "latestTradeDate": 1756310400000,
+        "productDesc": "PAPER TAPES GLASS FIBER TAPE PVC CORNER BEAD",
+        "productTags": [],
+        "productNames": [],
+        "productAlias": [],
+        "productSuperordinate": [],
+        "productDownstream": []
+      }
+    ]
+  },
+  "fee": {
+    "apiCost": 150,
+    "accountBalance": 84490,
+    "uuid": "4d66a4a3-a15b-4b4c-817d-2f0b58e72a9e"
+  }
+}
