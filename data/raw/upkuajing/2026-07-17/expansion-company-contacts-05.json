@@ -1,0 +1,35 @@
+{
+  "code": 0,
+  "msg": "success",
+  "data": {
+    "list": [
+      {
+        "companyId": 136624,
+        "contact_data": {
+          "emails": [
+            {
+              "val": "tw@mwsales.net",
+              "is_valid": 1,
+              "reason": ""
+            }
+          ],
+          "phones": [],
+          "socials": [],
+          "websites": [
+            {
+              "val": "http://www.mwsales.net",
+              "is_valid": 0,
+              "is_sensitive": null,
+              "reason": null
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "fee": {
+    "apiCost": 100,
+    "accountBalance": 84790,
+    "uuid": "bc1adee1-2064-4730-a03f-4adc4827952b"
+  }
+}
