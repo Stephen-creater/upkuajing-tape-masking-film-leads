@@ -64,6 +64,21 @@ const preferredPhone = (company) => {
   }));
   return [...website, ...api].find((phone) => valid.has(phone)) || website[0] || api[0] || "";
 };
+const validEmailsByCompany = companies.map((company) => {
+  const statuses = emailStatusMap(company);
+  return [...new Set([...splitValues(company.website_emails), ...splitValues(company.emails)]
+    .filter((email) => statuses.get(email.toLowerCase()) === 1)
+    .map((email) => email.toLowerCase()))];
+});
+const companiesWithValidEmails = validEmailsByCompany.filter((emails) => emails.length > 0).length;
+const validEmailAssociations = validEmailsByCompany.reduce((total, emails) => total + emails.length, 0);
+const uniqueValidEmails = new Set(validEmailsByCompany.flat()).size;
+const companiesWithValidPhones = companies.filter((company) => splitValues(company.phone_statuses)
+  .some((item) => item.includes(":状态1/"))).length;
+const companiesWithAnyValidContact = companies.filter((company, index) => (
+  validEmailsByCompany[index].length > 0
+  || splitValues(company.phone_statuses).some((item) => item.includes(":状态1/"))
+)).length;
 
 sheet.mergeCells("A1:N1");
 sheet.getRange("A1").values = [["Tape & Masking Film 全球客户总表"]];
@@ -244,19 +259,29 @@ costSheet.getRange("A1:F1").format = {
   horizontalAlignment: "center", verticalAlignment: "center",
 };
 costSheet.getRange("A3:C3").values = [["指标", "结果", "严格口径"]];
-costSheet.getRange("A4:C12").values = [
-  ["公司总数", 35, "一行一家公司ID"],
-  ["有已验证有效邮箱的公司", 26, "邮箱状态=1；官网存在但投递性不确定不算"],
-  ["有已验证有效电话的公司", 28, "电话状态=1"],
-  ["至少一种有效联系方式", 35, "有效邮箱或有效电话"],
-  ["已验证有效邮箱地址", 31, "所有公司行内状态=1的邮箱地址数"],
+costSheet.getRange("A4:C15").values = [
+  ["公司总数", companies.length, "一行一家公司ID"],
+  ["拥有有效邮箱的公司", companiesWithValidEmails, "每家公司至少有1个状态=1的邮箱；核心获客指标"],
+  ["去重后的有效邮箱地址", uniqueValidEmails, "按邮箱文本跨公司去重；同一邮箱重复出现只算1个"],
+  ["公司—邮箱有效关联记录", validEmailAssociations, "公司行内状态=1的关联数，未跨公司去重；仅供数据审计"],
+  ["有已验证有效电话的公司", companiesWithValidPhones, "电话状态=1"],
+  ["至少一种有效联系方式", companiesWithAnyValidContact, "有效邮箱或有效电话"],
   ["OpenAPI累计费用", 81.60, "人民币；已审计本项目全部调用"],
-  ["每家有效邮箱公司成本", 3.14, "81.60 ÷ 26；主指标"],
-  ["每家有效联系方式成本", 2.33, "81.60 ÷ 35；邮箱或电话"],
-  ["预算剩余", 18.40, "100.00 - 81.60"],
+  ["每家拥有有效邮箱的公司成本", null, "累计费用 ÷ 拥有有效邮箱的公司；核心获客成本"],
+  ["每个去重有效邮箱成本", null, "累计费用 ÷ 去重邮箱数；按独立邮箱地址计算"],
+  ["每条公司—邮箱关联成本", null, "累计费用 ÷ 关联记录数；技术统计，不代表独立邮箱数"],
+  ["每家有效联系方式成本", null, "累计费用 ÷ 至少一种有效联系方式的公司"],
+  ["预算剩余", null, "¥100.00 - 累计费用"],
 ];
-costSheet.getRange("A14:C14").values = [["费用构成", "金额（元）", "说明"]];
-costSheet.getRange("A15:C20").values = [
+costSheet.getRange("B11:B15").formulas = [
+  ["=ROUND(B10/B5,2)"],
+  ["=ROUND(B10/B6,2)"],
+  ["=ROUND(B10/B7,2)"],
+  ["=ROUND(B10/B9,2)"],
+  ["=ROUND(100-B10,2)"],
+];
+costSheet.getRange("A17:C17").values = [["费用构成", "金额（元）", "说明"]];
+costSheet.getRange("A18:C23").values = [
   ["海关客户搜索", 7.50, "产品买家搜索"],
   ["海关公司联系方式", 42.00, "早期35家公司及重复调用"],
   ["人物搜索", 19.50, "混合搜索1页 + 逐公司12页"],
@@ -264,20 +289,23 @@ costSheet.getRange("A15:C20").values = [
   ["邮箱验证", 3.00, "API、官网及人物新增邮箱"],
   ["电话验证", 6.60, "主批58个 + 权威来源新增8个"],
 ];
-costSheet.getRange("A22:C22").values = [["流程改进", "优先级", "执行规则"]];
-costSheet.getRange("A23:C27").values = [
+costSheet.getRange("A25:C25").values = [["流程改进", "优先级", "执行规则"]];
+costSheet.getRange("A26:C30").values = [
   ["先做法人实体去重", "P0", "公司名称+官网域名+国家归一化；重复实体复用已验证联系方式"],
   ["所有来源进入统一验证队列", "P0", "API、官网、人物邮箱增量入库后立即验证；禁止只验API字段"],
   ["人物搜索按公司逐个执行", "P0", "人工确认公司精确匹配后，每家公司最多购买1位高相关人员"],
   ["状态3/0不盲目重试", "P1", "先查官网或换人物；避免反垃圾拦截导致重复付费"],
   ["发送后用真实退信闭环", "P0", "小批量投递、记录硬退信、永久抑制无效地址；验证状态1仍非送达保证"],
 ];
-for (const range of ["A3:C3", "A14:C14", "A22:C22"]) {
+for (const range of ["A3:C3", "A17:C17", "A25:C25"]) {
   costSheet.getRange(range).format = { fill: "#4472C4", font: { bold: true, color: "#FFFFFF" } };
 }
-costSheet.getRange("A3:C27").format.wrapText = true;
-costSheet.getRange("B9:B12").format.numberFormat = "¥0.00";
-costSheet.getRange("B15:B20").format.numberFormat = "¥0.00";
+costSheet.getRange("A3:C30").format.wrapText = true;
+costSheet.getRange("B4:B9").format.numberFormat = "#,##0";
+costSheet.getRange("B10:B15").format.numberFormat = '"¥"#,##0.00';
+costSheet.getRange("B18:B23").format.numberFormat = '"¥"#,##0.00';
+costSheet.getRange("B4:B23").format.horizontalAlignment = "right";
+costSheet.getRange("4:15").format.rowHeight = 26;
 costSheet.getRange("A:A").format.columnWidth = 30;
 costSheet.getRange("B:B").format.columnWidth = 16;
 costSheet.getRange("C:C").format.columnWidth = 66;
@@ -341,6 +369,16 @@ const errors = await workbook.inspect({
 });
 console.log(errors.ndjson);
 
+const costCheck = await workbook.inspect({
+  kind: "table",
+  range: "成本与流程!A3:C15",
+  include: "values,formulas",
+  tableMaxRows: 15,
+  tableMaxCols: 3,
+  maxChars: 5000,
+});
+console.log(costCheck.ndjson);
+
 const previewA = await workbook.render({
   sheetName: "客户总表",
   range: `A1:N18`,
@@ -360,6 +398,26 @@ const previewB = await workbook.render({
 await fs.writeFile(
   path.join(workDir, "customer-master-preview-right.png"),
   new Uint8Array(await previewB.arrayBuffer()),
+);
+const previewCost = await workbook.render({
+  sheetName: "成本与流程",
+  range: "A1:F30",
+  scale: 1.5,
+  format: "png",
+});
+await fs.writeFile(
+  path.join(workDir, "cost-process-preview.png"),
+  new Uint8Array(await previewCost.arrayBuffer()),
+);
+const previewGuide = await workbook.render({
+  sheetName: "字段说明",
+  range: `A1:D${headers.length + 3}`,
+  scale: 1.1,
+  format: "png",
+});
+await fs.writeFile(
+  path.join(workDir, "field-guide-preview.png"),
+  new Uint8Array(await previewGuide.arrayBuffer()),
 );
 
 const output = await SpreadsheetFile.exportXlsx(workbook);

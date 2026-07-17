@@ -2,6 +2,8 @@
 
 使用跨境魔方 OpenAPI 查找 `tape`（胶带）和 `masking film`（遮蔽膜）的海外采购公司，并将公开联系方式维护在一份权威 Excel 客户总表中。
 
+当前主表包含 35 家公司：26 家公司拥有至少一个状态为 `1` 的有效邮箱，跨公司去重后共有 28 个独立有效邮箱。31 是“公司—有效邮箱”关联记录数，不代表 31 个独立邮箱。累计 API 费用为 ¥81.60，核心成本为 ¥3.14/拥有有效邮箱的公司。
+
 ## 为什么有这个项目
 
 获客不能只搜公司名，必须同时解决三个问题：
@@ -29,14 +31,14 @@ pip install -e .
 
 export UPKUAJING_API_KEY='your_api_key'
 
-# 先看费用估算，不发请
+# 先看费用估算，不发请求
 upkuajing-leads
 
 # 实际查询：两个品，每个品只取 3 家联系方式
 upkuajing-leads --execute --contacts-per-product 3 --max-cost-cny 15
 ```
 
-输出保存在本地 `output/`：
+这组命令是探索性CLI，输出保存在本地且不提交的 `output/`：
 
 - `leads-<timestamp>.csv`：便于 Excel/飞书筛选；
 - `leads-<timestamp>.json`：便于后续邮件自动化。
@@ -55,6 +57,18 @@ work/              # 不提交的临时文件
 ```
 
 `deliverables/tape-masking-film-customer-master.xlsx` 是唯一客户数据主账。不创建 `final-v2`、`new`等并行版本；历史通过 Git 追溯。
+
+## 重建 Excel
+
+当前 `data/processed/company-master.json` 已包含全部API、官网、人物和电话补救结果。只需运行：
+
+```bash
+node scripts/build_workbook.mjs
+```
+
+该命令不调用付费 API，生成器会从主数据重新计算 35 家公司、26 家拥有有效邮箱、28 个去重有效邮箱和 31 条公司—邮箱关联记录。它需要工作区提供 `@oai/artifact-tool`。
+
+不要把 `scripts/build_company_master.py` 到各验证脚本直接串成“完整重建链”：这些脚本记录了分阶段处理过程，当前仍缺少部分人工审查结果的自动合并步骤，直接串行执行会把最终主数据降级。修改处理链后，必须先在临时副本验证，并通过主数据指标回归测试。
 
 ## 参数
 
