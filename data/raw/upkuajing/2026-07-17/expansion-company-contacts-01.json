@@ -1,0 +1,1052 @@
+{
+  "code": 0,
+  "msg": "success",
+  "data": {
+    "list": [
+      {
+        "companyId": 20432849,
+        "contact_data": {
+          "emails": [
+            {
+              "val": "es@microntechgroup.com",
+              "is_valid": 0,
+              "reason": ""
+            },
+            {
+              "val": "operations@microntechgroup.com",
+              "is_valid": 1,
+              "reason": ""
+            },
+            {
+              "val": "sales@microntechgroup.com",
+              "is_valid": 1,
+              "reason": ""
+            }
+          ],
+          "phones": [
+            {
+              "val": "911204331362",
+              "is_valid": 1,
+              "is_ws": 2,
+              "phone_type": 1,
+              "country_code": "91",
+              "dialing_code": null,
+              "area_code": "",
+              "telephone": "1204331362",
+              "national_number": "0120 433 1362",
+              "international_number": "+91 120 433 1362"
+            },
+            {
+              "val": "919899042733",
+              "is_valid": 1,
+              "is_ws": 1,
+              "phone_type": 2,
+              "country_code": "91",
+              "dialing_code": null,
+              "area_code": "",
+              "telephone": "9899042733",
+              "national_number": "098990 42733",
+              "international_number": "+91 98990 42733"
+            }
+          ],
+          "socials": [
+            {
+              "val": "https://www.facebook.com/microntechgroup",
+              "social_url": "microntechgroup",
+              "social_type": "facebook",
+              "is_valid": null,
+              "reason": null
+            },
+            {
+              "val": "https://www.linkedin.com/company/microntech-engineers-pvt--ltd-",
+              "social_url": "company/microntech-engineers-pvt--ltd-",
+              "social_type": "linkedin",
+              "is_valid": null,
+              "reason": null
+            },
+            {
+              "val": "https://www.youtube.com/channel/UCmyq1XZtxxwcAUCB-0jCX1w",
+              "social_url": "channel/UCmyq1XZtxxwcAUCB-0jCX1w",
+              "social_type": "youtube",
+              "is_valid": null,
+              "reason": null
+            }
+          ],
+          "websites": [
+            {
+              "val": "www.microntechgroup.com",
+              "is_valid": 0,
+              "is_sensitive": null,
+              "reason": null
+            }
+          ]
+        }
+      },
+      {
+        "companyId": 20232450,
+        "contact_data": {
+          "emails": [
+            {
+              "val": "compliance@ppgasianpaints.com",
+              "is_valid": 1,
+              "reason": ""
+            }
+          ],
+          "phones": [
+            {
+              "val": "02226528044",
+              "is_valid": 2,
+              "is_ws": 0,
+              "phone_type": 0,
+              "country_code": "",
+              "dialing_code": null,
+              "area_code": "",
+              "telephone": "",
+              "national_number": "",
+              "international_number": ""
+            },
+            {
+              "val": "02230568764",
+              "is_valid": 2,
+              "is_ws": 0,
+              "phone_type": 0,
+              "country_code": "",
+              "dialing_code": null,
+              "area_code": "",
+              "telephone": "",
+              "national_number": "",
+              "international_number": ""
+            },
+            {
+              "val": "02230568800",
+              "is_valid": 2,
+              "is_ws": 0,
+              "phone_type": 0,
+              "country_code": "",
+              "dialing_code": null,
+              "area_code": "",
+              "telephone": "",
+              "national_number": "",
+              "international_number": ""
+            },
+            {
+              "val": "02268158700",
+              "is_valid": 2,
+              "is_ws": 0,
+              "phone_type": 0,
+              "country_code": "",
+              "dialing_code": null,
+              "area_code": "",
+              "telephone": "",
+              "national_number": "",
+              "international_number": ""
+            },
+            {
+              "val": "918002095678",
+              "is_valid": 1,
+              "is_ws": 2,
+              "phone_type": 2,
+              "country_code": "91",
+              "dialing_code": null,
+              "area_code": "",
+              "telephone": "8002095678",
+              "national_number": "080020 95678",
+              "international_number": "+91 80020 95678"
+            }
+          ],
+          "socials": [
+            {
+              "val": "https://www.linkedin.com/company-beta/2680876",
+              "social_url": "company-beta/2680876",
+              "social_type": "linkedin",
+              "is_valid": null,
+              "reason": null
+            },
+            {
+              "val": "https://www.youtube.com/user/PPGIndustriesInc",
+              "social_url": "user/PPGIndustriesInc",
+              "social_type": "youtube",
+              "is_valid": null,
+              "reason": null
+            }
+          ],
+          "websites": [
+            {
+              "val": "www.ppgasianpaints.com",
+              "is_valid": 0,
+              "is_sensitive": null,
+              "reason": null
+            }
+          ]
+        }
+      },
+      {
+        "companyId": 20432918,
+        "contact_data": {
+          "emails": [
+            {
+              "val": "sdhotey@daetwyler-swisstec.in",
+              "is_valid": 0,
+              "reason": ""
+            }
+          ],
+          "phones": [
+            {
+              "val": "919890946766",
+              "is_valid": 1,
+              "is_ws": 1,
+              "phone_type": 2,
+              "country_code": "91",
+              "dialing_code": null,
+              "area_code": "",
+              "telephone": "9890946766",
+              "national_number": "098909 46766",
+              "international_number": "+91 98909 46766"
+            }
+          ],
+          "socials": [
+            {
+              "val": "https://www.linkedin.com/company/daetwyler-swisstec---india",
+              "social_url": "company/daetwyler-swisstec---india",
+              "social_type": "linkedin",
+              "is_valid": null,
+              "reason": null
+            }
+          ],
+          "websites": [
+            {
+              "val": "www.in.daetwyler.com",
+              "is_valid": 0,
+              "is_sensitive": null,
+              "reason": null
+            }
+          ]
+        }
+      },
+      {
+        "companyId": 22633164,
+        "contact_data": {
+          "emails": [
+            {
+              "val": "pport@tcpglobal.com",
+              "is_valid": 1,
+              "reason": ""
+            },
+            {
+              "val": "support@tcpglobal.com",
+              "is_valid": 1,
+              "reason": ""
+            }
+          ],
+          "phones": [
+            {
+              "val": "18589092110",
+              "is_valid": 1,
+              "is_ws": 2,
+              "phone_type": 3,
+              "country_code": "1",
+              "dialing_code": null,
+              "area_code": "858",
+              "telephone": "9092110",
+              "national_number": "(858) 909-2110",
+              "international_number": "+1 858-909-2110"
+            }
+          ],
+          "socials": [
+            {
+              "val": "https://www.facebook.com/TCPGlobal",
+              "social_url": "TCPGlobal",
+              "social_type": "facebook",
+              "is_valid": null,
+              "reason": null
+            },
+            {
+              "val": "https://www.instagram.com/TCPGlobal",
+              "social_url": "TCPGlobal",
+              "social_type": "instagram",
+              "is_valid": null,
+              "reason": null
+            },
+            {
+              "val": "https://www.linkedin.com/company/tcpglobal",
+              "social_url": "company/tcpglobal",
+              "social_type": "linkedin",
+              "is_valid": null,
+              "reason": null
+            },
+            {
+              "val": "https://www.youtube.com/c/tcpglobal",
+              "social_url": "c/tcpglobal",
+              "social_type": "youtube",
+              "is_valid": null,
+              "reason": null
+            }
+          ],
+          "websites": [
+            {
+              "val": "tcpglobal.com",
+              "is_valid": 0,
+              "is_sensitive": null,
+              "reason": null
+            }
+          ]
+        }
+      },
+      {
+        "companyId": 20437717,
+        "contact_data": {
+          "emails": [
+            {
+              "val": "info@endoliteindia.in",
+              "is_valid": 0,
+              "reason": ""
+            },
+            {
+              "val": "sales@blatchford.co",
+              "is_valid": 0,
+              "reason": ""
+            }
+          ],
+          "phones": [
+            {
+              "val": "441256316600",
+              "is_valid": 1,
+              "is_ws": 2,
+              "phone_type": 1,
+              "country_code": "44",
+              "dialing_code": null,
+              "area_code": "",
+              "telephone": "1256316600",
+              "national_number": "01256 316600",
+              "international_number": "+44 1256 316600"
+            },
+            {
+              "val": "911145689955",
+              "is_valid": 1,
+              "is_ws": 2,
+              "phone_type": 1,
+              "country_code": "91",
+              "dialing_code": null,
+              "area_code": "",
+              "telephone": "1145689955",
+              "national_number": "011 4568 9955",
+              "international_number": "+91 11 4568 9955"
+            },
+            {
+              "val": "911145689999",
+              "is_valid": 1,
+              "is_ws": 2,
+              "phone_type": 1,
+              "country_code": "91",
+              "dialing_code": null,
+              "area_code": "",
+              "telephone": "1145689999",
+              "national_number": "011 4568 9999",
+              "international_number": "+91 11 4568 9999"
+            }
+          ],
+          "socials": [
+            {
+              "val": "https://www.facebook.com/endoliteindialtd",
+              "social_url": "endoliteindialtd",
+              "social_type": "facebook",
+              "is_valid": null,
+              "reason": null
+            }
+          ],
+          "websites": [
+            {
+              "val": "www.endoliteindia.com",
+              "is_valid": 0,
+              "is_sensitive": null,
+              "reason": null
+            }
+          ]
+        }
+      },
+      {
+        "companyId": 20432711,
+        "contact_data": {
+          "emails": [
+            {
+              "val": "20acc103@asia-chemical.com",
+              "is_valid": 0,
+              "reason": ""
+            },
+            {
+              "val": "acc103@asia-chemical.com",
+              "is_valid": 1,
+              "reason": ""
+            },
+            {
+              "val": "danhnguyen@asia-chemical.com",
+              "is_valid": 1,
+              "reason": ""
+            },
+            {
+              "val": "info@asia-chemical.com",
+              "is_valid": 1,
+              "reason": ""
+            },
+            {
+              "val": "info@canhcam.vn",
+              "is_valid": 1,
+              "reason": ""
+            }
+          ],
+          "phones": [
+            {
+              "val": "842838868174",
+              "is_valid": 1,
+              "is_ws": 2,
+              "phone_type": 1,
+              "country_code": "84",
+              "dialing_code": null,
+              "area_code": "",
+              "telephone": "2838868174",
+              "national_number": "028 3886 8174",
+              "international_number": "+84 28 3886 8174"
+            },
+            {
+              "val": "84838238364",
+              "is_valid": 1,
+              "is_ws": 2,
+              "phone_type": 2,
+              "country_code": "84",
+              "dialing_code": null,
+              "area_code": "",
+              "telephone": "838238364",
+              "national_number": "0838 238 364",
+              "international_number": "+84 838 238 364"
+            }
+          ],
+          "socials": [
+            {
+              "val": "https://www.facebook.com/Asia-Chemical-Corporation-385742511835005",
+              "social_url": "Asia-Chemical-Corporation-385742511835005",
+              "social_type": "facebook",
+              "is_valid": null,
+              "reason": null
+            },
+            {
+              "val": "https://www.linkedin.com/company/asia-chemical",
+              "social_url": "company/asia-chemical",
+              "social_type": "linkedin",
+              "is_valid": null,
+              "reason": null
+            },
+            {
+              "val": "https://www.youtube.com/channels",
+              "social_url": "channels",
+              "social_type": "youtube",
+              "is_valid": null,
+              "reason": null
+            }
+          ],
+          "websites": [
+            {
+              "val": "asia-chemical.com",
+              "is_valid": 0,
+              "is_sensitive": null,
+              "reason": null
+            }
+          ]
+        }
+      },
+      {
+        "companyId": 20433668,
+        "contact_data": {
+          "emails": [
+            {
+              "val": "rhs@iatcoinc.com",
+              "is_valid": 1,
+              "reason": ""
+            }
+          ],
+          "phones": [
+            {
+              "val": "18472991100",
+              "is_valid": 1,
+              "is_ws": 2,
+              "phone_type": 3,
+              "country_code": "1",
+              "dialing_code": null,
+              "area_code": "847",
+              "telephone": "2991100",
+              "national_number": "(847) 299-1100",
+              "international_number": "+1 847-299-1100"
+            }
+          ],
+          "socials": [],
+          "websites": [
+            {
+              "val": "www.iatcoinc.com",
+              "is_valid": 0,
+              "is_sensitive": null,
+              "reason": null
+            }
+          ]
+        }
+      },
+      {
+        "companyId": 20634349,
+        "contact_data": {
+          "emails": [
+            {
+              "val": "sales@sunmightusa.com",
+              "is_valid": 1,
+              "reason": ""
+            }
+          ],
+          "phones": [
+            {
+              "val": "17149525020",
+              "is_valid": 1,
+              "is_ws": 2,
+              "phone_type": 3,
+              "country_code": "1",
+              "dialing_code": null,
+              "area_code": "714",
+              "telephone": "9525020",
+              "national_number": "(714) 952-5020",
+              "international_number": "+1 714-952-5020"
+            },
+            {
+              "val": "7149525020",
+              "is_valid": 2,
+              "is_ws": 2,
+              "phone_type": 0,
+              "country_code": "",
+              "dialing_code": null,
+              "area_code": "",
+              "telephone": "",
+              "national_number": "",
+              "international_number": ""
+            }
+          ],
+          "socials": [
+            {
+              "val": "https://www.facebook.com/Sunmight-USA-853750248015099",
+              "social_url": "Sunmight-USA-853750248015099",
+              "social_type": "facebook",
+              "is_valid": null,
+              "reason": null
+            },
+            {
+              "val": "https://www.linkedin.com/company/sunmight-usa-corporation",
+              "social_url": "company/sunmight-usa-corporation",
+              "social_type": "linkedin",
+              "is_valid": null,
+              "reason": null
+            },
+            {
+              "val": "https://www.youtube.com/channel/UC8N04SiL5aP9Hqalsoac-fw",
+              "social_url": "channel/UC8N04SiL5aP9Hqalsoac-fw",
+              "social_type": "youtube",
+              "is_valid": null,
+              "reason": null
+            }
+          ],
+          "websites": [
+            {
+              "val": "www.sunmightusa.com",
+              "is_valid": 0,
+              "is_sensitive": null,
+              "reason": null
+            }
+          ]
+        }
+      },
+      {
+        "companyId": 25813060,
+        "contact_data": {
+          "emails": [
+            {
+              "val": "financiera@algrafher.com",
+              "is_valid": 0,
+              "reason": ""
+            }
+          ],
+          "phones": [
+            {
+              "val": "5717965050",
+              "is_valid": 2,
+              "is_ws": 2,
+              "phone_type": 0,
+              "country_code": "57",
+              "dialing_code": null,
+              "area_code": "",
+              "telephone": "",
+              "national_number": "",
+              "international_number": ""
+            }
+          ],
+          "socials": [
+            {
+              "val": "https://www.linkedin.com/company/algrafhersas",
+              "social_url": "company/algrafhersas",
+              "social_type": "linkedin",
+              "is_valid": null,
+              "reason": null
+            }
+          ],
+          "websites": [
+            {
+              "val": "www.algrafher.com",
+              "is_valid": 0,
+              "is_sensitive": null,
+              "reason": null
+            }
+          ]
+        }
+      },
+      {
+        "companyId": 20432902,
+        "contact_data": {
+          "emails": [
+            {
+              "val": "ir_tpc@post.pioneer.co.jp",
+              "is_valid": 1,
+              "reason": ""
+            }
+          ],
+          "phones": [
+            {
+              "val": "0420091032",
+              "is_valid": 2,
+              "is_ws": 0,
+              "phone_type": 0,
+              "country_code": "",
+              "dialing_code": null,
+              "area_code": "",
+              "telephone": "",
+              "national_number": "",
+              "international_number": ""
+            },
+            {
+              "val": "05052436783",
+              "is_valid": 2,
+              "is_ws": 0,
+              "phone_type": 0,
+              "country_code": "",
+              "dialing_code": null,
+              "area_code": "",
+              "telephone": "",
+              "national_number": "",
+              "international_number": ""
+            },
+            {
+              "val": "81236541211",
+              "is_valid": 1,
+              "is_ws": 2,
+              "phone_type": 1,
+              "country_code": "81",
+              "dialing_code": null,
+              "area_code": "",
+              "telephone": "236541211",
+              "national_number": "023-654-1211",
+              "international_number": "+81 23-654-1211"
+            }
+          ],
+          "socials": [
+            {
+              "val": "https://www.youtube.com/watch?v=MKT-0U4_JDA",
+              "social_url": "watch?v=MKT-0U4_JDA",
+              "social_type": "youtube",
+              "is_valid": null,
+              "reason": null
+            }
+          ],
+          "websites": [
+            {
+              "val": "www.pioneer.co.jp",
+              "is_valid": 0,
+              "is_sensitive": null,
+              "reason": null
+            }
+          ]
+        }
+      },
+      {
+        "companyId": 28423040,
+        "contact_data": {
+          "emails": [
+            {
+              "val": "shahrukh.mallick@anika.in",
+              "is_valid": 1,
+              "reason": ""
+            }
+          ],
+          "phones": [
+            {
+              "val": "911147289900",
+              "is_valid": 1,
+              "is_ws": 2,
+              "phone_type": 1,
+              "country_code": "91",
+              "dialing_code": null,
+              "area_code": "",
+              "telephone": "1147289900",
+              "national_number": "011 4728 9900",
+              "international_number": "+91 11 4728 9900"
+            }
+          ],
+          "socials": [
+            {
+              "val": "https://www.facebook.com/anikaglobal",
+              "social_url": "anikaglobal",
+              "social_type": "facebook",
+              "is_valid": null,
+              "reason": null
+            },
+            {
+              "val": "https://www.instagram.com/anikaglobal",
+              "social_url": "anikaglobal",
+              "social_type": "instagram",
+              "is_valid": null,
+              "reason": null
+            },
+            {
+              "val": "https://www.linkedin.com/company/anika-global-trading-pvt-ltd",
+              "social_url": "company/anika-global-trading-pvt-ltd",
+              "social_type": "linkedin",
+              "is_valid": null,
+              "reason": null
+            },
+            {
+              "val": "https://twitter.com/Anika_Global",
+              "social_url": "Anika_Global",
+              "social_type": "twitter",
+              "is_valid": null,
+              "reason": null
+            }
+          ],
+          "websites": [
+            {
+              "val": "www.anikaglobal.in",
+              "is_valid": 3,
+              "is_sensitive": null,
+              "reason": null
+            }
+          ]
+        }
+      },
+      {
+        "companyId": 20433595,
+        "contact_data": {
+          "emails": [
+            {
+              "val": "co.secy@pawanhans.co.in",
+              "is_valid": 0,
+              "reason": ""
+            }
+          ],
+          "phones": [],
+          "socials": [],
+          "websites": [
+            {
+              "val": "www.pawanhans.co.in",
+              "is_valid": 0,
+              "is_sensitive": null,
+              "reason": null
+            }
+          ]
+        }
+      },
+      {
+        "companyId": 20432683,
+        "contact_data": {
+          "emails": [
+            {
+              "val": "cs@carlingdhoot.com",
+              "is_valid": 1,
+              "reason": ""
+            }
+          ],
+          "phones": [
+            {
+              "val": "917875448435",
+              "is_valid": 1,
+              "is_ws": 2,
+              "phone_type": 3,
+              "country_code": "91",
+              "dialing_code": null,
+              "area_code": "",
+              "telephone": "7875448435",
+              "national_number": "078754 48435",
+              "international_number": "+91 78754 48435"
+            }
+          ],
+          "socials": [
+            {
+              "val": "https://www.facebook.com/dhoottransmission",
+              "social_url": "dhoottransmission",
+              "social_type": "facebook",
+              "is_valid": null,
+              "reason": null
+            },
+            {
+              "val": "https://www.linkedin.com/company/dhoot-transmission",
+              "social_url": "company/dhoot-transmission",
+              "social_type": "linkedin",
+              "is_valid": null,
+              "reason": null
+            },
+            {
+              "val": "https://twitter.com/DTPLIndia",
+              "social_url": "DTPLIndia",
+              "social_type": "twitter",
+              "is_valid": null,
+              "reason": null
+            },
+            {
+              "val": "https://www.youtube.com/channel/UCNjT2sIWuAeiT3uzkA7NorQ",
+              "social_url": "channel/UCNjT2sIWuAeiT3uzkA7NorQ",
+              "social_type": "youtube",
+              "is_valid": null,
+              "reason": null
+            }
+          ],
+          "websites": [
+            {
+              "val": "www.dhoottransmission.com",
+              "is_valid": 0,
+              "is_sensitive": null,
+              "reason": null
+            }
+          ]
+        }
+      },
+      {
+        "companyId": 20437799,
+        "contact_data": {
+          "emails": [
+            {
+              "val": "ay.enterprises2@gmail.com",
+              "is_valid": 1,
+              "reason": ""
+            }
+          ],
+          "phones": [],
+          "socials": [],
+          "websites": []
+        }
+      },
+      {
+        "companyId": 20437682,
+        "contact_data": {
+          "emails": [
+            {
+              "val": "info@axis-kenya.com",
+              "is_valid": 1,
+              "reason": ""
+            }
+          ],
+          "phones": [
+            {
+              "val": "254732775590",
+              "is_valid": 1,
+              "is_ws": 2,
+              "phone_type": 2,
+              "country_code": "254",
+              "dialing_code": null,
+              "area_code": "",
+              "telephone": "732775590",
+              "national_number": "0732 775590",
+              "international_number": "+254 732 775590"
+            },
+            {
+              "val": "254788202020",
+              "is_valid": 1,
+              "is_ws": 2,
+              "phone_type": 2,
+              "country_code": "254",
+              "dialing_code": null,
+              "area_code": "",
+              "telephone": "788202020",
+              "national_number": "0788 202020",
+              "international_number": "+254 788 202020"
+            }
+          ],
+          "socials": [
+            {
+              "val": "https://www.facebook.com/MabatiRollingMills",
+              "social_url": "MabatiRollingMills",
+              "social_type": "facebook",
+              "is_valid": null,
+              "reason": null
+            },
+            {
+              "val": "https://www.instagram.com/mrm_ltd",
+              "social_url": "mrm_ltd",
+              "social_type": "instagram",
+              "is_valid": null,
+              "reason": null
+            },
+            {
+              "val": "https://www.instagram.com/mrm_ltd_",
+              "social_url": "mrm_ltd_",
+              "social_type": "instagram",
+              "is_valid": null,
+              "reason": null
+            },
+            {
+              "val": "https://www.linkedin.com/company/mrm---safal-group",
+              "social_url": "company/mrm---safal-group",
+              "social_type": "linkedin",
+              "is_valid": null,
+              "reason": null
+            },
+            {
+              "val": "https://twitter.com/MRM_Ltd",
+              "social_url": "MRM_Ltd",
+              "social_type": "twitter",
+              "is_valid": null,
+              "reason": null
+            },
+            {
+              "val": "https://www.youtube.com/channel/UC6HrKGXqPHWUafXAsPiS2Nw/videos?view=0&sort=dd&shelf_id=0",
+              "social_url": "channel/UC6HrKGXqPHWUafXAsPiS2Nw/videos?view=0&sort=dd&shelf_id=0",
+              "social_type": "youtube",
+              "is_valid": null,
+              "reason": null
+            }
+          ],
+          "websites": [
+            {
+              "val": "www.mabati.com",
+              "is_valid": 0,
+              "is_sensitive": null,
+              "reason": null
+            }
+          ]
+        }
+      },
+      {
+        "companyId": 20230375,
+        "contact_data": {
+          "emails": [
+            {
+              "val": "info.wuerth@wuerth.in",
+              "is_valid": 0,
+              "reason": ""
+            },
+            {
+              "val": "jatin.shah@wuerth.in",
+              "is_valid": 1,
+              "reason": ""
+            }
+          ],
+          "phones": [
+            {
+              "val": "1800102506",
+              "is_valid": 2,
+              "is_ws": 2,
+              "phone_type": 0,
+              "country_code": "",
+              "dialing_code": null,
+              "area_code": "",
+              "telephone": "",
+              "national_number": "",
+              "international_number": ""
+            },
+            {
+              "val": "18001025061",
+              "is_valid": 2,
+              "is_ws": 2,
+              "phone_type": 0,
+              "country_code": "",
+              "dialing_code": null,
+              "area_code": "",
+              "telephone": "",
+              "national_number": "",
+              "international_number": ""
+            },
+            {
+              "val": "497940152400",
+              "is_valid": 1,
+              "is_ws": 2,
+              "phone_type": 1,
+              "country_code": "49",
+              "dialing_code": null,
+              "area_code": "",
+              "telephone": "7940152400",
+              "national_number": "07940 152400",
+              "international_number": "+49 7940 152400"
+            },
+            {
+              "val": "911800102506",
+              "is_valid": 1,
+              "is_ws": 2,
+              "phone_type": 3,
+              "country_code": "91",
+              "dialing_code": null,
+              "area_code": "",
+              "telephone": "1800102506",
+              "national_number": "1800 10 2506",
+              "international_number": "+91 1800 10 2506"
+            }
+          ],
+          "socials": [],
+          "websites": [
+            {
+              "val": "www.wuerth.in",
+              "is_valid": 0,
+              "is_sensitive": null,
+              "reason": null
+            }
+          ]
+        }
+      },
+      {
+        "companyId": 20433096,
+        "contact_data": {
+          "emails": [
+            {
+              "val": "santhosh.s@seiren.co.in",
+              "is_valid": 0,
+              "reason": ""
+            }
+          ],
+          "phones": [],
+          "socials": [
+            {
+              "val": "https://www.facebook.com/seiren.corporation",
+              "social_url": "seiren.corporation",
+              "social_type": "facebook",
+              "is_valid": null,
+              "reason": null
+            },
+            {
+              "val": "https://www.instagram.com/seiren.official",
+              "social_url": "seiren.official",
+              "social_type": "instagram",
+              "is_valid": null,
+              "reason": null
+            },
+            {
+              "val": "https://twitter.com/seiren_fukui",
+              "social_url": "seiren_fukui",
+              "social_type": "twitter",
+              "is_valid": null,
+              "reason": null
+            }
+          ],
+          "websites": [
+            {
+              "val": "www.seiren.com",
+              "is_valid": 0,
+              "is_sensitive": null,
+              "reason": null
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "fee": {
+    "apiCost": 1700,
+    "accountBalance": 89840,
+    "uuid": "e870e05c-d738-4529-97ed-707d5e269978"
+  }
+}

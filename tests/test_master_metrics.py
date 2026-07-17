@@ -26,22 +26,20 @@ def has_valid_phone(company: dict) -> bool:
 
 
 class MasterMetricsTests(unittest.TestCase):
-    def test_authoritative_master_has_expected_contact_metrics(self):
+    def test_authoritative_master_contains_only_unique_contactable_companies(self):
         master = json.loads(MASTER_PATH.read_text(encoding="utf-8"))
         companies = master["companies"]
         emails_by_company = [valid_emails(company) for company in companies]
         has_email = [bool(emails) for emails in emails_by_company]
         has_phone = [has_valid_phone(company) for company in companies]
 
-        self.assertEqual(len(companies), 35)
-        self.assertEqual(sum(has_email), 26)
-        self.assertEqual(len(set().union(*emails_by_company)), 28)
-        self.assertEqual(sum(len(emails) for emails in emails_by_company), 31)
-        self.assertEqual(sum(has_phone), 28)
-        self.assertEqual(sum(email or phone for email, phone in zip(has_email, has_phone)), 35)
-        self.assertEqual(sum(email and phone for email, phone in zip(has_email, has_phone)), 19)
-        self.assertEqual(sum(email and not phone for email, phone in zip(has_email, has_phone)), 7)
-        self.assertEqual(sum(not email and phone for email, phone in zip(has_email, has_phone)), 9)
+        self.assertEqual(master["company_count"], len(companies))
+        self.assertGreaterEqual(len(companies), 35)
+        self.assertEqual(len({int(company["company_id"]) for company in companies}), len(companies))
+        self.assertEqual(
+            sum(email or phone for email, phone in zip(has_email, has_phone)),
+            len(companies),
+        )
         self.assertEqual(sum(not email and not phone for email, phone in zip(has_email, has_phone)), 0)
 
 
