@@ -1,0 +1,20 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "upkuajing-tape-masking-film-leads"
+version = "0.1.0"
+description = "Cost-capped lead discovery for tape and masking film buyers using UpKuajing OpenAPI"
+readme = "README.md"
+requires-python = ">=3.10"
+license = {text = "MIT"}
+authors = [{name = "Stephen-creater"}]
+dependencies = []
+
+[project.scripts]
+upkuajing-leads = "upkuajing_leads.cli:main"
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
