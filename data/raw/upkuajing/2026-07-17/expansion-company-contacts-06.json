@@ -1,0 +1,1196 @@
+{
+  "code": 0,
+  "msg": "success",
+  "data": {
+    "list": [
+      {
+        "companyId": 20430846,
+        "contact_data": {
+          "emails": [
+            {
+              "val": "gragroindustries@yahoo.com",
+              "is_valid": 1,
+              "reason": ""
+            }
+          ],
+          "phones": [
+            {
+              "val": "13038930552",
+              "is_valid": 2,
+              "is_ws": 2,
+              "phone_type": 0,
+              "country_code": "91",
+              "dialing_code": null,
+              "area_code": "",
+              "telephone": "",
+              "national_number": "",
+              "international_number": ""
+            }
+          ],
+          "socials": [],
+          "websites": [
+            {
+              "val": "www.gragro.com",
+              "is_valid": 0,
+              "is_sensitive": null,
+              "reason": null
+            }
+          ]
+        }
+      },
+      {
+        "companyId": 71408362,
+        "contact_data": {
+          "emails": [
+            {
+              "val": "alex.kaliada@flexport.com",
+              "is_valid": 0,
+              "reason": ""
+            },
+            {
+              "val": "arrialnotice@flexport.com",
+              "is_valid": 0,
+              "reason": ""
+            },
+            {
+              "val": "arrivalnotice@flexport.com",
+              "is_valid": 1,
+              "reason": ""
+            },
+            {
+              "val": "arrivalnotices@flexport.com",
+              "is_valid": 1,
+              "reason": ""
+            },
+            {
+              "val": "c-atan@flexport.com",
+              "is_valid": 0,
+              "reason": ""
+            },
+            {
+              "val": "ops@flexport.com",
+              "is_valid": 1,
+              "reason": ""
+            },
+            {
+              "val": "teamverenice@flexport.com",
+              "is_valid": 1,
+              "reason": ""
+            }
+          ],
+          "phones": [
+            {
+              "val": "4152315252",
+              "is_valid": 2,
+              "is_ws": 0,
+              "phone_type": 0,
+              "country_code": "",
+              "dialing_code": null,
+              "area_code": "",
+              "telephone": "",
+              "national_number": "",
+              "international_number": ""
+            },
+            {
+              "val": "2487035142",
+              "is_valid": 2,
+              "is_ws": 0,
+              "phone_type": 0,
+              "country_code": "248",
+              "dialing_code": null,
+              "area_code": "",
+              "telephone": "",
+              "national_number": "",
+              "international_number": ""
+            },
+            {
+              "val": "4156884477",
+              "is_valid": 2,
+              "is_ws": 0,
+              "phone_type": 0,
+              "country_code": "",
+              "dialing_code": null,
+              "area_code": "",
+              "telephone": "",
+              "national_number": "",
+              "international_number": ""
+            },
+            {
+              "val": "3237638794",
+              "is_valid": 2,
+              "is_ws": 0,
+              "phone_type": 0,
+              "country_code": "",
+              "dialing_code": null,
+              "area_code": "",
+              "telephone": "",
+              "national_number": "",
+              "international_number": ""
+            },
+            {
+              "val": "14152315252",
+              "is_valid": 1,
+              "is_ws": 2,
+              "phone_type": 3,
+              "country_code": "1",
+              "dialing_code": null,
+              "area_code": "415",
+              "telephone": "2315252",
+              "national_number": "(415) 231-5252",
+              "international_number": "+1 415-231-5252"
+            },
+            {
+              "val": "17322667485",
+              "is_valid": 1,
+              "is_ws": 1,
+              "phone_type": 2,
+              "country_code": "",
+              "dialing_code": null,
+              "area_code": "",
+              "telephone": "",
+              "national_number": "",
+              "international_number": ""
+            }
+          ],
+          "socials": [],
+          "websites": []
+        }
+      },
+      {
+        "companyId": 478300,
+        "contact_data": {
+          "emails": [
+            {
+              "val": "applicatorint@msn.com",
+              "is_valid": 1,
+              "reason": ""
+            }
+          ],
+          "phones": [
+            {
+              "val": "15702236828",
+              "is_valid": 1,
+              "is_ws": 2,
+              "phone_type": 3,
+              "country_code": "1",
+              "dialing_code": null,
+              "area_code": "570",
+              "telephone": "2236828",
+              "national_number": "(570) 223-6828",
+              "international_number": "+1 570-223-6828"
+            }
+          ],
+          "socials": [],
+          "websites": [
+            {
+              "val": "http://www.applicatorinternational.com",
+              "is_valid": 0,
+              "is_sensitive": null,
+              "reason": null
+            }
+          ]
+        }
+      },
+      {
+        "companyId": 20424424,
+        "contact_data": {
+          "emails": [
+            {
+              "val": "info@cblproperties.com",
+              "is_valid": 1,
+              "reason": ""
+            },
+            {
+              "val": "kimwise@panamacity-mall.com",
+              "is_valid": 1,
+              "reason": ""
+            }
+          ],
+          "phones": [],
+          "socials": [
+            {
+              "val": "https://www.facebook.com/PanamaCityMall",
+              "social_url": "PanamaCityMall",
+              "social_type": "facebook",
+              "is_valid": null,
+              "reason": null
+            }
+          ],
+          "websites": [
+            {
+              "val": "http://www.panamacity-mall.com",
+              "is_valid": 0,
+              "is_sensitive": null,
+              "reason": null
+            }
+          ]
+        }
+      },
+      {
+        "companyId": 71499290,
+        "contact_data": {
+          "emails": [
+            {
+              "val": "uspti.ny@usptiusa.com",
+              "is_valid": 1,
+              "reason": ""
+            }
+          ],
+          "phones": [
+            {
+              "val": "7186328686",
+              "is_valid": 2,
+              "is_ws": 0,
+              "phone_type": 0,
+              "country_code": "",
+              "dialing_code": null,
+              "area_code": "",
+              "telephone": "",
+              "national_number": "",
+              "international_number": ""
+            },
+            {
+              "val": "7186328693",
+              "is_valid": 2,
+              "is_ws": 0,
+              "phone_type": 0,
+              "country_code": "",
+              "dialing_code": null,
+              "area_code": "",
+              "telephone": "",
+              "national_number": "",
+              "international_number": ""
+            },
+            {
+              "val": "85235792802",
+              "is_valid": 1,
+              "is_ws": 0,
+              "phone_type": 1,
+              "country_code": "852",
+              "dialing_code": null,
+              "area_code": "",
+              "telephone": "35792802",
+              "national_number": "3579 2802",
+              "international_number": "+852 3579 2802"
+            },
+            {
+              "val": "17186328686",
+              "is_valid": 1,
+              "is_ws": 2,
+              "phone_type": 3,
+              "country_code": "1",
+              "dialing_code": null,
+              "area_code": "718",
+              "telephone": "6328686",
+              "national_number": "(718) 632-8686",
+              "international_number": "+1 718-632-8686"
+            }
+          ],
+          "socials": [],
+          "websites": []
+        }
+      },
+      {
+        "companyId": 20430995,
+        "contact_data": {
+          "emails": [
+            {
+              "val": "ac.mumuso@gmail.com",
+              "is_valid": 1,
+              "reason": ""
+            },
+            {
+              "val": "customercare@mumuso.co",
+              "is_valid": 0,
+              "reason": ""
+            }
+          ],
+          "phones": [
+            {
+              "val": "919903638899",
+              "is_valid": 1,
+              "is_ws": 1,
+              "phone_type": 2,
+              "country_code": "91",
+              "dialing_code": null,
+              "area_code": "",
+              "telephone": "9903638899",
+              "national_number": "099036 38899",
+              "international_number": "+91 99036 38899"
+            },
+            {
+              "val": "03340069265",
+              "is_valid": 2,
+              "is_ws": 0,
+              "phone_type": 0,
+              "country_code": "",
+              "dialing_code": null,
+              "area_code": "",
+              "telephone": "",
+              "national_number": "",
+              "international_number": ""
+            }
+          ],
+          "socials": [
+            {
+              "val": "https://www.facebook.com/MUMUSOIndia",
+              "social_url": "MUMUSOIndia",
+              "social_type": "facebook",
+              "is_valid": null,
+              "reason": null
+            },
+            {
+              "val": "https://www.instagram.com/mumusoindia",
+              "social_url": "mumusoindia",
+              "social_type": "instagram",
+              "is_valid": null,
+              "reason": null
+            },
+            {
+              "val": "https://www.linkedin.com/company/mumusoindia",
+              "social_url": "company/mumusoindia",
+              "social_type": "linkedin",
+              "is_valid": null,
+              "reason": null
+            },
+            {
+              "val": "https://www.youtube.com/channel/UCaiWixtQDQGjXoLYdXspgPQ",
+              "social_url": "channel/UCaiWixtQDQGjXoLYdXspgPQ",
+              "social_type": "youtube",
+              "is_valid": null,
+              "reason": null
+            }
+          ],
+          "websites": [
+            {
+              "val": "www.mumuso.co.in",
+              "is_valid": 0,
+              "is_sensitive": null,
+              "reason": null
+            }
+          ]
+        }
+      },
+      {
+        "companyId": 20430861,
+        "contact_data": {
+          "emails": [
+            {
+              "val": "ramalingam-s@msil.mitsuba-gr.com",
+              "is_valid": 1,
+              "reason": ""
+            }
+          ],
+          "phones": [
+            {
+              "val": "914427922558",
+              "is_valid": 1,
+              "is_ws": 2,
+              "phone_type": 1,
+              "country_code": "91",
+              "dialing_code": null,
+              "area_code": "",
+              "telephone": "4427922558",
+              "national_number": "044 2792 2558",
+              "international_number": "+91 44 2792 2558"
+            }
+          ],
+          "socials": [],
+          "websites": [
+            {
+              "val": "www.mitsuba.co.jp",
+              "is_valid": 0,
+              "is_sensitive": null,
+              "reason": null
+            }
+          ]
+        }
+      },
+      {
+        "companyId": 71375060,
+        "contact_data": {
+          "emails": [
+            {
+              "val": "asfbrokerage@asflogistics.com",
+              "is_valid": 1,
+              "reason": ""
+            },
+            {
+              "val": "chsimports@asfglobal.net",
+              "is_valid": 1,
+              "reason": ""
+            }
+          ],
+          "phones": [
+            {
+              "val": "8436282644",
+              "is_valid": 2,
+              "is_ws": 0,
+              "phone_type": 0,
+              "country_code": "",
+              "dialing_code": null,
+              "area_code": "",
+              "telephone": "",
+              "national_number": "",
+              "international_number": ""
+            },
+            {
+              "val": "8436281206",
+              "is_valid": 2,
+              "is_ws": 0,
+              "phone_type": 0,
+              "country_code": "",
+              "dialing_code": null,
+              "area_code": "",
+              "telephone": "",
+              "national_number": "",
+              "international_number": ""
+            },
+            {
+              "val": "18438002643",
+              "is_valid": 2,
+              "is_ws": 0,
+              "phone_type": 0,
+              "country_code": "",
+              "dialing_code": null,
+              "area_code": "",
+              "telephone": "",
+              "national_number": "",
+              "international_number": ""
+            },
+            {
+              "val": "8433176820",
+              "is_valid": 2,
+              "is_ws": 0,
+              "phone_type": 0,
+              "country_code": "",
+              "dialing_code": null,
+              "area_code": "",
+              "telephone": "",
+              "national_number": "",
+              "international_number": ""
+            },
+            {
+              "val": "8436476430",
+              "is_valid": 2,
+              "is_ws": 0,
+              "phone_type": 0,
+              "country_code": "",
+              "dialing_code": null,
+              "area_code": "",
+              "telephone": "",
+              "national_number": "",
+              "international_number": ""
+            },
+            {
+              "val": "18436282644",
+              "is_valid": 1,
+              "is_ws": 2,
+              "phone_type": 3,
+              "country_code": "1",
+              "dialing_code": null,
+              "area_code": "843",
+              "telephone": "6282644",
+              "national_number": "(843) 628-2644",
+              "international_number": "+1 843-628-2644"
+            }
+          ],
+          "socials": [],
+          "websites": []
+        }
+      },
+      {
+        "companyId": 218590,
+        "contact_data": {
+          "emails": [
+            {
+              "val": "sales@burmax.com",
+              "is_valid": 1,
+              "reason": ""
+            }
+          ],
+          "phones": [
+            {
+              "val": "16314478700",
+              "is_valid": 1,
+              "is_ws": 2,
+              "phone_type": 3,
+              "country_code": "1",
+              "dialing_code": null,
+              "area_code": "631",
+              "telephone": "4478700",
+              "national_number": "(631) 447-8700",
+              "international_number": "+1 631-447-8700"
+            }
+          ],
+          "socials": [],
+          "websites": [
+            {
+              "val": "http://www.burmax.com",
+              "is_valid": 0,
+              "is_sensitive": null,
+              "reason": null
+            }
+          ]
+        }
+      },
+      {
+        "companyId": 71413022,
+        "contact_data": {
+          "emails": [
+            {
+              "val": "jfkoi@gfsmanagement.com",
+              "is_valid": 0,
+              "reason": ""
+            },
+            {
+              "val": "mco@gfsmanagement.com",
+              "is_valid": 0,
+              "reason": ""
+            },
+            {
+              "val": "xan@gfsmanagement.com",
+              "is_valid": 0,
+              "reason": ""
+            }
+          ],
+          "phones": [
+            {
+              "val": "2128273336",
+              "is_valid": 2,
+              "is_ws": 0,
+              "phone_type": 0,
+              "country_code": "212",
+              "dialing_code": null,
+              "area_code": "",
+              "telephone": "",
+              "national_number": "",
+              "international_number": ""
+            },
+            {
+              "val": "16469272034",
+              "is_valid": 2,
+              "is_ws": 0,
+              "phone_type": 0,
+              "country_code": "",
+              "dialing_code": null,
+              "area_code": "",
+              "telephone": "",
+              "national_number": "",
+              "international_number": ""
+            },
+            {
+              "val": "5627586260",
+              "is_valid": 2,
+              "is_ws": 0,
+              "phone_type": 0,
+              "country_code": "56",
+              "dialing_code": null,
+              "area_code": "",
+              "telephone": "",
+              "national_number": "",
+              "international_number": ""
+            },
+            {
+              "val": "15627586266",
+              "is_valid": 2,
+              "is_ws": 0,
+              "phone_type": 0,
+              "country_code": "",
+              "dialing_code": null,
+              "area_code": "",
+              "telephone": "",
+              "national_number": "",
+              "international_number": ""
+            },
+            {
+              "val": "2128273308",
+              "is_valid": 2,
+              "is_ws": 0,
+              "phone_type": 0,
+              "country_code": "212",
+              "dialing_code": null,
+              "area_code": "",
+              "telephone": "",
+              "national_number": "",
+              "international_number": ""
+            },
+            {
+              "val": "12128273308",
+              "is_valid": 2,
+              "is_ws": 2,
+              "phone_type": 0,
+              "country_code": "",
+              "dialing_code": null,
+              "area_code": "",
+              "telephone": "",
+              "national_number": "",
+              "international_number": ""
+            },
+            {
+              "val": "5627586240",
+              "is_valid": 2,
+              "is_ws": 0,
+              "phone_type": 0,
+              "country_code": "56",
+              "dialing_code": null,
+              "area_code": "",
+              "telephone": "",
+              "national_number": "",
+              "international_number": ""
+            },
+            {
+              "val": "15627586260",
+              "is_valid": 2,
+              "is_ws": 2,
+              "phone_type": 0,
+              "country_code": "",
+              "dialing_code": null,
+              "area_code": "",
+              "telephone": "",
+              "national_number": "",
+              "international_number": ""
+            },
+            {
+              "val": "12128273336",
+              "is_valid": 1,
+              "is_ws": 0,
+              "phone_type": 3,
+              "country_code": "1",
+              "dialing_code": null,
+              "area_code": "212",
+              "telephone": "8273336",
+              "national_number": "(212) 827-3336",
+              "international_number": "+1 212-827-3336"
+            },
+            {
+              "val": "1423521310",
+              "is_valid": 2,
+              "is_ws": 0,
+              "phone_type": 0,
+              "country_code": "",
+              "dialing_code": null,
+              "area_code": "",
+              "telephone": "",
+              "national_number": "",
+              "international_number": ""
+            }
+          ],
+          "socials": [],
+          "websites": []
+        }
+      },
+      {
+        "companyId": 71380857,
+        "contact_data": {
+          "emails": [
+            {
+              "val": "donald.catino@bocintl.com",
+              "is_valid": 1,
+              "reason": ""
+            }
+          ],
+          "phones": [
+            {
+              "val": "16306251670",
+              "is_valid": 1,
+              "is_ws": 2,
+              "phone_type": 3,
+              "country_code": "1",
+              "dialing_code": null,
+              "area_code": "630",
+              "telephone": "6251670",
+              "national_number": "(630) 625-1670",
+              "international_number": "+1 630-625-1670"
+            },
+            {
+              "val": "6306251670",
+              "is_valid": 2,
+              "is_ws": 0,
+              "phone_type": 0,
+              "country_code": "",
+              "dialing_code": null,
+              "area_code": "",
+              "telephone": "",
+              "national_number": "",
+              "international_number": ""
+            }
+          ],
+          "socials": [],
+          "websites": []
+        }
+      },
+      {
+        "companyId": 17518511,
+        "contact_data": {
+          "emails": [
+            {
+              "val": "jmdallstar@verizon.net",
+              "is_valid": 0,
+              "reason": ""
+            },
+            {
+              "val": "puneet@allstarproduct.com",
+              "is_valid": 0,
+              "reason": ""
+            }
+          ],
+          "phones": [
+            {
+              "val": "17322870123",
+              "is_valid": 1,
+              "is_ws": 2,
+              "phone_type": 3,
+              "country_code": "1",
+              "dialing_code": null,
+              "area_code": "732",
+              "telephone": "2870123",
+              "national_number": "(732) 287-0123",
+              "international_number": "+1 732-287-0123"
+            }
+          ],
+          "socials": [],
+          "websites": [
+            {
+              "val": "http://www.allstarproduct.com",
+              "is_valid": 0,
+              "is_sensitive": null,
+              "reason": null
+            }
+          ]
+        }
+      },
+      {
+        "companyId": 71515429,
+        "contact_data": {
+          "emails": [
+            {
+              "val": "imp@jupiterintlus.com",
+              "is_valid": 0,
+              "reason": ""
+            }
+          ],
+          "phones": [
+            {
+              "val": "6266091566",
+              "is_valid": 2,
+              "is_ws": 0,
+              "phone_type": 0,
+              "country_code": "",
+              "dialing_code": null,
+              "area_code": "",
+              "telephone": "",
+              "national_number": "",
+              "international_number": ""
+            },
+            {
+              "val": "16266091566",
+              "is_valid": 1,
+              "is_ws": 0,
+              "phone_type": 3,
+              "country_code": "1",
+              "dialing_code": null,
+              "area_code": "626",
+              "telephone": "6091566",
+              "national_number": "(626) 609-1566",
+              "international_number": "+1 626-609-1566"
+            }
+          ],
+          "socials": [],
+          "websites": []
+        }
+      },
+      {
+        "companyId": 16978770,
+        "contact_data": {
+          "emails": [
+            {
+              "val": "frontoffice@sperioimplants.com",
+              "is_valid": 1,
+              "reason": ""
+            }
+          ],
+          "phones": [
+            {
+              "val": "31484261",
+              "is_valid": 2,
+              "is_ws": 2,
+              "phone_type": 0,
+              "country_code": "1",
+              "dialing_code": null,
+              "area_code": "",
+              "telephone": "",
+              "national_number": "",
+              "international_number": ""
+            },
+            {
+              "val": "3148426151",
+              "is_valid": 2,
+              "is_ws": 2,
+              "phone_type": 0,
+              "country_code": "",
+              "dialing_code": null,
+              "area_code": "",
+              "telephone": "",
+              "national_number": "",
+              "international_number": ""
+            }
+          ],
+          "socials": [
+            {
+              "val": "https://www.facebook.com/schlueterperio",
+              "social_url": "schlueterperio",
+              "social_type": "facebook",
+              "is_valid": null,
+              "reason": null
+            },
+            {
+              "val": "https://www.instagram.com/schlueterperiodontics",
+              "social_url": "schlueterperiodontics",
+              "social_type": "instagram",
+              "is_valid": null,
+              "reason": null
+            },
+            {
+              "val": "https://www.youtube.com/user/schlueterperio",
+              "social_url": "user/schlueterperio",
+              "social_type": "youtube",
+              "is_valid": null,
+              "reason": null
+            }
+          ],
+          "websites": [
+            {
+              "val": "sperioimplants.com",
+              "is_valid": 1,
+              "is_sensitive": null,
+              "reason": null
+            }
+          ]
+        }
+      },
+      {
+        "companyId": 31689692,
+        "contact_data": {
+          "emails": [
+            {
+              "val": "your@email.com",
+              "is_valid": 0,
+              "reason": ""
+            }
+          ],
+          "phones": [
+            {
+              "val": "9545961400",
+              "is_valid": 2,
+              "is_ws": 2,
+              "phone_type": 0,
+              "country_code": "",
+              "dialing_code": null,
+              "area_code": "",
+              "telephone": "",
+              "national_number": "",
+              "international_number": ""
+            },
+            {
+              "val": "19545961400",
+              "is_valid": 1,
+              "is_ws": 2,
+              "phone_type": 3,
+              "country_code": "1",
+              "dialing_code": null,
+              "area_code": "954",
+              "telephone": "5961400",
+              "national_number": "(954) 596-1400",
+              "international_number": "+1 954-596-1400"
+            }
+          ],
+          "socials": [
+            {
+              "val": "https://www.facebook.com/pages/Progressive-Plastering/163740903652240",
+              "social_url": "pages/Progressive-Plastering/163740903652240",
+              "social_type": "facebook",
+              "is_valid": null,
+              "reason": null
+            }
+          ],
+          "websites": [
+            {
+              "val": "www.progressiveplasteringfl.com",
+              "is_valid": 0,
+              "is_sensitive": null,
+              "reason": null
+            }
+          ]
+        }
+      },
+      {
+        "companyId": 71396678,
+        "contact_data": {
+          "emails": [
+            {
+              "val": "doc@dhyshippingline.com",
+              "is_valid": 1,
+              "reason": ""
+            }
+          ],
+          "phones": [
+            {
+              "val": "3108183210",
+              "is_valid": 2,
+              "is_ws": 2,
+              "phone_type": 0,
+              "country_code": "",
+              "dialing_code": null,
+              "area_code": "",
+              "telephone": "",
+              "national_number": "",
+              "international_number": ""
+            },
+            {
+              "val": "9093649573",
+              "is_valid": 2,
+              "is_ws": 0,
+              "phone_type": 0,
+              "country_code": "90",
+              "dialing_code": null,
+              "area_code": "",
+              "telephone": "",
+              "national_number": "",
+              "international_number": ""
+            },
+            {
+              "val": "17083332127",
+              "is_valid": 2,
+              "is_ws": 2,
+              "phone_type": 0,
+              "country_code": "",
+              "dialing_code": null,
+              "area_code": "",
+              "telephone": "",
+              "national_number": "",
+              "international_number": ""
+            },
+            {
+              "val": "13108183210",
+              "is_valid": 1,
+              "is_ws": 2,
+              "phone_type": 3,
+              "country_code": "1",
+              "dialing_code": null,
+              "area_code": "310",
+              "telephone": "8183210",
+              "national_number": "(310) 818-3210",
+              "international_number": "+1 310-818-3210"
+            }
+          ],
+          "socials": [],
+          "websites": []
+        }
+      },
+      {
+        "companyId": 71403858,
+        "contact_data": {
+          "emails": [
+            {
+              "val": "cs-us@qdets.com",
+              "is_valid": 1,
+              "reason": ""
+            }
+          ],
+          "phones": [
+            {
+              "val": "6268795976",
+              "is_valid": 2,
+              "is_ws": 0,
+              "phone_type": 0,
+              "country_code": "",
+              "dialing_code": null,
+              "area_code": "",
+              "telephone": "",
+              "national_number": "",
+              "international_number": ""
+            },
+            {
+              "val": "16268795976",
+              "is_valid": 1,
+              "is_ws": 2,
+              "phone_type": 3,
+              "country_code": "1",
+              "dialing_code": null,
+              "area_code": "626",
+              "telephone": "8795976",
+              "national_number": "(626) 879-5976",
+              "international_number": "+1 626-879-5976"
+            }
+          ],
+          "socials": [],
+          "websites": []
+        }
+      },
+      {
+        "companyId": 6170233,
+        "contact_data": {
+          "emails": [
+            {
+              "val": "stahl-ua@ukr.net",
+              "is_valid": 1,
+              "reason": ""
+            }
+          ],
+          "phones": [],
+          "socials": [],
+          "websites": [
+            {
+              "val": "www.stahl.com.ua",
+              "is_valid": 0,
+              "is_sensitive": null,
+              "reason": null
+            }
+          ]
+        }
+      },
+      {
+        "companyId": 20366959,
+        "contact_data": {
+          "emails": [
+            {
+              "val": "service@earththerapeutics.us",
+              "is_valid": 1,
+              "reason": ""
+            }
+          ],
+          "phones": [
+            {
+              "val": "15167777770",
+              "is_valid": 1,
+              "is_ws": 2,
+              "phone_type": 3,
+              "country_code": "1",
+              "dialing_code": null,
+              "area_code": "516",
+              "telephone": "7777770",
+              "national_number": "(516) 777-7770",
+              "international_number": "+1 516-777-7770"
+            },
+            {
+              "val": "5167777770",
+              "is_valid": 2,
+              "is_ws": 2,
+              "phone_type": 0,
+              "country_code": "",
+              "dialing_code": null,
+              "area_code": "",
+              "telephone": "",
+              "national_number": "",
+              "international_number": ""
+            },
+            {
+              "val": "8007893579",
+              "is_valid": 2,
+              "is_ws": 2,
+              "phone_type": 0,
+              "country_code": "",
+              "dialing_code": null,
+              "area_code": "",
+              "telephone": "",
+              "national_number": "",
+              "international_number": ""
+            }
+          ],
+          "socials": [
+            {
+              "val": "https://www.facebook.com/Earth-Therapeutics-263800046779",
+              "social_url": "Earth-Therapeutics-263800046779",
+              "social_type": "facebook",
+              "is_valid": null,
+              "reason": null
+            },
+            {
+              "val": "https://www.instagram.com/earththerapeutics",
+              "social_url": "earththerapeutics",
+              "social_type": "instagram",
+              "is_valid": null,
+              "reason": null
+            }
+          ],
+          "websites": [
+            {
+              "val": "www.earththerapeutics.com",
+              "is_valid": 1,
+              "is_sensitive": null,
+              "reason": null
+            }
+          ]
+        }
+      },
+      {
+        "companyId": 20431055,
+        "contact_data": {
+          "emails": [
+            {
+              "val": "support@chicco.in",
+              "is_valid": 1,
+              "reason": ""
+            }
+          ],
+          "phones": [
+            {
+              "val": "911244964500",
+              "is_valid": 1,
+              "is_ws": 2,
+              "phone_type": 1,
+              "country_code": "91",
+              "dialing_code": null,
+              "area_code": "",
+              "telephone": "1244964500",
+              "national_number": "0124 496 4500",
+              "international_number": "+91 124 496 4500"
+            },
+            {
+              "val": "18001026702",
+              "is_valid": 2,
+              "is_ws": 2,
+              "phone_type": 0,
+              "country_code": "",
+              "dialing_code": null,
+              "area_code": "",
+              "telephone": "",
+              "national_number": "",
+              "international_number": ""
+            }
+          ],
+          "socials": [
+            {
+              "val": "https://www.facebook.com/chiccoindia",
+              "social_url": "chiccoindia",
+              "social_type": "facebook",
+              "is_valid": null,
+              "reason": null
+            },
+            {
+              "val": "https://www.instagram.com/chicco.india",
+              "social_url": "chicco.india",
+              "social_type": "instagram",
+              "is_valid": null,
+              "reason": null
+            }
+          ],
+          "websites": [
+            {
+              "val": "www.chicco.in",
+              "is_valid": 0,
+              "is_sensitive": null,
+              "reason": null
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "fee": {
+    "apiCost": 2000,
+    "accountBalance": 81440,
+    "uuid": "6615e7a3-6ea9-4959-9883-d8c17cbb9085"
+  }
+}
