@@ -52,6 +52,7 @@ PRODUCTS = {
         "is_exact": False,
         "initial_cursor_file": None,
         "source_slug": "brush",
+        "match_required_groups": [["brush", "brushes"]],
     },
     "hog-bristle-brush": {
         "api_term": "hog bristle brush",
@@ -59,6 +60,7 @@ PRODUCTS = {
         "is_exact": True,
         "initial_cursor_file": None,
         "source_slug": "hog-bristle-brush",
+        "match_required_groups": [["hog", "boar"], ["brush", "brushes", "bristle", "bristles"]],
     },
     "boar-bristle-brush": {
         "api_term": "boar bristle brush",
@@ -66,6 +68,7 @@ PRODUCTS = {
         "is_exact": True,
         "initial_cursor_file": None,
         "source_slug": "boar-bristle-brush",
+        "match_required_groups": [["hog", "boar"], ["brush", "brushes", "bristle", "bristles"]],
     },
     "wool-brush": {
         "api_term": "wool brush",
@@ -73,6 +76,7 @@ PRODUCTS = {
         "is_exact": True,
         "initial_cursor_file": None,
         "source_slug": "wool-brush",
+        "match_required_groups": [["wool"], ["brush", "brushes"]],
     },
     "pvc-corner-guard": {
         "api_term": "PVC corner guard",
@@ -80,6 +84,7 @@ PRODUCTS = {
         "is_exact": True,
         "initial_cursor_file": None,
         "source_slug": "pvc-corner-guard",
+        "match_required_groups": [["pvc"], ["corner"], ["guard", "protector", "trim", "bead", "profile"]],
     },
     "pvc-corner-bead": {
         "api_term": "PVC corner bead",
@@ -87,6 +92,7 @@ PRODUCTS = {
         "is_exact": True,
         "initial_cursor_file": None,
         "source_slug": "pvc-corner-bead",
+        "match_required_groups": [["pvc"], ["corner"], ["guard", "protector", "trim", "bead", "profile"]],
     },
     "pvc-corner-protector": {
         "api_term": "PVC corner protector",
@@ -94,6 +100,7 @@ PRODUCTS = {
         "is_exact": True,
         "initial_cursor_file": None,
         "source_slug": "pvc-corner-protector",
+        "match_required_groups": [["pvc"], ["corner"], ["guard", "protector", "trim", "bead", "profile"]],
     },
 }
 
@@ -217,6 +224,22 @@ def matches_product(company: dict[str, Any], product: str) -> bool:
     return bool(re.search(pattern, " ".join(map(str, values)).casefold()))
 
 
+def matches_config(company: dict[str, Any], config: dict[str, Any]) -> bool:
+    groups = config.get("match_required_groups")
+    if not groups:
+        return matches_product(company, config["api_term"])
+    values = [
+        company.get("productDesc") or "",
+        *(company.get("productNames") or []),
+        *(company.get("productTags") or []),
+    ]
+    haystack = " ".join(map(str, values)).casefold()
+    return all(
+        any(re.search(rf"\b{re.escape(term.casefold())}\b", haystack) for term in group)
+        for group in groups
+    )
+
+
 def blank_candidate(raw: dict[str, Any], config: dict[str, Any], source: str) -> dict[str, Any]:
     country_code = str(raw.get("countryCode") or "").upper()
     return {
@@ -304,11 +327,29 @@ def search(product_key: str, api_key: str) -> None:
     write_json(raw_path, response)
 
     master = load_json(MASTER_PATH, {})
-    existing_ids = {int(row["company_id"]) for row in master.get("companies", [])}
     candidates = candidate_payload()
+    returned, matched, added = merge_search_response(
+        product_key, raw_path, response, master, candidates
+    )
+    write_json(CANDIDATE_PATH, candidates)
+    print(
+        f"{config['chinese']}第{page}页：返回 {returned}，严格命中 {matched}，"
+        f"新增候选 {added}；实际费用 ¥{int((response.get('fee') or {}).get('apiCost') or 0) / 100:.2f}"
+    )
+
+
+def merge_search_response(
+    product_key: str,
+    raw_path: Path,
+    response: dict[str, Any],
+    master: dict[str, Any],
+    candidates: dict[str, Any],
+) -> tuple[int, int, int]:
+    config = PRODUCTS[product_key]
+    existing_ids = {int(row["company_id"]) for row in master.get("companies", [])}
     by_id = {int(row["company_id"]): row for row in candidates["companies"]}
     returned = (response.get("data") or {}).get("list") or []
-    matched = [row for row in returned if matches_product(row, config["api_term"])]
+    matched = [row for row in returned if matches_config(row, config)]
     added = 0
     for raw in matched:
         company_id = int(raw["companyId"])
@@ -326,11 +367,25 @@ def search(product_key: str, api_key: str) -> None:
                          -int(row.get("trade_match_total") or 0), row["company_name"].casefold()),
     )
     candidates["company_count"] = len(candidates["companies"])
+    return len(returned), len(matched), added
+
+
+def replay_searches() -> None:
+    master = load_json(MASTER_PATH, {})
+    candidates = candidate_payload()
+    total_added = 0
+    for product_key, config in PRODUCTS.items():
+        if config["chinese"] not in CAMPAIGN_CATEGORIES:
+            continue
+        for raw_path in sorted(RAW_DIR.glob(f"expansion-search-{config['source_slug']}-page-*.json")):
+            response = load_json(raw_path, {})
+            returned, matched, added = merge_search_response(
+                product_key, raw_path, response, master, candidates
+            )
+            total_added += added
+            print(f"重放 {raw_path.name}：返回 {returned}，严格命中 {matched}，新增 {added}")
     write_json(CANDIDATE_PATH, candidates)
-    print(
-        f"{config['chinese']}第{page}页：返回 {len(returned)}，严格命中 {len(matched)}，"
-        f"新增候选 {added}；实际费用 ¥{int((response.get('fee') or {}).get('apiCost') or 0) / 100:.2f}"
-    )
+    print(f"免费重放完成：新增候选 {total_added}，候选池共 {candidates['company_count']}")
 
 
 def apply_contacts(candidates: dict[str, Any], response: dict[str, Any]) -> int:
@@ -447,6 +502,7 @@ def main() -> None:
     parser = argparse.ArgumentParser(description="四个新品类增量扩充150家有效联系方式公司")
     subparsers = parser.add_subparsers(dest="command", required=True)
     subparsers.add_parser("status")
+    subparsers.add_parser("replay-searches")
     search_parser = subparsers.add_parser("search")
     search_parser.add_argument("--product", choices=sorted(PRODUCTS), required=True)
     search_parser.add_argument("--execute", action="store_true")
@@ -456,6 +512,10 @@ def main() -> None:
     args = parser.parse_args()
 
     if args.command == "status":
+        show_status()
+        return
+    if args.command == "replay-searches":
+        replay_searches()
         show_status()
         return
     if not args.execute:

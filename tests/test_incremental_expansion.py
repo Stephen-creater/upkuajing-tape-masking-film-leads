@@ -43,6 +43,15 @@ class IncrementalExpansionTests(unittest.TestCase):
         self.assertFalse(EXPAND.is_campaign_company({"categories": "胶带; 遮蔽膜"}))
         self.assertTrue(EXPAND.is_campaign_company({"categories": "刷子; 羊毛刷"}))
 
+    def test_hog_bristle_match_allows_plural_and_intervening_words(self):
+        company = {"productDesc": "NATURAL HOG BRISTLES PAINT BRUSHES"}
+        self.assertTrue(EXPAND.matches_config(company, EXPAND.PRODUCTS["hog-bristle-brush"]))
+
+    def test_pvc_corner_guard_accepts_product_alias(self):
+        company = {"productNames": ["PVC Wall Corner Trim"]}
+        self.assertTrue(EXPAND.matches_config(company, EXPAND.PRODUCTS["pvc-corner-guard"]))
+        self.assertFalse(EXPAND.matches_config({"productNames": ["PVC Edge Band"]}, EXPAND.PRODUCTS["pvc-corner-guard"]))
+
 
 if __name__ == "__main__":
     unittest.main()
