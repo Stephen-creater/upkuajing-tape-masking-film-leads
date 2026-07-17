@@ -1,0 +1,1119 @@
+{
+  "code": 0,
+  "msg": "success",
+  "data": {
+    "list": [
+      {
+        "companyId": 20616554,
+        "contact_data": {
+          "emails": [
+            {
+              "val": "ecommerce@megalineas.com",
+              "is_valid": 1,
+              "reason": ""
+            }
+          ],
+          "phones": [
+            {
+              "val": "50684069940",
+              "is_valid": 1,
+              "is_ws": 2,
+              "phone_type": 2,
+              "country_code": "506",
+              "dialing_code": null,
+              "area_code": "",
+              "telephone": "84069940",
+              "national_number": "8406 9940",
+              "international_number": "+506 8406 9940"
+            }
+          ],
+          "socials": [
+            {
+              "val": "https://www.facebook.com/MegalineasCR",
+              "social_url": "MegalineasCR",
+              "social_type": "facebook",
+              "is_valid": null,
+              "reason": null
+            },
+            {
+              "val": "https://www.instagram.com/megalineascr",
+              "social_url": "megalineascr",
+              "social_type": "instagram",
+              "is_valid": null,
+              "reason": null
+            },
+            {
+              "val": "https://www.youtube.com/channel/UCFc9-e96QbNHWif_K24OuqA",
+              "social_url": "channel/UCFc9-e96QbNHWif_K24OuqA",
+              "social_type": "youtube",
+              "is_valid": null,
+              "reason": null
+            }
+          ],
+          "websites": [
+            {
+              "val": "www.megalineas.com",
+              "is_valid": 0,
+              "is_sensitive": null,
+              "reason": null
+            }
+          ]
+        }
+      },
+      {
+        "companyId": 20208432,
+        "contact_data": {
+          "emails": [
+            {
+              "val": "ventas@btatools.com",
+              "is_valid": 1,
+              "reason": ""
+            }
+          ],
+          "phones": [
+            {
+              "val": "543537427677",
+              "is_valid": 1,
+              "is_ws": 2,
+              "phone_type": 1,
+              "country_code": "54",
+              "dialing_code": null,
+              "area_code": "",
+              "telephone": "3537427677",
+              "national_number": "03537 42-7677",
+              "international_number": "+54 3537 42-7677"
+            }
+          ],
+          "socials": [
+            {
+              "val": "https://www.facebook.com/BtaHerramientas",
+              "social_url": "BtaHerramientas",
+              "social_type": "facebook",
+              "is_valid": null,
+              "reason": null
+            },
+            {
+              "val": "https://www.instagram.com/p/CcVfL0LsuHt",
+              "social_url": "p/CcVfL0LsuHt",
+              "social_type": "instagram",
+              "is_valid": null,
+              "reason": null
+            },
+            {
+              "val": "https://www.instagram.com/p/Czv7gbGN9ay",
+              "social_url": "p/Czv7gbGN9ay",
+              "social_type": "instagram",
+              "is_valid": null,
+              "reason": null
+            },
+            {
+              "val": "https://www.youtube.com/channel/UCsr0D257712-6M_bqG7w-sw",
+              "social_url": "channel/UCsr0D257712-6M_bqG7w-sw",
+              "social_type": "youtube",
+              "is_valid": null,
+              "reason": null
+            }
+          ],
+          "websites": [
+            {
+              "val": "www.btatools.com.ar",
+              "is_valid": 1,
+              "is_sensitive": null,
+              "reason": null
+            }
+          ]
+        }
+      },
+      {
+        "companyId": 20357282,
+        "contact_data": {
+          "emails": [
+            {
+              "val": "info@griptighttools.com",
+              "is_valid": 1,
+              "reason": ""
+            }
+          ],
+          "phones": [
+            {
+              "val": "19089643427",
+              "is_valid": 1,
+              "is_ws": 2,
+              "phone_type": 3,
+              "country_code": "1",
+              "dialing_code": null,
+              "area_code": "908",
+              "telephone": "9643427",
+              "national_number": "(908) 964-3427",
+              "international_number": "+1 908-964-3427"
+            }
+          ],
+          "socials": [],
+          "websites": [
+            {
+              "val": "http://www.griptighttools.com/",
+              "is_valid": 0,
+              "is_sensitive": null,
+              "reason": null
+            }
+          ]
+        }
+      },
+      {
+        "companyId": 20253210,
+        "contact_data": {
+          "emails": [
+            {
+              "val": "mohantya@ebaco.co.in",
+              "is_valid": 1,
+              "reason": ""
+            }
+          ],
+          "phones": [],
+          "socials": [
+            {
+              "val": "https://www.facebook.com/EBACO-Sports-107435602926492/?ref=hl",
+              "social_url": "EBACO-Sports-107435602926492/?ref=hl",
+              "social_type": "facebook",
+              "is_valid": null,
+              "reason": null
+            },
+            {
+              "val": "https://www.instagram.com/ebacosports?igshid=h5go75w2f9vl",
+              "social_url": "ebacosports?igshid=h5go75w2f9vl",
+              "social_type": "instagram",
+              "is_valid": null,
+              "reason": null
+            },
+            {
+              "val": "https://www.linkedin.com/company/9490801/admin",
+              "social_url": "company/9490801/admin",
+              "social_type": "linkedin",
+              "is_valid": null,
+              "reason": null
+            },
+            {
+              "val": "https://twitter.com/EbacoSports",
+              "social_url": "EbacoSports",
+              "social_type": "twitter",
+              "is_valid": null,
+              "reason": null
+            }
+          ],
+          "websites": [
+            {
+              "val": "ebaco.co.in",
+              "is_valid": 3,
+              "is_sensitive": null,
+              "reason": null
+            }
+          ]
+        }
+      },
+      {
+        "companyId": 20205479,
+        "contact_data": {
+          "emails": [
+            {
+              "val": "sandeepb@cromwell.co.uk",
+              "is_valid": 1,
+              "reason": ""
+            }
+          ],
+          "phones": [
+            {
+              "val": "917620601221",
+              "is_valid": 1,
+              "is_ws": 1,
+              "phone_type": 3,
+              "country_code": "91",
+              "dialing_code": null,
+              "area_code": "",
+              "telephone": "7620601221",
+              "national_number": "076206 01221",
+              "international_number": "+91 76206 01221"
+            }
+          ],
+          "socials": [
+            {
+              "val": "https://www.facebook.com/CromwellHQ",
+              "social_url": "CromwellHQ",
+              "social_type": "facebook",
+              "is_valid": null,
+              "reason": null
+            },
+            {
+              "val": "https://www.linkedin.com/company/cromwell-group-holdings-ltd",
+              "social_url": "company/cromwell-group-holdings-ltd",
+              "social_type": "linkedin",
+              "is_valid": null,
+              "reason": null
+            },
+            {
+              "val": "https://twitter.com/Cromwell_HQ",
+              "social_url": "Cromwell_HQ",
+              "social_type": "twitter",
+              "is_valid": null,
+              "reason": null
+            },
+            {
+              "val": "https://www.youtube.com/channel/UCpvmkksUThGQfh1qwGZY5Aw",
+              "social_url": "channel/UCpvmkksUThGQfh1qwGZY5Aw",
+              "social_type": "youtube",
+              "is_valid": null,
+              "reason": null
+            }
+          ],
+          "websites": [
+            {
+              "val": "www.cromwell.co.uk",
+              "is_valid": 0,
+              "is_sensitive": null,
+              "reason": null
+            }
+          ]
+        }
+      },
+      {
+        "companyId": 20351469,
+        "contact_data": {
+          "emails": [
+            {
+              "val": "ndeville@regentproducts.com",
+              "is_valid": 1,
+              "reason": ""
+            }
+          ],
+          "phones": [
+            {
+              "val": "18006248210",
+              "is_valid": 1,
+              "is_ws": 2,
+              "phone_type": 3,
+              "country_code": "1",
+              "dialing_code": null,
+              "area_code": "800",
+              "telephone": "6248210",
+              "national_number": "(800) 624-8210",
+              "international_number": "+1 800-624-8210"
+            }
+          ],
+          "socials": [],
+          "websites": [
+            {
+              "val": "www.regentproducts.com",
+              "is_valid": 0,
+              "is_sensitive": null,
+              "reason": null
+            }
+          ]
+        }
+      },
+      {
+        "companyId": 71456730,
+        "contact_data": {
+          "emails": [
+            {
+              "val": "customsinc169@gmail.com",
+              "is_valid": 1,
+              "reason": ""
+            }
+          ],
+          "phones": [
+            {
+              "val": "15419150356",
+              "is_valid": 1,
+              "is_ws": 0,
+              "phone_type": 3,
+              "country_code": "1",
+              "dialing_code": null,
+              "area_code": "541",
+              "telephone": "9150356",
+              "national_number": "(541) 915-0356",
+              "international_number": "+1 541-915-0356"
+            },
+            {
+              "val": "5419150356",
+              "is_valid": 2,
+              "is_ws": 0,
+              "phone_type": 0,
+              "country_code": "",
+              "dialing_code": null,
+              "area_code": "",
+              "telephone": "",
+              "national_number": "",
+              "international_number": ""
+            }
+          ],
+          "socials": [],
+          "websites": []
+        }
+      },
+      {
+        "companyId": 17242088,
+        "contact_data": {
+          "emails": [
+            {
+              "val": "isabel@ecoripe.com",
+              "is_valid": 1,
+              "reason": ""
+            }
+          ],
+          "phones": [
+            {
+              "val": "19545456460",
+              "is_valid": 1,
+              "is_ws": 2,
+              "phone_type": 3,
+              "country_code": "1",
+              "dialing_code": null,
+              "area_code": "954",
+              "telephone": "5456460",
+              "national_number": "(954) 545-6460",
+              "international_number": "+1 954-545-6460"
+            }
+          ],
+          "socials": [],
+          "websites": []
+        }
+      },
+      {
+        "companyId": 20221464,
+        "contact_data": {
+          "emails": [
+            {
+              "val": "cebu@allegrobeverage.com",
+              "is_valid": 1,
+              "reason": ""
+            },
+            {
+              "val": "davao@allegrobeverage.com",
+              "is_valid": 1,
+              "reason": ""
+            },
+            {
+              "val": "pampanga@allegrobeverage.com",
+              "is_valid": 1,
+              "reason": ""
+            },
+            {
+              "val": "user@domain.com",
+              "is_valid": 1,
+              "reason": ""
+            }
+          ],
+          "phones": [
+            {
+              "val": "6328333085",
+              "is_valid": 2,
+              "is_ws": 2,
+              "phone_type": 0,
+              "country_code": "63",
+              "dialing_code": null,
+              "area_code": "",
+              "telephone": "",
+              "national_number": "",
+              "international_number": ""
+            }
+          ],
+          "socials": [
+            {
+              "val": "https://www.facebook.com/allegrobeverage",
+              "social_url": "allegrobeverage",
+              "social_type": "facebook",
+              "is_valid": null,
+              "reason": null
+            },
+            {
+              "val": "https://www.instagram.com/allegrobeverage",
+              "social_url": "allegrobeverage",
+              "social_type": "instagram",
+              "is_valid": null,
+              "reason": null
+            }
+          ],
+          "websites": [
+            {
+              "val": "www.allegrobeverage.com/about",
+              "is_valid": 0,
+              "is_sensitive": null,
+              "reason": null
+            }
+          ]
+        }
+      },
+      {
+        "companyId": 71397816,
+        "contact_data": {
+          "emails": [
+            {
+              "val": "traffic@dollarama.com",
+              "is_valid": 0,
+              "reason": ""
+            }
+          ],
+          "phones": [
+            {
+              "val": "15147371006",
+              "is_valid": 1,
+              "is_ws": 2,
+              "phone_type": 3,
+              "country_code": "1",
+              "dialing_code": null,
+              "area_code": "514",
+              "telephone": "7371006",
+              "national_number": "(514) 737-1006",
+              "international_number": "+1 514-737-1006"
+            },
+            {
+              "val": "5147317755",
+              "is_valid": 2,
+              "is_ws": 0,
+              "phone_type": 0,
+              "country_code": "",
+              "dialing_code": null,
+              "area_code": "",
+              "telephone": "",
+              "national_number": "",
+              "international_number": ""
+            },
+            {
+              "val": "5147371006",
+              "is_valid": 2,
+              "is_ws": 0,
+              "phone_type": 0,
+              "country_code": "",
+              "dialing_code": null,
+              "area_code": "",
+              "telephone": "",
+              "national_number": "",
+              "international_number": ""
+            },
+            {
+              "val": "9058033400",
+              "is_valid": 2,
+              "is_ws": 0,
+              "phone_type": 0,
+              "country_code": "",
+              "dialing_code": null,
+              "area_code": "",
+              "telephone": "",
+              "national_number": "",
+              "international_number": ""
+            }
+          ],
+          "socials": [],
+          "websites": []
+        }
+      },
+      {
+        "companyId": 61507020,
+        "contact_data": {
+          "emails": [
+            {
+              "val": "megakywi@kywi.com.ec",
+              "is_valid": 1,
+              "reason": ""
+            },
+            {
+              "val": "webcontact@kywi.com",
+              "is_valid": 1,
+              "reason": ""
+            }
+          ],
+          "phones": [],
+          "socials": [
+            {
+              "val": "https://www.facebook.com/kywi.megakywi",
+              "social_url": "kywi.megakywi",
+              "social_type": "facebook",
+              "is_valid": null,
+              "reason": null
+            },
+            {
+              "val": "https://www.instagram.com/kywiymegakywi",
+              "social_url": "kywiymegakywi",
+              "social_type": "instagram",
+              "is_valid": null,
+              "reason": null
+            },
+            {
+              "val": "https://www.youtube.com/channel/UCkptopkvoGb1uSj3DEMWlGg",
+              "social_url": "channel/UCkptopkvoGb1uSj3DEMWlGg",
+              "social_type": "youtube",
+              "is_valid": null,
+              "reason": null
+            }
+          ],
+          "websites": [
+            {
+              "val": "http://www.kywi.com.ec/",
+              "is_valid": 0,
+              "is_sensitive": null,
+              "reason": null
+            }
+          ]
+        }
+      },
+      {
+        "companyId": 20227609,
+        "contact_data": {
+          "emails": [
+            {
+              "val": "ranimetal2012@yahoo.com",
+              "is_valid": 0,
+              "reason": ""
+            }
+          ],
+          "phones": [],
+          "socials": [],
+          "websites": []
+        }
+      },
+      {
+        "companyId": 20239430,
+        "contact_data": {
+          "emails": [
+            {
+              "val": "finance.in@nilfisk.com",
+              "is_valid": 1,
+              "reason": ""
+            }
+          ],
+          "phones": [],
+          "socials": [
+            {
+              "val": "https://www.facebook.com/NilfiskProfessional",
+              "social_url": "NilfiskProfessional",
+              "social_type": "facebook",
+              "is_valid": null,
+              "reason": null
+            },
+            {
+              "val": "https://www.instagram.com/nilfiskglobal",
+              "social_url": "nilfiskglobal",
+              "social_type": "instagram",
+              "is_valid": null,
+              "reason": null
+            },
+            {
+              "val": "https://www.linkedin.com/company/nilfisk",
+              "social_url": "company/nilfisk",
+              "social_type": "linkedin",
+              "is_valid": null,
+              "reason": null
+            },
+            {
+              "val": "https://www.youtube.com/user/NilfiskProfessional",
+              "social_url": "user/NilfiskProfessional",
+              "social_type": "youtube",
+              "is_valid": null,
+              "reason": null
+            }
+          ],
+          "websites": [
+            {
+              "val": "nilfisk.com",
+              "is_valid": 1,
+              "is_sensitive": null,
+              "reason": null
+            }
+          ]
+        }
+      },
+      {
+        "companyId": 20254995,
+        "contact_data": {
+          "emails": [
+            {
+              "val": "info.tin@toto.com",
+              "is_valid": 1,
+              "reason": ""
+            }
+          ],
+          "phones": [
+            {
+              "val": "912228325741",
+              "is_valid": 1,
+              "is_ws": 2,
+              "phone_type": 1,
+              "country_code": "91",
+              "dialing_code": null,
+              "area_code": "",
+              "telephone": "2228325741",
+              "national_number": "022 2832 5741",
+              "international_number": "+91 22 2832 5741"
+            }
+          ],
+          "socials": [],
+          "websites": [
+            {
+              "val": "toto.com",
+              "is_valid": 1,
+              "is_sensitive": null,
+              "reason": null
+            }
+          ]
+        }
+      },
+      {
+        "companyId": 26313699,
+        "contact_data": {
+          "emails": [
+            {
+              "val": "contabilidad@hela.cl",
+              "is_valid": 1,
+              "reason": ""
+            }
+          ],
+          "phones": [
+            {
+              "val": "56322352160",
+              "is_valid": 1,
+              "is_ws": 2,
+              "phone_type": 3,
+              "country_code": "56",
+              "dialing_code": null,
+              "area_code": "32",
+              "telephone": "235 2160",
+              "national_number": "(32) 235 2160",
+              "international_number": "+56 32 235 2160"
+            }
+          ],
+          "socials": [
+            {
+              "val": "https://www.facebook.com/HELA.S.A.C.I.CHILE",
+              "social_url": "HELA.S.A.C.I.CHILE",
+              "social_type": "facebook",
+              "is_valid": null,
+              "reason": null
+            },
+            {
+              "val": "https://www.youtube.com/watch?v=Kce3rUc9G_k",
+              "social_url": "watch?v=Kce3rUc9G_k",
+              "social_type": "youtube",
+              "is_valid": null,
+              "reason": null
+            }
+          ],
+          "websites": [
+            {
+              "val": "www.hela.cl",
+              "is_valid": 0,
+              "is_sensitive": null,
+              "reason": null
+            }
+          ]
+        }
+      },
+      {
+        "companyId": 71383355,
+        "contact_data": {
+          "emails": [
+            {
+              "val": "kathleen.sharp@chrobinson.com",
+              "is_valid": 0,
+              "reason": ""
+            },
+            {
+              "val": "richard@chrobinson.com",
+              "is_valid": 0,
+              "reason": ""
+            }
+          ],
+          "phones": [
+            {
+              "val": "12489489490",
+              "is_valid": 2,
+              "is_ws": 2,
+              "phone_type": 0,
+              "country_code": "",
+              "dialing_code": null,
+              "area_code": "",
+              "telephone": "",
+              "national_number": "",
+              "international_number": ""
+            },
+            {
+              "val": "18003237587",
+              "is_valid": 2,
+              "is_ws": 2,
+              "phone_type": 0,
+              "country_code": "",
+              "dialing_code": null,
+              "area_code": "",
+              "telephone": "",
+              "national_number": "",
+              "international_number": ""
+            },
+            {
+              "val": "18174166240",
+              "is_valid": 1,
+              "is_ws": 2,
+              "phone_type": 3,
+              "country_code": "1",
+              "dialing_code": null,
+              "area_code": "817",
+              "telephone": "4166240",
+              "national_number": "(817) 416-6240",
+              "international_number": "+1 817-416-6240"
+            },
+            {
+              "val": "19567127300",
+              "is_valid": 2,
+              "is_ws": 2,
+              "phone_type": 0,
+              "country_code": "",
+              "dialing_code": null,
+              "area_code": "",
+              "telephone": "",
+              "national_number": "",
+              "international_number": ""
+            },
+            {
+              "val": "2489489430",
+              "is_valid": 2,
+              "is_ws": 0,
+              "phone_type": 0,
+              "country_code": "",
+              "dialing_code": null,
+              "area_code": "",
+              "telephone": "",
+              "national_number": "",
+              "international_number": ""
+            },
+            {
+              "val": "2813136000",
+              "is_valid": 2,
+              "is_ws": 0,
+              "phone_type": 0,
+              "country_code": "",
+              "dialing_code": null,
+              "area_code": "",
+              "telephone": "",
+              "national_number": "",
+              "international_number": ""
+            },
+            {
+              "val": "3105157788",
+              "is_valid": 2,
+              "is_ws": 2,
+              "phone_type": 0,
+              "country_code": "",
+              "dialing_code": null,
+              "area_code": "",
+              "telephone": "",
+              "national_number": "",
+              "international_number": ""
+            },
+            {
+              "val": "3107636080",
+              "is_valid": 2,
+              "is_ws": 0,
+              "phone_type": 0,
+              "country_code": "",
+              "dialing_code": null,
+              "area_code": "",
+              "telephone": "",
+              "national_number": "",
+              "international_number": ""
+            },
+            {
+              "val": "7818388980",
+              "is_valid": 2,
+              "is_ws": 0,
+              "phone_type": 0,
+              "country_code": "",
+              "dialing_code": null,
+              "area_code": "",
+              "telephone": "",
+              "national_number": "",
+              "international_number": ""
+            },
+            {
+              "val": "8174162251",
+              "is_valid": 2,
+              "is_ws": 2,
+              "phone_type": 0,
+              "country_code": "",
+              "dialing_code": null,
+              "area_code": "",
+              "telephone": "",
+              "national_number": "",
+              "international_number": ""
+            },
+            {
+              "val": "8174166240",
+              "is_valid": 2,
+              "is_ws": 0,
+              "phone_type": 0,
+              "country_code": "",
+              "dialing_code": null,
+              "area_code": "",
+              "telephone": "",
+              "national_number": "",
+              "international_number": ""
+            },
+            {
+              "val": "8652466900",
+              "is_valid": 2,
+              "is_ws": 0,
+              "phone_type": 0,
+              "country_code": "",
+              "dialing_code": null,
+              "area_code": "",
+              "telephone": "",
+              "national_number": "",
+              "international_number": ""
+            },
+            {
+              "val": "8652466920",
+              "is_valid": 2,
+              "is_ws": 2,
+              "phone_type": 0,
+              "country_code": "",
+              "dialing_code": null,
+              "area_code": "",
+              "telephone": "",
+              "national_number": "",
+              "international_number": ""
+            },
+            {
+              "val": "8652466950",
+              "is_valid": 2,
+              "is_ws": 0,
+              "phone_type": 0,
+              "country_code": "",
+              "dialing_code": null,
+              "area_code": "",
+              "telephone": "",
+              "national_number": "",
+              "international_number": ""
+            },
+            {
+              "val": "9543423630",
+              "is_valid": 2,
+              "is_ws": 2,
+              "phone_type": 0,
+              "country_code": "",
+              "dialing_code": null,
+              "area_code": "",
+              "telephone": "",
+              "national_number": "",
+              "international_number": ""
+            }
+          ],
+          "socials": [],
+          "websites": []
+        }
+      },
+      {
+        "companyId": 28452129,
+        "contact_data": {
+          "emails": [
+            {
+              "val": "servicioalcliente@abolu.net",
+              "is_valid": 1,
+              "reason": ""
+            },
+            {
+              "val": "ventas05@abolu.net",
+              "is_valid": 0,
+              "reason": ""
+            }
+          ],
+          "phones": [],
+          "socials": [
+            {
+              "val": "https://www.facebook.com/abolu.panama",
+              "social_url": "abolu.panama",
+              "social_type": "facebook",
+              "is_valid": null,
+              "reason": null
+            },
+            {
+              "val": "https://www.instagram.com/abolupanama",
+              "social_url": "abolupanama",
+              "social_type": "instagram",
+              "is_valid": null,
+              "reason": null
+            }
+          ],
+          "websites": [
+            {
+              "val": "http://abolu.net/",
+              "is_valid": 0,
+              "is_sensitive": null,
+              "reason": null
+            }
+          ]
+        }
+      },
+      {
+        "companyId": 581049,
+        "contact_data": {
+          "emails": [
+            {
+              "val": "sales@royalhardware.com",
+              "is_valid": 0,
+              "reason": ""
+            }
+          ],
+          "phones": [
+            {
+              "val": "18474875100",
+              "is_valid": 1,
+              "is_ws": 2,
+              "phone_type": 3,
+              "country_code": "1",
+              "dialing_code": null,
+              "area_code": "847",
+              "telephone": "4875100",
+              "national_number": "(847) 487-5100",
+              "international_number": "+1 847-487-5100"
+            },
+            {
+              "val": "866301998",
+              "is_valid": 2,
+              "is_ws": 2,
+              "phone_type": 0,
+              "country_code": "",
+              "dialing_code": null,
+              "area_code": "",
+              "telephone": "",
+              "national_number": "",
+              "international_number": ""
+            },
+            {
+              "val": "8663019986",
+              "is_valid": 2,
+              "is_ws": 2,
+              "phone_type": 0,
+              "country_code": "",
+              "dialing_code": null,
+              "area_code": "",
+              "telephone": "",
+              "national_number": "",
+              "international_number": ""
+            }
+          ],
+          "socials": [],
+          "websites": [
+            {
+              "val": "http://royalhardware.com/",
+              "is_valid": 0,
+              "is_sensitive": null,
+              "reason": null
+            }
+          ]
+        }
+      },
+      {
+        "companyId": 20239952,
+        "contact_data": {
+          "emails": [
+            {
+              "val": "jayaram.shenoy@bobst.com",
+              "is_valid": 1,
+              "reason": ""
+            }
+          ],
+          "phones": [],
+          "socials": [
+            {
+              "val": "https://www.linkedin.com/company/bobst",
+              "social_url": "company/bobst",
+              "social_type": "linkedin",
+              "is_valid": null,
+              "reason": null
+            },
+            {
+              "val": "https://www.youtube.com/user/BobstGroup",
+              "social_url": "user/BobstGroup",
+              "social_type": "youtube",
+              "is_valid": null,
+              "reason": null
+            }
+          ],
+          "websites": [
+            {
+              "val": "www.bobst.com",
+              "is_valid": 0,
+              "is_sensitive": null,
+              "reason": null
+            }
+          ]
+        }
+      },
+      {
+        "companyId": 20380651,
+        "contact_data": {
+          "emails": [
+            {
+              "val": "support@vivicafoxhair.com",
+              "is_valid": 1,
+              "reason": ""
+            }
+          ],
+          "phones": [
+            {
+              "val": "16108256747",
+              "is_valid": 1,
+              "is_ws": 2,
+              "phone_type": 3,
+              "country_code": "1",
+              "dialing_code": null,
+              "area_code": "610",
+              "telephone": "8256747",
+              "national_number": "(610) 825-6747",
+              "international_number": "+1 610-825-6747"
+            }
+          ],
+          "socials": [
+            {
+              "val": "https://www.facebook.com/VFHair",
+              "social_url": "VFHair",
+              "social_type": "facebook",
+              "is_valid": null,
+              "reason": null
+            },
+            {
+              "val": "https://www.instagram.com/p/CfbkX-ouRh5",
+              "social_url": "p/CfbkX-ouRh5",
+              "social_type": "instagram",
+              "is_valid": null,
+              "reason": null
+            },
+            {
+              "val": "https://www.instagram.com/reel/CzENFmSOFjT",
+              "social_url": "reel/CzENFmSOFjT",
+              "social_type": "instagram",
+              "is_valid": null,
+              "reason": null
+            },
+            {
+              "val": "https://www.youtube.com/user/VFHair",
+              "social_url": "user/VFHair",
+              "social_type": "youtube",
+              "is_valid": null,
+              "reason": null
+            }
+          ],
+          "websites": [
+            {
+              "val": "www.vivicafoxhair.com",
+              "is_valid": 0,
+              "is_sensitive": null,
+              "reason": null
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "fee": {
+    "apiCost": 2000,
+    "accountBalance": 61390,
+    "uuid": "1ce4012b-b617-4a62-baec-e641ccb75a2d"
+  }
+}

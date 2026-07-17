@@ -35,7 +35,7 @@ class MasterMetricsTests(unittest.TestCase):
         has_phone = [has_valid_phone(company) for company in companies]
 
         self.assertEqual(master["company_count"], len(companies))
-        self.assertEqual(len(companies), 250)
+        self.assertEqual(len(companies), 270)
         self.assertEqual(len({int(company["company_id"]) for company in companies}), len(companies))
         self.assertEqual(
             sum(email or phone for email, phone in zip(has_email, has_phone)),

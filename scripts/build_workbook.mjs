@@ -10,7 +10,7 @@ const sourcePath = path.join(root, "data", "processed", "company-master.json");
 const outputDir = path.join(root, "deliverables");
 const workDir = path.join(root, "work");
 const outputPath = path.join(outputDir, "客户表（7.17）.xlsx");
-const projectSpend = 361.60;
+const projectSpend = 387.10;
 const projectCap = 500.00;
 
 const source = JSON.parse(await fs.readFile(sourcePath, "utf8"));
@@ -396,8 +396,8 @@ costSheet.getRange("A18:C19").values = [
 ];
 costSheet.getRange("A21:C21").values = [["费用构成", "金额（元）", "说明"]];
 costSheet.getRange("A22:C27").values = [
-  ["海关客户搜索", 49.50, "七类产品搜索与同义词翻页"],
-  ["海关公司联系方式", 280.00, "按公司ID去重后的批量联系方式"],
+  ["海关客户搜索", 54.00, "八类产品搜索与同义词翻页"],
+  ["海关公司联系方式", 301.00, "按公司ID去重后的批量联系方式"],
   ["人物搜索", 19.50, "混合搜索1页 + 逐公司12页"],
   ["人物联系方式", 3.00, "人工审查后仅购买6人"],
   ["邮箱验证", 3.00, "API、官网及人物新增邮箱"],

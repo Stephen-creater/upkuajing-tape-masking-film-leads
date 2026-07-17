@@ -10,10 +10,10 @@
 
 - Keep exactly one row per `company_id`; do not merge different company IDs silently.
 - Count an email as valid only when its validation status is `1`.
-- Treat company-level coverage as the business metric: 250 companies with any valid contact, 188 with a valid email, and 196 with a valid phone.
-- Report the coverage split as 134 with both, 54 email-only, 62 phone-only, and 0 with neither.
-- Use ¥1.45 per company with any valid contact, ¥1.92 per valid-email company, and ¥1.84 per valid-phone company. These are alternative views and must not be added.
-- Keep 277 globally deduplicated valid email strings and 284 company-email associations as technical audit counts, not business KPIs.
+- Treat company-level coverage as the business metric: 270 companies with any valid contact, 205 with a valid email, and 210 with a valid phone.
+- Report the coverage split as 145 with both, 60 email-only, 65 phone-only, and 0 with neither.
+- Use ¥1.43 per company with any valid contact, ¥1.89 per valid-email company, and ¥1.84 per valid-phone company. These are alternative views and must not be added.
+- Keep 301 globally deduplicated valid email strings and 308 company-email associations as technical audit counts, not business KPIs.
 - Preserve source URLs and raw API fields. Never invent missing contact details.
 - Localize business-facing workbook values into Chinese: `tape` = `胶带`, `masking film` = `遮蔽膜`; use the same Chinese terms for categories and search terms.
 - Prefer Chinese country and product terminology in the workbook. The workbook's business-scope column must contain Chinese only; preserve its API original in `company-master.json` and raw evidence. Preserve company names, contact details, URLs, trade descriptions, addresses, model numbers, and uncertain terms in their original form.
@@ -21,7 +21,7 @@
 ## Paid API and secrets
 
 - Paid scripts must default to dry-run and require an explicit execution flag.
-- Do not exceed the current cumulative cap of ¥500 without new user approval. Current audited spend is ¥361.60.
+- Do not exceed the current cumulative cap of ¥500 without new user approval. Current audited spend is ¥387.10.
 - Do not retry email status `0` or `3` blindly. Prefer a new official source, a relevant person, or a real delivery test.
 - Read the API key only from `UPKUAJING_API_KEY`; never commit it.
 

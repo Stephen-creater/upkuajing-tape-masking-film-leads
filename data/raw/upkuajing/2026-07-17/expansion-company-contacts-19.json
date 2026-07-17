@@ -1,0 +1,131 @@
+{
+  "code": 0,
+  "msg": "success",
+  "data": {
+    "list": [
+      {
+        "companyId": 20214041,
+        "contact_data": {
+          "emails": [
+            {
+              "val": "charters@gvhl.in",
+              "is_valid": 1,
+              "reason": ""
+            },
+            {
+              "val": "globalhelicorp@gvhl.in",
+              "is_valid": 1,
+              "reason": ""
+            },
+            {
+              "val": "globalhelicorp@gvhl.net",
+              "is_valid": 1,
+              "reason": ""
+            },
+            {
+              "val": "raakesh@gvhl.net",
+              "is_valid": 1,
+              "reason": ""
+            }
+          ],
+          "phones": [
+            {
+              "val": "1140507215",
+              "is_valid": 2,
+              "is_ws": 2,
+              "phone_type": 0,
+              "country_code": "",
+              "dialing_code": null,
+              "area_code": "",
+              "telephone": "",
+              "national_number": "",
+              "international_number": ""
+            },
+            {
+              "val": "1146433300",
+              "is_valid": 2,
+              "is_ws": 2,
+              "phone_type": 0,
+              "country_code": "",
+              "dialing_code": null,
+              "area_code": "",
+              "telephone": "",
+              "national_number": "",
+              "international_number": ""
+            },
+            {
+              "val": "2261409200",
+              "is_valid": 2,
+              "is_ws": 2,
+              "phone_type": 0,
+              "country_code": "",
+              "dialing_code": null,
+              "area_code": "",
+              "telephone": "",
+              "national_number": "",
+              "international_number": ""
+            },
+            {
+              "val": "2261409300",
+              "is_valid": 2,
+              "is_ws": 2,
+              "phone_type": 0,
+              "country_code": "",
+              "dialing_code": null,
+              "area_code": "",
+              "telephone": "",
+              "national_number": "",
+              "international_number": ""
+            },
+            {
+              "val": "911146433300",
+              "is_valid": 1,
+              "is_ws": 2,
+              "phone_type": 1,
+              "country_code": "91",
+              "dialing_code": null,
+              "area_code": "",
+              "telephone": "1146433300",
+              "national_number": "011 4643 3300",
+              "international_number": "+91 11 4643 3300"
+            },
+            {
+              "val": "912261409200",
+              "is_valid": 1,
+              "is_ws": 2,
+              "phone_type": 1,
+              "country_code": "91",
+              "dialing_code": null,
+              "area_code": "",
+              "telephone": "2261409200",
+              "national_number": "022 6140 9200",
+              "international_number": "+91 22 6140 9200"
+            }
+          ],
+          "socials": [
+            {
+              "val": "https://www.linkedin.com/company/global-vectra-helicorp-ltd/mycompany",
+              "social_url": "company/global-vectra-helicorp-ltd/mycompany",
+              "social_type": "linkedin",
+              "is_valid": null,
+              "reason": null
+            }
+          ],
+          "websites": [
+            {
+              "val": "www.globalhelicorp.com",
+              "is_valid": 0,
+              "is_sensitive": null,
+              "reason": null
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "fee": {
+    "apiCost": 100,
+    "accountBalance": 61290,
+    "uuid": "a3e9d809-9c50-4291-8911-00ad7b140486"
+  }
+}

@@ -34,7 +34,7 @@ const categoryFallback = (categories) => {
   return `${products}的采购、进口、分销及配套业务`;
 };
 
-const splitForTranslation = (text, maxLength = 2200) => {
+const splitForTranslation = (text, maxLength = 350) => {
   const parts = String(text).split(/(?<=[,;。；])/);
   const chunks = [];
   let current = "";
@@ -79,7 +79,7 @@ const cleanSource = (text) => String(text || "")
 const translateChunk = async (text) => {
   const body = new URLSearchParams({ client: "gtx", sl: "auto", tl: "zh-CN", dt: "t", q: text });
   let lastError;
-  for (let attempt = 1; attempt <= 6; attempt += 1) {
+  for (let attempt = 1; attempt <= 2; attempt += 1) {
     try {
       const response = await fetch("https://translate.googleapis.com/translate_a/single", {
         method: "POST",
@@ -92,13 +92,22 @@ const translateChunk = async (text) => {
       return (payload[0] || []).map((item) => item?.[0] || "").join("");
     } catch (error) {
       lastError = error;
-      if (attempt < 6) {
-        const delay = error?.message === "HTTP 429" ? Math.min(attempt * 10000, 50000) : attempt * 1200;
+      if (attempt < 2 && error?.message !== "HTTP 429") {
+        const delay = attempt * 1200;
         await new Promise((resolve) => setTimeout(resolve, delay));
       }
     }
   }
-  throw lastError;
+  const fallbackUrl = new URL("https://api.mymemory.translated.net/get");
+  fallbackUrl.searchParams.set("q", text);
+  fallbackUrl.searchParams.set("langpair", "en|zh-CN");
+  const fallbackResponse = await fetch(fallbackUrl, { signal: AbortSignal.timeout(30000) });
+  if (!fallbackResponse.ok) throw lastError;
+  const fallbackPayload = await fallbackResponse.json();
+  if (Number(fallbackPayload.responseStatus) !== 200 || !fallbackPayload.responseData?.translatedText) {
+    throw lastError;
+  }
+  return fallbackPayload.responseData.translatedText;
 };
 
 const sanitizeChinese = (text, categories) => {
