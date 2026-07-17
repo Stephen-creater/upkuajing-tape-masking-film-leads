@@ -1,0 +1,1119 @@
+{
+  "code": 0,
+  "msg": "success",
+  "data": {
+    "list": [
+      {
+        "companyId": 20451961,
+        "contact_data": {
+          "emails": [
+            {
+              "val": "dercoimportadora_dte@paperless.cl",
+              "is_valid": 1,
+              "reason": ""
+            }
+          ],
+          "phones": [
+            {
+              "val": "56996362369",
+              "is_valid": 1,
+              "is_ws": 2,
+              "phone_type": 3,
+              "country_code": "56",
+              "dialing_code": null,
+              "area_code": "",
+              "telephone": "996362369",
+              "national_number": "9 9636 2369",
+              "international_number": "+56 9 9636 2369"
+            }
+          ],
+          "socials": [
+            {
+              "val": "https://www.facebook.com/MazdaChile",
+              "social_url": "MazdaChile",
+              "social_type": "facebook",
+              "is_valid": null,
+              "reason": null
+            },
+            {
+              "val": "https://www.instagram.com/mazdachile",
+              "social_url": "mazdachile",
+              "social_type": "instagram",
+              "is_valid": null,
+              "reason": null
+            },
+            {
+              "val": "https://twitter.com/mazdachile?lang=es",
+              "social_url": "mazdachile?lang=es",
+              "social_type": "twitter",
+              "is_valid": null,
+              "reason": null
+            },
+            {
+              "val": "https://www.youtube.com/user/mazdachile",
+              "social_url": "user/mazdachile",
+              "social_type": "youtube",
+              "is_valid": null,
+              "reason": null
+            }
+          ],
+          "websites": [
+            {
+              "val": "www.mazda.cl",
+              "is_valid": 2,
+              "is_sensitive": null,
+              "reason": null
+            }
+          ]
+        }
+      },
+      {
+        "companyId": 20453208,
+        "contact_data": {
+          "emails": [
+            {
+              "val": "salfa@salfa.cl",
+              "is_valid": 1,
+              "reason": ""
+            }
+          ],
+          "phones": [
+            {
+              "val": "56228109198",
+              "is_valid": 1,
+              "is_ws": 2,
+              "phone_type": 3,
+              "country_code": "56",
+              "dialing_code": null,
+              "area_code": "2",
+              "telephone": "2810 9198",
+              "national_number": "(2) 2810 9198",
+              "international_number": "+56 2 2810 9198"
+            }
+          ],
+          "socials": [
+            {
+              "val": "https://www.facebook.com/salfachile",
+              "social_url": "salfachile",
+              "social_type": "facebook",
+              "is_valid": null,
+              "reason": null
+            },
+            {
+              "val": "https://www.instagram.com/salfachile",
+              "social_url": "salfachile",
+              "social_type": "instagram",
+              "is_valid": null,
+              "reason": null
+            },
+            {
+              "val": "https://www.linkedin.com/company/salfachile",
+              "social_url": "company/salfachile",
+              "social_type": "linkedin",
+              "is_valid": null,
+              "reason": null
+            },
+            {
+              "val": "https://www.youtube.com/channel/UCuh-axVCOnyatSGx0bUcU0A",
+              "social_url": "channel/UCuh-axVCOnyatSGx0bUcU0A",
+              "social_type": "youtube",
+              "is_valid": null,
+              "reason": null
+            }
+          ],
+          "websites": [
+            {
+              "val": "www.salfa.cl",
+              "is_valid": 0,
+              "is_sensitive": null,
+              "reason": null
+            }
+          ]
+        }
+      },
+      {
+        "companyId": 20468582,
+        "contact_data": {
+          "emails": [
+            {
+              "val": "ejemplo@mail.com",
+              "is_valid": 0,
+              "reason": ""
+            }
+          ],
+          "phones": [
+            {
+              "val": "522299354559",
+              "is_valid": 1,
+              "is_ws": 2,
+              "phone_type": 3,
+              "country_code": "52",
+              "dialing_code": null,
+              "area_code": "",
+              "telephone": "2299354559",
+              "national_number": "229 935 4559",
+              "international_number": "+52 229 935 4559"
+            },
+            {
+              "val": "525555632222",
+              "is_valid": 1,
+              "is_ws": 2,
+              "phone_type": 3,
+              "country_code": "52",
+              "dialing_code": null,
+              "area_code": "",
+              "telephone": "5555632222",
+              "national_number": "55 5563 2222",
+              "international_number": "+52 55 5563 2222"
+            }
+          ],
+          "socials": [],
+          "websites": [
+            {
+              "val": "www.chedraui.com.mx",
+              "is_valid": 0,
+              "is_sensitive": null,
+              "reason": null
+            }
+          ]
+        }
+      },
+      {
+        "companyId": 20451414,
+        "contact_data": {
+          "emails": [
+            {
+              "val": "javier@dvp.cl",
+              "is_valid": 1,
+              "reason": ""
+            }
+          ],
+          "phones": [
+            {
+              "val": "56984394757",
+              "is_valid": 1,
+              "is_ws": 1,
+              "phone_type": 3,
+              "country_code": "56",
+              "dialing_code": null,
+              "area_code": "",
+              "telephone": "984394757",
+              "national_number": "9 8439 4757",
+              "international_number": "+56 9 8439 4757"
+            }
+          ],
+          "socials": [
+            {
+              "val": "https://www.facebook.com/dvpoficial",
+              "social_url": "dvpoficial",
+              "social_type": "facebook",
+              "is_valid": null,
+              "reason": null
+            },
+            {
+              "val": "https://www.instagram.com/dvpoficial",
+              "social_url": "dvpoficial",
+              "social_type": "instagram",
+              "is_valid": null,
+              "reason": null
+            },
+            {
+              "val": "https://www.linkedin.com/company/de-vicente-pl-sticos",
+              "social_url": "company/de-vicente-pl-sticos",
+              "social_type": "linkedin",
+              "is_valid": null,
+              "reason": null
+            },
+            {
+              "val": "https://www.youtube.com/channel/UCD1UdwUURuojqVmcUc3v6Jw",
+              "social_url": "channel/UCD1UdwUURuojqVmcUc3v6Jw",
+              "social_type": "youtube",
+              "is_valid": null,
+              "reason": null
+            }
+          ],
+          "websites": [
+            {
+              "val": "www.dvp.cl",
+              "is_valid": 0,
+              "is_sensitive": null,
+              "reason": null
+            }
+          ]
+        }
+      },
+      {
+        "companyId": 20457998,
+        "contact_data": {
+          "emails": [
+            {
+              "val": "ivy.gitau@ke.bosch.com",
+              "is_valid": 0,
+              "reason": ""
+            }
+          ],
+          "phones": [
+            {
+              "val": "254203673165",
+              "is_valid": 1,
+              "is_ws": 2,
+              "phone_type": 1,
+              "country_code": "254",
+              "dialing_code": null,
+              "area_code": "",
+              "telephone": "203673165",
+              "national_number": "020 3673165",
+              "international_number": "+254 20 3673165"
+            },
+            {
+              "val": "4971140040990",
+              "is_valid": 1,
+              "is_ws": 2,
+              "phone_type": 1,
+              "country_code": "49",
+              "dialing_code": null,
+              "area_code": "",
+              "telephone": "71140040990",
+              "national_number": "0711 40040990",
+              "international_number": "+49 711 40040990"
+            }
+          ],
+          "socials": [
+            {
+              "val": "https://www.facebook.com/BoschAfrica",
+              "social_url": "BoschAfrica",
+              "social_type": "facebook",
+              "is_valid": null,
+              "reason": null
+            },
+            {
+              "val": "https://www.facebook.com/BoschGlobal",
+              "social_url": "BoschGlobal",
+              "social_type": "facebook",
+              "is_valid": null,
+              "reason": null
+            },
+            {
+              "val": "https://www.instagram.com/boschglobal",
+              "social_url": "boschglobal",
+              "social_type": "instagram",
+              "is_valid": null,
+              "reason": null
+            },
+            {
+              "val": "https://www.linkedin.com/company/bosch",
+              "social_url": "company/bosch",
+              "social_type": "linkedin",
+              "is_valid": null,
+              "reason": null
+            },
+            {
+              "val": "https://www.linkedin.com/company/boschafrica",
+              "social_url": "company/boschafrica",
+              "social_type": "linkedin",
+              "is_valid": null,
+              "reason": null
+            },
+            {
+              "val": "https://twitter.com/BoschAfrica",
+              "social_url": "BoschAfrica",
+              "social_type": "twitter",
+              "is_valid": null,
+              "reason": null
+            },
+            {
+              "val": "https://twitter.com/BoschGlobal",
+              "social_url": "BoschGlobal",
+              "social_type": "twitter",
+              "is_valid": null,
+              "reason": null
+            },
+            {
+              "val": "https://www.youtube.com/BoschGlobal",
+              "social_url": "BoschGlobal",
+              "social_type": "youtube",
+              "is_valid": null,
+              "reason": null
+            }
+          ],
+          "websites": [
+            {
+              "val": "www.bosch.co.ke",
+              "is_valid": 0,
+              "is_sensitive": null,
+              "reason": null
+            }
+          ]
+        }
+      },
+      {
+        "companyId": 20463283,
+        "contact_data": {
+          "emails": [
+            {
+              "val": "info@fazalcloth.com",
+              "is_valid": 0,
+              "reason": ""
+            }
+          ],
+          "phones": [
+            {
+              "val": "9204236684909",
+              "is_valid": 1,
+              "is_ws": 2,
+              "phone_type": 1,
+              "country_code": "92",
+              "dialing_code": null,
+              "area_code": "042",
+              "telephone": "36684909",
+              "national_number": "(042) 36684909",
+              "international_number": "+92 42 36684909"
+            }
+          ],
+          "socials": [
+            {
+              "val": "https://www.facebook.com/Fazal-Cloth-Mills-Ltd-103320444945307/?view_public_for=103320444945307",
+              "social_url": "Fazal-Cloth-Mills-Ltd-103320444945307/?view_public_for=103320444945307",
+              "social_type": "facebook",
+              "is_valid": null,
+              "reason": null
+            },
+            {
+              "val": "https://www.linkedin.com/company/fazal-cloth-mills-limited",
+              "social_url": "company/fazal-cloth-mills-limited",
+              "social_type": "linkedin",
+              "is_valid": null,
+              "reason": null
+            }
+          ],
+          "websites": [
+            {
+              "val": "www.fazalcloth.com",
+              "is_valid": 0,
+              "is_sensitive": null,
+              "reason": null
+            }
+          ]
+        }
+      },
+      {
+        "companyId": 20443301,
+        "contact_data": {
+          "emails": [
+            {
+              "val": "karthik.kumar@homag.com",
+              "is_valid": 1,
+              "reason": ""
+            }
+          ],
+          "phones": [],
+          "socials": [],
+          "websites": [
+            {
+              "val": "homagindia.com",
+              "is_valid": 0,
+              "is_sensitive": null,
+              "reason": null
+            }
+          ]
+        }
+      },
+      {
+        "companyId": 20451649,
+        "contact_data": {
+          "emails": [
+            {
+              "val": "arriagada.antecao@gmail.com",
+              "is_valid": 1,
+              "reason": ""
+            },
+            {
+              "val": "laboral@inacap.cl",
+              "is_valid": 1,
+              "reason": ""
+            }
+          ],
+          "phones": [
+            {
+              "val": "56552319751",
+              "is_valid": 1,
+              "is_ws": 2,
+              "phone_type": 3,
+              "country_code": "56",
+              "dialing_code": null,
+              "area_code": "55",
+              "telephone": "231 9751",
+              "national_number": "(55) 231 9751",
+              "international_number": "+56 55 231 9751"
+            }
+          ],
+          "socials": [],
+          "websites": [
+            {
+              "val": "bsg.global.trabajando.cl",
+              "is_valid": 0,
+              "is_sensitive": null,
+              "reason": null
+            }
+          ]
+        }
+      },
+      {
+        "companyId": 20462193,
+        "contact_data": {
+          "emails": [
+            {
+              "val": "comercial@globalmotor.net",
+              "is_valid": 1,
+              "reason": ""
+            }
+          ],
+          "phones": [
+            {
+              "val": "5717434500",
+              "is_valid": 2,
+              "is_ws": 2,
+              "phone_type": 0,
+              "country_code": "57",
+              "dialing_code": null,
+              "area_code": "",
+              "telephone": "",
+              "national_number": "",
+              "international_number": ""
+            }
+          ],
+          "socials": [
+            {
+              "val": "https://www.facebook.com/globalmotor",
+              "social_url": "globalmotor",
+              "social_type": "facebook",
+              "is_valid": null,
+              "reason": null
+            },
+            {
+              "val": "https://www.youtube.com/user/globalmotor1",
+              "social_url": "user/globalmotor1",
+              "social_type": "youtube",
+              "is_valid": null,
+              "reason": null
+            }
+          ],
+          "websites": [
+            {
+              "val": "www.globalmotor.com.co",
+              "is_valid": 0,
+              "is_sensitive": null,
+              "reason": null
+            }
+          ]
+        }
+      },
+      {
+        "companyId": 20459275,
+        "contact_data": {
+          "emails": [
+            {
+              "val": "dianalopez@natura.net",
+              "is_valid": 1,
+              "reason": ""
+            }
+          ],
+          "phones": [
+            {
+              "val": "5713268787",
+              "is_valid": 2,
+              "is_ws": 2,
+              "phone_type": 0,
+              "country_code": "57",
+              "dialing_code": null,
+              "area_code": "",
+              "telephone": "",
+              "national_number": "",
+              "international_number": ""
+            }
+          ],
+          "socials": [],
+          "websites": [
+            {
+              "val": "www.natura.com.co",
+              "is_valid": 0,
+              "is_sensitive": null,
+              "reason": null
+            }
+          ]
+        }
+      },
+      {
+        "companyId": 20468427,
+        "contact_data": {
+          "emails": [
+            {
+              "val": "ventas@servimar.com",
+              "is_valid": 0,
+              "reason": ""
+            }
+          ],
+          "phones": [
+            {
+              "val": "529988872373",
+              "is_valid": 1,
+              "is_ws": 2,
+              "phone_type": 3,
+              "country_code": "52",
+              "dialing_code": null,
+              "area_code": "",
+              "telephone": "9988872373",
+              "national_number": "998 887 2373",
+              "international_number": "+52 998 887 2373"
+            }
+          ],
+          "socials": [
+            {
+              "val": "https://www.facebook.com/Servimarmarinesupplies",
+              "social_url": "Servimarmarinesupplies",
+              "social_type": "facebook",
+              "is_valid": null,
+              "reason": null
+            }
+          ],
+          "websites": [
+            {
+              "val": "www.servimar.com.mx",
+              "is_valid": 0,
+              "is_sensitive": null,
+              "reason": null
+            }
+          ]
+        }
+      },
+      {
+        "companyId": 20438835,
+        "contact_data": {
+          "emails": [
+            {
+              "val": "info@shofudental.co",
+              "is_valid": 0,
+              "reason": ""
+            },
+            {
+              "val": "jaspreet@shofudental.co.in",
+              "is_valid": 1,
+              "reason": ""
+            },
+            {
+              "val": "mailbx@shofu.com",
+              "is_valid": 0,
+              "reason": ""
+            }
+          ],
+          "phones": [
+            {
+              "val": "911149441400",
+              "is_valid": 1,
+              "is_ws": 2,
+              "phone_type": 1,
+              "country_code": "91",
+              "dialing_code": null,
+              "area_code": "",
+              "telephone": "1149441400",
+              "national_number": "011 4944 1400",
+              "international_number": "+91 11 4944 1400"
+            }
+          ],
+          "socials": [
+            {
+              "val": "https://www.facebook.com/shofuindia",
+              "social_url": "shofuindia",
+              "social_type": "facebook",
+              "is_valid": null,
+              "reason": null
+            },
+            {
+              "val": "https://twitter.com/SdaApac",
+              "social_url": "SdaApac",
+              "social_type": "twitter",
+              "is_valid": null,
+              "reason": null
+            },
+            {
+              "val": "https://www.youtube.com/channel/UCkHEyliQ-TQ-RwSsXrDHtDQ/featured",
+              "social_url": "channel/UCkHEyliQ-TQ-RwSsXrDHtDQ/featured",
+              "social_type": "youtube",
+              "is_valid": null,
+              "reason": null
+            }
+          ],
+          "websites": [
+            {
+              "val": "shofu.co.in",
+              "is_valid": 0,
+              "is_sensitive": null,
+              "reason": null
+            }
+          ]
+        }
+      },
+      {
+        "companyId": 20463967,
+        "contact_data": {
+          "emails": [
+            {
+              "val": "exidepk@exide.com.pk",
+              "is_valid": 0,
+              "reason": ""
+            }
+          ],
+          "phones": [],
+          "socials": [],
+          "websites": [
+            {
+              "val": "http://www.exide.com.pk/",
+              "is_valid": 0,
+              "is_sensitive": null,
+              "reason": null
+            }
+          ]
+        }
+      },
+      {
+        "companyId": 20457091,
+        "contact_data": {
+          "emails": [
+            {
+              "val": "sales@devkisteel.com",
+              "is_valid": 1,
+              "reason": ""
+            }
+          ],
+          "phones": [
+            {
+              "val": "254756020000",
+              "is_valid": 1,
+              "is_ws": 2,
+              "phone_type": 2,
+              "country_code": "254",
+              "dialing_code": null,
+              "area_code": "",
+              "telephone": "756020000",
+              "national_number": "0756 020000",
+              "international_number": "+254 756 020000"
+            }
+          ],
+          "socials": [
+            {
+              "val": "https://www.facebook.com/devkigroup",
+              "social_url": "devkigroup",
+              "social_type": "facebook",
+              "is_valid": null,
+              "reason": null
+            },
+            {
+              "val": "https://www.youtube.com/channel/UCuPF38QWDPJknIqllt3luoA",
+              "social_url": "channel/UCuPF38QWDPJknIqllt3luoA",
+              "social_type": "youtube",
+              "is_valid": null,
+              "reason": null
+            }
+          ],
+          "websites": [
+            {
+              "val": "www.devkigroupke.com",
+              "is_valid": 0,
+              "is_sensitive": null,
+              "reason": null
+            }
+          ]
+        }
+      },
+      {
+        "companyId": 20438107,
+        "contact_data": {
+          "emails": [
+            {
+              "val": "vci@vietceramics.com.vn",
+              "is_valid": 1,
+              "reason": ""
+            },
+            {
+              "val": "vietceramics.com.vn@gmail.com",
+              "is_valid": 1,
+              "reason": ""
+            },
+            {
+              "val": "vietceramics@vietceramics.com",
+              "is_valid": 0,
+              "reason": ""
+            }
+          ],
+          "phones": [
+            {
+              "val": "0797555299",
+              "is_valid": 2,
+              "is_ws": 0,
+              "phone_type": 0,
+              "country_code": "",
+              "dialing_code": null,
+              "area_code": "",
+              "telephone": "",
+              "national_number": "",
+              "international_number": ""
+            },
+            {
+              "val": "842838457699",
+              "is_valid": 1,
+              "is_ws": 2,
+              "phone_type": 1,
+              "country_code": "84",
+              "dialing_code": null,
+              "area_code": "",
+              "telephone": "2838457699",
+              "national_number": "028 3845 7699",
+              "international_number": "+84 28 3845 7699"
+            }
+          ],
+          "socials": [
+            {
+              "val": "https://www.facebook.com/sharer/sharer.php?u=https://www.vietceramics.com/san-go-wood-flooring/group-0/eligna-2",
+              "social_url": "sharer/sharer.php?u=https://www.vietceramics.com/san-go-wood-flooring/group-0/eligna-2",
+              "social_type": "facebook",
+              "is_valid": null,
+              "reason": null
+            },
+            {
+              "val": "https://www.instagram.com/vietceramics.official",
+              "social_url": "vietceramics.official",
+              "social_type": "instagram",
+              "is_valid": null,
+              "reason": null
+            },
+            {
+              "val": "https://www.pinterest.com/Vietceramics_",
+              "social_url": "Vietceramics_",
+              "social_type": "pinterest",
+              "is_valid": null,
+              "reason": null
+            },
+            {
+              "val": "https://www.youtube.com/channel/UCbekvShj88hLSribXfhBmOw",
+              "social_url": "channel/UCbekvShj88hLSribXfhBmOw",
+              "social_type": "youtube",
+              "is_valid": null,
+              "reason": null
+            }
+          ],
+          "websites": [
+            {
+              "val": "vietceramics.com",
+              "is_valid": 1,
+              "is_sensitive": null,
+              "reason": null
+            }
+          ]
+        }
+      },
+      {
+        "companyId": 20440873,
+        "contact_data": {
+          "emails": [
+            {
+              "val": "bhardwajnaresh@hotmail.com",
+              "is_valid": 1,
+              "reason": ""
+            },
+            {
+              "val": "sales@ushafasteners.com",
+              "is_valid": 1,
+              "reason": ""
+            }
+          ],
+          "phones": [
+            {
+              "val": "911244",
+              "is_valid": 2,
+              "is_ws": 2,
+              "phone_type": 0,
+              "country_code": "91",
+              "dialing_code": null,
+              "area_code": "",
+              "telephone": "",
+              "national_number": "",
+              "international_number": ""
+            },
+            {
+              "val": "911244252970",
+              "is_valid": 1,
+              "is_ws": 2,
+              "phone_type": 1,
+              "country_code": "91",
+              "dialing_code": null,
+              "area_code": "",
+              "telephone": "1244252970",
+              "national_number": "0124 425 2970",
+              "international_number": "+91 124 425 2970"
+            },
+            {
+              "val": "91124425297071",
+              "is_valid": 2,
+              "is_ws": 2,
+              "phone_type": 0,
+              "country_code": "91",
+              "dialing_code": null,
+              "area_code": "",
+              "telephone": "",
+              "national_number": "",
+              "international_number": ""
+            }
+          ],
+          "socials": [],
+          "websites": [
+            {
+              "val": "www.ushafasteners.com",
+              "is_valid": 0,
+              "is_sensitive": null,
+              "reason": null
+            }
+          ]
+        }
+      },
+      {
+        "companyId": 20455300,
+        "contact_data": {
+          "emails": [
+            {
+              "val": "communications@isuzu.co.ke",
+              "is_valid": 0,
+              "reason": ""
+            }
+          ],
+          "phones": [
+            {
+              "val": "254206936000",
+              "is_valid": 1,
+              "is_ws": 2,
+              "phone_type": 1,
+              "country_code": "254",
+              "dialing_code": null,
+              "area_code": "",
+              "telephone": "206936000",
+              "national_number": "020 6936000",
+              "international_number": "+254 20 6936000"
+            }
+          ],
+          "socials": [
+            {
+              "val": "https://www.facebook.com/BusinessDailyAfrica",
+              "social_url": "BusinessDailyAfrica",
+              "social_type": "facebook",
+              "is_valid": null,
+              "reason": null
+            },
+            {
+              "val": "https://www.instagram.com/bdafrica_ke",
+              "social_url": "bdafrica_ke",
+              "social_type": "instagram",
+              "is_valid": null,
+              "reason": null
+            },
+            {
+              "val": "https://twitter.com/BD_Africa",
+              "social_url": "BD_Africa",
+              "social_type": "twitter",
+              "is_valid": null,
+              "reason": null
+            },
+            {
+              "val": "https://www.youtube.com/user/businessdailyafrica",
+              "social_url": "user/businessdailyafrica",
+              "social_type": "youtube",
+              "is_valid": null,
+              "reason": null
+            }
+          ],
+          "websites": [
+            {
+              "val": "www.isuzu.co.jp/world/index.html",
+              "is_valid": 0,
+              "is_sensitive": null,
+              "reason": null
+            }
+          ]
+        }
+      },
+      {
+        "companyId": 20458943,
+        "contact_data": {
+          "emails": [
+            {
+              "val": "contabilidad@suzuki.com",
+              "is_valid": 0,
+              "reason": ""
+            },
+            {
+              "val": "servicioalcliente@suzuki.com",
+              "is_valid": 0,
+              "reason": ""
+            }
+          ],
+          "phones": [],
+          "socials": [
+            {
+              "val": "https://www.facebook.com/SuzukiColombia",
+              "social_url": "SuzukiColombia",
+              "social_type": "facebook",
+              "is_valid": null,
+              "reason": null
+            },
+            {
+              "val": "https://www.instagram.com/suzuki_colombia",
+              "social_url": "suzuki_colombia",
+              "social_type": "instagram",
+              "is_valid": null,
+              "reason": null
+            },
+            {
+              "val": "https://www.linkedin.com/company/suzuki-motor-de-colombia-s-a",
+              "social_url": "company/suzuki-motor-de-colombia-s-a",
+              "social_type": "linkedin",
+              "is_valid": null,
+              "reason": null
+            },
+            {
+              "val": "https://www.youtube.com/user/SuzukiCol1",
+              "social_url": "user/SuzukiCol1",
+              "social_type": "youtube",
+              "is_valid": null,
+              "reason": null
+            }
+          ],
+          "websites": [
+            {
+              "val": "suzuki.com.co",
+              "is_valid": 1,
+              "is_sensitive": null,
+              "reason": null
+            }
+          ]
+        }
+      },
+      {
+        "companyId": 20453210,
+        "contact_data": {
+          "emails": [
+            {
+              "val": "falonso@galco.com.mx",
+              "is_valid": 0,
+              "reason": ""
+            }
+          ],
+          "phones": [
+            {
+              "val": "528717506044",
+              "is_valid": 1,
+              "is_ws": 2,
+              "phone_type": 3,
+              "country_code": "52",
+              "dialing_code": null,
+              "area_code": "",
+              "telephone": "8717506044",
+              "national_number": "871 750 6044",
+              "international_number": "+52 871 750 6044"
+            }
+          ],
+          "socials": [],
+          "websites": [
+            {
+              "val": "www.galco.com.mx",
+              "is_valid": 0,
+              "is_sensitive": null,
+              "reason": null
+            }
+          ]
+        }
+      },
+      {
+        "companyId": 20467918,
+        "contact_data": {
+          "emails": [
+            {
+              "val": "ventas@comanov.com",
+              "is_valid": 0,
+              "reason": ""
+            }
+          ],
+          "phones": [
+            {
+              "val": "3338252835",
+              "is_valid": 2,
+              "is_ws": 2,
+              "phone_type": 0,
+              "country_code": "",
+              "dialing_code": null,
+              "area_code": "",
+              "telephone": "",
+              "national_number": "",
+              "international_number": ""
+            },
+            {
+              "val": "5213338255494",
+              "is_valid": 2,
+              "is_ws": 0,
+              "phone_type": 0,
+              "country_code": "52",
+              "dialing_code": null,
+              "area_code": "",
+              "telephone": "",
+              "national_number": "",
+              "international_number": ""
+            },
+            {
+              "val": "523338255494",
+              "is_valid": 1,
+              "is_ws": 2,
+              "phone_type": 3,
+              "country_code": "52",
+              "dialing_code": null,
+              "area_code": "",
+              "telephone": "3338255494",
+              "national_number": "33 3825 5494",
+              "international_number": "+52 33 3825 5494"
+            },
+            {
+              "val": "986742844",
+              "is_valid": 2,
+              "is_ws": 2,
+              "phone_type": 0,
+              "country_code": "",
+              "dialing_code": null,
+              "area_code": "",
+              "telephone": "",
+              "national_number": "",
+              "international_number": ""
+            }
+          ],
+          "socials": [
+            {
+              "val": "https://www.facebook.com/usuario",
+              "social_url": "usuario",
+              "social_type": "facebook",
+              "is_valid": null,
+              "reason": null
+            }
+          ],
+          "websites": [
+            {
+              "val": "www.comanov.com.mx",
+              "is_valid": 0,
+              "is_sensitive": null,
+              "reason": null
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "fee": {
+    "apiCost": 2000,
+    "accountBalance": 71540,
+    "uuid": "7b4a7ff0-f174-44f8-beac-093a48a5032b"
+  }
+}
