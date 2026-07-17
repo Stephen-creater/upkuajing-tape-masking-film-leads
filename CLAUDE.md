@@ -10,8 +10,10 @@
 
 - Keep exactly one row per `company_id`; do not merge different company IDs silently.
 - Count an email as valid only when its validation status is `1`.
-- Report email metrics separately: 26 companies with a valid email, 28 globally deduplicated valid email strings, and 31 company-email associations.
-- Treat 26 companies and ¥3.14 per company as the primary acquisition metrics. The 31 associations are an audit count, not 31 independent addresses.
+- Treat company-level coverage as the business metric: 35 companies with any valid contact, 26 with a valid email, and 28 with a valid phone.
+- Report the coverage split as 19 with both, 7 email-only, 9 phone-only, and 0 with neither.
+- Use ¥2.33 per company with any valid contact, ¥3.14 per valid-email company, and ¥2.91 per valid-phone company. These are alternative views and must not be added.
+- Keep 28 globally deduplicated valid email strings and 31 company-email associations as technical audit counts, not business KPIs.
 - Preserve source URLs and raw API fields. Never invent missing contact details.
 
 ## Paid API and secrets
