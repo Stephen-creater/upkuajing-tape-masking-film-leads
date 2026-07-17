@@ -41,7 +41,7 @@ class IncrementalExpansionTests(unittest.TestCase):
 
     def test_campaign_filter_excludes_previous_products(self):
         self.assertFalse(EXPAND.is_campaign_company({"categories": "刷子; 羊毛刷"}))
-        self.assertTrue(EXPAND.is_campaign_company({"categories": "塑料桶"}))
+        self.assertTrue(EXPAND.is_campaign_company({"categories": "油漆刷"}))
 
     def test_hog_bristle_match_allows_plural_and_intervening_words(self):
         company = {"productDesc": "NATURAL HOG BRISTLES PAINT BRUSHES"}
@@ -56,6 +56,23 @@ class IncrementalExpansionTests(unittest.TestCase):
         company = {"productNames": ["Plastic Pails"]}
         self.assertTrue(EXPAND.matches_config(company, EXPAND.PRODUCTS["plastic-bucket"]))
         self.assertFalse(EXPAND.matches_config({"productNames": ["Metal Pail"]}, EXPAND.PRODUCTS["plastic-bucket"]))
+
+    def test_paint_brush_requires_one_strict_product_phrase(self):
+        config = EXPAND.PRODUCTS["paint-brush"]
+        for description in (
+            "ROLLER PAINT BRUSH",
+            "PAINT APPLICATOR BRUSHES",
+            "PROFESSIONAL PAINTBRUSHES",
+            "BRUSH FOR PAINTING WALLS",
+        ):
+            self.assertTrue(EXPAND.matches_config({"productDesc": description}, config), description)
+        for description in (
+            "AUTOMOTIVE PAINT AND TOOTH BRUSH",
+            "PAINT ROLLER AND CLEANING BRUSH",
+            "PAINT COATING ONLY",
+            "HOUSEHOLD CLEANING BRUSH",
+        ):
+            self.assertFalse(EXPAND.matches_config({"productDesc": description}, config), description)
 
 
 if __name__ == "__main__":

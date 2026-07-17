@@ -25,11 +25,11 @@ API_BASE = "https://openapi.upkuajing.com"
 
 BASELINE_SPEND_CENTS = 8160
 PROJECT_CAP_CENTS = 50000
-TARGET_CAMPAIGN_COMPANIES = 50
+TARGET_CAMPAIGN_COMPANIES = 20
 SEARCH_PREFLIGHT_CENTS = 200
 CONTACT_PREFLIGHT_CENTS_PER_COMPANY = 100
 
-CAMPAIGN_CATEGORIES = {"塑料桶"}
+CAMPAIGN_CATEGORIES = {"油漆刷"}
 
 PRODUCTS = {
     "tape": {
@@ -117,6 +117,36 @@ PRODUCTS = {
         "initial_cursor_file": None,
         "source_slug": "plastic-pail",
         "match_required_groups": [["plastic", "plastics"], ["bucket", "buckets", "pail", "pails"]],
+    },
+    "paint-brush": {
+        "api_term": "paint brush",
+        "chinese": "油漆刷",
+        "is_exact": True,
+        "initial_cursor_file": None,
+        "source_slug": "paint-brush",
+        "match_patterns": [
+            r"\bpaint[\s\-_/.]*brush(?:es)?\b",
+            r"\bpaint[\s\-_/.]+(?:roller|application|applicator|decorating|wall|trim|artist)[\s\-_/.]+brush(?:es)?\b",
+            r"\bpainting[\s\-_/.]+brush(?:es)?\b",
+            r"\bcoating[\s\-_/.]+(?:application[\s\-_/.]+)?brush(?:es)?\b",
+            r"\bbrush(?:es)?[\s\-_/.]+for[\s\-_/.]+paint(?:ing)?\b",
+            r"\bpaintbrush(?:es)?\b",
+        ],
+    },
+    "painting-brush": {
+        "api_term": "painting brush",
+        "chinese": "油漆刷",
+        "is_exact": True,
+        "initial_cursor_file": None,
+        "source_slug": "painting-brush",
+        "match_patterns": [
+            r"\bpaint[\s\-_/.]*brush(?:es)?\b",
+            r"\bpaint[\s\-_/.]+(?:roller|application|applicator|decorating|wall|trim|artist)[\s\-_/.]+brush(?:es)?\b",
+            r"\bpainting[\s\-_/.]+brush(?:es)?\b",
+            r"\bcoating[\s\-_/.]+(?:application[\s\-_/.]+)?brush(?:es)?\b",
+            r"\bbrush(?:es)?[\s\-_/.]+for[\s\-_/.]+paint(?:ing)?\b",
+            r"\bpaintbrush(?:es)?\b",
+        ],
     },
 }
 
@@ -241,15 +271,18 @@ def matches_product(company: dict[str, Any], product: str) -> bool:
 
 
 def matches_config(company: dict[str, Any], config: dict[str, Any]) -> bool:
-    groups = config.get("match_required_groups")
-    if not groups:
-        return matches_product(company, config["api_term"])
     values = [
         company.get("productDesc") or "",
         *(company.get("productNames") or []),
         *(company.get("productTags") or []),
     ]
     haystack = " ".join(map(str, values)).casefold()
+    patterns = config.get("match_patterns")
+    if patterns:
+        return any(re.search(pattern, haystack) for pattern in patterns)
+    groups = config.get("match_required_groups")
+    if not groups:
+        return matches_product(company, config["api_term"])
     return all(
         any(re.search(rf"\b{re.escape(term.casefold())}\b", haystack) for term in group)
         for group in groups

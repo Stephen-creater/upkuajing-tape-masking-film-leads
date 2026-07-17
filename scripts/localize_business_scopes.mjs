@@ -21,6 +21,7 @@ const categoryNames = new Map([
   ["羊毛刷", "羊毛刷"],
   ["pvc护角条", "聚氯乙烯护角条"],
   ["塑料桶", "塑料桶"],
+  ["油漆刷", "油漆刷"],
 ]);
 
 const categoryFallback = (categories) => {

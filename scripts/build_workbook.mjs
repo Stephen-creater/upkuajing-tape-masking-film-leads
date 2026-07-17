@@ -9,7 +9,7 @@ const root = path.resolve(path.dirname(fileURLToPath(import.meta.url)), "..");
 const sourcePath = path.join(root, "data", "processed", "company-master.json");
 const outputDir = path.join(root, "deliverables");
 const workDir = path.join(root, "work");
-const outputPath = path.join(outputDir, "tape-masking-film-customer-master.xlsx");
+const outputPath = path.join(outputDir, "客户表（7.17）.xlsx");
 const projectSpend = 361.60;
 const projectCap = 500.00;
 
@@ -65,6 +65,7 @@ const categoryTranslations = new Map([
   ["羊毛刷", "羊毛刷"],
   ["pvc护角条", "PVC护角条"],
   ["塑料桶", "塑料桶"],
+  ["油漆刷", "油漆刷"],
 ]);
 const countryTranslations = new Map([
   ["AR", "阿根廷"], ["CA", "加拿大"], ["CL", "智利"], ["CO", "哥伦比亚"],
@@ -82,6 +83,8 @@ const productTermTranslations = new Map(Object.entries({
   "pvc corner guard": "PVC护角条", "pvc corner protector": "PVC护角条",
   "pvc wall corner trim": "PVC墙角护条", "pvc corner bead": "PVC护角条",
   "plastic bucket": "塑料桶", "plastic buckets": "塑料桶", "plastic pail": "塑料桶", "plastic pails": "塑料桶",
+  "paint brush": "油漆刷", "paint brushes": "油漆刷", "painting brush": "油漆刷", "painting brushes": "油漆刷",
+  "paintbrush": "油漆刷", "paintbrushes": "油漆刷",
   "pe masking film": "PE遮蔽膜", "masking film": "遮蔽膜", "pretaped masking film": "预贴胶带遮蔽膜",
   "masking tape": "遮蔽胶带", "plastic masking film": "塑料遮蔽膜", "pre-taped masking film": "预贴胶带遮蔽膜",
   "tape": "胶带", "masking": "遮蔽", "film": "薄膜", "plastic": "塑料", "rubber": "橡胶",
@@ -188,10 +191,10 @@ const companiesWithPhoneOnly = companies.filter((_, index) => (
 const companiesWithNoValidContact = companies.length - companiesWithAnyValidContact;
 
 sheet.mergeCells("A1:N1");
-sheet.getRange("A1").values = [["七类产品全球客户总表"]];
+sheet.getRange("A1").values = [["八类产品全球客户总表"]];
 sheet.mergeCells("A2:N2");
 sheet.getRange("A2").values = [[
-  "胶带、遮蔽膜、刷子、猪毛刷、羊毛刷、PVC护角条、塑料桶 · 一行一家公司 · 全球覆盖、欧美优先 · 更新：2026-07-17",
+  "胶带、遮蔽膜、刷子、猪毛刷、羊毛刷、PVC护角条、塑料桶、油漆刷 · 一行一家公司 · 全球覆盖、欧美优先 · 更新：2026-07-17",
 ]];
 
 const cards = [
@@ -436,7 +439,7 @@ guideSheet.getRange("A1:D1").format = {
 };
 guideSheet.getRange("A3:D3").values = [["字段", "人话解释", "来源/计算", "是否关键"]];
 const fieldHelp = {
-  "研究状态": "这家公司目前调研到哪一步", "市场优先级": "欧美优先或全球常规", "产品品类（中文）": "七类产品中该公司实际命中的一个或多个品类",
+  "研究状态": "这家公司目前调研到哪一步", "市场优先级": "欧美优先或全球常规", "产品品类（中文）": "八类产品中该公司实际命中的一个或多个品类",
   "公司ID": "跨境魔方中的公司唯一编号", "公司名称": "公司名称；一行只放一家", "国家/地区（中文）": "公司所在国家的中文名称",
   "首选邮箱": "优先取官网补充邮箱，否则取API/人物邮箱", "邮箱可用状态": "有效、无效、不确定或接口未能检测",
   "首选电话": "优先取官网电话，否则取API电话", "官网": "公司网站", "联系完整度": "按有效邮箱、有效电话、官网、社媒加权",

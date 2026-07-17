@@ -3,7 +3,7 @@
 ## 当前可观测状态
 
 - 公开仓库：`Stephen-creater/upkuajing-tape-masking-film-leads`
-- 权威交付物：`deliverables/tape-masking-film-customer-master.xlsx`
+- 权威交付物：`deliverables/客户表（7.17）.xlsx`
 - 行粒度：一行一家公司，`companyId` 为主键
 - 有效候选：250 家，全部拥有至少一个状态=1的有效邮箱或有效电话
 - 品类公司数：胶带 31、遮蔽膜 22、刷子 99、猪毛刷 9、羊毛刷 22、PVC护角条 23、塑料桶 50；同一家公司可命中多个品类，因此品类数不能相加

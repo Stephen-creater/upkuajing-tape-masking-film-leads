@@ -3,7 +3,7 @@
 ## Purpose and sources of truth
 
 - Find global buyers of tape, masking film, brushes, hog-bristle brushes, wool brushes, PVC corner guards, and plastic buckets, with Europe and North America prioritized.
-- `deliverables/tape-masking-film-customer-master.xlsx` is the only customer-facing master table.
+- `deliverables/客户表（7.17）.xlsx` is the only customer-facing master table.
 - `data/processed/company-master.json` is the workbook's structured input. Files under `data/raw/` are immutable evidence.
 
 ## Data rules

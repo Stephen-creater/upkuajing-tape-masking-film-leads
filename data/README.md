@@ -9,7 +9,7 @@
 - `raw/web/2026-07-17/`：官网、政府文件和权威目录的核验证据。
 - `processed/company-master.json`：Excel 的结构化输入，一行对应一个 `companyId`。
 - `processed/initial-six-contact-enriched-leads.*`：已取回联系方式的首批 6 家公司，是历史处理快照，不是最终主表。
-- 最终、唯一权威客户总表位于 `../deliverables/tape-masking-film-customer-master.xlsx`。
+- 最终、唯一权威客户总表位于 `../deliverables/客户表（7.17）.xlsx`。
 
 ## 已保存的 API 调用
 
