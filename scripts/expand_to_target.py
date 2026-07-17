@@ -25,11 +25,11 @@ API_BASE = "https://openapi.upkuajing.com"
 
 BASELINE_SPEND_CENTS = 8160
 PROJECT_CAP_CENTS = 50000
-TARGET_CAMPAIGN_COMPANIES = 150
+TARGET_CAMPAIGN_COMPANIES = 50
 SEARCH_PREFLIGHT_CENTS = 200
 CONTACT_PREFLIGHT_CENTS_PER_COMPANY = 100
 
-CAMPAIGN_CATEGORIES = {"刷子", "猪毛刷", "羊毛刷", "PVC护角条"}
+CAMPAIGN_CATEGORIES = {"塑料桶"}
 
 PRODUCTS = {
     "tape": {
@@ -101,6 +101,22 @@ PRODUCTS = {
         "initial_cursor_file": None,
         "source_slug": "pvc-corner-protector",
         "match_required_groups": [["pvc"], ["corner"], ["guard", "protector", "trim", "bead", "profile"]],
+    },
+    "plastic-bucket": {
+        "api_term": "plastic bucket",
+        "chinese": "塑料桶",
+        "is_exact": True,
+        "initial_cursor_file": None,
+        "source_slug": "plastic-bucket",
+        "match_required_groups": [["plastic", "plastics"], ["bucket", "buckets", "pail", "pails"]],
+    },
+    "plastic-pail": {
+        "api_term": "plastic pail",
+        "chinese": "塑料桶",
+        "is_exact": True,
+        "initial_cursor_file": None,
+        "source_slug": "plastic-pail",
+        "match_required_groups": [["plastic", "plastics"], ["bucket", "buckets", "pail", "pails"]],
     },
 }
 
@@ -474,7 +490,7 @@ def contacts(api_key: str, limit: int) -> None:
     print(
         f"联系方式：请求 {len(batch)}，应用 {applied}，晋级主表 {promoted}；"
         f"实际费用 ¥{int((response.get('fee') or {}).get('apiCost') or 0) / 100:.2f}；"
-        f"本轮四品有效联系方式公司 {count_campaign_valid(master)}/{TARGET_CAMPAIGN_COMPANIES}"
+        f"本轮有效联系方式公司 {count_campaign_valid(master)}/{TARGET_CAMPAIGN_COMPANIES}"
     )
 
 
@@ -490,7 +506,7 @@ def show_status() -> None:
     print(
         f"主表公司：{len(master.get('companies', []))}\n"
         f"主表有效联系方式公司：{valid}\n"
-        f"本轮四品有效联系方式公司：{campaign_valid}/{TARGET_CAMPAIGN_COMPANIES}\n"
+        f"本轮有效联系方式公司：{campaign_valid}/{TARGET_CAMPAIGN_COMPANIES}\n"
         f"候选池：{len(candidates['companies'])}（本轮待购买联系方式 {pending}）\n"
         f"扩充阶段费用：¥{expansion_spend_cents() / 100:.2f}\n"
         f"项目累计费用：¥{project_spend_cents() / 100:.2f} / ¥{PROJECT_CAP_CENTS / 100:.2f}\n"
@@ -499,7 +515,7 @@ def show_status() -> None:
 
 
 def main() -> None:
-    parser = argparse.ArgumentParser(description="四个新品类增量扩充150家有效联系方式公司")
+    parser = argparse.ArgumentParser(description="当前新品类增量扩充有效联系方式公司")
     subparsers = parser.add_subparsers(dest="command", required=True)
     subparsers.add_parser("status")
     subparsers.add_parser("replay-searches")

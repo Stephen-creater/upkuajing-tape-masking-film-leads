@@ -40,8 +40,8 @@ class IncrementalExpansionTests(unittest.TestCase):
         self.assertIn(":状态1/", row["phone_statuses"])
 
     def test_campaign_filter_excludes_previous_products(self):
-        self.assertFalse(EXPAND.is_campaign_company({"categories": "胶带; 遮蔽膜"}))
-        self.assertTrue(EXPAND.is_campaign_company({"categories": "刷子; 羊毛刷"}))
+        self.assertFalse(EXPAND.is_campaign_company({"categories": "刷子; 羊毛刷"}))
+        self.assertTrue(EXPAND.is_campaign_company({"categories": "塑料桶"}))
 
     def test_hog_bristle_match_allows_plural_and_intervening_words(self):
         company = {"productDesc": "NATURAL HOG BRISTLES PAINT BRUSHES"}
@@ -51,6 +51,11 @@ class IncrementalExpansionTests(unittest.TestCase):
         company = {"productNames": ["PVC Wall Corner Trim"]}
         self.assertTrue(EXPAND.matches_config(company, EXPAND.PRODUCTS["pvc-corner-guard"]))
         self.assertFalse(EXPAND.matches_config({"productNames": ["PVC Edge Band"]}, EXPAND.PRODUCTS["pvc-corner-guard"]))
+
+    def test_plastic_bucket_accepts_pail_alias(self):
+        company = {"productNames": ["Plastic Pails"]}
+        self.assertTrue(EXPAND.matches_config(company, EXPAND.PRODUCTS["plastic-bucket"]))
+        self.assertFalse(EXPAND.matches_config({"productNames": ["Metal Pail"]}, EXPAND.PRODUCTS["plastic-bucket"]))
 
 
 if __name__ == "__main__":

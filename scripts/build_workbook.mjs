@@ -57,6 +57,7 @@ const categoryTranslations = new Map([
   ["猪毛刷", "猪毛刷"],
   ["羊毛刷", "羊毛刷"],
   ["pvc护角条", "PVC护角条"],
+  ["塑料桶", "塑料桶"],
 ]);
 const countryTranslations = new Map([
   ["AR", "阿根廷"], ["CA", "加拿大"], ["CL", "智利"], ["CO", "哥伦比亚"],
@@ -73,6 +74,7 @@ const productTermTranslations = new Map(Object.entries({
   "boar brush": "猪鬃刷", "wool brush": "羊毛刷", "wool brushes": "羊毛刷",
   "pvc corner guard": "PVC护角条", "pvc corner protector": "PVC护角条",
   "pvc wall corner trim": "PVC墙角护条", "pvc corner bead": "PVC护角条",
+  "plastic bucket": "塑料桶", "plastic buckets": "塑料桶", "plastic pail": "塑料桶", "plastic pails": "塑料桶",
   "pe masking film": "PE遮蔽膜", "masking film": "遮蔽膜", "pretaped masking film": "预贴胶带遮蔽膜",
   "masking tape": "遮蔽胶带", "plastic masking film": "塑料遮蔽膜", "pre-taped masking film": "预贴胶带遮蔽膜",
   "tape": "胶带", "masking": "遮蔽", "film": "薄膜", "plastic": "塑料", "rubber": "橡胶",
