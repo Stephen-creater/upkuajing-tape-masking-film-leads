@@ -86,7 +86,7 @@ def apply_response(master: dict[str, Any], response: dict[str, Any]) -> dict[str
     counts = {"valid": 0, "invalid": 0, "unknown": 0, "unchecked": 0}
     for company in master["companies"]:
         existing = parse_statuses(company.get("email_statuses", ""))
-        reasons: list[str] = []
+        reasons: list[str] = split_values(company.get("email_validation_reasons", ""))
         rendered: list[str] = []
         for email in split_values(company.get("emails", "")):
             result = results.get(email.casefold())
