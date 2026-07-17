@@ -1,0 +1,78 @@
+{
+  "code": 0,
+  "msg": "success",
+  "data": {
+    "list": [
+      {
+        "phone": "+84 24 3582 2456",
+        "status": 1,
+        "reason": null,
+        "phoneType": 1,
+        "countryCode": "VN",
+        "isWs": 0
+      },
+      {
+        "phone": "+91 1800 419 9999",
+        "status": 1,
+        "reason": null,
+        "phoneType": 3,
+        "countryCode": "IN",
+        "isWs": 2
+      },
+      {
+        "phone": "+91 1800 102 9999",
+        "status": 3,
+        "reason": "接口未返回该号码检测结果",
+        "phoneType": null,
+        "countryCode": null,
+        "isWs": null
+      },
+      {
+        "phone": "+91 22 4741 9200",
+        "status": 1,
+        "reason": null,
+        "phoneType": 1,
+        "countryCode": "IN",
+        "isWs": 0
+      },
+      {
+        "phone": "+91 99993 27453",
+        "status": 1,
+        "reason": null,
+        "phoneType": 2,
+        "countryCode": "IN",
+        "isWs": 1
+      },
+      {
+        "phone": "+94 31 5553500",
+        "status": 1,
+        "reason": null,
+        "phoneType": 1,
+        "countryCode": "LK",
+        "isWs": 2
+      },
+      {
+        "phone": "+94 31 2235069",
+        "status": 3,
+        "reason": "接口未返回该号码检测结果",
+        "phoneType": null,
+        "countryCode": null,
+        "isWs": null
+      },
+      {
+        "phone": "+94 77 7773669",
+        "status": 3,
+        "reason": "接口未返回该号码检测结果",
+        "phoneType": null,
+        "countryCode": null,
+        "isWs": null
+      }
+    ],
+    "total": 8
+  },
+  "fee": {
+    "apiCost": 80,
+    "accountBalance": 91840,
+    "uuid": "7859d726-fc52-4fde-81a5-7e21d7ec77c4"
+  }
+}

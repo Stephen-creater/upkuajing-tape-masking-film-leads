@@ -445,14 +445,14 @@
       "research_status": "API联系方式已获取",
       "market_priority": "常规-全球",
       "website_emails": "hue.dt@honestvietnam.com.vn",
-      "website_phones": "",
+      "website_phones": "+84 24 3582 2456",
       "website_address": "",
       "website_contact_method": "",
       "email_validation_reasons": "hue.dt@honestcom.vn: 邮箱地址错误-使用了无效字符或无效域; hue.dt@honestvietnam.com.vn: 检测状态未知",
       "email_validation_source": "UpKuajing /agent/validation/email (2026-07-17)",
-      "email_validation_summary": "验证不确定-需官网补充",
-      "phone_statuses": "",
-      "phone_validation_summary": "无电话或接口未检测"
+      "email_validation_summary": "验证不确定-已有权威来源佐证",
+      "phone_statuses": "+84 24 3582 2456:状态1/类型1/WhatsApp0",
+      "phone_validation_summary": "有有效电话"
     },
     {
       "company_id": 369752,
@@ -641,7 +641,7 @@
       "emails": "info@haierindia.com; chuktiii@gmail.com",
       "email_statuses": "info@haierindia.com:3; chuktiii@gmail.com:1; customercare@haierindia.com:3",
       "phones": "",
-      "whatsapp": "",
+      "whatsapp": "+91 85530 49999",
       "websites": "www.haier.com",
       "socials": "https://www.linkedin.com/in/madhumay-panigrahi-528ab842; https://www.facebook.com/madhumay.panigrahi",
       "contact_source": "UpKuajing customs company contact API; UpKuajing reviewed person contact API",
@@ -650,14 +650,14 @@
       "research_status": "已补充有效决策人邮箱",
       "market_priority": "常规-全球",
       "website_emails": "customercare@haierindia.com",
-      "website_phones": "",
+      "website_phones": "+91 1800 419 9999; +91 1800 102 9999",
       "website_address": "",
       "website_contact_method": "",
       "email_validation_reasons": "info@haierindia.com: [{550: b'5.7.1 Service unavailable, Client host [123.207.249.63] blocked using Spamhaus. To request removal from this list see https://www.spamhaus.org/query/ip/123.207.249.63 AS(1440) [HK3PEPF0000021E.apcprd03.prod.outlook.com 2024-07-24T12:49:52.510Z 08DCAAAE078242B2]'}]; customercare@haierindia.com: 检测状态未知",
       "email_validation_source": "UpKuajing /agent/validation/email (2026-07-17)",
       "email_validation_summary": "有有效邮箱",
-      "phone_statuses": "",
-      "phone_validation_summary": "无电话或接口未检测"
+      "phone_statuses": "+91 1800 419 9999:状态1/类型3/WhatsApp2; +91 1800 102 9999:状态3/类型0/WhatsApp0",
+      "phone_validation_summary": "有有效电话"
     },
     {
       "company_id": 22316517,
@@ -942,7 +942,7 @@
       "website_contact_method": "",
       "email_validation_reasons": "aruna.sharma@vivoglobal.com: [{550: b'5.7.1 Service unavailable, Client host [123.207.249.63] blocked using Spamhaus. To request removal from this list see https://www.spamhaus.org/query/ip/123.207.249.63 AS(1440) [SG2PEPF000B66CC.apcprd03.prod.outlook.com 2024-07-24T21:17:12.040Z 08DCAAEDDCA78B76]'}]",
       "email_validation_source": "UpKuajing /agent/validation/email (2026-07-17)",
-      "email_validation_summary": "有有效邮箱",
+      "email_validation_summary": "有有效邮箱-同法人实体复用",
       "phone_statuses": "",
       "phone_validation_summary": "无电话或接口未检测"
     },
@@ -978,14 +978,14 @@
       "research_status": "API联系方式已获取",
       "market_priority": "常规-全球",
       "website_emails": "marketing.india@tesa.com",
-      "website_phones": "",
+      "website_phones": "+91 22 4741 9200",
       "website_address": "",
       "website_contact_method": "",
       "email_validation_reasons": "contact.india@tesa.com: {\"invalid_input\":false,\"input\":[\"contact.india@tesa.com\"],\"domainMap\":{\"tesa.com\":\"contact.india@tesa.com\"},\"results\":{\"tesa.com\":{\"contact.india@tesa.com\":{\"reason\":\"550 5.4.1 Recipient address rejected: Access denied. [AMS0EPF000001B1.eurprd05.prod.outlook.com 2023-09-12T13:48:46.253Z 08DBB31C425B7BAA]\\r\\n\",\"status\":550}}}}; marketing.india@tesa.com: 检测状态未知",
       "email_validation_source": "UpKuajing /agent/validation/email (2026-07-17)",
-      "email_validation_summary": "验证不确定-需官网补充",
-      "phone_statuses": "",
-      "phone_validation_summary": "无电话或接口未检测"
+      "email_validation_summary": "验证不确定-已有权威来源佐证",
+      "phone_statuses": "+91 22 4741 9200:状态1/类型1/WhatsApp0",
+      "phone_validation_summary": "有有效电话"
     },
     {
       "company_id": 28739610,
@@ -1347,14 +1347,14 @@
       "research_status": "已补充有效决策人邮箱",
       "market_priority": "常规-全球",
       "website_emails": "supsalcorp@gmail.com",
-      "website_phones": "",
+      "website_phones": "+91 99993 27453",
       "website_address": "",
       "website_contact_method": "",
       "email_validation_reasons": "career@martfury.com: failed_domains; contact@martfury.com: failed_domains; customercare@martfury.com: failed_domains; info@superconduits.com: {\"invalid_input\":false,\"input\":[\"info@superconduits.com\"],\"domainMap\":{\"superconduits.com\":\"info@superconduits.com\"},\"results\":{\"superconduits.com\":{\"info@superconduits.com\":{\"reason\":\"550 5.7.1 Service unavailable; client [136.143.177.51] blocked using hostkarma.junkemailfilter.com\\r\\n\",\"status\":550}}}}; media@martfury.com: failed_domains; vendorsupport@martfury.com: failed_domains; supsalcorp@gmail.com: 检测状态未知",
       "email_validation_source": "UpKuajing /agent/validation/email (2026-07-17)",
       "email_validation_summary": "有有效邮箱",
-      "phone_statuses": "",
-      "phone_validation_summary": "无电话或接口未检测"
+      "phone_statuses": "+91 99993 27453:状态1/类型2/WhatsApp1",
+      "phone_validation_summary": "有有效电话"
     },
     {
       "company_id": 67078,
@@ -1388,14 +1388,14 @@
       "research_status": "API联系方式已获取",
       "market_priority": "常规-全球",
       "website_emails": "udaya@aquadynamics.lk",
-      "website_phones": "",
+      "website_phones": "+94 31 5553500; +94 31 2235069; +94 77 7773669",
       "website_address": "",
       "website_contact_method": "",
       "email_validation_reasons": "jeff.smith@aquadynamicconsultancy.com: 邮箱地址错误-使用了无效字符或无效域; udaya@aquadynamics.lk: 检测状态未知",
       "email_validation_source": "UpKuajing /agent/validation/email (2026-07-17)",
-      "email_validation_summary": "验证不确定-需官网补充",
-      "phone_statuses": "",
-      "phone_validation_summary": "无电话或接口未检测"
+      "email_validation_summary": "验证不确定-已有权威来源佐证",
+      "phone_statuses": "+94 31 5553500:状态1/类型1/WhatsApp2; +94 31 2235069:状态3/类型0/WhatsApp0; +94 77 7773669:状态3/类型0/WhatsApp0",
+      "phone_validation_summary": "有有效电话"
     },
     {
       "company_id": 381348,
