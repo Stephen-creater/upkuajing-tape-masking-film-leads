@@ -1,0 +1,17 @@
+{
+  "task_id": "c5c77083-6ef6-40e9-83cc-13a2e7407336",
+  "params": {
+    "companyType": 2,
+    "products": [
+      "masking film"
+    ],
+    "existEmail": 1,
+    "isExact": true,
+    "sorting_field": "tradeCount",
+    "sorting_direction": "desc"
+  },
+  "cursor": "eyJjb21wYW55X2lkIjoyMDIxMDkwMn0=",
+  "total_retrieved": 20,
+  "requested": 20,
+  "status": "completed"
+}

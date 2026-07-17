@@ -1,0 +1,17 @@
+{
+  "task_id": "c9cf6428-6a55-4b2b-ad50-49a96c61e877",
+  "params": {
+    "companyType": 2,
+    "products": [
+      "tape"
+    ],
+    "existEmail": 1,
+    "isExact": false,
+    "sorting_field": "tradeCount",
+    "sorting_direction": "desc"
+  },
+  "cursor": "eyJjb21wYW55X2lkIjoyMDQzMjM1OH0=",
+  "total_retrieved": 20,
+  "requested": 20,
+  "status": "completed"
+}
