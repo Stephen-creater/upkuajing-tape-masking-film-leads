@@ -1,0 +1,49 @@
+{
+  "researched_on": "2026-07-17",
+  "candidates": [
+    {
+      "company_id": 368379,
+      "email": "customercare@haierindia.com",
+      "source": "https://www.haier.com/in/blogs/hassle-free-installation-and-service-support-for-haier-led-tvs-in-india.shtml",
+      "source_quality": "企业官网",
+      "notes": "Haier India 官网公布的客服邮箱；同时公布电话 1800-419-9999、1800-102-9999 和 WhatsApp 8553049999。"
+    },
+    {
+      "company_id": 20432358,
+      "email": "marketing.india@tesa.com",
+      "source": "https://www.tesa.com/en-in/industry/lp/automotive/hole-covering-linkedin",
+      "source_quality": "企业官网",
+      "notes": "tesa India 官网明确标注的业务联系邮箱和电话 +91 22 4741 9200。"
+    },
+    {
+      "company_id": 4421112,
+      "email": "hue.dt@honestvietnam.com.vn",
+      "source": "https://www.hhtp.gov.vn/media/thong-bao-tuyen-dung/2025_07/2bao-cao-de-xuat-cap-lai-gpmt_compressed-1-389.pdf",
+      "source_quality": "政府公开文件",
+      "notes": "2025 年企业环境许可文件列出的副总经理邮箱和公司电话 024 35822456。"
+    },
+    {
+      "company_id": 28930762,
+      "email": "supsalcorp@gmail.com",
+      "source": "https://www.scamadviser.com/check-website/superconduits.com",
+      "source_quality": "域名登记信息聚合",
+      "notes": "superconduits.com 的域名登记联系人邮箱；只有验证有效才纳入首选邮箱候选。"
+    },
+    {
+      "company_id": 67078,
+      "email": "udaya@aquadynamics.lk",
+      "source": "https://rainbowpages.lk/other/unclassified/aqua-dynamics-pvt-ltd/",
+      "source_quality": "本地商业目录",
+      "notes": "Sri Lanka Rainbow Pages 列出的公司邮箱；只有验证有效才纳入首选邮箱候选。"
+    }
+  ],
+  "entity_reuse": [
+    {
+      "company_id": 86190,
+      "same_entity_company_id": 20195417,
+      "emails": ["support.in@vivo.com", "vcare@vivo.com"],
+      "source": "同一总表中的同法人实体记录；两个邮箱已由 API 验证为有效",
+      "notes": "公司名称、国家和业务实体一致；避免为重复实体再次购买联系方式。"
+    }
+  ]
+}
