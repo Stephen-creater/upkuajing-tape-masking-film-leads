@@ -10,6 +10,8 @@ const sourcePath = path.join(root, "data", "processed", "company-master.json");
 const outputDir = path.join(root, "deliverables");
 const workDir = path.join(root, "work");
 const outputPath = path.join(outputDir, "tape-masking-film-customer-master.xlsx");
+const projectSpend = 105.10;
+const projectCap = 200.00;
 
 const source = JSON.parse(await fs.readFile(sourcePath, "utf8"));
 const companies = source.companies;
@@ -49,10 +51,13 @@ const splitValues = (value) => String(value || "").split(";").map((item) => item
 const categoryTranslations = new Map([
   ["tape", "胶带"],
   ["masking film", "遮蔽膜"],
+  ["胶带", "胶带"],
+  ["遮蔽膜", "遮蔽膜"],
 ]);
 const countryTranslations = new Map([
   ["EC", "厄瓜多尔"], ["GB", "英国"], ["IN", "印度"], ["KR", "韩国"],
-  ["LK", "斯里兰卡"], ["MX", "墨西哥"], ["US", "美国"], ["VN", "越南"],
+  ["JP", "日本"], ["KE", "肯尼亚"], ["LK", "斯里兰卡"], ["MX", "墨西哥"],
+  ["US", "美国"], ["VN", "越南"],
 ]);
 const productTermTranslations = new Map(Object.entries({
   "rubber tape": "橡胶胶带", "parts for led tv": "LED电视零部件", "tape-1 p1 duo": "TAPE-1 P1 DUO（胶带型号）",
@@ -183,7 +188,7 @@ for (const [labelRange, label, valueRange, formula] of cards) {
   sheet.getRange(valueRange).format.fill = "#DDEBF7";
 }
 sheet.mergeCells("AG3:AO3");
-sheet.getRange("AG3").values = [["OpenAPI 累计费用：¥81.60 / 上限 ¥100.00"]];
+sheet.getRange("AG3").values = [[`OpenAPI 累计费用：¥${projectSpend.toFixed(2)} / 上限 ¥${projectCap.toFixed(2)}`]];
 sheet.getRange("AG3:AO3").format.fill = "#FFF2CC";
 
 sheet.mergeCells(`A4:${lastCol}4`);
@@ -348,17 +353,17 @@ costSheet.getRange("A4:C16").values = [
   ["只有有效邮箱的公司", companiesWithEmailOnly, "有有效邮箱、无有效电话"],
   ["只有有效电话的公司", companiesWithPhoneOnly, "无有效邮箱、有有效电话"],
   ["两者都没有的公司", companiesWithNoValidContact, "无状态=1的邮箱，也无状态=1的电话"],
-  ["OpenAPI累计费用", 81.60, "人民币；已审计本项目全部调用"],
+  ["OpenAPI累计费用", projectSpend, "人民币；已审计本项目全部调用"],
   ["每家有效联系方式公司成本", null, "累计费用 ÷ 拥有至少一种有效联系方式的公司"],
   ["每家有效邮箱公司成本", null, "累计费用 ÷ 拥有有效邮箱的公司"],
   ["每家有效电话公司成本", null, "累计费用 ÷ 拥有有效电话的公司"],
-  ["预算剩余", null, "¥100.00 - 累计费用"],
+  ["预算剩余", null, "预算上限 ¥200.00 - 累计费用"],
 ];
 costSheet.getRange("B13:B16").formulas = [
   ["=ROUND(B12/B5,2)"],
   ["=ROUND(B12/B6,2)"],
   ["=ROUND(B12/B7,2)"],
-  ["=ROUND(100-B12,2)"],
+  [`=ROUND(${projectCap}-B12,2)`],
 ];
 costSheet.getRange("A18:C18").values = [["邮箱技术审计", "数量", "说明"]];
 costSheet.getRange("A19:C20").values = [
@@ -367,8 +372,8 @@ costSheet.getRange("A19:C20").values = [
 ];
 costSheet.getRange("A22:C22").values = [["费用构成", "金额（元）", "说明"]];
 costSheet.getRange("A23:C28").values = [
-  ["海关客户搜索", 7.50, "产品买家搜索"],
-  ["海关公司联系方式", 42.00, "早期35家公司及重复调用"],
+  ["海关客户搜索", 12.00, "早期搜索 + 本轮3次增量翻页"],
+  ["海关公司联系方式", 61.00, "早期调用 + 本轮19家公司"],
   ["人物搜索", 19.50, "混合搜索1页 + 逐公司12页"],
   ["人物联系方式", 3.00, "人工审查后仅购买6人"],
   ["邮箱验证", 3.00, "API、官网及人物新增邮箱"],
