@@ -1,0 +1,715 @@
+{
+  "code": 0,
+  "msg": "success",
+  "data": {
+    "cursor": "eyJjb21wYW55X2lkIjoyMDQzNzc5OX0=",
+    "list": [
+      {
+        "companyId": 20437886,
+        "companyType": 2,
+        "name": "HANSAE CO.,LTD",
+        "countryCode": "KR",
+        "tradeTotal": 675,
+        "scope": "",
+        "address": "-HO, 60, CENTUM BUK-DAERO 815 , HAEUNDAE-GU",
+        "tradeMatchTotal": 31,
+        "tradeMatchPercent": 4.59,
+        "latestTradeDate": 1752595200000,
+        "productDesc": "5cm wide colored elastic band. 100% new product#&VN",
+        "productTags": [
+          "Elastic Band",
+          "Colored",
+          "5cm wide"
+        ],
+        "productNames": [
+          "Colored Elastic Band"
+        ],
+        "productAlias": [
+          "Elastic Ribbon",
+          "Elastic Strap",
+          "Colored Elastic",
+          "Elastic Tape",
+          "Decorative Elastic"
+        ],
+        "productSuperordinate": [
+          "Elastomer",
+          "Fiber",
+          "Polymer",
+          "Rubber",
+          "Yarn"
+        ],
+        "productDownstream": [
+          "Clothing",
+          "Accessories",
+          "Costumes",
+          "Home Decor",
+          "Crafts"
+        ]
+      },
+      {
+        "companyId": 20432683,
+        "companyType": 2,
+        "name": "DHOOT TRANSMISSION PRIVATE LIMITED",
+        "countryCode": "IN",
+        "tradeTotal": 12796,
+        "scope": "Wire harnesses and related products",
+        "address": "GUT NO 312 , NANEKARWADI , TQ KHED,  PUNE",
+        "tradeMatchTotal": 23,
+        "tradeMatchPercent": 0.18,
+        "latestTradeDate": 1752595200000,
+        "productDesc": "POLYESTER TAPE - CERTOPLAST 514/62020005-11 ( WITH A STRONGSYNTHETIC RUBBER-BASED ADHESIVE) (27648 ROLL)POLYESTER TAPE - CERTOPLAST 514/62020005-11 ( WITH A STRON",
+        "productTags": [],
+        "productNames": [],
+        "productAlias": [],
+        "productSuperordinate": [],
+        "productDownstream": []
+      },
+      {
+        "companyId": 20433112,
+        "companyType": 2,
+        "name": "HITACHI PAYMENT SERVICES PRIVATE LIMITED",
+        "countryCode": "IN",
+        "tradeTotal": 3083,
+        "scope": "Electronic payment, mobile and card services",
+        "address": "LEVEL 2, MPL SILICON TOWERS , NO. 23/1, VELACHERY TAMBARAM MAIN ROAD , PALLIKARNAI",
+        "tradeMatchTotal": 9,
+        "tradeMatchPercent": 0.29,
+        "latestTradeDate": 1750694400000,
+        "productDesc": "PULLEY SPRING BEARING NCR CASSETTE - 2030001354 (AUTOMATIC TELLER MACHINE PARTS)(AUTOMATIC TELLER MACHINE PARTS)",
+        "productTags": [
+          "Pulley",
+          "Spring",
+          "Bearing",
+          "NCR Cassette",
+          "Automatic Teller Machine Parts"
+        ],
+        "productNames": [
+          "Pulley",
+          "Spring",
+          "Bearing",
+          "NCR Cassette"
+        ],
+        "productAlias": [
+          "Pulley wheel",
+          "Coil spring",
+          "Ball bearing",
+          "NCR tape cassette",
+          "ATM part"
+        ],
+        "productSuperordinate": [
+          "Metal",
+          "Alloy",
+          "Plastic",
+          "Rubber",
+          "Steel"
+        ],
+        "productDownstream": [
+          "Automatic Teller Machine",
+          "Financial equipment",
+          "Self - service kiosk",
+          "Payment terminal",
+          "Cash dispenser"
+        ]
+      },
+      {
+        "companyId": 20436546,
+        "companyType": 2,
+        "name": "ALEMAUTOS PANAMA S A",
+        "countryCode": "PA",
+        "tradeTotal": 26747,
+        "scope": "platinum,a1,targa,a3,t po,automoviles,zn,model y,hybrid,cayenne,ronic,carrera,tipt,4 ch,p1,turbo,porsche cayenne,maca,tayca,ring",
+        "address": "edificio porsche, avenida centenario costa del este. apartado postal 0833-0040 plaza panamá, panamá",
+        "tradeMatchTotal": 8,
+        "tradeMatchPercent": 0.03,
+        "latestTradeDate": 1741795200000,
+        "productDesc": "TAPA",
+        "productTags": [
+          "Tapa"
+        ],
+        "productNames": [
+          "Tapa"
+        ],
+        "productAlias": [
+          "Tape",
+          "Adhesive Tape",
+          "Sealing Tape",
+          "Protective Tape",
+          "Packing Tape"
+        ],
+        "productSuperordinate": [
+          "Plastic",
+          "Rubber",
+          "Paper",
+          "Adhesive",
+          "Fiber"
+        ],
+        "productDownstream": [
+          "Packaging Industry",
+          "Automotive Industry",
+          "Electronics Industry",
+          "Construction Industry",
+          "Home Use"
+        ]
+      },
+      {
+        "companyId": 20433595,
+        "companyType": 2,
+        "name": "PAWAN HANS LIMITED",
+        "countryCode": "IN",
+        "tradeTotal": 4057,
+        "scope": "Helicopter support services",
+        "address": "C-14, SECTOR-1 NOIDA GAUTAM BUDDHA",
+        "tradeMatchTotal": 7,
+        "tradeMatchPercent": 0.17,
+        "latestTradeDate": 1734019200000,
+        "productDesc": "TAPE, ADHESIVE, SELF-LUBRICARING- P/N.-350A37105720 (AIRCRAFT PARTS FOR NON -SCHEDULED AIRLINES)TAPE, ADHESIVE, SELF-LUBRICARING- P/N.-350A37105720 (AIRCRAF",
+        "productTags": [],
+        "productNames": [],
+        "productAlias": [],
+        "productSuperordinate": [],
+        "productDownstream": []
+      },
+      {
+        "companyId": 20437934,
+        "companyType": 2,
+        "name": "METTLER-TOLEDO INDIA PRIVATE LIMITED",
+        "countryCode": "IN",
+        "tradeTotal": 65242,
+        "scope": "Precision instruments and services for many applications in research and development, quality control, production, logistics and retail to customers around the world",
+        "address": "AMAR HILLSAKI VIHAR ROAD POWAI MUMBAI",
+        "tradeMatchTotal": 7,
+        "tradeMatchPercent": 0.01,
+        "latestTradeDate": 1752508800000,
+        "productDesc": "65975 Ink ribbon (Set of 2 pcs) 65975 Ink ribbon (Set of 2 pcs)",
+        "productTags": [
+          "Ink ribbon",
+          "Printing"
+        ],
+        "productNames": [
+          "Ink ribbon"
+        ],
+        "productAlias": [
+          "Ink cartridge ribbon",
+          "Printer ink ribbon",
+          "Printing ribbon",
+          "Ink tape",
+          "Ribbon cartridge"
+        ],
+        "productSuperordinate": [
+          "Ink",
+          "Plastic",
+          "Paper",
+          "Metal",
+          "Fiber"
+        ],
+        "productDownstream": [
+          "Printers",
+          "Typewriters",
+          "Cash registers",
+          "Label printers",
+          "Ticket printers"
+        ]
+      },
+      {
+        "companyId": 20433096,
+        "companyType": 2,
+        "name": "SEIREN INDIA PRIVATE LIMITED",
+        "countryCode": "IN",
+        "tradeTotal": 1514,
+        "scope": "Textile and fabric; Viscotecs® system",
+        "address": "PLOT NO 19-25 , 32&33 , KADAKOLA INDUSTRIAL AREA, KADAKOLA",
+        "tradeMatchTotal": 6,
+        "tradeMatchPercent": 0.4,
+        "latestTradeDate": 1744300800000,
+        "productDesc": "ADHESIVE TAPE AGF-100FR 0.18x19x10m (ACTUAL USER) ADHESIVE TAPE AGF-100FR 0.18x19x10m (ACTUAL USER)",
+        "productTags": [
+          "Adhesive tape"
+        ],
+        "productNames": [
+          "Adhesive tape"
+        ],
+        "productAlias": [
+          "Sticky tape",
+          "Tape",
+          "Adhesive strip",
+          "Bonding tape",
+          "Self - adhesive tape"
+        ],
+        "productSuperordinate": [
+          "Plastic resin",
+          "Adhesive chemicals",
+          "Polymer",
+          "Solvent",
+          "Additives"
+        ],
+        "productDownstream": [
+          "Packaging",
+          "Crafts",
+          "Office use",
+          "Automotive repair",
+          "Home improvement"
+        ]
+      },
+      {
+        "companyId": 20433528,
+        "companyType": 2,
+        "name": "SHREE FLOOR PRINTS",
+        "countryCode": "IN",
+        "tradeTotal": 1164,
+        "scope": "alko,dsw,window film,iek,e go,g402,panel,metall,t2,s7,aran,louver,r8,gold,t 500,c class,laminat,p40,pc,rat",
+        "address": "cb-161, ring road, naraina, new delhi delhi,pin-110028",
+        "tradeMatchTotal": 5,
+        "tradeMatchPercent": 0.43,
+        "latestTradeDate": 1734364800000,
+        "productDesc": "SELF ADHESIVE PVC FOIL, F2005475 D-C-FIX DECO CLASSIC FOLIEKLEBEND 90 CM, 15 M (QTY : 3 ROLLS = 45 MTRS) USE FOR DECORASELF ADHESIVE PVC FOIL, F2005475 D-C-FIX DECO CLASSIC FOLIE",
+        "productTags": [
+          "Self Adhesive",
+          "PVC",
+          "Foil",
+          "Decoration"
+        ],
+        "productNames": [
+          "Self Adhesive PVC Foil"
+        ],
+        "productAlias": [
+          "Self Stick PVC Foil",
+          "Adhesive PVC Film",
+          "Decorative PVC Foil",
+          "Sticky PVC Foil",
+          "PVC Decorative Tape"
+        ],
+        "productSuperordinate": [
+          "Polyvinyl Chloride",
+          "Plastic Resin",
+          "Adhesive",
+          "Colorants",
+          "Stabilizers"
+        ],
+        "productDownstream": [
+          "Furniture Decoration",
+          "Wall Decoration",
+          "Craft Projects",
+          "Automotive Interior Decoration",
+          "Home Appliance Decoration"
+        ]
+      },
+      {
+        "companyId": 20437717,
+        "companyType": 2,
+        "name": "ENDOLITE INDIA LIMITED",
+        "countryCode": "IN",
+        "tradeTotal": 6894,
+        "scope": "",
+        "address": "NO. A-4 , NARAINA INDUSTRIAL AREA, PHASE-I",
+        "tradeMatchTotal": 4,
+        "tradeMatchPercent": 0.06,
+        "latestTradeDate": 1752076800000,
+        "productDesc": "TAPE MEASURES  (FOR ADVERTISING PURPOSE) FOR ADVERTISING PURPOSE",
+        "productTags": [],
+        "productNames": [],
+        "productAlias": [],
+        "productSuperordinate": [],
+        "productDownstream": []
+      },
+      {
+        "companyId": 20432711,
+        "companyType": 2,
+        "name": "ASIA CHEMICAL CORPORATION",
+        "countryCode": "VN",
+        "tradeTotal": 16211,
+        "scope": "Chemicals and allied products",
+        "address": "LO K4B INDUSTRIAL PARK LE MINH XUAN, ROAD NO 4 , COMMUNE LE MINH XUAN , DISTRICT BINH CHANH",
+        "tradeMatchTotal": 2,
+        "tradeMatchPercent": 0.01,
+        "latestTradeDate": 1774454400000,
+        "productDesc": "Raw materials used in industrial production of parchment paper with masking tape - Sillicon - DEHESIVE 38183 KR, NSX: WACKER CHEMICALS KOREA INC., NSX: 02/2026, HSD: 08/2027",
+        "productTags": [],
+        "productNames": [],
+        "productAlias": [],
+        "productSuperordinate": [],
+        "productDownstream": []
+      },
+      {
+        "companyId": 20432849,
+        "companyType": 2,
+        "name": "MICRONTECH ENGINEERS PRIVATE LIMITED",
+        "countryCode": "IN",
+        "tradeTotal": 7727,
+        "scope": "",
+        "address": "NO. R-22, FIRST FLOOR, RITA BLOCK , SHAKAR PUR",
+        "tradeMatchTotal": 2,
+        "tradeMatchPercent": 0.03,
+        "latestTradeDate": 1743955200000,
+        "productDesc": "DOUBLE-SIDED TAPE DOUBLE-SIDED TAPE",
+        "productTags": [
+          "Double-sided tape"
+        ],
+        "productNames": [
+          "Double-sided tape"
+        ],
+        "productAlias": [
+          "Two-sided tape",
+          "Double-faced tape",
+          "Dual-sided tape",
+          "Double-stick tape",
+          "Double-coated tape"
+        ],
+        "productSuperordinate": [
+          "Adhesive",
+          "Plastic film",
+          "Paper",
+          "Fabric",
+          "Resin"
+        ],
+        "productDownstream": [
+          "Packaging",
+          "Crafts",
+          "Office supplies",
+          "Automotive",
+          "Electronics"
+        ]
+      },
+      {
+        "companyId": 20432902,
+        "companyType": 2,
+        "name": "TOHOKU PIONEER CORPORATION",
+        "countryCode": "JP",
+        "tradeTotal": 690,
+        "scope": "Offers speakers, car stereo mechanisms, factory automation systems, optical disc manufacturing systems, organic light-emitting diode displays, microphones, headphones, precision pressed parts, precision resin-molded parts, and precision molds/dies; Provides studio monitor speakers and home speakers, as well as ultralight mini-speakers that are used in cell phones and notebook computers; audio visual accessories; and mechanisms for car audio systems, such as CD, DVD, MD, and cassette players",
+        "address": "1105, AZANIKKO, KUNOMOTO",
+        "tradeMatchTotal": 2,
+        "tradeMatchPercent": 0.29,
+        "latestTradeDate": 1744560000000,
+        "productDesc": "TVW1049-A/XI-QA#&Washing ring (synthetic textile tape) TVW1049-A/XI-QA, Diameter 34.5mm. 100% new#&VN",
+        "productTags": [
+          "Washing ring",
+          "Synthetic textile tape",
+          "Washing"
+        ],
+        "productNames": [
+          "Washing ring"
+        ],
+        "productAlias": [
+          "Wash ring",
+          "Cleaning ring",
+          "Scrubbing ring",
+          "Rinsing ring",
+          "Purifying ring"
+        ],
+        "productSuperordinate": [
+          "Synthetic fiber",
+          "Textile material",
+          "Polymer",
+          "Fiber blend",
+          "Chemical fiber"
+        ],
+        "productDownstream": [
+          "Laundry equipment",
+          "Cleaning products",
+          "Household appliances",
+          "Industrial washing machines",
+          "Automotive cleaning"
+        ]
+      },
+      {
+        "companyId": 20433418,
+        "companyType": 2,
+        "name": "SERUM INSTITUTE OF INDIA PRIVATE LIMITED",
+        "countryCode": "IN",
+        "tradeTotal": 7068,
+        "scope": "Vaccines and immune-biologicals",
+        "address": "38, NEHRU PLACE , 1401-1404, ANSAL TOWER",
+        "tradeMatchTotal": 2,
+        "tradeMatchPercent": 0.03,
+        "latestTradeDate": 1737907200000,
+        "productDesc": "AUTOCLAVABLE TAPES MEDIUM ADHESION VINYL-0.75\"/ WHITE ITEM-7160WH075-P3D PACK SLIP-322213,30000110,359535-1-1 REF- 0457AUTOCLAVABLE TAPES MEDIUM ADHESION VINYL-0.75\"/ WHITE ITEM-7",
+        "productTags": [
+          "Autoclavable",
+          "Tapes",
+          "Vinyl",
+          "Medium Adhesion",
+          "White"
+        ],
+        "productNames": [
+          "Autoclavable Tapes"
+        ],
+        "productAlias": [
+          "Autoclave Tape",
+          "Sterilization Tape",
+          "Medical Tape",
+          "Vinyl Tape",
+          "Adhesive Tape"
+        ],
+        "productSuperordinate": [
+          "Vinyl Resin",
+          "Adhesive",
+          "Pigment",
+          "Solvent",
+          "Release Liner"
+        ],
+        "productDownstream": [
+          "Medical Equipment",
+          "Laboratory Supplies",
+          "Sterilization Packaging",
+          "Food Packaging",
+          "Industrial Applications"
+        ]
+      },
+      {
+        "companyId": 20433668,
+        "companyType": 2,
+        "name": "CELS INC",
+        "countryCode": "US",
+        "tradeTotal": 1256,
+        "scope": "np c,psl,ev,t2,shaft hose,wooden,epi,lever block,grease fitting,rivet,clutch cover,sea a,arm,casting clutch,flywheel assembly,unit,cy door,e ring,count,e pi",
+        "address": "1669 marshall drive des plaines il 60018-1840",
+        "tradeMatchTotal": 2,
+        "tradeMatchPercent": 0.16,
+        "latestTradeDate": 1730995200000,
+        "productDesc": "CLEAR SECURITY TAPE METAL COMPONENTS 00002 B05 W 1 MANIFOLD SUB ASSEMBLY W/ 00004 A02 IAIR3 ENCLOSURE MANIFOLD IAIR3 TYPE VIII S/A(002790 MANIFOLD WITH 002793 NO LOGO COVER) /(TPP) ENLARGE 3 MM EXHAUST HOLE WITH 000127AA ORIFICE 114 CTNS(4 WOOD PALLETS...",
+        "productTags": [
+          "Security",
+          "Tape",
+          "Metal",
+          "Manifold",
+          "Exhaust"
+        ],
+        "productNames": [
+          "Security Tape",
+          "Metal Components",
+          "Manifold Sub Assembly",
+          "Enclosure Manifold",
+          "Exhaust Hole"
+        ],
+        "productAlias": [
+          "Safety Tape",
+          "Metal Parts",
+          "Manifold Assembly",
+          "Enclosure Unit",
+          "Exhaust Opening"
+        ],
+        "productSuperordinate": [
+          "Plastic Resin",
+          "Metal Alloy",
+          "Rubber",
+          "Steel",
+          "Aluminum"
+        ],
+        "productDownstream": [
+          "Automotive Industry",
+          "Electronics Industry",
+          "Machinery Manufacturing",
+          "Aerospace Industry",
+          "Industrial Equipment"
+        ]
+      },
+      {
+        "companyId": 20432918,
+        "companyType": 2,
+        "name": "DAETWYLER SWISSTEC INDIA PRIVATE LIMITED",
+        "countryCode": "IN",
+        "tradeTotal": 2220,
+        "scope": "",
+        "address": "Gut No 262, Lavale Road,",
+        "tradeMatchTotal": 1,
+        "tradeMatchPercent": 0.05,
+        "latestTradeDate": 1725552000000,
+        "productDesc": "023029 ADHESIVE TAPE PVC BROWN 50MM X 66M ( COO AT ) ( TOTAL QTY 15 ROL AND UNIT PRICE 6.00 CHF PER ROL ) ( PARTS FOR P",
+        "productTags": [
+          "Adhesive Tape",
+          "PVC",
+          "Brown"
+        ],
+        "productNames": [
+          "Adhesive Tape"
+        ],
+        "productAlias": [
+          "Sticky Tape",
+          "Tape",
+          "Adhesive Strip",
+          "Bonding Tape",
+          "Sealing Tape"
+        ],
+        "productSuperordinate": [
+          "PVC Resin",
+          "Adhesive",
+          "Plasticizer",
+          "Stabilizer",
+          "Pigment"
+        ],
+        "productDownstream": [
+          "Packaging",
+          "Crafts",
+          "Repairs",
+          "Labeling",
+          "Decoration"
+        ]
+      },
+      {
+        "companyId": 20433774,
+        "companyType": 2,
+        "name": "NOVEXX SOLUTIONS INDIA PRIVATE LIMITED",
+        "countryCode": "IN",
+        "tradeTotal": 1477,
+        "scope": "",
+        "address": "GROUND FLOOR, NO. 108-E, 6TH MAIN ROAD, PEENYA INDUSTRIAL AREA, 3RD PHASE",
+        "tradeMatchTotal": 1,
+        "tradeMatchPercent": 0.07,
+        "latestTradeDate": 1737907200000,
+        "productDesc": "UNWINDER  [PARTS FOR THERMAL TRANSFER PRINTER] UNWINDER  [PARTS FOR THERMAL TRANSFER PRINTER]",
+        "productTags": [
+          "Unwinder",
+          "Thermal transfer printer",
+          "Parts"
+        ],
+        "productNames": [
+          "Unwinder"
+        ],
+        "productAlias": [
+          "Roll unwinder",
+          "Paper unwinder",
+          "Film unwinder",
+          "Label unwinder",
+          "Tape unwinder"
+        ],
+        "productSuperordinate": [
+          "Metal",
+          "Plastic",
+          "Electronic components",
+          "Bearings",
+          "Motors"
+        ],
+        "productDownstream": [
+          "Thermal transfer printers",
+          "Label printers",
+          "Barcode printers",
+          "Packaging machines",
+          "Printing presses"
+        ]
+      },
+      {
+        "companyId": 20437682,
+        "companyType": 2,
+        "name": "MABATI ROLLING MILLS LIMITED",
+        "countryCode": "KE",
+        "tradeTotal": 1957,
+        "scope": "",
+        "address": "PLOT NO1870/1/569 , APOLLO CENTRE ,  VALE CLOSE , RING ROAD",
+        "tradeMatchTotal": 1,
+        "tradeMatchPercent": 0.05,
+        "latestTradeDate": 1753804800000,
+        "productDesc": "SUZHOU L.; TAPE_THREADING_WIDTH/TAPE_DIAMETER; SUZHOU L. CLARKE CORPRATION; PK; 10; 1; OK; 1; 1;  OTHER SELF-ADHESIVE PLATES, SHEETS, FILM, FOIL, TAPE, STRIP AND OTHER FLAT SHAPES, OF PLASTICS, WHETHER OR NOT IN ROLLS",
+        "productTags": [],
+        "productNames": [],
+        "productAlias": [],
+        "productSuperordinate": [],
+        "productDownstream": []
+      },
+      {
+        "companyId": 20437727,
+        "companyType": 2,
+        "name": "WIKUS INDIA PRIVATE LIMITED",
+        "countryCode": "IN",
+        "tradeTotal": 11367,
+        "scope": "Carbon steel band saw blades; bimetal band saw blades; carbide band saw blades; and diamond coated band saw blades",
+        "address": "PLOT NO. PAP-A-38 , CHAKAN INDUSTRIAL AREA PH-IV , MIDC, VILLAGE NIGHOJE, TALUKA KHED",
+        "tradeMatchTotal": 1,
+        "tradeMatchPercent": 0.01,
+        "latestTradeDate": 1738512000000,
+        "productDesc": "H597 BAND TENSION METER NO. 597 H597 BAND TENSION METER NO. 597  (HIGH SPEED STEEL M42 BAND",
+        "productTags": [
+          "Band Tension Meter",
+          "High Speed Steel M42"
+        ],
+        "productNames": [
+          "Band Tension Meter"
+        ],
+        "productAlias": [
+          "Belt Tension Meter",
+          "Strap Tension Meter",
+          "Tape Tension Meter",
+          "Ribbon Tension Meter",
+          "Cord Tension Meter"
+        ],
+        "productSuperordinate": [
+          "High Speed Steel",
+          "M42 Steel",
+          "Alloy Steel",
+          "Iron",
+          "Carbon"
+        ],
+        "productDownstream": [
+          "Automotive industry",
+          "Textile industry",
+          "Packaging industry",
+          "Printing industry",
+          "Woodworking industry"
+        ]
+      },
+      {
+        "companyId": 20437756,
+        "companyType": 2,
+        "name": "BHUSHAN POWER & STEEL LIMITED",
+        "countryCode": "IN",
+        "tradeTotal": 4613,
+        "scope": "Non-alloy steel long products",
+        "address": "PLOT NO 3, INDUSTRIAL AREA PHASE-1",
+        "tradeMatchTotal": 1,
+        "tradeMatchPercent": 0.02,
+        "latestTradeDate": 1728662400000,
+        "productDesc": "FELT STRIP(9.6 METER)",
+        "productTags": [
+          "Felt",
+          "Strip"
+        ],
+        "productNames": [
+          "Felt strip"
+        ],
+        "productAlias": [
+          "Felt tape",
+          "Felt ribbon",
+          "Felt band",
+          "Felt striping",
+          "Felt edging"
+        ],
+        "productSuperordinate": [
+          "Wool",
+          "Synthetic fiber",
+          "Animal hair",
+          "Plant fiber",
+          "Polyester"
+        ],
+        "productDownstream": [
+          "Automotive",
+          "Furniture",
+          "Textile",
+          "Electronics",
+          "Packaging"
+        ]
+      },
+      {
+        "companyId": 20437799,
+        "companyType": 2,
+        "name": "Y T ENTERPRISES",
+        "countryCode": "IN",
+        "tradeTotal": 1628,
+        "scope": "screw,gym accessory,android,tripod stand,exercise,small basket,cycle,skating board,mobile back cover,sunglasses,shoe accessory,body massager,pill box,magnet button,gag,microphone,shoes with light,small glass,ladies umbrella,mmi",
+        "address": "no.22-4-358, alijah kotla, yakutpura, hyderabad, ap.,pin-500053",
+        "tradeMatchTotal": 1,
+        "tradeMatchPercent": 0.06,
+        "latestTradeDate": 1732118400000,
+        "productDesc": "SMALL SUPPORTING TAPE FOR GYM",
+        "productTags": [],
+        "productNames": [],
+        "productAlias": [],
+        "productSuperordinate": [],
+        "productDownstream": []
+      }
+    ]
+  },
+  "fee": {
+    "apiCost": 150,
+    "accountBalance": 91690,
+    "uuid": "1da21567-d3ea-49b0-9efd-3c708ea4f01c"
+  }
+}
