@@ -1,0 +1,617 @@
+{
+  "code": 0,
+  "msg": "success",
+  "data": {
+    "cursor": "WzE4LjE1MDU0OSwxNy44NTcxLCJiODBjYzk4N2JkMDQzMDhkMGJlY2I0ZjVjZGQ3ZGRiYiJd",
+    "list": [
+      {
+        "hid": "dbc3deb6e43539fbdee1cfcebcf66b8a",
+        "pid": "mx0a5c17cca455098d363ede9f6b7d8e98",
+        "human_name": "mmt angeles",
+        "company_name": "hyundai motor de mexico",
+        "country_code": "MX",
+        "title_names": [
+          "district sales manager"
+        ],
+        "title_levels": [
+          "manager"
+        ],
+        "employee": "201-500",
+        "experience_num": 1,
+        "human_industries": [
+          "automotive"
+        ],
+        "company_industries": [
+          "automotive"
+        ],
+        "gender": "",
+        "human_type": 1,
+        "phone_num": 0,
+        "email_num": 1,
+        "website_num": 0,
+        "social_num": 1,
+        "ws_num": 0,
+        "exist_company_website": 2,
+        "rate": 16.4286,
+        "es_score": 18.284393
+      },
+      {
+        "hid": "b36e526fc9335c23d886e4a3036e8339",
+        "pid": "mx0a5c17cca455098d363ede9f6b7d8e98",
+        "human_name": "nayeli palma",
+        "company_name": "hyundai motor de mexico",
+        "country_code": "MX",
+        "title_names": [
+          "aftersales field junior manager"
+        ],
+        "title_levels": [
+          "entry",
+          "manager"
+        ],
+        "employee": "201-500",
+        "experience_num": 1,
+        "human_industries": [
+          "management consulting"
+        ],
+        "company_industries": [
+          "automotive"
+        ],
+        "gender": "f",
+        "human_type": 1,
+        "phone_num": 0,
+        "email_num": 1,
+        "website_num": 0,
+        "social_num": 1,
+        "ws_num": 0,
+        "exist_company_website": 2,
+        "rate": 16.4286,
+        "es_score": 18.284393
+      },
+      {
+        "hid": "7ec745a73dbe7b3f0b615c633d454182",
+        "pid": "mx0a5c17cca455098d363ede9f6b7d8e98",
+        "human_name": "nereli garcia",
+        "company_name": "hyundai motor de mexico",
+        "country_code": "MX",
+        "title_names": [
+          "asesor de servicio"
+        ],
+        "title_levels": [],
+        "employee": "201-500",
+        "experience_num": 1,
+        "human_industries": [
+          "automotive"
+        ],
+        "company_industries": [
+          "automotive"
+        ],
+        "gender": "",
+        "human_type": 1,
+        "phone_num": 0,
+        "email_num": 1,
+        "website_num": 0,
+        "social_num": 1,
+        "ws_num": 0,
+        "exist_company_website": 2,
+        "rate": 16.4286,
+        "es_score": 18.284393
+      },
+      {
+        "hid": "72b11764cf87c4c486de756d6bbbe285",
+        "pid": "mx0a5c17cca455098d363ede9f6b7d8e98",
+        "human_name": "silvia lujan",
+        "company_name": "hyundai motor de mexico",
+        "country_code": "MX",
+        "title_names": [
+          "asistente administrativo"
+        ],
+        "title_levels": [],
+        "employee": "201-500",
+        "experience_num": 1,
+        "human_industries": [
+          "automotive"
+        ],
+        "company_industries": [
+          "automotive"
+        ],
+        "gender": "f",
+        "human_type": 1,
+        "phone_num": 0,
+        "email_num": 1,
+        "website_num": 0,
+        "social_num": 1,
+        "ws_num": 0,
+        "exist_company_website": 2,
+        "rate": 16.4286,
+        "es_score": 18.284393
+      },
+      {
+        "hid": "6bab81d698e298d1b870b45d03e45c7e",
+        "pid": "mx0a5c17cca455098d363ede9f6b7d8e98",
+        "human_name": "gabriela villavicencio",
+        "company_name": "hyundai motor de mexico",
+        "country_code": "MX",
+        "title_names": [
+          "head human resources"
+        ],
+        "title_levels": [
+          "manager"
+        ],
+        "employee": "201-500",
+        "experience_num": 1,
+        "human_industries": [
+          "automotive"
+        ],
+        "company_industries": [
+          "automotive"
+        ],
+        "gender": "f",
+        "human_type": 1,
+        "phone_num": 0,
+        "email_num": 2,
+        "website_num": 0,
+        "social_num": 1,
+        "ws_num": 0,
+        "exist_company_website": 2,
+        "rate": 16.4286,
+        "es_score": 18.284393
+      },
+      {
+        "hid": "63a768f329d3375041c206f018a52939",
+        "pid": "mx0a5c17cca455098d363ede9f6b7d8e98",
+        "human_name": "luis perez",
+        "company_name": "hyundai motor de mexico",
+        "country_code": "MX",
+        "title_names": [
+          "it manager"
+        ],
+        "title_levels": [
+          "manager"
+        ],
+        "employee": "201-500",
+        "experience_num": 1,
+        "human_industries": [
+          "automotive"
+        ],
+        "company_industries": [
+          "automotive"
+        ],
+        "gender": "m",
+        "human_type": 1,
+        "phone_num": 0,
+        "email_num": 1,
+        "website_num": 0,
+        "social_num": 1,
+        "ws_num": 0,
+        "exist_company_website": 2,
+        "rate": 16.4286,
+        "es_score": 18.284393
+      },
+      {
+        "hid": "5db9f9edb84063327d72dcd1d1f09ecd",
+        "pid": "mx0a5c17cca455098d363ede9f6b7d8e98",
+        "human_name": "claudia arroyo",
+        "company_name": "hyundai motor de mexico",
+        "country_code": "MX",
+        "title_names": [
+          "planeaciã³n de producto"
+        ],
+        "title_levels": [],
+        "employee": "201-500",
+        "experience_num": 1,
+        "human_industries": [
+          "automotive"
+        ],
+        "company_industries": [
+          "automotive"
+        ],
+        "gender": "f",
+        "human_type": 1,
+        "phone_num": 0,
+        "email_num": 1,
+        "website_num": 0,
+        "social_num": 1,
+        "ws_num": 0,
+        "exist_company_website": 2,
+        "rate": 16.4286,
+        "es_score": 18.284393
+      },
+      {
+        "hid": "5b2c7d2e8a38a7fdcd94f8441d2abe73",
+        "pid": "mx0a5c17cca455098d363ede9f6b7d8e98",
+        "human_name": "mariana chavez",
+        "company_name": "hyundai motor de mexico",
+        "country_code": "MX",
+        "title_names": [
+          "public relations manager"
+        ],
+        "title_levels": [
+          "manager"
+        ],
+        "employee": "201-500",
+        "experience_num": 1,
+        "human_industries": [
+          "online media"
+        ],
+        "company_industries": [
+          "automotive"
+        ],
+        "gender": "f",
+        "human_type": 1,
+        "phone_num": 0,
+        "email_num": 2,
+        "website_num": 0,
+        "social_num": 1,
+        "ws_num": 0,
+        "exist_company_website": 2,
+        "rate": 16.4286,
+        "es_score": 18.284393
+      },
+      {
+        "hid": "51cd1ea5ef4cc93ed8e8a4f046613ce1",
+        "pid": "mx0a5c17cca455098d363ede9f6b7d8e98",
+        "human_name": "isaias villanueva",
+        "company_name": "hyundai motor de mexico",
+        "country_code": "MX",
+        "title_names": [
+          "especialista de producto"
+        ],
+        "title_levels": [],
+        "employee": "201-500",
+        "experience_num": 1,
+        "human_industries": [
+          "investment banking"
+        ],
+        "company_industries": [
+          "automotive"
+        ],
+        "gender": "m",
+        "human_type": 1,
+        "phone_num": 0,
+        "email_num": 1,
+        "website_num": 0,
+        "social_num": 1,
+        "ws_num": 0,
+        "exist_company_website": 2,
+        "rate": 16.4286,
+        "es_score": 18.284393
+      },
+      {
+        "hid": "4fdaed1cc19dd42bc19e4aeca69e804f",
+        "pid": "mx0a5c17cca455098d363ede9f6b7d8e98",
+        "human_name": "omar ruiz",
+        "company_name": "hyundai motor de mexico",
+        "country_code": "MX",
+        "title_names": [
+          "field technical engineer and quality specialist"
+        ],
+        "title_levels": [],
+        "employee": "201-500",
+        "experience_num": 1,
+        "human_industries": [
+          "automotive"
+        ],
+        "company_industries": [
+          "automotive"
+        ],
+        "gender": "m",
+        "human_type": 1,
+        "phone_num": 0,
+        "email_num": 2,
+        "website_num": 0,
+        "social_num": 1,
+        "ws_num": 0,
+        "exist_company_website": 2,
+        "rate": 16.4286,
+        "es_score": 18.284393
+      },
+      {
+        "hid": "38eeb87439116713eebda8593cbc7ece",
+        "pid": "mx0a5c17cca455098d363ede9f6b7d8e98",
+        "human_name": "romeo gout",
+        "company_name": "hyundai motor de mexico",
+        "country_code": "MX",
+        "title_names": [
+          "afterales district manager -field service consultant"
+        ],
+        "title_levels": [
+          "manager"
+        ],
+        "employee": "201-500",
+        "experience_num": 1,
+        "human_industries": [
+          "automotive"
+        ],
+        "company_industries": [
+          "automotive"
+        ],
+        "gender": "m",
+        "human_type": 1,
+        "phone_num": 0,
+        "email_num": 1,
+        "website_num": 0,
+        "social_num": 1,
+        "ws_num": 0,
+        "exist_company_website": 2,
+        "rate": 16.4286,
+        "es_score": 18.284393
+      },
+      {
+        "hid": "3071a1687fd7c1a35503e6072c86d6f6",
+        "pid": "mx0a5c17cca455098d363ede9f6b7d8e98",
+        "human_name": "rodrigo de la vara",
+        "company_name": "hyundai motor de mexico",
+        "country_code": "MX",
+        "title_names": [
+          "head of human resources"
+        ],
+        "title_levels": [
+          "manager"
+        ],
+        "employee": "201-500",
+        "experience_num": 1,
+        "human_industries": [
+          "human resources"
+        ],
+        "company_industries": [
+          "automotive"
+        ],
+        "gender": "m",
+        "human_type": 1,
+        "phone_num": 0,
+        "email_num": 1,
+        "website_num": 0,
+        "social_num": 1,
+        "ws_num": 0,
+        "exist_company_website": 2,
+        "rate": 16.4286,
+        "es_score": 18.284393
+      },
+      {
+        "hid": "1e265591443583e83112fa568f351da0",
+        "pid": "mx0a5c17cca455098d363ede9f6b7d8e98",
+        "human_name": "kijo han",
+        "company_name": "hyundai motor de mexico",
+        "country_code": "MX",
+        "title_names": [
+          "treasurer"
+        ],
+        "title_levels": [],
+        "employee": "201-500",
+        "experience_num": 1,
+        "human_industries": [
+          "accounting"
+        ],
+        "company_industries": [
+          "automotive"
+        ],
+        "gender": "",
+        "human_type": 1,
+        "phone_num": 0,
+        "email_num": 1,
+        "website_num": 0,
+        "social_num": 1,
+        "ws_num": 0,
+        "exist_company_website": 2,
+        "rate": 16.4286,
+        "es_score": 18.284393
+      },
+      {
+        "hid": "148932a3724b729ff2445f231e2eea87",
+        "pid": "mx0a5c17cca455098d363ede9f6b7d8e98",
+        "human_name": "geovani hernandez",
+        "company_name": "hyundai motor de mexico",
+        "country_code": "MX",
+        "title_names": [
+          "gerente general"
+        ],
+        "title_levels": [],
+        "employee": "201-500",
+        "experience_num": 1,
+        "human_industries": [
+          "automotive"
+        ],
+        "company_industries": [
+          "automotive"
+        ],
+        "gender": "m",
+        "human_type": 1,
+        "phone_num": 0,
+        "email_num": 1,
+        "website_num": 0,
+        "social_num": 1,
+        "ws_num": 0,
+        "exist_company_website": 2,
+        "rate": 16.4286,
+        "es_score": 18.284393
+      },
+      {
+        "hid": "3535110a747dd2317c4ac2342947fce0",
+        "pid": "mx0a5c17cca455098d363ede9f6b7d8e98",
+        "human_name": "martha jaimes",
+        "company_name": "hyundai motor de mexico",
+        "country_code": "MX",
+        "title_names": [
+          "spare parts specialist senior"
+        ],
+        "title_levels": [
+          "senior"
+        ],
+        "employee": "201-500",
+        "experience_num": 1,
+        "human_industries": [
+          "mechanical or industrial engineering"
+        ],
+        "company_industries": [
+          "automotive"
+        ],
+        "gender": "f",
+        "human_type": 1,
+        "phone_num": 0,
+        "email_num": 1,
+        "website_num": 0,
+        "social_num": 1,
+        "ws_num": 0,
+        "exist_company_website": 2,
+        "rate": 11.4286,
+        "es_score": 18.284393
+      },
+      {
+        "hid": "ff5c8d53d6eea9136d4a4a02ec2e2378",
+        "pid": "mx0a5c17cca455098d363ede9f6b7d8e98",
+        "human_name": "luis meléndez",
+        "company_name": "hyundai motor de mexico",
+        "country_code": "MX",
+        "title_names": [
+          "regional sales manager - northern region"
+        ],
+        "title_levels": [
+          "manager"
+        ],
+        "employee": "201-500",
+        "experience_num": 1,
+        "human_industries": [
+          "marketing and advertising"
+        ],
+        "company_industries": [
+          "automotive"
+        ],
+        "gender": "m",
+        "human_type": 1,
+        "phone_num": 0,
+        "email_num": 1,
+        "website_num": 0,
+        "social_num": 2,
+        "ws_num": 0,
+        "exist_company_website": 2,
+        "rate": 10.8571,
+        "es_score": 18.284393
+      },
+      {
+        "hid": "8c4df3d35e91d9e41498dcfe4eb886be",
+        "pid": "mx0a5c17cca455098d363ede9f6b7d8e98",
+        "human_name": "alfredo gómez",
+        "company_name": "hyundai motor de mexico",
+        "country_code": "MX",
+        "title_names": [
+          "product planning manager"
+        ],
+        "title_levels": [
+          "manager"
+        ],
+        "employee": "201-500",
+        "experience_num": 1,
+        "human_industries": [
+          "automotive"
+        ],
+        "company_industries": [
+          "automotive"
+        ],
+        "gender": "m",
+        "human_type": 1,
+        "phone_num": 0,
+        "email_num": 1,
+        "website_num": 0,
+        "social_num": 2,
+        "ws_num": 0,
+        "exist_company_website": 2,
+        "rate": 10.8571,
+        "es_score": 18.284393
+      },
+      {
+        "hid": "d26f9a7f7f6accfa2aad6dac9d36f3f1",
+        "pid": "mx0a5c17cca455098d363ede9f6b7d8e98",
+        "human_name": "sofia angulo",
+        "company_name": "hyundai motor de mexico",
+        "country_code": "MX",
+        "title_names": [
+          "logistics analyst"
+        ],
+        "title_levels": [],
+        "employee": "201-500",
+        "experience_num": 1,
+        "human_industries": [
+          "automotive"
+        ],
+        "company_industries": [
+          "automotive"
+        ],
+        "gender": "f",
+        "human_type": 1,
+        "phone_num": 0,
+        "email_num": 1,
+        "website_num": 0,
+        "social_num": 1,
+        "ws_num": 0,
+        "exist_company_website": 2,
+        "rate": 9.4286,
+        "es_score": 18.284393
+      },
+      {
+        "hid": "97ca3f9866c2030d54cf8a7033c4049a",
+        "pid": "mx0a5c17cca455098d363ede9f6b7d8e98",
+        "human_name": "luz garcia",
+        "company_name": "hyundai motor de mexico",
+        "country_code": "MX",
+        "title_names": [
+          "asistente de presidencia",
+          "coordinadora de ventas corporativas y prã cticas comerciales"
+        ],
+        "title_levels": [],
+        "employee": "201-500",
+        "experience_num": 1,
+        "human_industries": [
+          "automotive"
+        ],
+        "company_industries": [
+          "automotive"
+        ],
+        "gender": "",
+        "human_type": 1,
+        "phone_num": 0,
+        "email_num": 1,
+        "website_num": 0,
+        "social_num": 1,
+        "ws_num": 0,
+        "exist_company_website": 2,
+        "rate": 9.4286,
+        "es_score": 18.284393
+      },
+      {
+        "hid": "b80cc987bd04308d0becb4f5cdd7ddbb",
+        "pid": "gb1f6dfa51d9e46d254f8197b458700a90",
+        "human_name": "ayush sharma",
+        "company_name": "suzuki motor corporation",
+        "country_code": "JP",
+        "title_names": [
+          "engineer"
+        ],
+        "title_levels": [],
+        "employee": "201-500",
+        "experience_num": 1,
+        "human_industries": [
+          "automotive"
+        ],
+        "company_industries": [
+          "automotive"
+        ],
+        "gender": "m",
+        "human_type": 1,
+        "phone_num": 0,
+        "email_num": 2,
+        "website_num": 0,
+        "social_num": 2,
+        "ws_num": 0,
+        "exist_company_website": 1,
+        "rate": 17.8571,
+        "es_score": 18.150549
+      }
+    ],
+    "pitId": ""
+  },
+  "fee": {
+    "apiCost": 150,
+    "accountBalance": 93560,
+    "uuid": "2dd15d3a-5f9d-4f8b-88ff-971f42d9093a"
+  }
+}

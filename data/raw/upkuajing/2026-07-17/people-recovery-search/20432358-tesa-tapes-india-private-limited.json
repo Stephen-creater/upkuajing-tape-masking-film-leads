@@ -1,0 +1,639 @@
+{
+  "code": 0,
+  "msg": "success",
+  "data": {
+    "cursor": "WzIxLjk3MzcxLDE2LjQyODYsIjY2ODkxZDk2MGYzZmE1ZGIxN2ZlMWEyMDZlOTI0MWJlIl0=",
+    "list": [
+      {
+        "hid": "489335261e8872731062ead62e67597f",
+        "pid": "inc815f3b2442287a8f64a0aa65571d0f7",
+        "human_name": "rajeev arora",
+        "company_name": "tesa tapes (india) private limited",
+        "country_code": "IN",
+        "title_names": [
+          "head of operations"
+        ],
+        "title_levels": [
+          "manager"
+        ],
+        "employee": "1001-5000",
+        "experience_num": 1,
+        "human_industries": [
+          "chemicals"
+        ],
+        "company_industries": [
+          "miscellaneous plastics products"
+        ],
+        "gender": "m",
+        "human_type": 1,
+        "phone_num": 0,
+        "email_num": 1,
+        "website_num": 0,
+        "social_num": 1,
+        "ws_num": 0,
+        "exist_company_website": 1,
+        "rate": 11.4286,
+        "es_score": 32.369644
+      },
+      {
+        "hid": "d6e5c023ac16b780f8e82e90d5d91dff",
+        "pid": "in8155fa281b9144933b07331a28ed8b85",
+        "human_name": "jeffrey grose",
+        "company_name": "scapa tapes india private limited",
+        "country_code": "US",
+        "title_names": [
+          "supply chain manager"
+        ],
+        "title_levels": [
+          "manager"
+        ],
+        "employee": "1001-5000",
+        "experience_num": 1,
+        "human_industries": [
+          "consumer goods"
+        ],
+        "company_industries": [
+          "fabricated rubber products, not elsewhere classified",
+          "chemicals"
+        ],
+        "gender": "m",
+        "human_type": 1,
+        "phone_num": 1,
+        "email_num": 1,
+        "website_num": 0,
+        "social_num": 2,
+        "ws_num": 0,
+        "exist_company_website": 1,
+        "rate": 27.8571,
+        "es_score": 21.97371
+      },
+      {
+        "hid": "970c8906473cb4faef005d48bff3fa06",
+        "pid": "in8155fa281b9144933b07331a28ed8b85",
+        "human_name": "john pogson",
+        "company_name": "scapa tapes india private limited",
+        "country_code": "GB",
+        "title_names": [
+          "maintenance engineer"
+        ],
+        "title_levels": [],
+        "employee": "1001-5000",
+        "experience_num": 1,
+        "human_industries": [
+          "plastics"
+        ],
+        "company_industries": [
+          "fabricated rubber products, not elsewhere classified",
+          "chemicals"
+        ],
+        "gender": "m",
+        "human_type": 1,
+        "phone_num": 1,
+        "email_num": 1,
+        "website_num": 0,
+        "social_num": 3,
+        "ws_num": 1,
+        "exist_company_website": 1,
+        "rate": 22.2857,
+        "es_score": 21.97371
+      },
+      {
+        "hid": "fb6a4fdb0ab1f3a307e63ba76aa34f85",
+        "pid": "in8155fa281b9144933b07331a28ed8b85",
+        "human_name": "frank mensinger",
+        "company_name": "scapa tapes india private limited",
+        "country_code": "US",
+        "title_names": [
+          "senior tax accountant",
+          "tax department"
+        ],
+        "title_levels": [
+          "senior"
+        ],
+        "employee": "1001-5000",
+        "experience_num": 1,
+        "human_industries": [
+          "accounting"
+        ],
+        "company_industries": [
+          "fabricated rubber products, not elsewhere classified",
+          "chemicals"
+        ],
+        "gender": "m",
+        "human_type": 1,
+        "phone_num": 1,
+        "email_num": 2,
+        "website_num": 0,
+        "social_num": 2,
+        "ws_num": 0,
+        "exist_company_website": 1,
+        "rate": 20.8571,
+        "es_score": 21.97371
+      },
+      {
+        "hid": "bad8c93f3f5a60314f5eb12b002179af",
+        "pid": "in8155fa281b9144933b07331a28ed8b85",
+        "human_name": "kirpal bisht",
+        "company_name": "scapa tapes india private limited",
+        "country_code": "IN",
+        "title_names": [
+          "asia business manager - automotive"
+        ],
+        "title_levels": [
+          "manager"
+        ],
+        "employee": "1001-5000",
+        "experience_num": 1,
+        "human_industries": [
+          "automotive"
+        ],
+        "company_industries": [
+          "fabricated rubber products, not elsewhere classified",
+          "chemicals"
+        ],
+        "gender": "m",
+        "human_type": 1,
+        "phone_num": 0,
+        "email_num": 3,
+        "website_num": 0,
+        "social_num": 2,
+        "ws_num": 0,
+        "exist_company_website": 1,
+        "rate": 17.8571,
+        "es_score": 21.97371
+      },
+      {
+        "hid": "ff6a6a924de1fdf6e018a961334c5e57",
+        "pid": "in8155fa281b9144933b07331a28ed8b85",
+        "human_name": "jason clark",
+        "company_name": "scapa tapes india private limited",
+        "country_code": "CA",
+        "title_names": [
+          "director of operations"
+        ],
+        "title_levels": [
+          "director"
+        ],
+        "employee": "1001-5000",
+        "experience_num": 1,
+        "human_industries": [
+          "chemicals"
+        ],
+        "company_industries": [
+          "fabricated rubber products, not elsewhere classified",
+          "chemicals"
+        ],
+        "gender": "m",
+        "human_type": 1,
+        "phone_num": 0,
+        "email_num": 1,
+        "website_num": 0,
+        "social_num": 1,
+        "ws_num": 0,
+        "exist_company_website": 1,
+        "rate": 16.4286,
+        "es_score": 21.97371
+      },
+      {
+        "hid": "f8435c9b5d3e268cac95c182b78fbd06",
+        "pid": "in8155fa281b9144933b07331a28ed8b85",
+        "human_name": "jason matthews",
+        "company_name": "scapa tapes india private limited",
+        "country_code": "GB",
+        "title_names": [
+          "web solutions manager"
+        ],
+        "title_levels": [
+          "manager"
+        ],
+        "employee": "1001-5000",
+        "experience_num": 1,
+        "human_industries": [
+          "information technology and services"
+        ],
+        "company_industries": [
+          "fabricated rubber products, not elsewhere classified",
+          "chemicals"
+        ],
+        "gender": "m",
+        "human_type": 1,
+        "phone_num": 0,
+        "email_num": 2,
+        "website_num": 0,
+        "social_num": 1,
+        "ws_num": 0,
+        "exist_company_website": 1,
+        "rate": 16.4286,
+        "es_score": 21.97371
+      },
+      {
+        "hid": "e5a2a1dd493f54e985f5fa8ba172850a",
+        "pid": "in8155fa281b9144933b07331a28ed8b85",
+        "human_name": "jonathan cscmp",
+        "company_name": "scapa tapes india private limited",
+        "country_code": "CA",
+        "title_names": [],
+        "title_levels": [],
+        "employee": "1001-5000",
+        "experience_num": 0,
+        "human_industries": [
+          "telecommunications"
+        ],
+        "company_industries": [
+          "fabricated rubber products, not elsewhere classified",
+          "chemicals"
+        ],
+        "gender": "m",
+        "human_type": 1,
+        "phone_num": 0,
+        "email_num": 1,
+        "website_num": 0,
+        "social_num": 1,
+        "ws_num": 0,
+        "exist_company_website": 1,
+        "rate": 16.4286,
+        "es_score": 21.97371
+      },
+      {
+        "hid": "e3daf8399894ee719794149a00144b48",
+        "pid": "in8155fa281b9144933b07331a28ed8b85",
+        "human_name": "christophe vignal",
+        "company_name": "scapa tapes india private limited",
+        "country_code": "FR",
+        "title_names": [
+          "planner"
+        ],
+        "title_levels": [],
+        "employee": "1001-5000",
+        "experience_num": 1,
+        "human_industries": [
+          "chemicals"
+        ],
+        "company_industries": [
+          "fabricated rubber products, not elsewhere classified",
+          "chemicals"
+        ],
+        "gender": "m",
+        "human_type": 1,
+        "phone_num": 0,
+        "email_num": 1,
+        "website_num": 0,
+        "social_num": 1,
+        "ws_num": 0,
+        "exist_company_website": 1,
+        "rate": 16.4286,
+        "es_score": 21.97371
+      },
+      {
+        "hid": "d50809d098072ae1958368c77902a7cb",
+        "pid": "in8155fa281b9144933b07331a28ed8b85",
+        "human_name": "mark dyson",
+        "company_name": "scapa tapes india private limited",
+        "country_code": "GB",
+        "title_names": [
+          "group technical director"
+        ],
+        "title_levels": [
+          "director"
+        ],
+        "employee": "1001-5000",
+        "experience_num": 1,
+        "human_industries": [
+          "automotive"
+        ],
+        "company_industries": [
+          "fabricated rubber products, not elsewhere classified",
+          "chemicals"
+        ],
+        "gender": "m",
+        "human_type": 1,
+        "phone_num": 0,
+        "email_num": 2,
+        "website_num": 0,
+        "social_num": 1,
+        "ws_num": 0,
+        "exist_company_website": 1,
+        "rate": 16.4286,
+        "es_score": 21.97371
+      },
+      {
+        "hid": "d363e8a799d888faeef10440cd906e4a",
+        "pid": "in8155fa281b9144933b07331a28ed8b85",
+        "human_name": "diana morter",
+        "company_name": "scapa tapes india private limited",
+        "country_code": "US",
+        "title_names": [
+          "server"
+        ],
+        "title_levels": [],
+        "employee": "1001-5000",
+        "experience_num": 1,
+        "human_industries": [
+          "restaurants"
+        ],
+        "company_industries": [
+          "fabricated rubber products, not elsewhere classified",
+          "chemicals"
+        ],
+        "gender": "f",
+        "human_type": 1,
+        "phone_num": 0,
+        "email_num": 1,
+        "website_num": 0,
+        "social_num": 1,
+        "ws_num": 0,
+        "exist_company_website": 1,
+        "rate": 16.4286,
+        "es_score": 21.97371
+      },
+      {
+        "hid": "c90a226daa011985c4de5c0623d980d9",
+        "pid": "in8155fa281b9144933b07331a28ed8b85",
+        "human_name": "peter young",
+        "company_name": "scapa tapes india private limited",
+        "country_code": "GB",
+        "title_names": [
+          "engineering manager"
+        ],
+        "title_levels": [
+          "manager"
+        ],
+        "employee": "1001-5000",
+        "experience_num": 1,
+        "human_industries": [
+          "medical devices"
+        ],
+        "company_industries": [
+          "fabricated rubber products, not elsewhere classified",
+          "chemicals"
+        ],
+        "gender": "m",
+        "human_type": 1,
+        "phone_num": 0,
+        "email_num": 1,
+        "website_num": 0,
+        "social_num": 1,
+        "ws_num": 0,
+        "exist_company_website": 1,
+        "rate": 16.4286,
+        "es_score": 21.97371
+      },
+      {
+        "hid": "bf5105de68cdb6ec33eef483b44a9d72",
+        "pid": "in8155fa281b9144933b07331a28ed8b85",
+        "human_name": "mahmoud chaibi",
+        "company_name": "scapa tapes india private limited",
+        "country_code": "FR",
+        "title_names": [
+          "magasinier"
+        ],
+        "title_levels": [],
+        "employee": "1001-5000",
+        "experience_num": 1,
+        "human_industries": [
+          "chemicals"
+        ],
+        "company_industries": [
+          "fabricated rubber products, not elsewhere classified",
+          "chemicals"
+        ],
+        "gender": "m",
+        "human_type": 1,
+        "phone_num": 0,
+        "email_num": 1,
+        "website_num": 0,
+        "social_num": 1,
+        "ws_num": 0,
+        "exist_company_website": 1,
+        "rate": 16.4286,
+        "es_score": 21.97371
+      },
+      {
+        "hid": "bc4ce6ba62e288c2e4fc11fb7d0095d5",
+        "pid": "in8155fa281b9144933b07331a28ed8b85",
+        "human_name": "ivano mazzola",
+        "company_name": "scapa tapes india private limited",
+        "country_code": "IT",
+        "title_names": [
+          "product manager"
+        ],
+        "title_levels": [
+          "manager"
+        ],
+        "employee": "1001-5000",
+        "experience_num": 1,
+        "human_industries": [
+          "plastics"
+        ],
+        "company_industries": [
+          "fabricated rubber products, not elsewhere classified",
+          "chemicals"
+        ],
+        "gender": "m",
+        "human_type": 1,
+        "phone_num": 0,
+        "email_num": 1,
+        "website_num": 0,
+        "social_num": 1,
+        "ws_num": 0,
+        "exist_company_website": 1,
+        "rate": 16.4286,
+        "es_score": 21.97371
+      },
+      {
+        "hid": "b197fc8ba41dba17f84b7fb5fc12cdea",
+        "pid": "in8155fa281b9144933b07331a28ed8b85",
+        "human_name": "chris hughes",
+        "company_name": "scapa tapes india private limited",
+        "country_code": "GB",
+        "title_names": [
+          "finance director - industrial bu",
+          "operational excellence manager"
+        ],
+        "title_levels": [
+          "director",
+          "manager"
+        ],
+        "employee": "1001-5000",
+        "experience_num": 1,
+        "human_industries": [
+          "chemicals"
+        ],
+        "company_industries": [
+          "fabricated rubber products, not elsewhere classified",
+          "chemicals"
+        ],
+        "gender": "",
+        "human_type": 1,
+        "phone_num": 0,
+        "email_num": 2,
+        "website_num": 0,
+        "social_num": 1,
+        "ws_num": 0,
+        "exist_company_website": 1,
+        "rate": 16.4286,
+        "es_score": 21.97371
+      },
+      {
+        "hid": "8ebd75b944a57f18e194e2987993260c",
+        "pid": "in8155fa281b9144933b07331a28ed8b85",
+        "human_name": "paul bican",
+        "company_name": "scapa tapes india private limited",
+        "country_code": "FR",
+        "title_names": [
+          "market and product manager"
+        ],
+        "title_levels": [
+          "manager"
+        ],
+        "employee": "1001-5000",
+        "experience_num": 1,
+        "human_industries": [
+          "chemicals"
+        ],
+        "company_industries": [
+          "fabricated rubber products, not elsewhere classified",
+          "chemicals"
+        ],
+        "gender": "m",
+        "human_type": 1,
+        "phone_num": 0,
+        "email_num": 1,
+        "website_num": 0,
+        "social_num": 1,
+        "ws_num": 0,
+        "exist_company_website": 1,
+        "rate": 16.4286,
+        "es_score": 21.97371
+      },
+      {
+        "hid": "89fe76d2a9ecf6845d8dc49bd0d8a259",
+        "pid": "in8155fa281b9144933b07331a28ed8b85",
+        "human_name": "luca gardoni",
+        "company_name": "scapa tapes india private limited",
+        "country_code": "IT",
+        "title_names": [
+          "tecnico infrastrutture it"
+        ],
+        "title_levels": [],
+        "employee": "1001-5000",
+        "experience_num": 1,
+        "human_industries": [
+          "chemicals"
+        ],
+        "company_industries": [
+          "fabricated rubber products, not elsewhere classified",
+          "chemicals"
+        ],
+        "gender": "",
+        "human_type": 1,
+        "phone_num": 0,
+        "email_num": 1,
+        "website_num": 0,
+        "social_num": 1,
+        "ws_num": 0,
+        "exist_company_website": 1,
+        "rate": 16.4286,
+        "es_score": 21.97371
+      },
+      {
+        "hid": "87d55bbf2aa6335126c74c49d8662ead",
+        "pid": "in8155fa281b9144933b07331a28ed8b85",
+        "human_name": "cscmp jonathan palmer lean black belt. bpics",
+        "company_name": "scapa tapes india private limited",
+        "country_code": "CA",
+        "title_names": [
+          "supply chain management"
+        ],
+        "title_levels": [],
+        "employee": "1001-5000",
+        "experience_num": 1,
+        "human_industries": [
+          "telecommunications"
+        ],
+        "company_industries": [
+          "fabricated rubber products, not elsewhere classified",
+          "chemicals"
+        ],
+        "gender": "",
+        "human_type": 1,
+        "phone_num": 0,
+        "email_num": 1,
+        "website_num": 0,
+        "social_num": 1,
+        "ws_num": 0,
+        "exist_company_website": 1,
+        "rate": 16.4286,
+        "es_score": 21.97371
+      },
+      {
+        "hid": "72e682d86ff31d41bed2cf3029477845",
+        "pid": "in8155fa281b9144933b07331a28ed8b85",
+        "human_name": "jayne roddy",
+        "company_name": "scapa tapes india private limited",
+        "country_code": "GB",
+        "title_names": [
+          "pricing analyst"
+        ],
+        "title_levels": [],
+        "employee": "1001-5000",
+        "experience_num": 1,
+        "human_industries": [
+          "financial services"
+        ],
+        "company_industries": [
+          "fabricated rubber products, not elsewhere classified",
+          "chemicals"
+        ],
+        "gender": "f",
+        "human_type": 1,
+        "phone_num": 0,
+        "email_num": 1,
+        "website_num": 0,
+        "social_num": 1,
+        "ws_num": 0,
+        "exist_company_website": 1,
+        "rate": 16.4286,
+        "es_score": 21.97371
+      },
+      {
+        "hid": "66891d960f3fa5db17fe1a206e9241be",
+        "pid": "in8155fa281b9144933b07331a28ed8b85",
+        "human_name": "giovanni alosi",
+        "company_name": "scapa tapes india private limited",
+        "country_code": "IT",
+        "title_names": [
+          "site manager and amministratore delegato"
+        ],
+        "title_levels": [
+          "manager"
+        ],
+        "employee": "1001-5000",
+        "experience_num": 1,
+        "human_industries": [
+          "chemicals"
+        ],
+        "company_industries": [
+          "fabricated rubber products, not elsewhere classified",
+          "chemicals"
+        ],
+        "gender": "m",
+        "human_type": 1,
+        "phone_num": 0,
+        "email_num": 1,
+        "website_num": 0,
+        "social_num": 1,
+        "ws_num": 0,
+        "exist_company_website": 1,
+        "rate": 16.4286,
+        "es_score": 21.97371
+      }
+    ],
+    "pitId": ""
+  },
+  "fee": {
+    "apiCost": 150,
+    "accountBalance": 93110,
+    "uuid": "afa588cc-ef46-4710-8cb3-a4c3006f402a"
+  }
+}

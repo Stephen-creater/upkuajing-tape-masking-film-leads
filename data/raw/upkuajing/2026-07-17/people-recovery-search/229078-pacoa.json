@@ -1,0 +1,261 @@
+{
+  "code": 0,
+  "msg": "success",
+  "data": {
+    "cursor": null,
+    "list": [
+      {
+        "hid": "a8cba5944e4f808b4b5a15acc30587ba",
+        "pid": "usbbd4e85e42ac1d9ca67fc9ae65fdafb5",
+        "human_name": "dave klavens",
+        "company_name": "pacoa",
+        "country_code": "US",
+        "title_names": [
+          "salesman"
+        ],
+        "title_levels": [],
+        "employee": "51-200",
+        "experience_num": 1,
+        "human_industries": [
+          "building materials"
+        ],
+        "company_industries": [
+          "wholesale",
+          "miscellaneous non-durable goods"
+        ],
+        "gender": "m",
+        "human_type": 1,
+        "phone_num": 2,
+        "email_num": 1,
+        "website_num": 0,
+        "social_num": 1,
+        "ws_num": 0,
+        "exist_company_website": 1,
+        "rate": 19.4286,
+        "es_score": 22.291874
+      },
+      {
+        "hid": "b7e67ef0230578010ad0a380deabb97d",
+        "pid": "usbbd4e85e42ac1d9ca67fc9ae65fdafb5",
+        "human_name": "yoav sharon",
+        "company_name": "pacoa",
+        "country_code": "US",
+        "title_names": [
+          "project manager",
+          "director of operations"
+        ],
+        "title_levels": [
+          "director",
+          "manager"
+        ],
+        "employee": "51-200",
+        "experience_num": 1,
+        "human_industries": [
+          "wholesale"
+        ],
+        "company_industries": [
+          "wholesale",
+          "miscellaneous non-durable goods"
+        ],
+        "gender": "m",
+        "human_type": 1,
+        "phone_num": 0,
+        "email_num": 2,
+        "website_num": 0,
+        "social_num": 3,
+        "ws_num": 0,
+        "exist_company_website": 1,
+        "rate": 19.2857,
+        "es_score": 22.291874
+      },
+      {
+        "hid": "ec36e376e88c3d6d379ea14da20d6f0a",
+        "pid": "usbbd4e85e42ac1d9ca67fc9ae65fdafb5",
+        "human_name": "doug greene",
+        "company_name": "pacoa",
+        "country_code": "US",
+        "title_names": [
+          "general manager"
+        ],
+        "title_levels": [
+          "manager"
+        ],
+        "employee": "51-200",
+        "experience_num": 1,
+        "human_industries": [
+          "public relations and communications"
+        ],
+        "company_industries": [
+          "wholesale",
+          "miscellaneous non-durable goods"
+        ],
+        "gender": "m",
+        "human_type": 1,
+        "phone_num": 0,
+        "email_num": 1,
+        "website_num": 0,
+        "social_num": 1,
+        "ws_num": 0,
+        "exist_company_website": 1,
+        "rate": 11.4286,
+        "es_score": 22.291874
+      },
+      {
+        "hid": "fffc6ee99c2b8976eecf0b29b5ff610e",
+        "pid": "usbbd4e85e42ac1d9ca67fc9ae65fdafb5",
+        "human_name": "joseph scherrer",
+        "company_name": "pacoa",
+        "country_code": "US",
+        "title_names": [
+          "assistant buyer"
+        ],
+        "title_levels": [],
+        "employee": "51-200",
+        "experience_num": 1,
+        "human_industries": [
+          "building materials"
+        ],
+        "company_industries": [
+          "wholesale",
+          "miscellaneous non-durable goods"
+        ],
+        "gender": "m",
+        "human_type": 1,
+        "phone_num": 0,
+        "email_num": 1,
+        "website_num": 0,
+        "social_num": 1,
+        "ws_num": 0,
+        "exist_company_website": 1,
+        "rate": 9.4286,
+        "es_score": 22.291874
+      },
+      {
+        "hid": "d4903082d0f087dd5b19d146552f323f",
+        "pid": "usbbd4e85e42ac1d9ca67fc9ae65fdafb5",
+        "human_name": "jessica cuccia",
+        "company_name": "pacoa",
+        "country_code": "US",
+        "title_names": [
+          "associate buyer"
+        ],
+        "title_levels": [],
+        "employee": "51-200",
+        "experience_num": 1,
+        "human_industries": [
+          "wholesale"
+        ],
+        "company_industries": [
+          "wholesale",
+          "miscellaneous non-durable goods"
+        ],
+        "gender": "f",
+        "human_type": 1,
+        "phone_num": 0,
+        "email_num": 1,
+        "website_num": 0,
+        "social_num": 1,
+        "ws_num": 0,
+        "exist_company_website": 1,
+        "rate": 9.4286,
+        "es_score": 22.291874
+      },
+      {
+        "hid": "ccdf00f5fb4505dfc275a7c0b74eeb43",
+        "pid": "usbbd4e85e42ac1d9ca67fc9ae65fdafb5",
+        "human_name": "richard wishnia",
+        "company_name": "pacoa",
+        "country_code": "US",
+        "title_names": [
+          "sales representative"
+        ],
+        "title_levels": [],
+        "employee": "51-200",
+        "experience_num": 1,
+        "human_industries": [
+          "wholesale"
+        ],
+        "company_industries": [
+          "wholesale",
+          "miscellaneous non-durable goods"
+        ],
+        "gender": "m",
+        "human_type": 1,
+        "phone_num": 0,
+        "email_num": 1,
+        "website_num": 0,
+        "social_num": 1,
+        "ws_num": 0,
+        "exist_company_website": 1,
+        "rate": 9.4286,
+        "es_score": 22.291874
+      },
+      {
+        "hid": "173bab25b718842bc5a4612a4f9e1bc0",
+        "pid": "usbbd4e85e42ac1d9ca67fc9ae65fdafb5",
+        "human_name": "marc brickman",
+        "company_name": "pacoa",
+        "country_code": "US",
+        "title_names": [
+          "sales"
+        ],
+        "title_levels": [],
+        "employee": "51-200",
+        "experience_num": 1,
+        "human_industries": [
+          "building materials"
+        ],
+        "company_industries": [
+          "wholesale",
+          "miscellaneous non-durable goods"
+        ],
+        "gender": "m",
+        "human_type": 1,
+        "phone_num": 0,
+        "email_num": 1,
+        "website_num": 0,
+        "social_num": 1,
+        "ws_num": 0,
+        "exist_company_website": 1,
+        "rate": 9.4286,
+        "es_score": 22.291874
+      },
+      {
+        "hid": "0dc914af2b94eb9b50cff3b056e67bec",
+        "pid": "usbbd4e85e42ac1d9ca67fc9ae65fdafb5",
+        "human_name": "paul panza",
+        "company_name": "pacoa",
+        "country_code": "US",
+        "title_names": [
+          "sales representative"
+        ],
+        "title_levels": [],
+        "employee": "51-200",
+        "experience_num": 1,
+        "human_industries": [
+          "wholesale"
+        ],
+        "company_industries": [
+          "wholesale",
+          "miscellaneous non-durable goods"
+        ],
+        "gender": "m",
+        "human_type": 1,
+        "phone_num": 0,
+        "email_num": 1,
+        "website_num": 0,
+        "social_num": 1,
+        "ws_num": 0,
+        "exist_company_website": 1,
+        "rate": 9.4286,
+        "es_score": 22.291874
+      }
+    ],
+    "pitId": ""
+  },
+  "fee": {
+    "apiCost": 150,
+    "accountBalance": 94460,
+    "uuid": "8cfee51f-0460-48c5-bc10-9741e450186b"
+  }
+}

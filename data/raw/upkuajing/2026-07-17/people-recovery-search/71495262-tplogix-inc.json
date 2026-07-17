@@ -1,0 +1,612 @@
+{
+  "code": 0,
+  "msg": "success",
+  "data": {
+    "cursor": "WzQuMzAyNTUyLDkuNDI4NiwiYWI3MjdhNDhkMTVjNjFjOTczOGE5YTIzMGQ5NWM3NGIiXQ==",
+    "list": [
+      {
+        "hid": "bbbf7e8f18dcc9d29a45b59d8df8d55d",
+        "pid": "cad5cf0237d70a06e403ca21156ef00b61",
+        "human_name": "kevin hamm",
+        "company_name": "corrox inc inc",
+        "country_code": "US",
+        "title_names": [
+          "cad designer and project manager"
+        ],
+        "title_levels": [
+          "manager"
+        ],
+        "employee": "0-10",
+        "experience_num": 1,
+        "human_industries": [
+          "machinery"
+        ],
+        "company_industries": [
+          "home furniture and furnishings stores",
+          "machinery"
+        ],
+        "gender": "m",
+        "human_type": 1,
+        "phone_num": 1,
+        "email_num": 1,
+        "website_num": 0,
+        "social_num": 1,
+        "ws_num": 0,
+        "exist_company_website": 1,
+        "rate": 21.4286,
+        "es_score": 4.418749
+      },
+      {
+        "hid": "acc4b7b1ae1599317bdbe42415e3f916",
+        "pid": "cad5cf0237d70a06e403ca21156ef00b61",
+        "human_name": "scott newton",
+        "company_name": "corrox inc inc",
+        "country_code": "US",
+        "title_names": [
+          "mechanical engineer"
+        ],
+        "title_levels": [],
+        "employee": "0-10",
+        "experience_num": 1,
+        "human_industries": [
+          "industrial automation"
+        ],
+        "company_industries": [
+          "home furniture and furnishings stores",
+          "machinery"
+        ],
+        "gender": "m",
+        "human_type": 1,
+        "phone_num": 1,
+        "email_num": 1,
+        "website_num": 0,
+        "social_num": 1,
+        "ws_num": 0,
+        "exist_company_website": 1,
+        "rate": 21.4286,
+        "es_score": 4.418749
+      },
+      {
+        "hid": "11362f179849ee0081aee9d605e6b1d4",
+        "pid": "cad5cf0237d70a06e403ca21156ef00b61",
+        "human_name": "susan cribbs",
+        "company_name": "corrox inc inc",
+        "country_code": "US",
+        "title_names": [
+          "controller"
+        ],
+        "title_levels": [],
+        "employee": "0-10",
+        "experience_num": 1,
+        "human_industries": [
+          "industrial automation"
+        ],
+        "company_industries": [
+          "home furniture and furnishings stores",
+          "machinery"
+        ],
+        "gender": "f",
+        "human_type": 1,
+        "phone_num": 1,
+        "email_num": 2,
+        "website_num": 0,
+        "social_num": 1,
+        "ws_num": 0,
+        "exist_company_website": 1,
+        "rate": 21.4286,
+        "es_score": 4.418749
+      },
+      {
+        "hid": "694f0d8f799a806686050439213456b6",
+        "pid": "paa4f894ab78f39818f3b7fc62029538e7",
+        "human_name": "julio novoa",
+        "company_name": "inc management inc",
+        "country_code": "CO",
+        "title_names": [
+          "soporte comercial de ventas"
+        ],
+        "title_levels": [],
+        "employee": "0-10",
+        "experience_num": 1,
+        "human_industries": [
+          "mechanical or industrial engineering"
+        ],
+        "company_industries": [
+          "information technology and services"
+        ],
+        "gender": "m",
+        "human_type": 1,
+        "phone_num": 0,
+        "email_num": 1,
+        "website_num": 0,
+        "social_num": 1,
+        "ws_num": 0,
+        "exist_company_website": 1,
+        "rate": 16.4286,
+        "es_score": 4.418749
+      },
+      {
+        "hid": "9ba7155e3566a4f54c6e139abdaa9150",
+        "pid": "cad5cf0237d70a06e403ca21156ef00b61",
+        "human_name": "brian boisvert",
+        "company_name": "corrox inc inc",
+        "country_code": "US",
+        "title_names": [
+          "mechanical designer"
+        ],
+        "title_levels": [],
+        "employee": "0-10",
+        "experience_num": 1,
+        "human_industries": [
+          "design"
+        ],
+        "company_industries": [
+          "home furniture and furnishings stores",
+          "machinery"
+        ],
+        "gender": "m",
+        "human_type": 1,
+        "phone_num": 0,
+        "email_num": 1,
+        "website_num": 0,
+        "social_num": 1,
+        "ws_num": 0,
+        "exist_company_website": 1,
+        "rate": 11.4286,
+        "es_score": 4.418749
+      },
+      {
+        "hid": "88488820638073a13916cb3b5833cbca",
+        "pid": "ca661f3df26f05f537ae23919d03f34952",
+        "human_name": "julia gradwell",
+        "company_name": "inc imports inc",
+        "country_code": "CA",
+        "title_names": [
+          "portfolio manager"
+        ],
+        "title_levels": [
+          "manager"
+        ],
+        "employee": "0-10",
+        "experience_num": 1,
+        "human_industries": [
+          "wine and spirits"
+        ],
+        "company_industries": [
+          "import and export"
+        ],
+        "gender": "f",
+        "human_type": 1,
+        "phone_num": 0,
+        "email_num": 1,
+        "website_num": 0,
+        "social_num": 1,
+        "ws_num": 0,
+        "exist_company_website": 1,
+        "rate": 9.4286,
+        "es_score": 4.418749
+      },
+      {
+        "hid": "ec6063bed19e256f66ab7d5f9814eba5",
+        "pid": "us4856ff2a2f7c4ca70942875cc9ca3336",
+        "human_name": "arnold wolfe",
+        "company_name": "that was then inc",
+        "country_code": "US",
+        "title_names": [
+          "writer-executive producer"
+        ],
+        "title_levels": [],
+        "employee": "0-10",
+        "experience_num": 1,
+        "human_industries": [
+          "media production"
+        ],
+        "company_industries": [
+          "miscellaneous business services",
+          "media production"
+        ],
+        "gender": "m",
+        "human_type": 1,
+        "phone_num": 1,
+        "email_num": 1,
+        "website_num": 0,
+        "social_num": 1,
+        "ws_num": 0,
+        "exist_company_website": 2,
+        "rate": 19.4286,
+        "es_score": 4.302552
+      },
+      {
+        "hid": "ce3e9d0691d6564f1fa13fa7d6fc6528",
+        "pid": "us26322e85f482e6b16bd1ffbbcf2edf8a",
+        "human_name": "eric chappell",
+        "company_name": "then inc",
+        "country_code": "US",
+        "title_names": [
+          "director of finance and operations"
+        ],
+        "title_levels": [
+          "director"
+        ],
+        "employee": "0-10",
+        "experience_num": 1,
+        "human_industries": [
+          "food production"
+        ],
+        "company_industries": [
+          "apparel & fashion"
+        ],
+        "gender": "m",
+        "human_type": 1,
+        "phone_num": 0,
+        "email_num": 1,
+        "website_num": 0,
+        "social_num": 2,
+        "ws_num": 0,
+        "exist_company_website": 1,
+        "rate": 17.8571,
+        "es_score": 4.302552
+      },
+      {
+        "hid": "d042dc6097bdb7735130629097619e42",
+        "pid": "us84d559161c1830cc7822b2c159f92462",
+        "human_name": "tina lim-keasberry",
+        "company_name": "as it is inc",
+        "country_code": "BN",
+        "title_names": [
+          "assistant chief executive, market regulation"
+        ],
+        "title_levels": [],
+        "employee": "0-10",
+        "experience_num": 1,
+        "human_industries": [
+          "telecommunications"
+        ],
+        "company_industries": [
+          "computer software"
+        ],
+        "gender": "f",
+        "human_type": 1,
+        "phone_num": 0,
+        "email_num": 1,
+        "website_num": 0,
+        "social_num": 1,
+        "ws_num": 0,
+        "exist_company_website": 1,
+        "rate": 16.4286,
+        "es_score": 4.302552
+      },
+      {
+        "hid": "965743a13224fdb2ffa8426928841c59",
+        "pid": "us84d559161c1830cc7822b2c159f92462",
+        "human_name": "suat aydın",
+        "company_name": "as it is inc",
+        "country_code": "TR",
+        "title_names": [
+          "hhh"
+        ],
+        "title_levels": [],
+        "employee": "0-10",
+        "experience_num": 1,
+        "human_industries": [
+          "computer software"
+        ],
+        "company_industries": [
+          "computer software"
+        ],
+        "gender": "",
+        "human_type": 1,
+        "phone_num": 0,
+        "email_num": 1,
+        "website_num": 0,
+        "social_num": 1,
+        "ws_num": 0,
+        "exist_company_website": 1,
+        "rate": 16.4286,
+        "es_score": 4.302552
+      },
+      {
+        "hid": "932b399a8351c424b22173302c749a7c",
+        "pid": "us84d559161c1830cc7822b2c159f92462",
+        "human_name": "rahul sahil",
+        "company_name": "as it is inc",
+        "country_code": "IN",
+        "title_names": [
+          "office"
+        ],
+        "title_levels": [],
+        "employee": "0-10",
+        "experience_num": 1,
+        "human_industries": [
+          "computer software"
+        ],
+        "company_industries": [
+          "computer software"
+        ],
+        "gender": "m",
+        "human_type": 1,
+        "phone_num": 0,
+        "email_num": 1,
+        "website_num": 0,
+        "social_num": 1,
+        "ws_num": 0,
+        "exist_company_website": 1,
+        "rate": 16.4286,
+        "es_score": 4.302552
+      },
+      {
+        "hid": "902126ab8eb750065d99174eda28a5ec",
+        "pid": "us84d559161c1830cc7822b2c159f92462",
+        "human_name": "mohammad shaikh",
+        "company_name": "as it is inc",
+        "country_code": "SA",
+        "title_names": [
+          "b"
+        ],
+        "title_levels": [],
+        "employee": "0-10",
+        "experience_num": 1,
+        "human_industries": [
+          "architecture & planning"
+        ],
+        "company_industries": [
+          "computer software"
+        ],
+        "gender": "m",
+        "human_type": 1,
+        "phone_num": 0,
+        "email_num": 1,
+        "website_num": 0,
+        "social_num": 1,
+        "ws_num": 0,
+        "exist_company_website": 1,
+        "rate": 16.4286,
+        "es_score": 4.302552
+      },
+      {
+        "hid": "78ee6dd558fadc6f59b1954baf7703b2",
+        "pid": "us84d559161c1830cc7822b2c159f92462",
+        "human_name": "taras kurpa",
+        "company_name": "as it is inc",
+        "country_code": "UA",
+        "title_names": [
+          "tv planer"
+        ],
+        "title_levels": [],
+        "employee": "0-10",
+        "experience_num": 1,
+        "human_industries": [
+          "marketing and advertising"
+        ],
+        "company_industries": [
+          "computer software"
+        ],
+        "gender": "m",
+        "human_type": 1,
+        "phone_num": 0,
+        "email_num": 1,
+        "website_num": 0,
+        "social_num": 1,
+        "ws_num": 0,
+        "exist_company_website": 1,
+        "rate": 16.4286,
+        "es_score": 4.302552
+      },
+      {
+        "hid": "47a9651994fcd356bfccb25b162241ab",
+        "pid": "us84d559161c1830cc7822b2c159f92462",
+        "human_name": "sven peters",
+        "company_name": "as it is inc",
+        "country_code": "US",
+        "title_names": [
+          "consultant"
+        ],
+        "title_levels": [],
+        "employee": "0-10",
+        "experience_num": 1,
+        "human_industries": [
+          "information technology and services"
+        ],
+        "company_industries": [
+          "computer software"
+        ],
+        "gender": "m",
+        "human_type": 1,
+        "phone_num": 0,
+        "email_num": 1,
+        "website_num": 0,
+        "social_num": 1,
+        "ws_num": 0,
+        "exist_company_website": 1,
+        "rate": 16.4286,
+        "es_score": 4.302552
+      },
+      {
+        "hid": "6264d6d04953b68b0831fc431ad6e22b",
+        "pid": "us84d559161c1830cc7822b2c159f92462",
+        "human_name": "habib nadery",
+        "company_name": "as it is inc",
+        "country_code": "IR",
+        "title_names": [
+          "teacher"
+        ],
+        "title_levels": [],
+        "employee": "0-10",
+        "experience_num": 1,
+        "human_industries": [
+          "computer software"
+        ],
+        "company_industries": [
+          "computer software"
+        ],
+        "gender": "m",
+        "human_type": 1,
+        "phone_num": 0,
+        "email_num": 1,
+        "website_num": 0,
+        "social_num": 1,
+        "ws_num": 0,
+        "exist_company_website": 1,
+        "rate": 11.4286,
+        "es_score": 4.302552
+      },
+      {
+        "hid": "52c4b3b7121927132802cb9b27b3d6fb",
+        "pid": "us84d559161c1830cc7822b2c159f92462",
+        "human_name": "mark seering",
+        "company_name": "as it is inc",
+        "country_code": "US",
+        "title_names": [
+          "sales manager"
+        ],
+        "title_levels": [
+          "manager"
+        ],
+        "employee": "0-10",
+        "experience_num": 1,
+        "human_industries": [
+          "automotive"
+        ],
+        "company_industries": [
+          "computer software"
+        ],
+        "gender": "m",
+        "human_type": 1,
+        "phone_num": 0,
+        "email_num": 1,
+        "website_num": 0,
+        "social_num": 1,
+        "ws_num": 0,
+        "exist_company_website": 1,
+        "rate": 11.4286,
+        "es_score": 4.302552
+      },
+      {
+        "hid": "45509567ee907908fa8441752ab59eb7",
+        "pid": "us84d559161c1830cc7822b2c159f92462",
+        "human_name": "adrian ionea",
+        "company_name": "as it is inc",
+        "country_code": "SI",
+        "title_names": [
+          "sasa"
+        ],
+        "title_levels": [],
+        "employee": "0-10",
+        "experience_num": 1,
+        "human_industries": [
+          "computer software"
+        ],
+        "company_industries": [
+          "computer software"
+        ],
+        "gender": "",
+        "human_type": 1,
+        "phone_num": 0,
+        "email_num": 1,
+        "website_num": 0,
+        "social_num": 1,
+        "ws_num": 0,
+        "exist_company_website": 1,
+        "rate": 11.4286,
+        "es_score": 4.302552
+      },
+      {
+        "hid": "1ee6d04a9b002c8cf9da1cc376600666",
+        "pid": "us84d559161c1830cc7822b2c159f92462",
+        "human_name": "dopseobong inyang",
+        "company_name": "as it is inc",
+        "country_code": "NG",
+        "title_names": [
+          "manager"
+        ],
+        "title_levels": [
+          "manager"
+        ],
+        "employee": "0-10",
+        "experience_num": 1,
+        "human_industries": [
+          "broadcast media"
+        ],
+        "company_industries": [
+          "computer software"
+        ],
+        "gender": "",
+        "human_type": 1,
+        "phone_num": 0,
+        "email_num": 1,
+        "website_num": 0,
+        "social_num": 1,
+        "ws_num": 0,
+        "exist_company_website": 1,
+        "rate": 11.4286,
+        "es_score": 4.302552
+      },
+      {
+        "hid": "e3b947ea95429f1c581b40f9b9e8fda8",
+        "pid": "us84d559161c1830cc7822b2c159f92462",
+        "human_name": "eugenia rotondi",
+        "company_name": "as it is inc",
+        "country_code": "IT",
+        "title_names": [
+          "qualified aiti member : en-ru<>it conference interpreter and translator"
+        ],
+        "title_levels": [],
+        "employee": "0-10",
+        "experience_num": 1,
+        "human_industries": [
+          "translation and localization"
+        ],
+        "company_industries": [
+          "computer software"
+        ],
+        "gender": "f",
+        "human_type": 1,
+        "phone_num": 0,
+        "email_num": 1,
+        "website_num": 0,
+        "social_num": 1,
+        "ws_num": 0,
+        "exist_company_website": 1,
+        "rate": 9.4286,
+        "es_score": 4.302552
+      },
+      {
+        "hid": "ab727a48d15c61c9738a9a230d95c74b",
+        "pid": "us26322e85f482e6b16bd1ffbbcf2edf8a",
+        "human_name": "serena rasmussen",
+        "company_name": "then inc",
+        "country_code": "US",
+        "title_names": [
+          "project manager"
+        ],
+        "title_levels": [
+          "manager"
+        ],
+        "employee": "0-10",
+        "experience_num": 1,
+        "human_industries": [
+          "management consulting"
+        ],
+        "company_industries": [
+          "apparel & fashion"
+        ],
+        "gender": "f",
+        "human_type": 1,
+        "phone_num": 0,
+        "email_num": 1,
+        "website_num": 0,
+        "social_num": 1,
+        "ws_num": 0,
+        "exist_company_website": 1,
+        "rate": 9.4286,
+        "es_score": 4.302552
+      }
+    ],
+    "pitId": ""
+  },
+  "fee": {
+    "apiCost": 150,
+    "accountBalance": 94160,
+    "uuid": "acaa0020-5f50-4378-b4cc-1b885a5c21de"
+  }
+}

@@ -1,0 +1,618 @@
+{
+  "code": 0,
+  "msg": "success",
+  "data": {
+    "cursor": "WzE3LjM0NTExNiwxNy44NTcxLCJjMjkxMTFhYjk4MGEyMzhhYzFjZGZmYjIwMDA0NGI1ZCJd",
+    "list": [
+      {
+        "hid": "42f2cc84419d058492f194a608b0bd1c",
+        "pid": "in688ba1a6ec44dcebc60655b2b44c3d34",
+        "human_name": "mahantesh angadi",
+        "company_name": "samsung india electronics limited, noida",
+        "country_code": "IN",
+        "title_names": [
+          "lte manager"
+        ],
+        "title_levels": [
+          "manager"
+        ],
+        "employee": "51-200",
+        "experience_num": 1,
+        "human_industries": [
+          "telecommunications"
+        ],
+        "company_industries": [
+          "appliances, electrical, and electronics manufacturing",
+          "electrical/electronic manufacturing"
+        ],
+        "gender": "",
+        "human_type": 1,
+        "phone_num": 0,
+        "email_num": 1,
+        "website_num": 0,
+        "social_num": 2,
+        "ws_num": 0,
+        "exist_company_website": 2,
+        "rate": 17.8571,
+        "es_score": 20.33376
+      },
+      {
+        "hid": "3c758ad6617836ec7f03f3469b6e9003",
+        "pid": "indd6629dd88c943391216f54a41ed6638",
+        "human_name": "kiran shinde",
+        "company_name": "samsung i electronics private limited",
+        "country_code": "IN",
+        "title_names": [
+          "regional distribution manager"
+        ],
+        "title_levels": [
+          "manager"
+        ],
+        "employee": "11-50",
+        "experience_num": 1,
+        "human_industries": [
+          "marketing and advertising"
+        ],
+        "company_industries": [
+          "retail"
+        ],
+        "gender": "",
+        "human_type": 1,
+        "phone_num": 0,
+        "email_num": 2,
+        "website_num": 0,
+        "social_num": 1,
+        "ws_num": 0,
+        "exist_company_website": 1,
+        "rate": 16.4286,
+        "es_score": 19.753132
+      },
+      {
+        "hid": "aedf59f6f01837a0e96bf45706a5e49a",
+        "pid": "inc53328d9b8309001fc67a470f8b97497",
+        "human_name": "divya khatri-suri",
+        "company_name": "samsung india electronic private limited",
+        "country_code": "IN",
+        "title_names": [
+          "deputy general manager"
+        ],
+        "title_levels": [
+          "manager"
+        ],
+        "employee": "1001-5000",
+        "experience_num": 1,
+        "human_industries": [
+          "consumer services"
+        ],
+        "company_industries": [
+          "electrical/electronic manufacturing"
+        ],
+        "gender": "f",
+        "human_type": 1,
+        "phone_num": 0,
+        "email_num": 3,
+        "website_num": 0,
+        "social_num": 2,
+        "ws_num": 0,
+        "exist_company_website": 2,
+        "rate": 17.8571,
+        "es_score": 18.446445
+      },
+      {
+        "hid": "0076f3aaeb9cf659e5d375cf8ab26579",
+        "pid": "inc53328d9b8309001fc67a470f8b97497",
+        "human_name": "cheolkoo kim",
+        "company_name": "samsung india electronic private limited",
+        "country_code": "IN",
+        "title_names": [
+          "senior vice president"
+        ],
+        "title_levels": [
+          "vp",
+          "senior"
+        ],
+        "employee": "1001-5000",
+        "experience_num": 1,
+        "human_industries": [
+          "telecommunications"
+        ],
+        "company_industries": [
+          "electrical/electronic manufacturing"
+        ],
+        "gender": "",
+        "human_type": 1,
+        "phone_num": 0,
+        "email_num": 1,
+        "website_num": 0,
+        "social_num": 1,
+        "ws_num": 0,
+        "exist_company_website": 2,
+        "rate": 9.4286,
+        "es_score": 18.446445
+      },
+      {
+        "hid": "57e9d78f871aa0f78962446018da34ba",
+        "pid": "2964154430c2d4017812e6f7e01ddcab",
+        "human_name": "victor roev",
+        "company_name": "samsung electronics",
+        "country_code": "RU",
+        "title_names": [
+          "principal scientist"
+        ],
+        "title_levels": [],
+        "employee": "0-10",
+        "experience_num": 1,
+        "human_industries": [
+          "nanotechnology"
+        ],
+        "company_industries": [],
+        "gender": "m",
+        "human_type": 1,
+        "phone_num": 0,
+        "email_num": 1,
+        "website_num": 0,
+        "social_num": 1,
+        "ws_num": 0,
+        "exist_company_website": 2,
+        "rate": 16.4286,
+        "es_score": 18.017635
+      },
+      {
+        "hid": "4a46878c420eab3a81d90e5584e04989",
+        "pid": "in03bb2480719c3c6b847eebf3593db04d",
+        "human_name": "priyanshu kumar",
+        "company_name": "diagnosys electronics (india) private limited",
+        "country_code": "US",
+        "title_names": [
+          "application engineer"
+        ],
+        "title_levels": [],
+        "employee": "51-200",
+        "experience_num": 1,
+        "human_industries": [
+          "defense & space"
+        ],
+        "company_industries": [
+          "electrical/electronic manufacturing"
+        ],
+        "gender": "m",
+        "human_type": 1,
+        "phone_num": 2,
+        "email_num": 1,
+        "website_num": 0,
+        "social_num": 3,
+        "ws_num": 1,
+        "exist_company_website": 1,
+        "rate": 29.2857,
+        "es_score": 17.345116
+      },
+      {
+        "hid": "f00d4e402250633b8db75815602aaa53",
+        "pid": "in03bb2480719c3c6b847eebf3593db04d",
+        "human_name": "terry harvell",
+        "company_name": "diagnosys electronics (india) private limited",
+        "country_code": "US",
+        "title_names": [
+          "engineering manager"
+        ],
+        "title_levels": [
+          "manager"
+        ],
+        "employee": "51-200",
+        "experience_num": 1,
+        "human_industries": [
+          "electrical/electronic manufacturing"
+        ],
+        "company_industries": [
+          "electrical/electronic manufacturing"
+        ],
+        "gender": "",
+        "human_type": 1,
+        "phone_num": 2,
+        "email_num": 1,
+        "website_num": 0,
+        "social_num": 2,
+        "ws_num": 1,
+        "exist_company_website": 1,
+        "rate": 27.8571,
+        "es_score": 17.345116
+      },
+      {
+        "hid": "82fdf7ecef8fdabed1c27e4fc69b94dc",
+        "pid": "in03bb2480719c3c6b847eebf3593db04d",
+        "human_name": "jonathan turgeon",
+        "company_name": "diagnosys electronics (india) private limited",
+        "country_code": "US",
+        "title_names": [
+          "lead engineer"
+        ],
+        "title_levels": [
+          "manager"
+        ],
+        "employee": "51-200",
+        "experience_num": 1,
+        "human_industries": [
+          "electrical/electronic manufacturing"
+        ],
+        "company_industries": [
+          "electrical/electronic manufacturing"
+        ],
+        "gender": "m",
+        "human_type": 1,
+        "phone_num": 5,
+        "email_num": 3,
+        "website_num": 0,
+        "social_num": 2,
+        "ws_num": 1,
+        "exist_company_website": 1,
+        "rate": 27.8571,
+        "es_score": 17.345116
+      },
+      {
+        "hid": "2a8e1130f2769832bfb06037bbae7802",
+        "pid": "in03bb2480719c3c6b847eebf3593db04d",
+        "human_name": "john o'brien",
+        "company_name": "diagnosys electronics (india) private limited",
+        "country_code": "US",
+        "title_names": [
+          "vice president us and international sales and business development"
+        ],
+        "title_levels": [
+          "vp"
+        ],
+        "employee": "51-200",
+        "experience_num": 1,
+        "human_industries": [
+          "medical devices"
+        ],
+        "company_industries": [
+          "electrical/electronic manufacturing"
+        ],
+        "gender": "m",
+        "human_type": 1,
+        "phone_num": 1,
+        "email_num": 1,
+        "website_num": 0,
+        "social_num": 1,
+        "ws_num": 0,
+        "exist_company_website": 1,
+        "rate": 26.4286,
+        "es_score": 17.345116
+      },
+      {
+        "hid": "03c47b080046b19adaf8988b43bc4edb",
+        "pid": "in03bb2480719c3c6b847eebf3593db04d",
+        "human_name": "tom popolo",
+        "company_name": "diagnosys electronics (india) private limited",
+        "country_code": "US",
+        "title_names": [
+          "director of military sales"
+        ],
+        "title_levels": [
+          "director"
+        ],
+        "employee": "51-200",
+        "experience_num": 1,
+        "human_industries": [
+          "electrical/electronic manufacturing"
+        ],
+        "company_industries": [
+          "electrical/electronic manufacturing"
+        ],
+        "gender": "m",
+        "human_type": 1,
+        "phone_num": 1,
+        "email_num": 3,
+        "website_num": 0,
+        "social_num": 1,
+        "ws_num": 0,
+        "exist_company_website": 1,
+        "rate": 26.4286,
+        "es_score": 17.345116
+      },
+      {
+        "hid": "fab671af1454ba54d919925fecc15fb4",
+        "pid": "in03bb2480719c3c6b847eebf3593db04d",
+        "human_name": "ron romer",
+        "company_name": "diagnosys electronics (india) private limited",
+        "country_code": "US",
+        "title_names": [
+          "mechanical and pcb design engineer"
+        ],
+        "title_levels": [],
+        "employee": "51-200",
+        "experience_num": 1,
+        "human_industries": [
+          "mechanical or industrial engineering"
+        ],
+        "company_industries": [
+          "electrical/electronic manufacturing"
+        ],
+        "gender": "m",
+        "human_type": 1,
+        "phone_num": 6,
+        "email_num": 4,
+        "website_num": 0,
+        "social_num": 2,
+        "ws_num": 1,
+        "exist_company_website": 1,
+        "rate": 22.8571,
+        "es_score": 17.345116
+      },
+      {
+        "hid": "96c7567ea7c60d557f288e59b6b5649f",
+        "pid": "in03bb2480719c3c6b847eebf3593db04d",
+        "human_name": "orrin amsden",
+        "company_name": "diagnosys electronics (india) private limited",
+        "country_code": "US",
+        "title_names": [
+          "senior applications engineer"
+        ],
+        "title_levels": [
+          "senior"
+        ],
+        "employee": "51-200",
+        "experience_num": 1,
+        "human_industries": [
+          "semiconductors"
+        ],
+        "company_industries": [
+          "electrical/electronic manufacturing"
+        ],
+        "gender": "m",
+        "human_type": 1,
+        "phone_num": 1,
+        "email_num": 1,
+        "website_num": 0,
+        "social_num": 2,
+        "ws_num": 0,
+        "exist_company_website": 1,
+        "rate": 20.8571,
+        "es_score": 17.345116
+      },
+      {
+        "hid": "b41f62be43a160e5b7e36e2359a1e3eb",
+        "pid": "1a2bea8d390ae572aa7bb802417211cc",
+        "human_name": "abhay bharti",
+        "company_name": "crestron electronics india private limited",
+        "country_code": "IN",
+        "title_names": [
+          "lead quality engineer"
+        ],
+        "title_levels": [
+          "manager"
+        ],
+        "employee": "11-50",
+        "experience_num": 1,
+        "human_industries": [
+          "information technology and services"
+        ],
+        "company_industries": [],
+        "gender": "m",
+        "human_type": 1,
+        "phone_num": 0,
+        "email_num": 1,
+        "website_num": 0,
+        "social_num": 4,
+        "ws_num": 0,
+        "exist_company_website": 2,
+        "rate": 20.7143,
+        "es_score": 17.345116
+      },
+      {
+        "hid": "977dba9018a49bdcc6f89285f8f998b1",
+        "pid": "in03bb2480719c3c6b847eebf3593db04d",
+        "human_name": "huan levan",
+        "company_name": "diagnosys electronics (india) private limited",
+        "country_code": "FR",
+        "title_names": [
+          "general manager"
+        ],
+        "title_levels": [
+          "manager"
+        ],
+        "employee": "51-200",
+        "experience_num": 1,
+        "human_industries": [
+          "electrical/electronic manufacturing"
+        ],
+        "company_industries": [
+          "electrical/electronic manufacturing"
+        ],
+        "gender": "m",
+        "human_type": 1,
+        "phone_num": 1,
+        "email_num": 1,
+        "website_num": 0,
+        "social_num": 1,
+        "ws_num": 0,
+        "exist_company_website": 1,
+        "rate": 19.4286,
+        "es_score": 17.345116
+      },
+      {
+        "hid": "5e912ffb99d5866928251cdcf4299abc",
+        "pid": "in03bb2480719c3c6b847eebf3593db04d",
+        "human_name": "caroline taylor",
+        "company_name": "diagnosys electronics (india) private limited",
+        "country_code": "US",
+        "title_names": [
+          "customer support"
+        ],
+        "title_levels": [],
+        "employee": "51-200",
+        "experience_num": 1,
+        "human_industries": [
+          "medical devices"
+        ],
+        "company_industries": [
+          "electrical/electronic manufacturing"
+        ],
+        "gender": "f",
+        "human_type": 1,
+        "phone_num": 1,
+        "email_num": 1,
+        "website_num": 0,
+        "social_num": 1,
+        "ws_num": 0,
+        "exist_company_website": 1,
+        "rate": 19.4286,
+        "es_score": 17.345116
+      },
+      {
+        "hid": "fe9084f8735b140d6e357bbb15cfd982",
+        "pid": "1a2bea8d390ae572aa7bb802417211cc",
+        "human_name": "himadhar harinarayanan",
+        "company_name": "crestron electronics india private limited",
+        "country_code": "IN",
+        "title_names": [
+          "senior software engineer"
+        ],
+        "title_levels": [
+          "senior"
+        ],
+        "employee": "11-50",
+        "experience_num": 1,
+        "human_industries": [
+          "information technology and services"
+        ],
+        "company_industries": [],
+        "gender": "",
+        "human_type": 1,
+        "phone_num": 0,
+        "email_num": 2,
+        "website_num": 0,
+        "social_num": 2,
+        "ws_num": 0,
+        "exist_company_website": 2,
+        "rate": 17.8571,
+        "es_score": 17.345116
+      },
+      {
+        "hid": "d65adfde1d59a3abd8e41984052e1ab2",
+        "pid": "in6415c97f052e7ad5764f9799d7e44f9b",
+        "human_name": "rizwan memon",
+        "company_name": "innocom electronics india private limited",
+        "country_code": "IN",
+        "title_names": [
+          "state head-maharashtra"
+        ],
+        "title_levels": [],
+        "employee": "201-500",
+        "experience_num": 1,
+        "human_industries": [
+          "telecommunications"
+        ],
+        "company_industries": [
+          "legal services"
+        ],
+        "gender": "m",
+        "human_type": 1,
+        "phone_num": 0,
+        "email_num": 1,
+        "website_num": 0,
+        "social_num": 2,
+        "ws_num": 0,
+        "exist_company_website": 1,
+        "rate": 17.8571,
+        "es_score": 17.345116
+      },
+      {
+        "hid": "c4ae76bc732cf3b0f979acd344b54700",
+        "pid": "in51795199f18b862071e1a7eb77b99008",
+        "human_name": "mitesh shah",
+        "company_name": "kripa electronics ( india ) private limited",
+        "country_code": "IN",
+        "title_names": [
+          "deputy manager logistics and scm"
+        ],
+        "title_levels": [
+          "manager"
+        ],
+        "employee": "11-50",
+        "experience_num": 1,
+        "human_industries": [
+          "consumer electronics"
+        ],
+        "company_industries": [
+          "machinery",
+          "electric transmission and distribution equipment"
+        ],
+        "gender": "m",
+        "human_type": 1,
+        "phone_num": 0,
+        "email_num": 4,
+        "website_num": 0,
+        "social_num": 2,
+        "ws_num": 0,
+        "exist_company_website": 1,
+        "rate": 17.8571,
+        "es_score": 17.345116
+      },
+      {
+        "hid": "c2a1e30b372736821e8551640af23b79",
+        "pid": "in7861d3c9cf14474cd7b48c92c9616cbc",
+        "human_name": "prakash rao",
+        "company_name": "sh electronics india private limited",
+        "country_code": "IN",
+        "title_names": [],
+        "title_levels": [],
+        "employee": "201-500",
+        "experience_num": 0,
+        "human_industries": [],
+        "company_industries": [
+          "electrical/electronic manufacturing",
+          "metal forgings and stampings"
+        ],
+        "gender": "m",
+        "human_type": 1,
+        "phone_num": 0,
+        "email_num": 1,
+        "website_num": 0,
+        "social_num": 2,
+        "ws_num": 0,
+        "exist_company_website": 2,
+        "rate": 17.8571,
+        "es_score": 17.345116
+      },
+      {
+        "hid": "c29111ab980a238ac1cdffb200044b5d",
+        "pid": "in51795199f18b862071e1a7eb77b99008",
+        "human_name": "taraj shah",
+        "company_name": "kripa electronics ( india ) private limited",
+        "country_code": "IN",
+        "title_names": [
+          "deputy manager operations"
+        ],
+        "title_levels": [
+          "manager"
+        ],
+        "employee": "11-50",
+        "experience_num": 1,
+        "human_industries": [
+          "chemicals"
+        ],
+        "company_industries": [
+          "machinery",
+          "electric transmission and distribution equipment"
+        ],
+        "gender": "",
+        "human_type": 1,
+        "phone_num": 0,
+        "email_num": 1,
+        "website_num": 0,
+        "social_num": 2,
+        "ws_num": 0,
+        "exist_company_website": 1,
+        "rate": 17.8571,
+        "es_score": 17.345116
+      }
+    ],
+    "pitId": ""
+  },
+  "fee": {
+    "apiCost": 150,
+    "accountBalance": 94010,
+    "uuid": "5c613eb8-3e11-434a-9fa2-94fff4d18c20"
+  }
+}

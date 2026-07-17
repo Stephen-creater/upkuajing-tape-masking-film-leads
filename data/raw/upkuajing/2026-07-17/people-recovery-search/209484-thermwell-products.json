@@ -1,0 +1,641 @@
+{
+  "code": 0,
+  "msg": "success",
+  "data": {
+    "cursor": "WzcuNDEzNDI0LDI5LjI4NTcsImFjZWZlOTMzZDI3NmUwYzE0MGVhMmU3MDBhNDEzN2FkIl0=",
+    "list": [
+      {
+        "hid": "db4002d773934a7a61d2fe4543ec8ebd",
+        "pid": "bedf589dd9def2613f769863e36aa9da8e",
+        "human_name": "wout vermeeren",
+        "company_name": "ej products moulds for meat products",
+        "country_code": "BE",
+        "title_names": [
+          "business development manager"
+        ],
+        "title_levels": [
+          "manager"
+        ],
+        "employee": "0-10",
+        "experience_num": 1,
+        "human_industries": [
+          "food production"
+        ],
+        "company_industries": [
+          "food production"
+        ],
+        "gender": "",
+        "human_type": 1,
+        "phone_num": 0,
+        "email_num": 1,
+        "website_num": 0,
+        "social_num": 1,
+        "ws_num": 0,
+        "exist_company_website": 1,
+        "rate": 9.4286,
+        "es_score": 7.584693
+      },
+      {
+        "hid": "5cbd4a50e9247fc24bd8e5b96a3f4f5f",
+        "pid": "us3561580cfa32e0682b286d5060be74d6",
+        "human_name": "james gray",
+        "company_name": "products that count",
+        "country_code": "US",
+        "title_names": [
+          "chief product officer and austin head of chapter"
+        ],
+        "title_levels": [
+          "cxo",
+          "manager"
+        ],
+        "employee": "11-50",
+        "experience_num": 1,
+        "human_industries": [
+          "computer software"
+        ],
+        "company_industries": [
+          "non-profit organization management"
+        ],
+        "gender": "m",
+        "human_type": 1,
+        "phone_num": 3,
+        "email_num": 4,
+        "website_num": 0,
+        "social_num": 4,
+        "ws_num": 0,
+        "exist_company_website": 1,
+        "rate": 30.7143,
+        "es_score": 7.413424
+      },
+      {
+        "hid": "496102a764b0fd0ee750acc7db6c22da",
+        "pid": "usa237e8a1594b3b095928fa5047dc2266",
+        "human_name": "rahul makwana",
+        "company_name": "traceable products",
+        "country_code": "US",
+        "title_names": [
+          "software developer"
+        ],
+        "title_levels": [],
+        "employee": "0-10",
+        "experience_num": 1,
+        "human_industries": [
+          "computer software"
+        ],
+        "company_industries": [
+          "electrical/electronic manufacturing"
+        ],
+        "gender": "m",
+        "human_type": 1,
+        "phone_num": 1,
+        "email_num": 2,
+        "website_num": 0,
+        "social_num": 4,
+        "ws_num": 1,
+        "exist_company_website": 1,
+        "rate": 30.7143,
+        "es_score": 7.413424
+      },
+      {
+        "hid": "22ba379aa4810a6a39537a2e9506b0cf",
+        "pid": "us831fe40d3897867645d34cc02f97a502",
+        "human_name": "joshua hamilton",
+        "company_name": "lifetime products",
+        "country_code": "US",
+        "title_names": [
+          "production worker"
+        ],
+        "title_levels": [],
+        "employee": "1001-5000",
+        "experience_num": 1,
+        "human_industries": [
+          "electrical/electronic manufacturing"
+        ],
+        "company_industries": [
+          "日用品",
+          "household furniture",
+          "consumer goods",
+          "retail"
+        ],
+        "gender": "m",
+        "human_type": 1,
+        "phone_num": 1,
+        "email_num": 1,
+        "website_num": 0,
+        "social_num": 4,
+        "ws_num": 0,
+        "exist_company_website": 1,
+        "rate": 30.7143,
+        "es_score": 7.413424
+      },
+      {
+        "hid": "fb42e37c3f1579bb066535cae7f3d5bb",
+        "pid": "us5ef3c1d234028a49ac20080cafe788d7",
+        "human_name": "scott smith",
+        "company_name": "thunderbird products",
+        "country_code": "US",
+        "title_names": [
+          "marketing manager at thunderbird products",
+          "marketing manager at formula boats"
+        ],
+        "title_levels": [
+          "manager"
+        ],
+        "employee": "201-500",
+        "experience_num": 1,
+        "human_industries": [
+          "marketing and advertising"
+        ],
+        "company_industries": [
+          "shipbuilding"
+        ],
+        "gender": "m",
+        "human_type": 1,
+        "phone_num": 1,
+        "email_num": 2,
+        "website_num": 0,
+        "social_num": 3,
+        "ws_num": 1,
+        "exist_company_website": 1,
+        "rate": 29.2857,
+        "es_score": 7.413424
+      },
+      {
+        "hid": "f41ab08374f90fc752b5e4bf7c916f45",
+        "pid": "be6b1e2e0f5f4cd18e597270d1250030b9",
+        "human_name": "mahesh karipe",
+        "company_name": "ooms products",
+        "country_code": "US",
+        "title_names": [
+          "principal software engineer"
+        ],
+        "title_levels": [],
+        "employee": "501-1000",
+        "experience_num": 1,
+        "human_industries": [
+          "computer software"
+        ],
+        "company_industries": [
+          "telecommunications",
+          "special industry machinery, except metalworking"
+        ],
+        "gender": "m",
+        "human_type": 1,
+        "phone_num": 1,
+        "email_num": 2,
+        "website_num": 0,
+        "social_num": 3,
+        "ws_num": 1,
+        "exist_company_website": 1,
+        "rate": 29.2857,
+        "es_score": 7.413424
+      },
+      {
+        "hid": "f3f67187e2494ddb55024d23bd0f2863",
+        "pid": "us151dec3fcb9f15f3551a9a34c3630aa3",
+        "human_name": "dwayne cassidy",
+        "company_name": "mtd products",
+        "country_code": "US",
+        "title_names": [
+          "finishing manager",
+          "associate quality engineer"
+        ],
+        "title_levels": [
+          "manager"
+        ],
+        "employee": "0-10",
+        "experience_num": 1,
+        "human_industries": [
+          "mechanical or industrial engineering"
+        ],
+        "company_industries": [
+          "mechanical or industrial engineering",
+          "farm and garden machinery and equipment",
+          "consumer goods"
+        ],
+        "gender": "m",
+        "human_type": 1,
+        "phone_num": 1,
+        "email_num": 2,
+        "website_num": 0,
+        "social_num": 3,
+        "ws_num": 0,
+        "exist_company_website": 1,
+        "rate": 29.2857,
+        "es_score": 7.413424
+      },
+      {
+        "hid": "efd79746dd27cb3b412a9dccdc296dbc",
+        "pid": "be6b1e2e0f5f4cd18e597270d1250030b9",
+        "human_name": "akshay hebbal",
+        "company_name": "ooms products",
+        "country_code": "US",
+        "title_names": [
+          "test automation engineer"
+        ],
+        "title_levels": [],
+        "employee": "501-1000",
+        "experience_num": 1,
+        "human_industries": [
+          "electrical/electronic manufacturing"
+        ],
+        "company_industries": [
+          "telecommunications",
+          "special industry machinery, except metalworking"
+        ],
+        "gender": "m",
+        "human_type": 1,
+        "phone_num": 1,
+        "email_num": 2,
+        "website_num": 0,
+        "social_num": 3,
+        "ws_num": 1,
+        "exist_company_website": 1,
+        "rate": 29.2857,
+        "es_score": 7.413424
+      },
+      {
+        "hid": "ee5f9f4ad12dd615a4a09d92f62daee8",
+        "pid": "us4fac0f9dcf8486f2bae058b4ca428bf2",
+        "human_name": "chris swaim",
+        "company_name": "arsenal products",
+        "country_code": "US",
+        "title_names": [
+          "principal"
+        ],
+        "title_levels": [],
+        "employee": "0-10",
+        "experience_num": 1,
+        "human_industries": [
+          "industrial automation"
+        ],
+        "company_industries": [
+          "miscellaneous business services",
+          "medical devices"
+        ],
+        "gender": "m",
+        "human_type": 1,
+        "phone_num": 3,
+        "email_num": 2,
+        "website_num": 0,
+        "social_num": 3,
+        "ws_num": 0,
+        "exist_company_website": 1,
+        "rate": 29.2857,
+        "es_score": 7.413424
+      },
+      {
+        "hid": "e1cbbc17f5391b8c271831c02bb56cf1",
+        "pid": "us2c8ff8753a4a689c3701bb50a6889bd3",
+        "human_name": "jonathan zimprich",
+        "company_name": "fastek products",
+        "country_code": "US",
+        "title_names": [
+          "information technology development manager"
+        ],
+        "title_levels": [
+          "manager"
+        ],
+        "employee": "1001-5000",
+        "experience_num": 1,
+        "human_industries": [
+          "building materials"
+        ],
+        "company_industries": [
+          "building materials"
+        ],
+        "gender": "m",
+        "human_type": 1,
+        "phone_num": 6,
+        "email_num": 3,
+        "website_num": 0,
+        "social_num": 3,
+        "ws_num": 0,
+        "exist_company_website": 1,
+        "rate": 29.2857,
+        "es_score": 7.413424
+      },
+      {
+        "hid": "d7214f8420a072ad462dfc4f7f373c5e",
+        "pid": "us125e24a2dfdde392b7090bf789f89464",
+        "human_name": "manuel rodrigues",
+        "company_name": "sonoco products",
+        "country_code": "BR",
+        "title_names": [
+          "system coordinator"
+        ],
+        "title_levels": [],
+        "employee": "0-10",
+        "experience_num": 1,
+        "human_industries": [
+          "information technology and services"
+        ],
+        "company_industries": [
+          "packaging and containers",
+          "paperboard containers and boxes"
+        ],
+        "gender": "m",
+        "human_type": 1,
+        "phone_num": 2,
+        "email_num": 2,
+        "website_num": 0,
+        "social_num": 3,
+        "ws_num": 0,
+        "exist_company_website": 1,
+        "rate": 29.2857,
+        "es_score": 7.413424
+      },
+      {
+        "hid": "d4bcef99fe9119eef313e4f2f10e2348",
+        "pid": "use827450aaa8504690c88bff502141a44",
+        "human_name": "inma guerrero",
+        "company_name": "method products",
+        "country_code": "US",
+        "title_names": [
+          "executive assistant to cfo, vice president supply chain, vice president design and senior dr people"
+        ],
+        "title_levels": [
+          "senior"
+        ],
+        "employee": "201-500",
+        "experience_num": 1,
+        "human_industries": [
+          "consumer goods"
+        ],
+        "company_industries": [
+          "consumer goods",
+          "soap, detergents, and cleaning preparations; perfumes, cosmetics, and other toilet preparations"
+        ],
+        "gender": "",
+        "human_type": 1,
+        "phone_num": 1,
+        "email_num": 2,
+        "website_num": 0,
+        "social_num": 3,
+        "ws_num": 1,
+        "exist_company_website": 1,
+        "rate": 29.2857,
+        "es_score": 7.413424
+      },
+      {
+        "hid": "d1e989c1ab3a9f244ac5079c60e940a6",
+        "pid": "us11135a676466754dc144d67e9738b18d",
+        "human_name": "bertha jimenez",
+        "company_name": "rise products",
+        "country_code": "US",
+        "title_names": [
+          "chief executive officer"
+        ],
+        "title_levels": [
+          "cxo"
+        ],
+        "employee": "0-10",
+        "experience_num": 1,
+        "human_industries": [
+          "food production"
+        ],
+        "company_industries": [
+          "wellness and fitness services",
+          "food production"
+        ],
+        "gender": "f",
+        "human_type": 1,
+        "phone_num": 1,
+        "email_num": 2,
+        "website_num": 0,
+        "social_num": 3,
+        "ws_num": 1,
+        "exist_company_website": 1,
+        "rate": 29.2857,
+        "es_score": 7.413424
+      },
+      {
+        "hid": "d199a687b491d96d9bb8e49613f4d550",
+        "pid": "us3788342c6b4e7ecce424be4d90bd0932",
+        "human_name": "kimberly fink",
+        "company_name": "rutland products",
+        "country_code": "US",
+        "title_names": [
+          "business office manager"
+        ],
+        "title_levels": [],
+        "employee": "11-50",
+        "experience_num": 1,
+        "human_industries": [
+          "consumer goods"
+        ],
+        "company_industries": [
+          "mechanical or industrial engineering",
+          "consumer goods"
+        ],
+        "gender": "f",
+        "human_type": 1,
+        "phone_num": 7,
+        "email_num": 2,
+        "website_num": 0,
+        "social_num": 3,
+        "ws_num": 2,
+        "exist_company_website": 1,
+        "rate": 29.2857,
+        "es_score": 7.413424
+      },
+      {
+        "hid": "b97071c93aef1e4428b71b6600385118",
+        "pid": "us550637e39973612c847a9c730ad5a3e7",
+        "human_name": "jeff fretz",
+        "company_name": "products to profits",
+        "country_code": "US",
+        "title_names": [
+          "director of operations"
+        ],
+        "title_levels": [
+          "director"
+        ],
+        "employee": "0-10",
+        "experience_num": 1,
+        "human_industries": [
+          "consumer goods"
+        ],
+        "company_industries": [
+          "mechanical or industrial engineering",
+          "consumer goods"
+        ],
+        "gender": "m",
+        "human_type": 1,
+        "phone_num": 8,
+        "email_num": 3,
+        "website_num": 0,
+        "social_num": 3,
+        "ws_num": 0,
+        "exist_company_website": 1,
+        "rate": 29.2857,
+        "es_score": 7.413424
+      },
+      {
+        "hid": "b3f8f49b8d40fc70028359ee76d825d2",
+        "pid": "be6b1e2e0f5f4cd18e597270d1250030b9",
+        "human_name": "minal mehta",
+        "company_name": "ooms products",
+        "country_code": "US",
+        "title_names": [
+          "recruiter"
+        ],
+        "title_levels": [],
+        "employee": "501-1000",
+        "experience_num": 1,
+        "human_industries": [
+          "automotive"
+        ],
+        "company_industries": [
+          "telecommunications",
+          "special industry machinery, except metalworking"
+        ],
+        "gender": "f",
+        "human_type": 1,
+        "phone_num": 7,
+        "email_num": 2,
+        "website_num": 0,
+        "social_num": 3,
+        "ws_num": 2,
+        "exist_company_website": 1,
+        "rate": 29.2857,
+        "es_score": 7.413424
+      },
+      {
+        "hid": "b1a0b3d8ce203b581c9ae056aa6b708d",
+        "pid": "us7aa6354251d5950f3e902ad28de8331d",
+        "human_name": "chris yorgensen",
+        "company_name": "enterprise products",
+        "country_code": "US",
+        "title_names": [
+          "pipeline supervisor",
+          "mehanic"
+        ],
+        "title_levels": [
+          "manager"
+        ],
+        "employee": "5001-10000",
+        "experience_num": 1,
+        "human_industries": [
+          "oil & energy"
+        ],
+        "company_industries": [
+          "gas production and distribution",
+          "natural gas liquids",
+          "oil & energy",
+          "石油天然气"
+        ],
+        "gender": "",
+        "human_type": 1,
+        "phone_num": 1,
+        "email_num": 3,
+        "website_num": 0,
+        "social_num": 3,
+        "ws_num": 0,
+        "exist_company_website": 1,
+        "rate": 29.2857,
+        "es_score": 7.413424
+      },
+      {
+        "hid": "afd170919713ccba976348432a7b02bb",
+        "pid": "be6b1e2e0f5f4cd18e597270d1250030b9",
+        "human_name": "susan butenhoff",
+        "company_name": "ooms products",
+        "country_code": "US",
+        "title_names": [
+          "board member"
+        ],
+        "title_levels": [
+          "partner"
+        ],
+        "employee": "501-1000",
+        "experience_num": 1,
+        "human_industries": [
+          "real estate"
+        ],
+        "company_industries": [
+          "telecommunications",
+          "special industry machinery, except metalworking"
+        ],
+        "gender": "f",
+        "human_type": 1,
+        "phone_num": 6,
+        "email_num": 5,
+        "website_num": 0,
+        "social_num": 3,
+        "ws_num": 1,
+        "exist_company_website": 1,
+        "rate": 29.2857,
+        "es_score": 7.413424
+      },
+      {
+        "hid": "afd0202c728f384444080364cc713a62",
+        "pid": "us125e24a2dfdde392b7090bf789f89464",
+        "human_name": "ben fuller",
+        "company_name": "sonoco products",
+        "country_code": "US",
+        "title_names": [
+          "plant superintendent"
+        ],
+        "title_levels": [],
+        "employee": "0-10",
+        "experience_num": 1,
+        "human_industries": [
+          "packaging and containers"
+        ],
+        "company_industries": [
+          "packaging and containers",
+          "paperboard containers and boxes"
+        ],
+        "gender": "m",
+        "human_type": 1,
+        "phone_num": 1,
+        "email_num": 2,
+        "website_num": 0,
+        "social_num": 3,
+        "ws_num": 0,
+        "exist_company_website": 1,
+        "rate": 29.2857,
+        "es_score": 7.413424
+      },
+      {
+        "hid": "acefe933d276e0c140ea2e700a4137ad",
+        "pid": "us125e24a2dfdde392b7090bf789f89464",
+        "human_name": "lynn harrelson",
+        "company_name": "sonoco products",
+        "country_code": "US",
+        "title_names": [
+          "director of global talent acquisition"
+        ],
+        "title_levels": [
+          "director"
+        ],
+        "employee": "0-10",
+        "experience_num": 1,
+        "human_industries": [
+          "packaging and containers"
+        ],
+        "company_industries": [
+          "packaging and containers",
+          "paperboard containers and boxes"
+        ],
+        "gender": "f",
+        "human_type": 1,
+        "phone_num": 1,
+        "email_num": 1,
+        "website_num": 0,
+        "social_num": 3,
+        "ws_num": 0,
+        "exist_company_website": 1,
+        "rate": 29.2857,
+        "es_score": 7.413424
+      }
+    ],
+    "pitId": ""
+  },
+  "fee": {
+    "apiCost": 150,
+    "accountBalance": 94310,
+    "uuid": "b7b57515-9cab-4c64-b349-d3be5f3cb4c3"
+  }
+}

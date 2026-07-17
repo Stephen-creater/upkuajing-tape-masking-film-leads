@@ -1,0 +1,614 @@
+{
+  "code": 0,
+  "msg": "success",
+  "data": {
+    "cursor": "WzQxLjgxNDI1NSwxMS40Mjg2LCJmZjg3NzIxN2JjNmY0ZGIxNzQyZjE3MjI0MzYzNGNiOSJd",
+    "list": [
+      {
+        "hid": "05e1b602c056af006f3e5f16af95624e",
+        "pid": "vn5b2736d441bd346dce80123a05b229a8",
+        "human_name": "dinesh babu",
+        "company_name": "công ty tnhh lantro (việt nam)",
+        "country_code": "IN",
+        "title_names": [
+          "network support engineer"
+        ],
+        "title_levels": [],
+        "employee": "501-1000",
+        "experience_num": 1,
+        "human_industries": [
+          "telecommunications"
+        ],
+        "company_industries": [
+          "telecommunications"
+        ],
+        "gender": "m",
+        "human_type": 1,
+        "phone_num": 0,
+        "email_num": 1,
+        "website_num": 0,
+        "social_num": 2,
+        "ws_num": 0,
+        "exist_company_website": 1,
+        "rate": 17.8571,
+        "es_score": 41.814255
+      },
+      {
+        "hid": "e9a6578cffae067ac6d8935cb666b79e",
+        "pid": "vn5b2736d441bd346dce80123a05b229a8",
+        "human_name": "kwang tan",
+        "company_name": "công ty tnhh lantro (việt nam)",
+        "country_code": "SG",
+        "title_names": [
+          "ict solutions engineer"
+        ],
+        "title_levels": [],
+        "employee": "501-1000",
+        "experience_num": 1,
+        "human_industries": [
+          "telecommunications"
+        ],
+        "company_industries": [
+          "telecommunications"
+        ],
+        "gender": "m",
+        "human_type": 1,
+        "phone_num": 0,
+        "email_num": 1,
+        "website_num": 0,
+        "social_num": 1,
+        "ws_num": 0,
+        "exist_company_website": 1,
+        "rate": 16.4286,
+        "es_score": 41.814255
+      },
+      {
+        "hid": "e5b401188e328c3806849e814e6004c0",
+        "pid": "vn5b2736d441bd346dce80123a05b229a8",
+        "human_name": "sushma kollipara",
+        "company_name": "công ty tnhh lantro (việt nam)",
+        "country_code": "IN",
+        "title_names": [
+          "commercial executive"
+        ],
+        "title_levels": [],
+        "employee": "501-1000",
+        "experience_num": 1,
+        "human_industries": [
+          "computer networking"
+        ],
+        "company_industries": [
+          "telecommunications"
+        ],
+        "gender": "f",
+        "human_type": 1,
+        "phone_num": 0,
+        "email_num": 2,
+        "website_num": 0,
+        "social_num": 1,
+        "ws_num": 0,
+        "exist_company_website": 1,
+        "rate": 16.4286,
+        "es_score": 41.814255
+      },
+      {
+        "hid": "cc9898b35280cc81e7841f1f4ff54b67",
+        "pid": "vn5b2736d441bd346dce80123a05b229a8",
+        "human_name": "kenneth ang",
+        "company_name": "công ty tnhh lantro (việt nam)",
+        "country_code": "SG",
+        "title_names": [
+          "director"
+        ],
+        "title_levels": [
+          "director"
+        ],
+        "employee": "501-1000",
+        "experience_num": 1,
+        "human_industries": [
+          "telecommunications"
+        ],
+        "company_industries": [
+          "telecommunications"
+        ],
+        "gender": "m",
+        "human_type": 1,
+        "phone_num": 0,
+        "email_num": 1,
+        "website_num": 0,
+        "social_num": 1,
+        "ws_num": 0,
+        "exist_company_website": 1,
+        "rate": 16.4286,
+        "es_score": 41.814255
+      },
+      {
+        "hid": "c2b5f3196048256d38ab09364be0705a",
+        "pid": "vn5b2736d441bd346dce80123a05b229a8",
+        "human_name": "lim ling",
+        "company_name": "công ty tnhh lantro (việt nam)",
+        "country_code": "SG",
+        "title_names": [
+          "project manager"
+        ],
+        "title_levels": [
+          "manager"
+        ],
+        "employee": "501-1000",
+        "experience_num": 1,
+        "human_industries": [
+          "telecommunications"
+        ],
+        "company_industries": [
+          "telecommunications"
+        ],
+        "gender": "m",
+        "human_type": 1,
+        "phone_num": 0,
+        "email_num": 1,
+        "website_num": 0,
+        "social_num": 1,
+        "ws_num": 0,
+        "exist_company_website": 1,
+        "rate": 16.4286,
+        "es_score": 41.814255
+      },
+      {
+        "hid": "ba1237e3e57851ceb5a12bbd4c0b21a3",
+        "pid": "vn5b2736d441bd346dce80123a05b229a8",
+        "human_name": "suresh shekar",
+        "company_name": "công ty tnhh lantro (việt nam)",
+        "country_code": "IN",
+        "title_names": [
+          "engenear"
+        ],
+        "title_levels": [],
+        "employee": "501-1000",
+        "experience_num": 1,
+        "human_industries": [
+          "telecommunications"
+        ],
+        "company_industries": [
+          "telecommunications"
+        ],
+        "gender": "m",
+        "human_type": 1,
+        "phone_num": 0,
+        "email_num": 1,
+        "website_num": 0,
+        "social_num": 1,
+        "ws_num": 0,
+        "exist_company_website": 1,
+        "rate": 16.4286,
+        "es_score": 41.814255
+      },
+      {
+        "hid": "a24ca68e037f3f662b097a691c1e361b",
+        "pid": "vn5b2736d441bd346dce80123a05b229a8",
+        "human_name": "happy denny",
+        "company_name": "công ty tnhh lantro (việt nam)",
+        "country_code": "IN",
+        "title_names": [
+          "business project manager"
+        ],
+        "title_levels": [
+          "manager"
+        ],
+        "employee": "501-1000",
+        "experience_num": 1,
+        "human_industries": [
+          "mechanical or industrial engineering"
+        ],
+        "company_industries": [
+          "telecommunications"
+        ],
+        "gender": "",
+        "human_type": 1,
+        "phone_num": 0,
+        "email_num": 2,
+        "website_num": 0,
+        "social_num": 1,
+        "ws_num": 0,
+        "exist_company_website": 1,
+        "rate": 16.4286,
+        "es_score": 41.814255
+      },
+      {
+        "hid": "991db846aad27807be4175ef7da16cf1",
+        "pid": "vn5b2736d441bd346dce80123a05b229a8",
+        "human_name": "jerry wang",
+        "company_name": "công ty tnhh lantro (việt nam)",
+        "country_code": "TW",
+        "title_names": [
+          "business development manager"
+        ],
+        "title_levels": [
+          "manager"
+        ],
+        "employee": "501-1000",
+        "experience_num": 1,
+        "human_industries": [
+          "telecommunications"
+        ],
+        "company_industries": [
+          "telecommunications"
+        ],
+        "gender": "m",
+        "human_type": 1,
+        "phone_num": 0,
+        "email_num": 2,
+        "website_num": 0,
+        "social_num": 1,
+        "ws_num": 0,
+        "exist_company_website": 1,
+        "rate": 16.4286,
+        "es_score": 41.814255
+      },
+      {
+        "hid": "92b541f1827ce3e9bbf8e8bde930215e",
+        "pid": "vn5b2736d441bd346dce80123a05b229a8",
+        "human_name": "felix chia",
+        "company_name": "công ty tnhh lantro (việt nam)",
+        "country_code": "SG",
+        "title_names": [
+          "beijing branch general manager"
+        ],
+        "title_levels": [
+          "manager"
+        ],
+        "employee": "501-1000",
+        "experience_num": 1,
+        "human_industries": [
+          "computer networking"
+        ],
+        "company_industries": [
+          "telecommunications"
+        ],
+        "gender": "m",
+        "human_type": 1,
+        "phone_num": 0,
+        "email_num": 1,
+        "website_num": 0,
+        "social_num": 1,
+        "ws_num": 0,
+        "exist_company_website": 1,
+        "rate": 16.4286,
+        "es_score": 41.814255
+      },
+      {
+        "hid": "8ae12b2ce3d764e2a7d1adb84e091da5",
+        "pid": "vn5b2736d441bd346dce80123a05b229a8",
+        "human_name": "michele xie",
+        "company_name": "công ty tnhh lantro (việt nam)",
+        "country_code": "SG",
+        "title_names": [
+          "business development manager"
+        ],
+        "title_levels": [
+          "manager"
+        ],
+        "employee": "501-1000",
+        "experience_num": 1,
+        "human_industries": [
+          "information technology and services"
+        ],
+        "company_industries": [
+          "telecommunications"
+        ],
+        "gender": "f",
+        "human_type": 1,
+        "phone_num": 0,
+        "email_num": 1,
+        "website_num": 0,
+        "social_num": 1,
+        "ws_num": 0,
+        "exist_company_website": 1,
+        "rate": 16.4286,
+        "es_score": 41.814255
+      },
+      {
+        "hid": "62dba00e8b98ec9caa7adde475d43369",
+        "pid": "vn5b2736d441bd346dce80123a05b229a8",
+        "human_name": "uday kumar",
+        "company_name": "công ty tnhh lantro (việt nam)",
+        "country_code": "IN",
+        "title_names": [
+          "commercial"
+        ],
+        "title_levels": [],
+        "employee": "501-1000",
+        "experience_num": 1,
+        "human_industries": [
+          "telecommunications"
+        ],
+        "company_industries": [
+          "telecommunications"
+        ],
+        "gender": "m",
+        "human_type": 1,
+        "phone_num": 0,
+        "email_num": 2,
+        "website_num": 0,
+        "social_num": 1,
+        "ws_num": 0,
+        "exist_company_website": 1,
+        "rate": 16.4286,
+        "es_score": 41.814255
+      },
+      {
+        "hid": "587eb895d4ea466cf41b90932f7065f7",
+        "pid": "vn5b2736d441bd346dce80123a05b229a8",
+        "human_name": "junwen chia",
+        "company_name": "công ty tnhh lantro (việt nam)",
+        "country_code": "SG",
+        "title_names": [
+          "business development manager"
+        ],
+        "title_levels": [
+          "manager"
+        ],
+        "employee": "501-1000",
+        "experience_num": 1,
+        "human_industries": [
+          "telecommunications"
+        ],
+        "company_industries": [
+          "telecommunications"
+        ],
+        "gender": "",
+        "human_type": 1,
+        "phone_num": 0,
+        "email_num": 2,
+        "website_num": 0,
+        "social_num": 1,
+        "ws_num": 0,
+        "exist_company_website": 1,
+        "rate": 16.4286,
+        "es_score": 41.814255
+      },
+      {
+        "hid": "4e4b2e5c65d2ce710d8c43eb583c211b",
+        "pid": "vn5b2736d441bd346dce80123a05b229a8",
+        "human_name": "james woo",
+        "company_name": "công ty tnhh lantro (việt nam)",
+        "country_code": "HK",
+        "title_names": [
+          "general manager, hong kong"
+        ],
+        "title_levels": [
+          "manager"
+        ],
+        "employee": "501-1000",
+        "experience_num": 1,
+        "human_industries": [
+          "computer networking"
+        ],
+        "company_industries": [
+          "telecommunications"
+        ],
+        "gender": "m",
+        "human_type": 1,
+        "phone_num": 0,
+        "email_num": 1,
+        "website_num": 0,
+        "social_num": 1,
+        "ws_num": 0,
+        "exist_company_website": 1,
+        "rate": 16.4286,
+        "es_score": 41.814255
+      },
+      {
+        "hid": "4a01d0596ee283a28cabdd8361997bb3",
+        "pid": "vn5b2736d441bd346dce80123a05b229a8",
+        "human_name": "jay teng",
+        "company_name": "công ty tnhh lantro (việt nam)",
+        "country_code": "SG",
+        "title_names": [
+          "executive business development, regional"
+        ],
+        "title_levels": [],
+        "employee": "501-1000",
+        "experience_num": 1,
+        "human_industries": [
+          "telecommunications"
+        ],
+        "company_industries": [
+          "telecommunications"
+        ],
+        "gender": "m",
+        "human_type": 1,
+        "phone_num": 0,
+        "email_num": 1,
+        "website_num": 0,
+        "social_num": 1,
+        "ws_num": 0,
+        "exist_company_website": 1,
+        "rate": 16.4286,
+        "es_score": 41.814255
+      },
+      {
+        "hid": "42e4c52f9553099dc9d5743c6fb4e402",
+        "pid": "vn5b2736d441bd346dce80123a05b229a8",
+        "human_name": "evonne chan",
+        "company_name": "công ty tnhh lantro (việt nam)",
+        "country_code": "HK",
+        "title_names": [
+          "executive, administration"
+        ],
+        "title_levels": [],
+        "employee": "501-1000",
+        "experience_num": 1,
+        "human_industries": [
+          "telecommunications"
+        ],
+        "company_industries": [
+          "telecommunications"
+        ],
+        "gender": "f",
+        "human_type": 1,
+        "phone_num": 0,
+        "email_num": 1,
+        "website_num": 0,
+        "social_num": 1,
+        "ws_num": 0,
+        "exist_company_website": 1,
+        "rate": 16.4286,
+        "es_score": 41.814255
+      },
+      {
+        "hid": "3d81aa454f3011899ff90e27c9eb5ae4",
+        "pid": "vn5b2736d441bd346dce80123a05b229a8",
+        "human_name": "sunny deepak",
+        "company_name": "công ty tnhh lantro (việt nam)",
+        "country_code": "IN",
+        "title_names": [
+          "network administrator",
+          "network engineer"
+        ],
+        "title_levels": [],
+        "employee": "501-1000",
+        "experience_num": 1,
+        "human_industries": [
+          "computer networking"
+        ],
+        "company_industries": [
+          "telecommunications"
+        ],
+        "gender": "",
+        "human_type": 1,
+        "phone_num": 0,
+        "email_num": 2,
+        "website_num": 0,
+        "social_num": 1,
+        "ws_num": 0,
+        "exist_company_website": 1,
+        "rate": 16.4286,
+        "es_score": 41.814255
+      },
+      {
+        "hid": "1e6f7053ab53fc733249d8acd245d64b",
+        "pid": "vn5b2736d441bd346dce80123a05b229a8",
+        "human_name": "kun lee",
+        "company_name": "công ty tnhh lantro (việt nam)",
+        "country_code": "SG",
+        "title_names": [
+          "ncs"
+        ],
+        "title_levels": [],
+        "employee": "501-1000",
+        "experience_num": 1,
+        "human_industries": [
+          "telecommunications"
+        ],
+        "company_industries": [
+          "telecommunications"
+        ],
+        "gender": "",
+        "human_type": 1,
+        "phone_num": 0,
+        "email_num": 1,
+        "website_num": 0,
+        "social_num": 1,
+        "ws_num": 0,
+        "exist_company_website": 1,
+        "rate": 16.4286,
+        "es_score": 41.814255
+      },
+      {
+        "hid": "0415f3c69697a42cbda1f01758bbfa44",
+        "pid": "vn5b2736d441bd346dce80123a05b229a8",
+        "human_name": "nuchanart komolnila",
+        "company_name": "công ty tnhh lantro (việt nam)",
+        "country_code": "TH",
+        "title_names": [
+          "lan"
+        ],
+        "title_levels": [],
+        "employee": "501-1000",
+        "experience_num": 1,
+        "human_industries": [
+          "computer networking"
+        ],
+        "company_industries": [
+          "telecommunications"
+        ],
+        "gender": "",
+        "human_type": 1,
+        "phone_num": 0,
+        "email_num": 1,
+        "website_num": 0,
+        "social_num": 1,
+        "ws_num": 0,
+        "exist_company_website": 1,
+        "rate": 16.4286,
+        "es_score": 41.814255
+      },
+      {
+        "hid": "003fc2e03d0a3839ac142a70b5e92703",
+        "pid": "vn5b2736d441bd346dce80123a05b229a8",
+        "human_name": "alson chong",
+        "company_name": "công ty tnhh lantro (việt nam)",
+        "country_code": "TH",
+        "title_names": [
+          "manager, head operatioins"
+        ],
+        "title_levels": [
+          "manager"
+        ],
+        "employee": "501-1000",
+        "experience_num": 1,
+        "human_industries": [
+          "computer networking"
+        ],
+        "company_industries": [
+          "telecommunications"
+        ],
+        "gender": "m",
+        "human_type": 1,
+        "phone_num": 0,
+        "email_num": 2,
+        "website_num": 0,
+        "social_num": 1,
+        "ws_num": 0,
+        "exist_company_website": 1,
+        "rate": 16.4286,
+        "es_score": 41.814255
+      },
+      {
+        "hid": "ff877217bc6f4db1742f172243634cb9",
+        "pid": "vn4b187d74f2048e199e96dd5cb1fca012",
+        "human_name": "lam trung",
+        "company_name": "công ty tnhh medigroup việt nam",
+        "country_code": "VN",
+        "title_names": [
+          "sales department"
+        ],
+        "title_levels": [],
+        "employee": "51-200",
+        "experience_num": 1,
+        "human_industries": [
+          "environmental services"
+        ],
+        "company_industries": [
+          "medical devices"
+        ],
+        "gender": "",
+        "human_type": 1,
+        "phone_num": 0,
+        "email_num": 1,
+        "website_num": 0,
+        "social_num": 1,
+        "ws_num": 0,
+        "exist_company_website": 1,
+        "rate": 11.4286,
+        "es_score": 41.814255
+      }
+    ],
+    "pitId": ""
+  },
+  "fee": {
+    "apiCost": 150,
+    "accountBalance": 93860,
+    "uuid": "122c8cf9-42f9-44ef-b2da-44045b0396a2"
+  }
+}

@@ -1,0 +1,671 @@
+{
+  "code": 0,
+  "msg": "success",
+  "data": {
+    "cursor": "WzI5LjEzODMxLDE2LjQyODYsImYyMjk0OTExYTE5YmU2MjQ4MzI1YmQ5YjdkYTQzMGU3Il0=",
+    "list": [
+      {
+        "hid": "e491fe494b275107c3d00746c7232f0a",
+        "pid": "in9cae59c74a1e0af5f700264b0f9b3f7d",
+        "human_name": "manish singh",
+        "company_name": "haier appliances india pvt ltd",
+        "country_code": "IN",
+        "title_names": [
+          "manager - human resource",
+          "head - human resource and administration"
+        ],
+        "title_levels": [
+          "manager"
+        ],
+        "employee": "1001-5000",
+        "experience_num": 1,
+        "human_industries": [
+          "consumer goods"
+        ],
+        "company_industries": [
+          "electrical/electronic manufacturing",
+          "electrical & electronic manufacturing",
+          "consumer electronics"
+        ],
+        "gender": "m",
+        "human_type": 1,
+        "phone_num": 0,
+        "email_num": 3,
+        "website_num": 0,
+        "social_num": 3,
+        "ws_num": 0,
+        "exist_company_website": 2,
+        "rate": 19.2857,
+        "es_score": 29.13831
+      },
+      {
+        "hid": "b2d003490b20463efc8c2b97bc05b0b1",
+        "pid": "in9cae59c74a1e0af5f700264b0f9b3f7d",
+        "human_name": "rahul gaikwad",
+        "company_name": "haier appliances india pvt ltd",
+        "country_code": "IN",
+        "title_names": [
+          "assistant manager production"
+        ],
+        "title_levels": [],
+        "employee": "1001-5000",
+        "experience_num": 1,
+        "human_industries": [
+          "consumer goods"
+        ],
+        "company_industries": [
+          "electrical/electronic manufacturing",
+          "electrical & electronic manufacturing",
+          "consumer electronics"
+        ],
+        "gender": "m",
+        "human_type": 1,
+        "phone_num": 0,
+        "email_num": 3,
+        "website_num": 0,
+        "social_num": 3,
+        "ws_num": 0,
+        "exist_company_website": 2,
+        "rate": 19.2857,
+        "es_score": 29.13831
+      },
+      {
+        "hid": "a7ac217d73eba055d94ade2908b7b083",
+        "pid": "in9cae59c74a1e0af5f700264b0f9b3f7d",
+        "human_name": "sandeep kumar",
+        "company_name": "haier appliances india pvt ltd",
+        "country_code": "IN",
+        "title_names": [
+          "area sales manager",
+          "graduate engineering trainee"
+        ],
+        "title_levels": [
+          "manager"
+        ],
+        "employee": "1001-5000",
+        "experience_num": 1,
+        "human_industries": [
+          "consumer electronics"
+        ],
+        "company_industries": [
+          "electrical/electronic manufacturing",
+          "electrical & electronic manufacturing",
+          "consumer electronics"
+        ],
+        "gender": "m",
+        "human_type": 1,
+        "phone_num": 0,
+        "email_num": 1,
+        "website_num": 0,
+        "social_num": 3,
+        "ws_num": 0,
+        "exist_company_website": 2,
+        "rate": 19.2857,
+        "es_score": 29.13831
+      },
+      {
+        "hid": "fb1eaf72c77294af373d5b8886594267",
+        "pid": "in9cae59c74a1e0af5f700264b0f9b3f7d",
+        "human_name": "shally goyal",
+        "company_name": "haier appliances india pvt ltd",
+        "country_code": "IN",
+        "title_names": [
+          "senior legal manager"
+        ],
+        "title_levels": [
+          "manager",
+          "senior"
+        ],
+        "employee": "1001-5000",
+        "experience_num": 1,
+        "human_industries": [
+          "consumer goods"
+        ],
+        "company_industries": [
+          "electrical/electronic manufacturing",
+          "electrical & electronic manufacturing",
+          "consumer electronics"
+        ],
+        "gender": "f",
+        "human_type": 1,
+        "phone_num": 0,
+        "email_num": 2,
+        "website_num": 0,
+        "social_num": 2,
+        "ws_num": 0,
+        "exist_company_website": 2,
+        "rate": 17.8571,
+        "es_score": 29.13831
+      },
+      {
+        "hid": "fa31c7208e06f97d0519a8af735a5e21",
+        "pid": "in9cae59c74a1e0af5f700264b0f9b3f7d",
+        "human_name": "sunil jatta",
+        "company_name": "haier appliances india pvt ltd",
+        "country_code": "IN",
+        "title_names": [
+          "head â consumer electronics"
+        ],
+        "title_levels": [
+          "manager"
+        ],
+        "employee": "1001-5000",
+        "experience_num": 1,
+        "human_industries": [
+          "consumer goods"
+        ],
+        "company_industries": [
+          "electrical/electronic manufacturing",
+          "electrical & electronic manufacturing",
+          "consumer electronics"
+        ],
+        "gender": "m",
+        "human_type": 1,
+        "phone_num": 0,
+        "email_num": 2,
+        "website_num": 0,
+        "social_num": 2,
+        "ws_num": 0,
+        "exist_company_website": 2,
+        "rate": 17.8571,
+        "es_score": 29.13831
+      },
+      {
+        "hid": "df2a35e67b6757c1641b7553ff1f8f6e",
+        "pid": "in9cae59c74a1e0af5f700264b0f9b3f7d",
+        "human_name": "sunil shetty",
+        "company_name": "haier appliances india pvt ltd",
+        "country_code": "IN",
+        "title_names": [
+          "factory head"
+        ],
+        "title_levels": [
+          "manager"
+        ],
+        "employee": "1001-5000",
+        "experience_num": 1,
+        "human_industries": [
+          "consumer electronics"
+        ],
+        "company_industries": [
+          "electrical/electronic manufacturing",
+          "electrical & electronic manufacturing",
+          "consumer electronics"
+        ],
+        "gender": "m",
+        "human_type": 1,
+        "phone_num": 0,
+        "email_num": 1,
+        "website_num": 0,
+        "social_num": 2,
+        "ws_num": 0,
+        "exist_company_website": 2,
+        "rate": 17.8571,
+        "es_score": 29.13831
+      },
+      {
+        "hid": "d3a30fc9aaa973469842c6d37f7d25d8",
+        "pid": "in9cae59c74a1e0af5f700264b0f9b3f7d",
+        "human_name": "madhumay panigrahi",
+        "company_name": "haier appliances india pvt ltd",
+        "country_code": "IN",
+        "title_names": [
+          "branch logistics manager"
+        ],
+        "title_levels": [
+          "manager"
+        ],
+        "employee": "1001-5000",
+        "experience_num": 1,
+        "human_industries": [
+          "logistics and supply chain"
+        ],
+        "company_industries": [
+          "electrical/electronic manufacturing",
+          "electrical & electronic manufacturing",
+          "consumer electronics"
+        ],
+        "gender": "",
+        "human_type": 1,
+        "phone_num": 0,
+        "email_num": 2,
+        "website_num": 0,
+        "social_num": 2,
+        "ws_num": 0,
+        "exist_company_website": 2,
+        "rate": 17.8571,
+        "es_score": 29.13831
+      },
+      {
+        "hid": "9bc2309bc03170515ecca335a47ad0e3",
+        "pid": "in9cae59c74a1e0af5f700264b0f9b3f7d",
+        "human_name": "devinder gupta",
+        "company_name": "haier appliances india pvt ltd",
+        "country_code": "IN",
+        "title_names": [
+          "head-kitchen appliances",
+          "hod - institutional sales and mt"
+        ],
+        "title_levels": [],
+        "employee": "1001-5000",
+        "experience_num": 1,
+        "human_industries": [
+          "consumer electronics"
+        ],
+        "company_industries": [
+          "electrical/electronic manufacturing",
+          "electrical & electronic manufacturing",
+          "consumer electronics"
+        ],
+        "gender": "",
+        "human_type": 1,
+        "phone_num": 0,
+        "email_num": 3,
+        "website_num": 0,
+        "social_num": 2,
+        "ws_num": 0,
+        "exist_company_website": 2,
+        "rate": 17.8571,
+        "es_score": 29.13831
+      },
+      {
+        "hid": "917762efa82af930307329275f553481",
+        "pid": "in9cae59c74a1e0af5f700264b0f9b3f7d",
+        "human_name": "subhashree das",
+        "company_name": "haier appliances india pvt ltd",
+        "country_code": "IN",
+        "title_names": [
+          "digital marketing manager"
+        ],
+        "title_levels": [
+          "manager"
+        ],
+        "employee": "1001-5000",
+        "experience_num": 1,
+        "human_industries": [
+          "marketing and advertising"
+        ],
+        "company_industries": [
+          "electrical/electronic manufacturing",
+          "electrical & electronic manufacturing",
+          "consumer electronics"
+        ],
+        "gender": "",
+        "human_type": 1,
+        "phone_num": 0,
+        "email_num": 2,
+        "website_num": 0,
+        "social_num": 2,
+        "ws_num": 0,
+        "exist_company_website": 2,
+        "rate": 17.8571,
+        "es_score": 29.13831
+      },
+      {
+        "hid": "8c25211074c5b995cdc12ad54d730f48",
+        "pid": "in9cae59c74a1e0af5f700264b0f9b3f7d",
+        "human_name": "arun sharma",
+        "company_name": "haier appliances india pvt ltd",
+        "country_code": "IN",
+        "title_names": [
+          "assistant manager it at haier appliances p ltd",
+          "incharge"
+        ],
+        "title_levels": [],
+        "employee": "1001-5000",
+        "experience_num": 1,
+        "human_industries": [
+          "information technology and services"
+        ],
+        "company_industries": [
+          "electrical/electronic manufacturing",
+          "electrical & electronic manufacturing",
+          "consumer electronics"
+        ],
+        "gender": "m",
+        "human_type": 1,
+        "phone_num": 0,
+        "email_num": 1,
+        "website_num": 0,
+        "social_num": 2,
+        "ws_num": 0,
+        "exist_company_website": 2,
+        "rate": 17.8571,
+        "es_score": 29.13831
+      },
+      {
+        "hid": "81924a791822229d0eaeb6ec163d5623",
+        "pid": "in9cae59c74a1e0af5f700264b0f9b3f7d",
+        "human_name": "jeetendra makwana",
+        "company_name": "haier appliances india pvt ltd",
+        "country_code": "IN",
+        "title_names": [
+          "product manager - mwo and sa"
+        ],
+        "title_levels": [
+          "manager"
+        ],
+        "employee": "1001-5000",
+        "experience_num": 1,
+        "human_industries": [
+          "consumer electronics"
+        ],
+        "company_industries": [
+          "electrical/electronic manufacturing",
+          "electrical & electronic manufacturing",
+          "consumer electronics"
+        ],
+        "gender": "",
+        "human_type": 1,
+        "phone_num": 0,
+        "email_num": 2,
+        "website_num": 0,
+        "social_num": 2,
+        "ws_num": 0,
+        "exist_company_website": 2,
+        "rate": 17.8571,
+        "es_score": 29.13831
+      },
+      {
+        "hid": "7fe852218acecc415036b10de39ea6bd",
+        "pid": "in9cae59c74a1e0af5f700264b0f9b3f7d",
+        "human_name": "devendra bisht",
+        "company_name": "haier appliances india pvt ltd",
+        "country_code": "IN",
+        "title_names": [
+          "senior .budget controller",
+          "manager budget control"
+        ],
+        "title_levels": [
+          "manager",
+          "senior"
+        ],
+        "employee": "1001-5000",
+        "experience_num": 1,
+        "human_industries": [
+          "consumer goods"
+        ],
+        "company_industries": [
+          "electrical/electronic manufacturing",
+          "electrical & electronic manufacturing",
+          "consumer electronics"
+        ],
+        "gender": "m",
+        "human_type": 1,
+        "phone_num": 0,
+        "email_num": 1,
+        "website_num": 0,
+        "social_num": 2,
+        "ws_num": 0,
+        "exist_company_website": 2,
+        "rate": 17.8571,
+        "es_score": 29.13831
+      },
+      {
+        "hid": "6a71a1ecf4948403dd7a41d00c444106",
+        "pid": "in9cae59c74a1e0af5f700264b0f9b3f7d",
+        "human_name": "vinamra srivastava",
+        "company_name": "haier appliances india pvt ltd",
+        "country_code": "IN",
+        "title_names": [
+          "assistant manager legal"
+        ],
+        "title_levels": [],
+        "employee": "1001-5000",
+        "experience_num": 1,
+        "human_industries": [
+          "legal services"
+        ],
+        "company_industries": [
+          "electrical/electronic manufacturing",
+          "electrical & electronic manufacturing",
+          "consumer electronics"
+        ],
+        "gender": "",
+        "human_type": 1,
+        "phone_num": 0,
+        "email_num": 1,
+        "website_num": 0,
+        "social_num": 2,
+        "ws_num": 0,
+        "exist_company_website": 2,
+        "rate": 17.8571,
+        "es_score": 29.13831
+      },
+      {
+        "hid": "61f15e8e024d40131f8d26056f20f132",
+        "pid": "in9cae59c74a1e0af5f700264b0f9b3f7d",
+        "human_name": "ketan thummar",
+        "company_name": "haier appliances india pvt ltd",
+        "country_code": "IN",
+        "title_names": [
+          "branch service manager"
+        ],
+        "title_levels": [
+          "manager"
+        ],
+        "employee": "1001-5000",
+        "experience_num": 1,
+        "human_industries": [
+          "consumer electronics"
+        ],
+        "company_industries": [
+          "electrical/electronic manufacturing",
+          "electrical & electronic manufacturing",
+          "consumer electronics"
+        ],
+        "gender": "m",
+        "human_type": 1,
+        "phone_num": 0,
+        "email_num": 3,
+        "website_num": 0,
+        "social_num": 2,
+        "ws_num": 0,
+        "exist_company_website": 2,
+        "rate": 17.8571,
+        "es_score": 29.13831
+      },
+      {
+        "hid": "5e30c322ddf4aa1f3b505a2ebfadc467",
+        "pid": "in9cae59c74a1e0af5f700264b0f9b3f7d",
+        "human_name": "lokendra kumar",
+        "company_name": "haier appliances india pvt ltd",
+        "country_code": "IN",
+        "title_names": [
+          "deputy manager"
+        ],
+        "title_levels": [
+          "manager"
+        ],
+        "employee": "1001-5000",
+        "experience_num": 1,
+        "human_industries": [
+          "consumer goods"
+        ],
+        "company_industries": [
+          "electrical/electronic manufacturing",
+          "electrical & electronic manufacturing",
+          "consumer electronics"
+        ],
+        "gender": "",
+        "human_type": 1,
+        "phone_num": 0,
+        "email_num": 2,
+        "website_num": 0,
+        "social_num": 2,
+        "ws_num": 0,
+        "exist_company_website": 2,
+        "rate": 17.8571,
+        "es_score": 29.13831
+      },
+      {
+        "hid": "5420d2634a356eed6314dedf565a433c",
+        "pid": "in9cae59c74a1e0af5f700264b0f9b3f7d",
+        "human_name": "ragini vasishtha",
+        "company_name": "haier appliances india pvt ltd",
+        "country_code": "IN",
+        "title_names": [
+          "senior manager - brand - external comms, digital and csr",
+          "brand manager - public relations and digital"
+        ],
+        "title_levels": [
+          "manager",
+          "senior"
+        ],
+        "employee": "1001-5000",
+        "experience_num": 1,
+        "human_industries": [
+          "public relations and communications"
+        ],
+        "company_industries": [
+          "electrical/electronic manufacturing",
+          "electrical & electronic manufacturing",
+          "consumer electronics"
+        ],
+        "gender": "f",
+        "human_type": 1,
+        "phone_num": 0,
+        "email_num": 2,
+        "website_num": 0,
+        "social_num": 2,
+        "ws_num": 0,
+        "exist_company_website": 2,
+        "rate": 17.8571,
+        "es_score": 29.13831
+      },
+      {
+        "hid": "1ab089fd41a765798c9ff66ebd0aa155",
+        "pid": "in9cae59c74a1e0af5f700264b0f9b3f7d",
+        "human_name": "prabhat ojha",
+        "company_name": "haier appliances india pvt ltd",
+        "country_code": "IN",
+        "title_names": [
+          "agm-r and d"
+        ],
+        "title_levels": [],
+        "employee": "1001-5000",
+        "experience_num": 1,
+        "human_industries": [
+          "consumer electronics"
+        ],
+        "company_industries": [
+          "electrical/electronic manufacturing",
+          "electrical & electronic manufacturing",
+          "consumer electronics"
+        ],
+        "gender": "m",
+        "human_type": 1,
+        "phone_num": 0,
+        "email_num": 1,
+        "website_num": 0,
+        "social_num": 2,
+        "ws_num": 0,
+        "exist_company_website": 2,
+        "rate": 17.8571,
+        "es_score": 29.13831
+      },
+      {
+        "hid": "fe18f1408152ac9de13f999c51d8c8ca",
+        "pid": "in9cae59c74a1e0af5f700264b0f9b3f7d",
+        "human_name": "sunil thaware",
+        "company_name": "haier appliances india pvt ltd",
+        "country_code": "IN",
+        "title_names": [
+          "junior .production engineer"
+        ],
+        "title_levels": [
+          "entry"
+        ],
+        "employee": "1001-5000",
+        "experience_num": 1,
+        "human_industries": [
+          "mechanical or industrial engineering"
+        ],
+        "company_industries": [
+          "electrical/electronic manufacturing",
+          "electrical & electronic manufacturing",
+          "consumer electronics"
+        ],
+        "gender": "m",
+        "human_type": 1,
+        "phone_num": 0,
+        "email_num": 1,
+        "website_num": 0,
+        "social_num": 1,
+        "ws_num": 0,
+        "exist_company_website": 2,
+        "rate": 16.4286,
+        "es_score": 29.13831
+      },
+      {
+        "hid": "f9d958b60fd5e67692905da9a3b64dc8",
+        "pid": "in9cae59c74a1e0af5f700264b0f9b3f7d",
+        "human_name": "ashish sharma",
+        "company_name": "haier appliances india pvt ltd",
+        "country_code": "IN",
+        "title_names": [
+          "summer internship"
+        ],
+        "title_levels": [],
+        "employee": "1001-5000",
+        "experience_num": 1,
+        "human_industries": [],
+        "company_industries": [
+          "electrical/electronic manufacturing",
+          "electrical & electronic manufacturing",
+          "consumer electronics"
+        ],
+        "gender": "m",
+        "human_type": 1,
+        "phone_num": 0,
+        "email_num": 1,
+        "website_num": 0,
+        "social_num": 1,
+        "ws_num": 0,
+        "exist_company_website": 2,
+        "rate": 16.4286,
+        "es_score": 29.13831
+      },
+      {
+        "hid": "f2294911a19be6248325bd9b7da430e7",
+        "pid": "in9cae59c74a1e0af5f700264b0f9b3f7d",
+        "human_name": "priyadarshi praveen",
+        "company_name": "haier appliances india pvt ltd",
+        "country_code": "IN",
+        "title_names": [
+          "senior manager"
+        ],
+        "title_levels": [
+          "manager",
+          "senior"
+        ],
+        "employee": "1001-5000",
+        "experience_num": 1,
+        "human_industries": [
+          "consumer electronics"
+        ],
+        "company_industries": [
+          "electrical/electronic manufacturing",
+          "electrical & electronic manufacturing",
+          "consumer electronics"
+        ],
+        "gender": "",
+        "human_type": 1,
+        "phone_num": 0,
+        "email_num": 1,
+        "website_num": 0,
+        "social_num": 1,
+        "ws_num": 0,
+        "exist_company_website": 2,
+        "rate": 16.4286,
+        "es_score": 29.13831
+      }
+    ],
+    "pitId": ""
+  },
+  "fee": {
+    "apiCost": 150,
+    "accountBalance": 93410,
+    "uuid": "a4b0f89f-cdf3-4a6b-8a44-1633fb12be88"
+  }
+}

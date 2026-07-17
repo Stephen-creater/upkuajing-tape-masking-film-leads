@@ -1,0 +1,619 @@
+{
+  "code": 0,
+  "msg": "success",
+  "data": {
+    "cursor": "WzE0LjM0NzIzNywxMi44NTcxLCI4NjAwMDllZmQzYTA1YjM2OGYzMDkxMGJlMWU2NjBjMSJd",
+    "list": [
+      {
+        "hid": "f514654170effb4e883218a4fc0b6e60",
+        "pid": "ind3c8a19dbb31e1123e414d30881247a3",
+        "human_name": "paramatma upadhyay",
+        "company_name": "inno",
+        "country_code": "IN",
+        "title_names": [
+          "android developer"
+        ],
+        "title_levels": [],
+        "employee": "0-10",
+        "experience_num": 1,
+        "human_industries": [
+          "computer software"
+        ],
+        "company_industries": [
+          "wireless",
+          "gambling & casinos"
+        ],
+        "gender": "",
+        "human_type": 1,
+        "phone_num": 0,
+        "email_num": 1,
+        "website_num": 0,
+        "social_num": 1,
+        "ws_num": 0,
+        "exist_company_website": 1,
+        "rate": 16.4286,
+        "es_score": 16.440987
+      },
+      {
+        "hid": "a1a065ea584b1068be6f1ac629c39411",
+        "pid": "ru66a32b10095e565025558344504f4fa0",
+        "human_name": "reni james",
+        "company_name": "inno",
+        "country_code": "IN",
+        "title_names": [
+          "graphic design"
+        ],
+        "title_levels": [],
+        "employee": "0-10",
+        "experience_num": 1,
+        "human_industries": [
+          "graphic design"
+        ],
+        "company_industries": [
+          "information technology and services",
+          "machinery, equipment, and supplies"
+        ],
+        "gender": "f",
+        "human_type": 1,
+        "phone_num": 0,
+        "email_num": 1,
+        "website_num": 0,
+        "social_num": 1,
+        "ws_num": 0,
+        "exist_company_website": 1,
+        "rate": 16.4286,
+        "es_score": 16.440987
+      },
+      {
+        "hid": "f357e29a7ce34e5ba1d5399ddb7d812a",
+        "pid": "usf851d7e9864afc08b830242da40b7cca",
+        "human_name": "adam heugel",
+        "company_name": "american inno",
+        "country_code": "US",
+        "title_names": [
+          "regional advertising sales manager, mid-west"
+        ],
+        "title_levels": [
+          "manager"
+        ],
+        "employee": "0-10",
+        "experience_num": 1,
+        "human_industries": [
+          "publishing"
+        ],
+        "company_industries": [
+          "publishing"
+        ],
+        "gender": "m",
+        "human_type": 1,
+        "phone_num": 1,
+        "email_num": 5,
+        "website_num": 0,
+        "social_num": 3,
+        "ws_num": 0,
+        "exist_company_website": 1,
+        "rate": 29.2857,
+        "es_score": 14.347237
+      },
+      {
+        "hid": "c3bc0fc20ca5e1a3239faf8f36b6802a",
+        "pid": "br6deb5952d6d49a5d3aff0b0353adec4f",
+        "human_name": "rodrigo simoes",
+        "company_name": "inno group",
+        "country_code": "BR",
+        "title_names": [
+          "chief executive officer"
+        ],
+        "title_levels": [
+          "cxo"
+        ],
+        "employee": "0-10",
+        "experience_num": 1,
+        "human_industries": [
+          "venture capital & private equity"
+        ],
+        "company_industries": [
+          "venture capital & private equity"
+        ],
+        "gender": "m",
+        "human_type": 1,
+        "phone_num": 1,
+        "email_num": 3,
+        "website_num": 0,
+        "social_num": 1,
+        "ws_num": 0,
+        "exist_company_website": 1,
+        "rate": 26.4286,
+        "es_score": 14.347237
+      },
+      {
+        "hid": "569d924d1781711b8dff7e6c7aac4bc6",
+        "pid": "usf851d7e9864afc08b830242da40b7cca",
+        "human_name": "katherine davis",
+        "company_name": "american inno",
+        "country_code": "US",
+        "title_names": [
+          "associate editor"
+        ],
+        "title_levels": [],
+        "employee": "0-10",
+        "experience_num": 1,
+        "human_industries": [
+          "media production"
+        ],
+        "company_industries": [
+          "publishing"
+        ],
+        "gender": "f",
+        "human_type": 1,
+        "phone_num": 1,
+        "email_num": 1,
+        "website_num": 0,
+        "social_num": 3,
+        "ws_num": 1,
+        "exist_company_website": 1,
+        "rate": 24.2857,
+        "es_score": 14.347237
+      },
+      {
+        "hid": "05e0ef9f433320f55ca3d7879124ef12",
+        "pid": "br6deb5952d6d49a5d3aff0b0353adec4f",
+        "human_name": "marcos mendes",
+        "company_name": "inno group",
+        "country_code": "BR",
+        "title_names": [
+          "software engineer"
+        ],
+        "title_levels": [],
+        "employee": "0-10",
+        "experience_num": 1,
+        "human_industries": [
+          "information technology and services"
+        ],
+        "company_industries": [
+          "venture capital & private equity"
+        ],
+        "gender": "m",
+        "human_type": 1,
+        "phone_num": 1,
+        "email_num": 3,
+        "website_num": 0,
+        "social_num": 3,
+        "ws_num": 0,
+        "exist_company_website": 1,
+        "rate": 22.2857,
+        "es_score": 14.347237
+      },
+      {
+        "hid": "440774942c5d551137b77cd6a8059713",
+        "pid": "2fd571c1971232d2b27d9475b9796feb",
+        "human_name": "maddy kennedy",
+        "company_name": "minne inno",
+        "country_code": "US",
+        "title_names": [
+          "editor"
+        ],
+        "title_levels": [],
+        "employee": "0-10",
+        "experience_num": 1,
+        "human_industries": [
+          "newspapers"
+        ],
+        "company_industries": [
+          "media production"
+        ],
+        "gender": "f",
+        "human_type": 1,
+        "phone_num": 1,
+        "email_num": 1,
+        "website_num": 0,
+        "social_num": 2,
+        "ws_num": 0,
+        "exist_company_website": 1,
+        "rate": 20.8571,
+        "es_score": 14.347237
+      },
+      {
+        "hid": "7a14b8eb6dd11eaacbde9fd67edb8e0b",
+        "pid": "gb6ca186509fc0d8a577e8be80dd0696c8",
+        "human_name": "christophe popov",
+        "company_name": "inno ltd",
+        "country_code": "GB",
+        "title_names": [
+          "startup advisor, interim chief technology officer"
+        ],
+        "title_levels": [],
+        "employee": "11-50",
+        "experience_num": 1,
+        "human_industries": [
+          "information technology and services"
+        ],
+        "company_industries": [
+          "computer programming, data processing, and other computer related services",
+          "information technology and services",
+          "information technology & services"
+        ],
+        "gender": "m",
+        "human_type": 1,
+        "phone_num": 0,
+        "email_num": 2,
+        "website_num": 0,
+        "social_num": 3,
+        "ws_num": 0,
+        "exist_company_website": 1,
+        "rate": 19.2857,
+        "es_score": 14.347237
+      },
+      {
+        "hid": "dd6cb1b4b8425cfffb25b35822dcd44d",
+        "pid": "si765df61ebafd32c0e1cb7223a8bba052",
+        "human_name": "tina osojnik",
+        "company_name": "inno legal",
+        "country_code": "SI",
+        "title_names": [
+          "chief executive officer"
+        ],
+        "title_levels": [
+          "cxo"
+        ],
+        "employee": "0-10",
+        "experience_num": 1,
+        "human_industries": [
+          "legal services"
+        ],
+        "company_industries": [
+          "legal services"
+        ],
+        "gender": "f",
+        "human_type": 1,
+        "phone_num": 0,
+        "email_num": 1,
+        "website_num": 0,
+        "social_num": 2,
+        "ws_num": 0,
+        "exist_company_website": 1,
+        "rate": 17.8571,
+        "es_score": 14.347237
+      },
+      {
+        "hid": "66e9adf92ba978f9d89af56ff368f289",
+        "pid": "fr0c04de1d8573d915f3da3c3b34b12366",
+        "human_name": "manon garcia",
+        "company_name": "inno'vin",
+        "country_code": "FR",
+        "title_names": [
+          "chargã e d'animation and communication"
+        ],
+        "title_levels": [],
+        "employee": "11-50",
+        "experience_num": 1,
+        "human_industries": [
+          "wine and spirits"
+        ],
+        "company_industries": [
+          "wine & spirits",
+          "wine and spirits"
+        ],
+        "gender": "",
+        "human_type": 1,
+        "phone_num": 0,
+        "email_num": 1,
+        "website_num": 0,
+        "social_num": 2,
+        "ws_num": 0,
+        "exist_company_website": 1,
+        "rate": 17.8571,
+        "es_score": 14.347237
+      },
+      {
+        "hid": "eb838d3323cacee95f6d2c8aa417c09b",
+        "pid": "frf3f1e68e3b963566015c72c06dd0b1ae",
+        "human_name": "frãâ aris",
+        "company_name": "inno'vo",
+        "country_code": "FR",
+        "title_names": [],
+        "title_levels": [],
+        "employee": "0-10",
+        "experience_num": 0,
+        "human_industries": [
+          "food production"
+        ],
+        "company_industries": [
+          "food production"
+        ],
+        "gender": "",
+        "human_type": 1,
+        "phone_num": 0,
+        "email_num": 1,
+        "website_num": 0,
+        "social_num": 1,
+        "ws_num": 0,
+        "exist_company_website": 1,
+        "rate": 16.4286,
+        "es_score": 14.347237
+      },
+      {
+        "hid": "e6ee43dd09032b310dc20f89230541dc",
+        "pid": "us445ca36d239a2c29e2a8c5ce8c50fa88",
+        "human_name": "david rollins",
+        "company_name": "inno design",
+        "country_code": "US",
+        "title_names": [
+          "senior designer"
+        ],
+        "title_levels": [
+          "senior"
+        ],
+        "employee": "11-50",
+        "experience_num": 1,
+        "human_industries": [
+          "design"
+        ],
+        "company_industries": [
+          "management and public relations services",
+          "design"
+        ],
+        "gender": "m",
+        "human_type": 1,
+        "phone_num": 0,
+        "email_num": 1,
+        "website_num": 0,
+        "social_num": 1,
+        "ws_num": 0,
+        "exist_company_website": 1,
+        "rate": 16.4286,
+        "es_score": 14.347237
+      },
+      {
+        "hid": "c4000c5bf88aa91b7c5936c655ebf62f",
+        "pid": "us445ca36d239a2c29e2a8c5ce8c50fa88",
+        "human_name": "chino chu",
+        "company_name": "inno design",
+        "country_code": "TW",
+        "title_names": [
+          "boss"
+        ],
+        "title_levels": [],
+        "employee": "11-50",
+        "experience_num": 1,
+        "human_industries": [
+          "design"
+        ],
+        "company_industries": [
+          "management and public relations services",
+          "design"
+        ],
+        "gender": "m",
+        "human_type": 1,
+        "phone_num": 0,
+        "email_num": 1,
+        "website_num": 0,
+        "social_num": 1,
+        "ws_num": 0,
+        "exist_company_website": 1,
+        "rate": 16.4286,
+        "es_score": 14.347237
+      },
+      {
+        "hid": "b4495ce7d036b2ae03091e08ca23f101",
+        "pid": "ro24002263c235156446b128bd4cd69c2a",
+        "human_name": "razvan miut",
+        "company_name": "inno solutions",
+        "country_code": "RO",
+        "title_names": [
+          "web developer"
+        ],
+        "title_levels": [],
+        "employee": "0-10",
+        "experience_num": 1,
+        "human_industries": [
+          "computer software"
+        ],
+        "company_industries": [
+          "information technology & services",
+          "computer & network security"
+        ],
+        "gender": "",
+        "human_type": 1,
+        "phone_num": 0,
+        "email_num": 3,
+        "website_num": 0,
+        "social_num": 1,
+        "ws_num": 0,
+        "exist_company_website": 1,
+        "rate": 16.4286,
+        "es_score": 14.347237
+      },
+      {
+        "hid": "6c1f5faf7bde982275517c0a87d3866f",
+        "pid": "us445ca36d239a2c29e2a8c5ce8c50fa88",
+        "human_name": "young kim",
+        "company_name": "inno design",
+        "country_code": "US",
+        "title_names": [
+          "chief executive officer"
+        ],
+        "title_levels": [
+          "cxo"
+        ],
+        "employee": "11-50",
+        "experience_num": 1,
+        "human_industries": [
+          "media production"
+        ],
+        "company_industries": [
+          "management and public relations services",
+          "design"
+        ],
+        "gender": "",
+        "human_type": 1,
+        "phone_num": 0,
+        "email_num": 1,
+        "website_num": 0,
+        "social_num": 1,
+        "ws_num": 0,
+        "exist_company_website": 1,
+        "rate": 16.4286,
+        "es_score": 14.347237
+      },
+      {
+        "hid": "3b4863ac97858fc39e28784528aa02db",
+        "pid": "usf9c9b0275ca3120b41a4914ca52e75c5",
+        "human_name": "zhibiao liang",
+        "company_name": "inno inc",
+        "country_code": "US",
+        "title_names": [
+          "director of software engineering"
+        ],
+        "title_levels": [
+          "director"
+        ],
+        "employee": "11-50",
+        "experience_num": 1,
+        "human_industries": [
+          "internet"
+        ],
+        "company_industries": [
+          "financial services"
+        ],
+        "gender": "",
+        "human_type": 1,
+        "phone_num": 0,
+        "email_num": 2,
+        "website_num": 0,
+        "social_num": 1,
+        "ws_num": 0,
+        "exist_company_website": 1,
+        "rate": 16.4286,
+        "es_score": 14.347237
+      },
+      {
+        "hid": "1798e66ebddf601cd6e261a4f63e21d1",
+        "pid": "us445ca36d239a2c29e2a8c5ce8c50fa88",
+        "human_name": "supernizita niza",
+        "company_name": "inno design",
+        "country_code": "MX",
+        "title_names": [
+          "propietario"
+        ],
+        "title_levels": [],
+        "employee": "11-50",
+        "experience_num": 1,
+        "human_industries": [
+          "design"
+        ],
+        "company_industries": [
+          "management and public relations services",
+          "design"
+        ],
+        "gender": "",
+        "human_type": 1,
+        "phone_num": 0,
+        "email_num": 1,
+        "website_num": 0,
+        "social_num": 1,
+        "ws_num": 0,
+        "exist_company_website": 1,
+        "rate": 16.4286,
+        "es_score": 14.347237
+      },
+      {
+        "hid": "01c63ea65efb4b9fcc8176e8ba8b0567",
+        "pid": "frf3f1e68e3b963566015c72c06dd0b1ae",
+        "human_name": "frédéric aris",
+        "company_name": "inno'vo",
+        "country_code": "FR",
+        "title_names": [
+          "responsable de comptes-clã s and k.a.m"
+        ],
+        "title_levels": [],
+        "employee": "0-10",
+        "experience_num": 1,
+        "human_industries": [
+          "food production"
+        ],
+        "company_industries": [
+          "food production"
+        ],
+        "gender": "",
+        "human_type": 1,
+        "phone_num": 0,
+        "email_num": 1,
+        "website_num": 0,
+        "social_num": 1,
+        "ws_num": 0,
+        "exist_company_website": 1,
+        "rate": 16.4286,
+        "es_score": 14.347237
+      },
+      {
+        "hid": "8db9d0f54c030b10f7af4b340b517b52",
+        "pid": "fr6f4e93414096817d6845ff2a4bff12f2",
+        "human_name": "regine lorenzi",
+        "company_name": "inno fy",
+        "country_code": "FR",
+        "title_names": [
+          "owner"
+        ],
+        "title_levels": [
+          "owner"
+        ],
+        "employee": "0-10",
+        "experience_num": 1,
+        "human_industries": [
+          "financial services"
+        ],
+        "company_industries": [
+          "financial services",
+          "management and public relations services",
+          "fund-raising"
+        ],
+        "gender": "f",
+        "human_type": 1,
+        "phone_num": 0,
+        "email_num": 1,
+        "website_num": 0,
+        "social_num": 2,
+        "ws_num": 0,
+        "exist_company_website": 1,
+        "rate": 12.8571,
+        "es_score": 14.347237
+      },
+      {
+        "hid": "860009efd3a05b368f30910be1e660c1",
+        "pid": "usf851d7e9864afc08b830242da40b7cca",
+        "human_name": "nick greenhalgh",
+        "company_name": "american inno",
+        "country_code": "US",
+        "title_names": [
+          "associate editor"
+        ],
+        "title_levels": [],
+        "employee": "0-10",
+        "experience_num": 1,
+        "human_industries": [
+          "online media"
+        ],
+        "company_industries": [
+          "publishing"
+        ],
+        "gender": "m",
+        "human_type": 1,
+        "phone_num": 0,
+        "email_num": 2,
+        "website_num": 0,
+        "social_num": 2,
+        "ws_num": 0,
+        "exist_company_website": 1,
+        "rate": 12.8571,
+        "es_score": 14.347237
+      }
+    ],
+    "pitId": ""
+  },
+  "fee": {
+    "apiCost": 150,
+    "accountBalance": 93260,
+    "uuid": "86fb0919-8ff5-4c83-a354-1683e9b3c640"
+  }
+}

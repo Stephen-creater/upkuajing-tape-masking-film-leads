@@ -1,0 +1,638 @@
+{
+  "code": 0,
+  "msg": "success",
+  "data": {
+    "cursor": "WzEyLjQ2MjU1NSwyMS40Mjg2LCJhYTVjNjZkYTRmNDJjZTdkMDQyNWJlMTI0ZTRjNDUyNyJd",
+    "list": [
+      {
+        "hid": "e9ed506cec8c5b96873634fcc7afecb2",
+        "pid": "ineea33187cb93c12604404bf536ae1752",
+        "human_name": "naman jain",
+        "company_name": "super sales corporation",
+        "country_code": "IN",
+        "title_names": [
+          "executive partner"
+        ],
+        "title_levels": [
+          "partner"
+        ],
+        "employee": "0-10",
+        "experience_num": 1,
+        "human_industries": [
+          "electrical/electronic manufacturing"
+        ],
+        "company_industries": [
+          "general industrial machinery and equipment",
+          "electrical/electronic manufacturing",
+          "retail"
+        ],
+        "gender": "m",
+        "human_type": 1,
+        "phone_num": 0,
+        "email_num": 1,
+        "website_num": 0,
+        "social_num": 1,
+        "ws_num": 0,
+        "exist_company_website": 1,
+        "rate": 16.4286,
+        "es_score": 20.447823
+      },
+      {
+        "hid": "c16c490c8f12389d1edda73e3c1b047a",
+        "pid": "usba727eba358bcdef980a2730afcc5e76",
+        "human_name": "dan brown",
+        "company_name": "super glue corporation",
+        "country_code": "US",
+        "title_names": [
+          "vice president of manufacturing"
+        ],
+        "title_levels": [
+          "vp"
+        ],
+        "employee": "51-200",
+        "experience_num": 1,
+        "human_industries": [
+          "consumer goods"
+        ],
+        "company_industries": [
+          "consumer goods"
+        ],
+        "gender": "m",
+        "human_type": 1,
+        "phone_num": 1,
+        "email_num": 3,
+        "website_num": 0,
+        "social_num": 1,
+        "ws_num": 1,
+        "exist_company_website": 1,
+        "rate": 26.4286,
+        "es_score": 13.105694
+      },
+      {
+        "hid": "76eb0151b1dd86f5bf9a62a8fe1df098",
+        "pid": "usba727eba358bcdef980a2730afcc5e76",
+        "human_name": "jan baker",
+        "company_name": "super glue corporation",
+        "country_code": "US",
+        "title_names": [
+          "sales manager"
+        ],
+        "title_levels": [
+          "manager"
+        ],
+        "employee": "51-200",
+        "experience_num": 1,
+        "human_industries": [
+          "consumer goods"
+        ],
+        "company_industries": [
+          "consumer goods"
+        ],
+        "gender": "",
+        "human_type": 1,
+        "phone_num": 1,
+        "email_num": 1,
+        "website_num": 0,
+        "social_num": 2,
+        "ws_num": 1,
+        "exist_company_website": 1,
+        "rate": 20.8571,
+        "es_score": 13.105694
+      },
+      {
+        "hid": "33749e960af88ec25e79e090f085c6d6",
+        "pid": "usba727eba358bcdef980a2730afcc5e76",
+        "human_name": "steve burger",
+        "company_name": "super glue corporation",
+        "country_code": "US",
+        "title_names": [
+          "vice president fulfillment"
+        ],
+        "title_levels": [
+          "vp"
+        ],
+        "employee": "51-200",
+        "experience_num": 1,
+        "human_industries": [
+          "consumer goods"
+        ],
+        "company_industries": [
+          "consumer goods"
+        ],
+        "gender": "m",
+        "human_type": 1,
+        "phone_num": 0,
+        "email_num": 1,
+        "website_num": 0,
+        "social_num": 2,
+        "ws_num": 0,
+        "exist_company_website": 1,
+        "rate": 17.8571,
+        "es_score": 13.105694
+      },
+      {
+        "hid": "fcc27efd88e6cb53dfd0ec6b62660d5f",
+        "pid": "usba727eba358bcdef980a2730afcc5e76",
+        "human_name": "leonard lauw",
+        "company_name": "super glue corporation",
+        "country_code": "US",
+        "title_names": [
+          "it director"
+        ],
+        "title_levels": [
+          "director"
+        ],
+        "employee": "51-200",
+        "experience_num": 1,
+        "human_industries": [
+          "chemicals"
+        ],
+        "company_industries": [
+          "consumer goods"
+        ],
+        "gender": "m",
+        "human_type": 1,
+        "phone_num": 0,
+        "email_num": 1,
+        "website_num": 0,
+        "social_num": 1,
+        "ws_num": 0,
+        "exist_company_website": 1,
+        "rate": 16.4286,
+        "es_score": 13.105694
+      },
+      {
+        "hid": "801cd9aa5696e41b18df89befcdfb58e",
+        "pid": "usba727eba358bcdef980a2730afcc5e76",
+        "human_name": "susie brown",
+        "company_name": "super glue corporation",
+        "country_code": "US",
+        "title_names": [
+          "marketing manager"
+        ],
+        "title_levels": [
+          "manager"
+        ],
+        "employee": "51-200",
+        "experience_num": 1,
+        "human_industries": [
+          "marketing and advertising"
+        ],
+        "company_industries": [
+          "consumer goods"
+        ],
+        "gender": "f",
+        "human_type": 1,
+        "phone_num": 0,
+        "email_num": 2,
+        "website_num": 0,
+        "social_num": 1,
+        "ws_num": 0,
+        "exist_company_website": 1,
+        "rate": 16.4286,
+        "es_score": 13.105694
+      },
+      {
+        "hid": "41dfea052f512c3186c4e7507f0c25d8",
+        "pid": "usba727eba358bcdef980a2730afcc5e76",
+        "human_name": "linda worthy",
+        "company_name": "super glue corporation",
+        "country_code": "US",
+        "title_names": [
+          "general sales manager"
+        ],
+        "title_levels": [
+          "manager"
+        ],
+        "employee": "51-200",
+        "experience_num": 1,
+        "human_industries": [
+          "chemicals"
+        ],
+        "company_industries": [
+          "consumer goods"
+        ],
+        "gender": "f",
+        "human_type": 1,
+        "phone_num": 0,
+        "email_num": 1,
+        "website_num": 0,
+        "social_num": 1,
+        "ws_num": 0,
+        "exist_company_website": 1,
+        "rate": 16.4286,
+        "es_score": 13.105694
+      },
+      {
+        "hid": "12db945ca42641c6b86a0798a0cfe360",
+        "pid": "usba727eba358bcdef980a2730afcc5e76",
+        "human_name": "ron gravette",
+        "company_name": "super glue corporation",
+        "country_code": "US",
+        "title_names": [
+          "president"
+        ],
+        "title_levels": [
+          "cxo"
+        ],
+        "employee": "51-200",
+        "experience_num": 1,
+        "human_industries": [
+          "consumer goods"
+        ],
+        "company_industries": [
+          "consumer goods"
+        ],
+        "gender": "m",
+        "human_type": 1,
+        "phone_num": 0,
+        "email_num": 2,
+        "website_num": 0,
+        "social_num": 1,
+        "ws_num": 0,
+        "exist_company_website": 1,
+        "rate": 16.4286,
+        "es_score": 13.105694
+      },
+      {
+        "hid": "a383dbd186950ba11008fd80b0cf9159",
+        "pid": "usfc746c22950d629f00a56c829e7500fd",
+        "human_name": "steve smith",
+        "company_name": "super seer corporation",
+        "country_code": "US",
+        "title_names": [
+          "owner"
+        ],
+        "title_levels": [
+          "owner"
+        ],
+        "employee": "0-10",
+        "experience_num": 1,
+        "human_industries": [
+          "law enforcement"
+        ],
+        "company_industries": [
+          "sporting goods"
+        ],
+        "gender": "m",
+        "human_type": 1,
+        "phone_num": 0,
+        "email_num": 1,
+        "website_num": 0,
+        "social_num": 1,
+        "ws_num": 0,
+        "exist_company_website": 1,
+        "rate": 11.4286,
+        "es_score": 13.105694
+      },
+      {
+        "hid": "cf4c27a64e82d6cf525530df2a8d7c2c",
+        "pid": "usba727eba358bcdef980a2730afcc5e76",
+        "human_name": "marcos reyes",
+        "company_name": "super glue corporation",
+        "country_code": "MX",
+        "title_names": [
+          "contador ciclico and encargado de surtido"
+        ],
+        "title_levels": [],
+        "employee": "51-200",
+        "experience_num": 1,
+        "human_industries": [],
+        "company_industries": [
+          "consumer goods"
+        ],
+        "gender": "m",
+        "human_type": 1,
+        "phone_num": 0,
+        "email_num": 1,
+        "website_num": 0,
+        "social_num": 1,
+        "ws_num": 0,
+        "exist_company_website": 1,
+        "rate": 9.4286,
+        "es_score": 13.105694
+      },
+      {
+        "hid": "96fbc7c9c0f97a748bdc909e8e8615c0",
+        "pid": "44a02d966d9d3b239f81999377634676",
+        "human_name": "srikanth velamati",
+        "company_name": "super val-u sales",
+        "country_code": "IE",
+        "title_names": [
+          "trading manager"
+        ],
+        "title_levels": [
+          "manager"
+        ],
+        "employee": "11-50",
+        "experience_num": 1,
+        "human_industries": [
+          "wholesale"
+        ],
+        "company_industries": [
+          "wholesale"
+        ],
+        "gender": "m",
+        "human_type": 1,
+        "phone_num": 0,
+        "email_num": 1,
+        "website_num": 0,
+        "social_num": 1,
+        "ws_num": 0,
+        "exist_company_website": 2,
+        "rate": 16.4286,
+        "es_score": 12.50896
+      },
+      {
+        "hid": "b7f0395cb4d8aadfb31b75b4c59c2a5d",
+        "pid": "us86d54b0045707b4bdd2f976111af79c2",
+        "human_name": "brandon wickus",
+        "company_name": "carlin sales corporation",
+        "country_code": "US",
+        "title_names": [
+          "product manager inside sales"
+        ],
+        "title_levels": [
+          "manager"
+        ],
+        "employee": "0-10",
+        "experience_num": 1,
+        "human_industries": [
+          "wholesale"
+        ],
+        "company_industries": [
+          "wholesale",
+          "miscellaneous non-durable goods"
+        ],
+        "gender": "m",
+        "human_type": 1,
+        "phone_num": 1,
+        "email_num": 1,
+        "website_num": 0,
+        "social_num": 2,
+        "ws_num": 0,
+        "exist_company_website": 1,
+        "rate": 27.8571,
+        "es_score": 12.462555
+      },
+      {
+        "hid": "a17f11d71dbacb53cb9bbab877defaf4",
+        "pid": "us53040cd93256fe8575f27f8104ca350a",
+        "human_name": "charles denatale",
+        "company_name": "underwood sales corporation",
+        "country_code": "US",
+        "title_names": [
+          "director of sales, marketing, and customer service"
+        ],
+        "title_levels": [
+          "director"
+        ],
+        "employee": "0-10",
+        "experience_num": 1,
+        "human_industries": [
+          "computer hardware"
+        ],
+        "company_industries": [
+          "electrical/electronic manufacturing",
+          "mechanical or industrial engineering"
+        ],
+        "gender": "m",
+        "human_type": 1,
+        "phone_num": 2,
+        "email_num": 10,
+        "website_num": 0,
+        "social_num": 2,
+        "ws_num": 1,
+        "exist_company_website": 1,
+        "rate": 27.8571,
+        "es_score": 12.462555
+      },
+      {
+        "hid": "d1a063daab1b95198de8867eb9926644",
+        "pid": "us86d54b0045707b4bdd2f976111af79c2",
+        "human_name": "melissa behn",
+        "company_name": "carlin sales corporation",
+        "country_code": "US",
+        "title_names": [
+          "field sales representative"
+        ],
+        "title_levels": [],
+        "employee": "0-10",
+        "experience_num": 1,
+        "human_industries": [
+          "wholesale"
+        ],
+        "company_industries": [
+          "wholesale",
+          "miscellaneous non-durable goods"
+        ],
+        "gender": "f",
+        "human_type": 1,
+        "phone_num": 1,
+        "email_num": 2,
+        "website_num": 0,
+        "social_num": 1,
+        "ws_num": 0,
+        "exist_company_website": 1,
+        "rate": 26.4286,
+        "es_score": 12.462555
+      },
+      {
+        "hid": "8e95afb93d1d5a0634d3c23fcbeee845",
+        "pid": "use492ec3e6b7972aaea96cf4d7f64dad8",
+        "human_name": "bill trebing",
+        "company_name": "mccoy sales corporation",
+        "country_code": "US",
+        "title_names": [
+          "purchasing"
+        ],
+        "title_levels": [],
+        "employee": "0-10",
+        "experience_num": 1,
+        "human_industries": [
+          "logistics and supply chain"
+        ],
+        "company_industries": [
+          "logistics and supply chain",
+          "security brokers, dealers, and flotation"
+        ],
+        "gender": "m",
+        "human_type": 1,
+        "phone_num": 1,
+        "email_num": 1,
+        "website_num": 0,
+        "social_num": 1,
+        "ws_num": 0,
+        "exist_company_website": 1,
+        "rate": 26.4286,
+        "es_score": 12.462555
+      },
+      {
+        "hid": "fe92f044e27c18ec0d9af8e2d7d3e81d",
+        "pid": "usc81b69b5044a35723afc0ba6ae3413c8",
+        "human_name": "suzanne gaia",
+        "company_name": "intermodal sales corporation",
+        "country_code": "US",
+        "title_names": [
+          "assistant equipment manager"
+        ],
+        "title_levels": [],
+        "employee": "11-50",
+        "experience_num": 1,
+        "human_industries": [
+          "financial services"
+        ],
+        "company_industries": [
+          "transportation/trucking/railroad"
+        ],
+        "gender": "f",
+        "human_type": 1,
+        "phone_num": 1,
+        "email_num": 2,
+        "website_num": 0,
+        "social_num": 2,
+        "ws_num": 0,
+        "exist_company_website": 1,
+        "rate": 22.8571,
+        "es_score": 12.462555
+      },
+      {
+        "hid": "d9f6e4259d4c76d31c6d203ec15b8da4",
+        "pid": "use492ec3e6b7972aaea96cf4d7f64dad8",
+        "human_name": "john niemi",
+        "company_name": "mccoy sales corporation",
+        "country_code": "US",
+        "title_names": [
+          "chief executive officer"
+        ],
+        "title_levels": [
+          "cxo"
+        ],
+        "employee": "0-10",
+        "experience_num": 1,
+        "human_industries": [
+          "wholesale"
+        ],
+        "company_industries": [
+          "logistics and supply chain",
+          "security brokers, dealers, and flotation"
+        ],
+        "gender": "m",
+        "human_type": 1,
+        "phone_num": 5,
+        "email_num": 4,
+        "website_num": 0,
+        "social_num": 2,
+        "ws_num": 1,
+        "exist_company_website": 1,
+        "rate": 22.8571,
+        "es_score": 12.462555
+      },
+      {
+        "hid": "bbf0f94449412605dfca7df1468be77e",
+        "pid": "us6a3d93931821928442070ee25ccdef0a",
+        "human_name": "nathan eberhardt",
+        "company_name": "electrical sales corporation",
+        "country_code": "US",
+        "title_names": [
+          "senior project manager",
+          "director of network infrastructure and installation"
+        ],
+        "title_levels": [
+          "director",
+          "manager",
+          "senior"
+        ],
+        "employee": "11-50",
+        "experience_num": 1,
+        "human_industries": [
+          "telecommunications"
+        ],
+        "company_industries": [
+          "information technology & services",
+          "telecommunications",
+          "electrical work",
+          "computer software"
+        ],
+        "gender": "m",
+        "human_type": 1,
+        "phone_num": 1,
+        "email_num": 1,
+        "website_num": 0,
+        "social_num": 2,
+        "ws_num": 1,
+        "exist_company_website": 1,
+        "rate": 22.8571,
+        "es_score": 12.462555
+      },
+      {
+        "hid": "c0e9cc6ca109aaa0bc2dde91859530b4",
+        "pid": "usc81b69b5044a35723afc0ba6ae3413c8",
+        "human_name": "michael stubbs",
+        "company_name": "intermodal sales corporation",
+        "country_code": "US",
+        "title_names": [
+          "vice president"
+        ],
+        "title_levels": [
+          "vp"
+        ],
+        "employee": "11-50",
+        "experience_num": 1,
+        "human_industries": [
+          "transportation/trucking/railroad"
+        ],
+        "company_industries": [
+          "transportation/trucking/railroad"
+        ],
+        "gender": "m",
+        "human_type": 1,
+        "phone_num": 1,
+        "email_num": 1,
+        "website_num": 0,
+        "social_num": 1,
+        "ws_num": 0,
+        "exist_company_website": 1,
+        "rate": 21.4286,
+        "es_score": 12.462555
+      },
+      {
+        "hid": "aa5c66da4f42ce7d0425be124e4c4527",
+        "pid": "usc81b69b5044a35723afc0ba6ae3413c8",
+        "human_name": "william bunn",
+        "company_name": "intermodal sales corporation",
+        "country_code": "US",
+        "title_names": [
+          "director operations and sales and cross border"
+        ],
+        "title_levels": [
+          "director"
+        ],
+        "employee": "11-50",
+        "experience_num": 1,
+        "human_industries": [
+          "transportation/trucking/railroad"
+        ],
+        "company_industries": [
+          "transportation/trucking/railroad"
+        ],
+        "gender": "m",
+        "human_type": 1,
+        "phone_num": 1,
+        "email_num": 1,
+        "website_num": 0,
+        "social_num": 1,
+        "ws_num": 0,
+        "exist_company_website": 1,
+        "rate": 21.4286,
+        "es_score": 12.462555
+      }
+    ],
+    "pitId": ""
+  },
+  "fee": {
+    "apiCost": 150,
+    "accountBalance": 92960,
+    "uuid": "dab0ff2b-4d62-4795-890c-8e7b5bdec055"
+  }
+}

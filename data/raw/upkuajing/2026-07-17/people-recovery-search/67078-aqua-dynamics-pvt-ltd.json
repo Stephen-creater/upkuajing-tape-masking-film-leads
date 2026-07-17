@@ -1,0 +1,637 @@
+{
+  "code": 0,
+  "msg": "success",
+  "data": {
+    "cursor": "WzE1LjIxOTIsMTYuNDI4NiwiY2M3Mzg2NzcxMDhhMTdkMWRhNGI1YmMxNzYyNzM0MmMiXQ==",
+    "list": [
+      {
+        "hid": "4c845ca9fa75dc9195fbb7e705ff2961",
+        "pid": "gb5c3ef1c4eccc8e96d9a96e6dc4d1c5e2",
+        "human_name": "danesh weerarathne",
+        "company_name": "aqua dynamics",
+        "country_code": "LK",
+        "title_names": [
+          "production manager"
+        ],
+        "title_levels": [
+          "manager"
+        ],
+        "employee": "11-50",
+        "experience_num": 1,
+        "human_industries": [
+          "sporting goods"
+        ],
+        "company_industries": [
+          "sporting goods manufacturing",
+          "sporting goods"
+        ],
+        "gender": "m",
+        "human_type": 1,
+        "phone_num": 0,
+        "email_num": 1,
+        "website_num": 0,
+        "social_num": 1,
+        "ws_num": 0,
+        "exist_company_website": 1,
+        "rate": 9.4286,
+        "es_score": 21.956863
+      },
+      {
+        "hid": "8d76e8ccb849368cac9f7462684bd6d2",
+        "pid": "inc87482dd04e51807132132d8d7dd01a5",
+        "human_name": "nandeesh gowda",
+        "company_name": "belgaum aqua valves pvt. ltd. - india",
+        "country_code": "AE",
+        "title_names": [
+          "qc manager"
+        ],
+        "title_levels": [
+          "manager"
+        ],
+        "employee": "11-50",
+        "experience_num": 1,
+        "human_industries": [
+          "mechanical or industrial engineering"
+        ],
+        "company_industries": [
+          "oil & energy"
+        ],
+        "gender": "",
+        "human_type": 1,
+        "phone_num": 0,
+        "email_num": 1,
+        "website_num": 0,
+        "social_num": 1,
+        "ws_num": 0,
+        "exist_company_website": 1,
+        "rate": 16.4286,
+        "es_score": 16.921913
+      },
+      {
+        "hid": "7af47d910e9b423bb1fe5a691473899e",
+        "pid": "inc87482dd04e51807132132d8d7dd01a5",
+        "human_name": "juned attar",
+        "company_name": "belgaum aqua valves pvt. ltd. - india",
+        "country_code": "IN",
+        "title_names": [
+          "qc engineer and ndt technician"
+        ],
+        "title_levels": [],
+        "employee": "11-50",
+        "experience_num": 1,
+        "human_industries": [
+          "mechanical or industrial engineering"
+        ],
+        "company_industries": [
+          "oil & energy"
+        ],
+        "gender": "",
+        "human_type": 1,
+        "phone_num": 0,
+        "email_num": 1,
+        "website_num": 0,
+        "social_num": 1,
+        "ws_num": 0,
+        "exist_company_website": 1,
+        "rate": 16.4286,
+        "es_score": 16.921913
+      },
+      {
+        "hid": "d80e107042746d630d1050dd1ba4ad57",
+        "pid": "in22b195e4d21da342450b4e42821a3d5a",
+        "human_name": "shrikant birje",
+        "company_name": "aqua alloys pvt ltd",
+        "country_code": "IN",
+        "title_names": [
+          "design and sales",
+          "design and marketting"
+        ],
+        "title_levels": [],
+        "employee": "1001-5000",
+        "experience_num": 1,
+        "human_industries": [
+          "mechanical or industrial engineering"
+        ],
+        "company_industries": [
+          "mining & metals",
+          "steel works, blast furnaces, and rolling and finishing mills"
+        ],
+        "gender": "",
+        "human_type": 1,
+        "phone_num": 0,
+        "email_num": 2,
+        "website_num": 0,
+        "social_num": 2,
+        "ws_num": 0,
+        "exist_company_website": 1,
+        "rate": 17.8571,
+        "es_score": 16.759562
+      },
+      {
+        "hid": "f994786a405974dfbf979577e97c8e9a",
+        "pid": "mv801e80b3f8b905e61b1fbb424b362455",
+        "human_name": "danuka abeysinghe",
+        "company_name": "aqua chrome pvt ltd",
+        "country_code": "LK",
+        "title_names": [
+          "sales and marketing manager"
+        ],
+        "title_levels": [
+          "manager"
+        ],
+        "employee": "0-10",
+        "experience_num": 1,
+        "human_industries": [
+          "marketing and advertising"
+        ],
+        "company_industries": [
+          "building materials"
+        ],
+        "gender": "",
+        "human_type": 1,
+        "phone_num": 0,
+        "email_num": 1,
+        "website_num": 0,
+        "social_num": 1,
+        "ws_num": 0,
+        "exist_company_website": 1,
+        "rate": 16.4286,
+        "es_score": 16.759562
+      },
+      {
+        "hid": "f3c6e08d867d712d6c9ac9d9064ab917",
+        "pid": "in22b195e4d21da342450b4e42821a3d5a",
+        "human_name": "rizwana khan",
+        "company_name": "aqua alloys pvt ltd",
+        "country_code": "IN",
+        "title_names": [
+          "assisent purches"
+        ],
+        "title_levels": [],
+        "employee": "1001-5000",
+        "experience_num": 1,
+        "human_industries": [
+          "machinery"
+        ],
+        "company_industries": [
+          "mining & metals",
+          "steel works, blast furnaces, and rolling and finishing mills"
+        ],
+        "gender": "",
+        "human_type": 1,
+        "phone_num": 0,
+        "email_num": 1,
+        "website_num": 0,
+        "social_num": 1,
+        "ws_num": 0,
+        "exist_company_website": 1,
+        "rate": 11.4286,
+        "es_score": 16.759562
+      },
+      {
+        "hid": "f86978622278776c30bcae37c883d7ec",
+        "pid": "inff425e62606eef6e053e1afa5784943c",
+        "human_name": "abhinandan goti",
+        "company_name": "singularity dynamics pvt ltd",
+        "country_code": "IN",
+        "title_names": [
+          "senior software architect"
+        ],
+        "title_levels": [
+          "senior"
+        ],
+        "employee": "0-10",
+        "experience_num": 1,
+        "human_industries": [
+          "computer networking"
+        ],
+        "company_industries": [
+          "information technology and services",
+          "information technology & services"
+        ],
+        "gender": "",
+        "human_type": 1,
+        "phone_num": 1,
+        "email_num": 2,
+        "website_num": 0,
+        "social_num": 2,
+        "ws_num": 1,
+        "exist_company_website": 1,
+        "rate": 27.8571,
+        "es_score": 16.221
+      },
+      {
+        "hid": "1462ace0ad9d48f598a7a64b42d519de",
+        "pid": "in98efee9b8d259978baa013a8824e992d",
+        "human_name": "koysur miah",
+        "company_name": "aqua designs india pvt ltd",
+        "country_code": "GB",
+        "title_names": [
+          "managing director"
+        ],
+        "title_levels": [
+          "director"
+        ],
+        "employee": "501-1000",
+        "experience_num": 1,
+        "human_industries": [
+          "construction"
+        ],
+        "company_industries": [
+          "environmental services",
+          "water supply"
+        ],
+        "gender": "",
+        "human_type": 1,
+        "phone_num": 1,
+        "email_num": 1,
+        "website_num": 0,
+        "social_num": 2,
+        "ws_num": 1,
+        "exist_company_website": 1,
+        "rate": 20.8571,
+        "es_score": 15.2192
+      },
+      {
+        "hid": "e1e6117a1707708561570e1d8d5ddd80",
+        "pid": "in98efee9b8d259978baa013a8824e992d",
+        "human_name": "dileepan raghavan",
+        "company_name": "aqua designs india pvt ltd",
+        "country_code": "IN",
+        "title_names": [
+          "manager accounts",
+          "manager-accounts"
+        ],
+        "title_levels": [
+          "manager"
+        ],
+        "employee": "501-1000",
+        "experience_num": 1,
+        "human_industries": [
+          "accounting"
+        ],
+        "company_industries": [
+          "environmental services",
+          "water supply"
+        ],
+        "gender": "",
+        "human_type": 1,
+        "phone_num": 0,
+        "email_num": 2,
+        "website_num": 0,
+        "social_num": 3,
+        "ws_num": 0,
+        "exist_company_website": 1,
+        "rate": 19.2857,
+        "es_score": 15.2192
+      },
+      {
+        "hid": "f6d67aaaab2ac0b6d711fbc2190ae79f",
+        "pid": "in98efee9b8d259978baa013a8824e992d",
+        "human_name": "aabel loyola",
+        "company_name": "aqua designs india pvt ltd",
+        "country_code": "IN",
+        "title_names": [
+          "assistant construction manager"
+        ],
+        "title_levels": [],
+        "employee": "501-1000",
+        "experience_num": 1,
+        "human_industries": [
+          "construction"
+        ],
+        "company_industries": [
+          "environmental services",
+          "water supply"
+        ],
+        "gender": "",
+        "human_type": 1,
+        "phone_num": 0,
+        "email_num": 2,
+        "website_num": 0,
+        "social_num": 2,
+        "ws_num": 0,
+        "exist_company_website": 1,
+        "rate": 17.8571,
+        "es_score": 15.2192
+      },
+      {
+        "hid": "ba25a11cb76cad39401c393b34f0eff9",
+        "pid": "ine2c9b40fdb4970a6688c6198943d3663",
+        "human_name": "shanahas shani",
+        "company_name": "nyle aqua systems pvt ltd",
+        "country_code": "IN",
+        "title_names": [
+          "senior .sales executive",
+          "area sales manager"
+        ],
+        "title_levels": [
+          "manager",
+          "senior"
+        ],
+        "employee": "11-50",
+        "experience_num": 1,
+        "human_industries": [
+          "consumer goods"
+        ],
+        "company_industries": [
+          "mechanical or industrial engineering",
+          "consumer goods"
+        ],
+        "gender": "",
+        "human_type": 1,
+        "phone_num": 0,
+        "email_num": 1,
+        "website_num": 0,
+        "social_num": 2,
+        "ws_num": 0,
+        "exist_company_website": 1,
+        "rate": 17.8571,
+        "es_score": 15.2192
+      },
+      {
+        "hid": "5ea1d9b40bc7e0cbde2b8ae09c2c5c22",
+        "pid": "in98efee9b8d259978baa013a8824e992d",
+        "human_name": "muns prakash",
+        "company_name": "aqua designs india pvt ltd",
+        "country_code": "IN",
+        "title_names": [
+          "c e o"
+        ],
+        "title_levels": [],
+        "employee": "501-1000",
+        "experience_num": 1,
+        "human_industries": [
+          "fishery"
+        ],
+        "company_industries": [
+          "environmental services",
+          "water supply"
+        ],
+        "gender": "",
+        "human_type": 1,
+        "phone_num": 0,
+        "email_num": 1,
+        "website_num": 0,
+        "social_num": 2,
+        "ws_num": 0,
+        "exist_company_website": 1,
+        "rate": 17.8571,
+        "es_score": 15.2192
+      },
+      {
+        "hid": "0229fc504c66da25ad2e1e651ebc03f7",
+        "pid": "ine2c9b40fdb4970a6688c6198943d3663",
+        "human_name": "anil batra",
+        "company_name": "nyle aqua systems pvt ltd",
+        "country_code": "IN",
+        "title_names": [
+          "head-corporate communication",
+          "head-corporate communications"
+        ],
+        "title_levels": [],
+        "employee": "11-50",
+        "experience_num": 1,
+        "human_industries": [
+          "consumer goods"
+        ],
+        "company_industries": [
+          "mechanical or industrial engineering",
+          "consumer goods"
+        ],
+        "gender": "m",
+        "human_type": 1,
+        "phone_num": 0,
+        "email_num": 2,
+        "website_num": 0,
+        "social_num": 2,
+        "ws_num": 0,
+        "exist_company_website": 1,
+        "rate": 17.8571,
+        "es_score": 15.2192
+      },
+      {
+        "hid": "f750565150015f67667efb60e7c1b48e",
+        "pid": "in98efee9b8d259978baa013a8824e992d",
+        "human_name": "shawn smith",
+        "company_name": "aqua designs india pvt ltd",
+        "country_code": "US",
+        "title_names": [
+          "vice president"
+        ],
+        "title_levels": [
+          "vp"
+        ],
+        "employee": "501-1000",
+        "experience_num": 1,
+        "human_industries": [
+          "construction"
+        ],
+        "company_industries": [
+          "environmental services",
+          "water supply"
+        ],
+        "gender": "",
+        "human_type": 1,
+        "phone_num": 0,
+        "email_num": 1,
+        "website_num": 0,
+        "social_num": 1,
+        "ws_num": 0,
+        "exist_company_website": 1,
+        "rate": 16.4286,
+        "es_score": 15.2192
+      },
+      {
+        "hid": "f339738fecfc8488fad0cf75ffc84758",
+        "pid": "in98efee9b8d259978baa013a8824e992d",
+        "human_name": "kallol ghosh",
+        "company_name": "aqua designs india pvt ltd",
+        "country_code": "IN",
+        "title_names": [
+          "marketing"
+        ],
+        "title_levels": [],
+        "employee": "501-1000",
+        "experience_num": 1,
+        "human_industries": [
+          "environmental services"
+        ],
+        "company_industries": [
+          "environmental services",
+          "water supply"
+        ],
+        "gender": "",
+        "human_type": 1,
+        "phone_num": 0,
+        "email_num": 1,
+        "website_num": 0,
+        "social_num": 1,
+        "ws_num": 0,
+        "exist_company_website": 1,
+        "rate": 16.4286,
+        "es_score": 15.2192
+      },
+      {
+        "hid": "ef539f75415462a5d46da53ae555cd59",
+        "pid": "in98efee9b8d259978baa013a8824e992d",
+        "human_name": "baskaran karthik",
+        "company_name": "aqua designs india pvt ltd",
+        "country_code": "IN",
+        "title_names": [
+          "deputy manager - projects"
+        ],
+        "title_levels": [
+          "manager"
+        ],
+        "employee": "501-1000",
+        "experience_num": 1,
+        "human_industries": [
+          "environmental services"
+        ],
+        "company_industries": [
+          "environmental services",
+          "water supply"
+        ],
+        "gender": "",
+        "human_type": 1,
+        "phone_num": 0,
+        "email_num": 1,
+        "website_num": 0,
+        "social_num": 1,
+        "ws_num": 0,
+        "exist_company_website": 1,
+        "rate": 16.4286,
+        "es_score": 15.2192
+      },
+      {
+        "hid": "eb47971a41a120ac626102843a2567e4",
+        "pid": "in98efee9b8d259978baa013a8824e992d",
+        "human_name": "srinath arumugam",
+        "company_name": "aqua designs india pvt ltd",
+        "country_code": "IN",
+        "title_names": [
+          "senior inath"
+        ],
+        "title_levels": [
+          "senior"
+        ],
+        "employee": "501-1000",
+        "experience_num": 1,
+        "human_industries": [
+          "construction"
+        ],
+        "company_industries": [
+          "environmental services",
+          "water supply"
+        ],
+        "gender": "m",
+        "human_type": 1,
+        "phone_num": 0,
+        "email_num": 1,
+        "website_num": 0,
+        "social_num": 1,
+        "ws_num": 0,
+        "exist_company_website": 1,
+        "rate": 16.4286,
+        "es_score": 15.2192
+      },
+      {
+        "hid": "e12a6002eea57ac60d12b82086e629c3",
+        "pid": "ine2c9b40fdb4970a6688c6198943d3663",
+        "human_name": "sanjay kaushik",
+        "company_name": "nyle aqua systems pvt ltd",
+        "country_code": "IN",
+        "title_names": [
+          "a.g.m."
+        ],
+        "title_levels": [],
+        "employee": "11-50",
+        "experience_num": 1,
+        "human_industries": [
+          "consumer goods"
+        ],
+        "company_industries": [
+          "mechanical or industrial engineering",
+          "consumer goods"
+        ],
+        "gender": "m",
+        "human_type": 1,
+        "phone_num": 0,
+        "email_num": 1,
+        "website_num": 0,
+        "social_num": 1,
+        "ws_num": 0,
+        "exist_company_website": 1,
+        "rate": 16.4286,
+        "es_score": 15.2192
+      },
+      {
+        "hid": "d25c6b30141013cfaa59c640e8217219",
+        "pid": "in98efee9b8d259978baa013a8824e992d",
+        "human_name": "giri tharan",
+        "company_name": "aqua designs india pvt ltd",
+        "country_code": "IN",
+        "title_names": [
+          "pro"
+        ],
+        "title_levels": [],
+        "employee": "501-1000",
+        "experience_num": 1,
+        "human_industries": [
+          "mental health care"
+        ],
+        "company_industries": [
+          "environmental services",
+          "water supply"
+        ],
+        "gender": "",
+        "human_type": 1,
+        "phone_num": 0,
+        "email_num": 1,
+        "website_num": 0,
+        "social_num": 1,
+        "ws_num": 0,
+        "exist_company_website": 1,
+        "rate": 16.4286,
+        "es_score": 15.2192
+      },
+      {
+        "hid": "cc738677108a17d1da4b5bc17627342c",
+        "pid": "in98efee9b8d259978baa013a8824e992d",
+        "human_name": "somnath dey",
+        "company_name": "aqua designs india pvt ltd",
+        "country_code": "IN",
+        "title_names": [
+          "project engineer"
+        ],
+        "title_levels": [],
+        "employee": "501-1000",
+        "experience_num": 1,
+        "human_industries": [
+          "research"
+        ],
+        "company_industries": [
+          "environmental services",
+          "water supply"
+        ],
+        "gender": "",
+        "human_type": 1,
+        "phone_num": 0,
+        "email_num": 1,
+        "website_num": 0,
+        "social_num": 1,
+        "ws_num": 0,
+        "exist_company_website": 1,
+        "rate": 16.4286,
+        "es_score": 15.2192
+      }
+    ],
+    "pitId": ""
+  },
+  "fee": {
+    "apiCost": 150,
+    "accountBalance": 92810,
+    "uuid": "7792ff80-c9fc-4728-b430-079c2c049d98"
+  }
+}
