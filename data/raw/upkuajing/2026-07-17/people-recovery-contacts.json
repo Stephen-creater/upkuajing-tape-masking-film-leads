@@ -1,0 +1,174 @@
+{
+  "code": 0,
+  "msg": "success",
+  "data": {
+    "list": [
+      {
+        "bus_id": "3c758ad6617836ec7f03f3469b6e9003",
+        "bus_type": 2,
+        "contact_data": {
+          "emails": [
+            {
+              "val": "kiran.shindemumbai@gmail.com",
+              "is_valid": 1,
+              "reason": "{\"invalid_input\":false,\"input\":[\"kiran.shindemumbai@gmail.com\"],\"domainMap\":{\"gmail.com\":\"kiran.shindemumbai@gmail.com\"},\"results\":{\"gmail.com\":{\"kiran.shindemumbai@gmail.com\":{\"reason\":\"250 2.1.5 OK d2-20020a654242000000b005cf17ab75dfsi6415689pgq.91 - gsmtp\\r\\n\",\"status\":250}}}}"
+            },
+            {
+              "val": "kiranshindemumbai@gmail.com",
+              "is_valid": 1,
+              "reason": "{\"invalid_input\":false,\"input\":[\"kiranshindemumbai@gmail.com\"],\"domainMap\":{\"gmail.com\":\"kiranshindemumbai@gmail.com\"},\"results\":{\"gmail.com\":{\"kiranshindemumbai@gmail.com\":{\"reason\":\"250 2.1.5 OK gx1-20020a056a001e0100b006d9adec6d0asi6045014pfb.272 - gsmtp\\r\\n\",\"status\":250}}}}"
+            }
+          ],
+          "phones": [],
+          "socials": [
+            {
+              "val": "https://www.linkedin.com/in/kiran-shinde-3a05091a",
+              "social_url": "in/kiran-shinde-3a05091a",
+              "social_type": "linkedin",
+              "is_valid": 0,
+              "reason": ""
+            }
+          ],
+          "websites": []
+        }
+      },
+      {
+        "bus_id": "489335261e8872731062ead62e67597f",
+        "bus_type": 2,
+        "contact_data": {
+          "emails": [
+            {
+              "val": "arorarajeev2001@yahoo.com",
+              "is_valid": 0,
+              "reason": ""
+            }
+          ],
+          "phones": [],
+          "socials": [
+            {
+              "val": "https://www.linkedin.com/in/rajeev-arora-a04a3521",
+              "social_url": "in/rajeev-arora-a04a3521",
+              "social_type": "linkedin",
+              "is_valid": 0,
+              "reason": ""
+            }
+          ],
+          "websites": []
+        }
+      },
+      {
+        "bus_id": "4c845ca9fa75dc9195fbb7e705ff2961",
+        "bus_type": 2,
+        "contact_data": {
+          "emails": [
+            {
+              "val": "danesh@aquadynamics.lk",
+              "is_valid": 2,
+              "reason": "{\"invalid_input\":false,\"input\":[\"danesh@aquadynamics.lk\"],\"domainMap\":{\"aquadynamics.lk\":\"danesh@aquadynamics.lk\"},\"results\":{\"aquadynamics.lk\":{\"danesh@aquadynamics.lk\":{\"reason\":\"550 5.7.1 Service unavailable, Client host [136.143.179.51] blocked using Spamhaus. To request removal from this list see https://www.spamhaus.org/query/ip/136.143.179.51 AS(1440) [SG1PEPF000082E1.apcprd02.prod.outlook.com 2023-11-30T23:00:25.377Z 08DBED5C018DB784]\\r\\n\",\"status\":550}}}}"
+            }
+          ],
+          "phones": [],
+          "socials": [
+            {
+              "val": "https://www.linkedin.com/in/danesh-weerarathne-8a5b9330",
+              "social_url": "in/danesh-weerarathne-8a5b9330",
+              "social_type": "linkedin",
+              "is_valid": 0,
+              "reason": ""
+            }
+          ],
+          "websites": []
+        }
+      },
+      {
+        "bus_id": "d3a30fc9aaa973469842c6d37f7d25d8",
+        "bus_type": 2,
+        "contact_data": {
+          "emails": [
+            {
+              "val": "chuktiii@gmail.com",
+              "is_valid": 1,
+              "reason": "\"{\\\"code\\\":200,\\\"msg\\\":\\\"OK\\\",\\\"items\\\":{\\\"type\\\":\\\"Gmail\\\",\\\"status\\\":\\\"Ok\\\",\\\"disposable\\\":\\\"No\\\"}}\""
+            },
+            {
+              "val": "madhumay.panigrahi@havells.com",
+              "is_valid": 1,
+              "reason": "\"{\\\"code\\\":200,\\\"msg\\\":\\\"OK\\\",\\\"items\\\":{\\\"type\\\":\\\"Other\\\",\\\"status\\\":\\\"Ok\\\",\\\"disposable\\\":\\\"Yes\\\"}}\""
+            }
+          ],
+          "phones": [],
+          "socials": [
+            {
+              "val": "https://www.linkedin.com/in/madhumay-panigrahi-528ab842",
+              "social_url": "in/madhumay-panigrahi-528ab842",
+              "social_type": "linkedin",
+              "is_valid": 0,
+              "reason": ""
+            },
+            {
+              "val": "https://www.facebook.com/madhumay.panigrahi",
+              "social_url": "madhumay.panigrahi",
+              "social_type": "facebook",
+              "is_valid": 0,
+              "reason": ""
+            }
+          ],
+          "websites": []
+        }
+      },
+      {
+        "bus_id": "e9ed506cec8c5b96873634fcc7afecb2",
+        "bus_type": 2,
+        "contact_data": {
+          "emails": [
+            {
+              "val": "jain.naman1984@gmail.com",
+              "is_valid": 1,
+              "reason": "{\"invalid_input\":false,\"input\":[\"jain.naman1984@gmail.com\"],\"domainMap\":{\"gmail.com\":\"jain.naman1984@gmail.com\"},\"results\":{\"gmail.com\":{\"jain.naman1984@gmail.com\":{\"reason\":\"250 2.1.5 OK v8-20020a056a00148800b0068e26ca7f00si5123964pfu.39 - gsmtp\\r\\n\",\"status\":250}}}}"
+            }
+          ],
+          "phones": [],
+          "socials": [
+            {
+              "val": "https://www.linkedin.com/in/jainnaman",
+              "social_url": "in/jainnaman",
+              "social_type": "linkedin",
+              "is_valid": 0,
+              "reason": ""
+            }
+          ],
+          "websites": []
+        }
+      },
+      {
+        "bus_id": "fffc6ee99c2b8976eecf0b29b5ff610e",
+        "bus_type": 2,
+        "contact_data": {
+          "emails": [
+            {
+              "val": "joe1199@live.com",
+              "is_valid": 2,
+              "reason": "failed_domains"
+            }
+          ],
+          "phones": [],
+          "socials": [
+            {
+              "val": "https://www.linkedin.com/in/joseph-scherrer-0230a11b",
+              "social_url": "in/joseph-scherrer-0230a11b",
+              "social_type": "linkedin",
+              "is_valid": 0,
+              "reason": ""
+            }
+          ],
+          "websites": []
+        }
+      }
+    ]
+  },
+  "fee": {
+    "apiCost": 300,
+    "accountBalance": 92510,
+    "uuid": "a5446f29-8c6c-4eaf-b062-d793945e57a4"
+  }
+}
