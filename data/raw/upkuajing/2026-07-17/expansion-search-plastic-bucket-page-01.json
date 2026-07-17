@@ -1,0 +1,528 @@
+{
+  "code": 0,
+  "msg": "success",
+  "data": {
+    "cursor": "eyJjb21wYW55X2lkIjo3MTQxNTk5N30=",
+    "list": [
+      {
+        "companyId": 362021,
+        "companyType": 2,
+        "name": "denso corp.",
+        "countryCode": "JP",
+        "tradeTotal": 113164,
+        "scope": "mech,sma,ic chip,grinder,mz,e core,adapter assembly,non woven,cc syringe,pick,quick,smd machine,anti static filter,5 cap,e 200,rotary part,cover press,nozzle heater,zin,gun",
+        "address": "1-1, showa-ch0 kariya aichi, 448-8661 japan",
+        "tradeMatchTotal": 1208,
+        "tradeMatchPercent": 1.07,
+        "latestTradeDate": 1772121600000,
+        "productDesc": "PLASTIC BUCKET KB04 BE NO 7046001 DT 22 01 2026 RE EXPORT OF RE USABLE PLASTIC PACKING MATERIAL RETURNED BACK TO SUPP",
+        "productTags": [
+          "plastic bucket",
+          "plastic",
+          "back t",
+          "turn",
+          "re export",
+          "re usable",
+          "packing material"
+        ],
+        "productNames": [],
+        "productAlias": [],
+        "productSuperordinate": [],
+        "productDownstream": []
+      },
+      {
+        "companyId": 421521,
+        "companyType": 2,
+        "name": "denso haryana pvt ltd",
+        "countryCode": "PK",
+        "tradeTotal": 613644,
+        "scope": "orange,rys,ball plunger,chian,harness,jal,steel ball,toggle switch,solder terminal,metal saw,front cover,fixed pin,single axis,solder wire,machine,vr,1tb,runner plate,n bearing,90 elbow",
+        "address": "plot no :3 sector-3 imt manesar ,, gurgaon gurgaon 122001 haryana india",
+        "tradeMatchTotal": 893,
+        "tradeMatchPercent": 0.15,
+        "latestTradeDate": 1770998400000,
+        "productDesc": "PH989931 1440 RETURNABLE PP TRAY ON RETURNABLE BASIS PLASTIC BUCKET ON RETURNABLE BASIS",
+        "productTags": [
+          "plastic bucket",
+          "asis",
+          "turn",
+          "pp tray"
+        ],
+        "productNames": [],
+        "productAlias": [],
+        "productSuperordinate": [],
+        "productDownstream": []
+      },
+      {
+        "companyId": 851625,
+        "companyType": 2,
+        "name": "sk hynix inc.",
+        "countryCode": "KR",
+        "tradeTotal": 26200,
+        "scope": "osb,cycle,integrated circuit,mno,camera,assembling machine,checking instruments,battery,al articles,hynix,sense organ,fama,ebra,bag,lubricant,automatic handling robot,handling,silicon resin,tester,ebox",
+        "address": "2091, gyeongchung-daero, bubal-eup, icheon-si, gyeonggi-do (467 - 734) seoul, rep of korea",
+        "tradeMatchTotal": 463,
+        "tradeMatchPercent": 1.77,
+        "latestTradeDate": 1757260800000,
+        "productDesc": "Thùng nhựa Jar, dùng để đựng tấm wafer, kích thước 35*35*8cm. Xuất trả mục 1 tk: 107481717450/G13#&CN",
+        "productTags": [
+          "Plastic",
+          "Jar",
+          "Wafer storage"
+        ],
+        "productNames": [
+          "Plastic Jar"
+        ],
+        "productAlias": [
+          "Plastic Container",
+          "Plastic Can",
+          "Plastic Tub",
+          "Plastic Bucket",
+          "Plastic Vessel"
+        ],
+        "productSuperordinate": [
+          "Plastic Resin",
+          "Petrochemicals",
+          "Plastic Granules",
+          "Additives",
+          "Colorants"
+        ],
+        "productDownstream": [
+          "Semiconductor Industry",
+          "Electronics Manufacturing",
+          "Wafer Production",
+          "Cleanroom Storage",
+          "Wafer Testing"
+        ]
+      },
+      {
+        "companyId": 20242986,
+        "companyType": 2,
+        "name": "DENSO KIRLOSKAR INDUSTRIES PRIVATE LIMITED",
+        "countryCode": "IN",
+        "tradeTotal": 44800,
+        "scope": "Electrical, thermal, electronic power-train products",
+        "address": "30TH KM STONE , TUMKUR ROAD , NH4, VISHVESHWARAPURA, NELAMANGALA, BANGALORE-562 123",
+        "tradeMatchTotal": 363,
+        "tradeMatchPercent": 0.81,
+        "latestTradeDate": 1753804800000,
+        "productDesc": "RE-USABLE PACKAGING MATERIALS PLASTIC BUCKET KB-10(FOC)(PACKING MATERIAL FOR RE-EXPORT PURPOSE ONLY)PLASTIC",
+        "productTags": [
+          "Plastic",
+          "Bucket",
+          "Packaging Materials"
+        ],
+        "productNames": [
+          "Plastic Bucket"
+        ],
+        "productAlias": [
+          "Plastic Pail",
+          "Plastic Container",
+          "Plastic Tub",
+          "Plastic Bin",
+          "Plastic Drum"
+        ],
+        "productSuperordinate": [
+          "Plastic Resin",
+          "Petrochemicals",
+          "Polyethylene",
+          "Polypropylene",
+          "Additives"
+        ],
+        "productDownstream": [
+          "Food Packaging",
+          "Chemical Packaging",
+          "Paint Packaging",
+          "Industrial Packaging",
+          "Household Packaging"
+        ]
+      },
+      {
+        "companyId": 67944554,
+        "companyType": 2,
+        "name": "sewon electronics co.ltd.",
+        "countryCode": "KR",
+        "tradeTotal": 63967,
+        "scope": "copper waste and scrap,ignition wiring,ring set",
+        "address": "199, chupalsandan 1-gil paengseong-eup, pyeongtaek-si, gyeonggi-do (451 - 805), rep of korea",
+        "tradeMatchTotal": 202,
+        "tradeMatchPercent": 0.32,
+        "latestTradeDate": 1759161600000,
+        "productDesc": "TN6#&Thùng nhựa, dùng để đóng gói hàng hóa xuất khẩu theo phương thức quay vòng. Hàng đã qua sử dụng.#&KR",
+        "productTags": [
+          "Plastic",
+          "Bucket",
+          "Export Packaging"
+        ],
+        "productNames": [
+          "Plastic Bucket"
+        ],
+        "productAlias": [
+          "Plastic Pail",
+          "Plastic Tub",
+          "Plastic Can",
+          "Plastic Bin",
+          "Plastic Container"
+        ],
+        "productSuperordinate": [
+          "Plastic Resin",
+          "Polyethylene",
+          "Polypropylene",
+          "Additives",
+          "Colorants"
+        ],
+        "productDownstream": [
+          "Food Packaging",
+          "Chemical Packaging",
+          "Industrial Packaging",
+          "Agricultural Packaging",
+          "Household Packaging"
+        ]
+      },
+      {
+        "companyId": 71464001,
+        "companyType": 2,
+        "name": "PRIME AGENCY",
+        "countryCode": "US",
+        "tradeTotal": 179043,
+        "scope": "",
+        "address": "City of Industry, California",
+        "tradeMatchTotal": 133,
+        "tradeMatchPercent": 0.07,
+        "latestTradeDate": 1782662400000,
+        "productDesc": "PLASTIC BUCKET PLASTIC BUCKET XXXXXXXXXXXXXXXXXX",
+        "productTags": [],
+        "productNames": [],
+        "productAlias": [],
+        "productSuperordinate": [],
+        "productDownstream": []
+      },
+      {
+        "companyId": 10840728,
+        "companyType": 2,
+        "name": "white sands inc.",
+        "countryCode": "US",
+        "tradeTotal": 504,
+        "scope": "sol,wood,cradle,carrier,surfboard,used yacht,ipm,packing material",
+        "address": "13442 white sand drive tustin ca",
+        "tradeMatchTotal": 121,
+        "tradeMatchPercent": 24.01,
+        "latestTradeDate": 1760630400000,
+        "productDesc": "PLASTIC BUCKET- GAL ORANGE<br/>",
+        "productTags": [
+          "plastic bucket",
+          "orange"
+        ],
+        "productNames": [],
+        "productAlias": [],
+        "productSuperordinate": [],
+        "productDownstream": []
+      },
+      {
+        "companyId": 28359097,
+        "companyType": 2,
+        "name": "FUCHS LUBRICANTS (INDIA) PRIVATE LIMITED",
+        "countryCode": "IN",
+        "tradeTotal": 7908,
+        "scope": "Neat cutting oils; white oils and vaselines; metalworking fluids; metalworking fluids (HFN Le Series); metalforming lubricants (Rml-02); grease; industrial lubricants; corrosion preventives; and refrigeration oils",
+        "address": "100, DR. ANNIE BESANT ROAD , SARJAN PLAZA, 2ND FLOOR , WORLI",
+        "tradeMatchTotal": 108,
+        "tradeMatchPercent": 1.37,
+        "latestTradeDate": 1753632000000,
+        "productDesc": "CEPLATTYN BL WHITE (601074981)5kg plastic bucket  (LUBRICATING PREPARATIONS)CEPLATTYN BL WHITE (601074981)5kg plastic bucket  (LUBRICATI",
+        "productTags": [],
+        "productNames": [],
+        "productAlias": [],
+        "productSuperordinate": [],
+        "productDownstream": []
+      },
+      {
+        "companyId": 71380209,
+        "companyType": 2,
+        "name": "BESTLINE SUPPLY CHAIN (USA) INC",
+        "countryCode": "US",
+        "tradeTotal": 39096,
+        "scope": "",
+        "address": "Diamond Bar, California",
+        "tradeMatchTotal": 105,
+        "tradeMatchPercent": 0.27,
+        "latestTradeDate": 1781193600000,
+        "productDesc": "PLASTIC BUCKET; STAPLER",
+        "productTags": [],
+        "productNames": [],
+        "productAlias": [],
+        "productSuperordinate": [],
+        "productDownstream": []
+      },
+      {
+        "companyId": 226023,
+        "companyType": 2,
+        "name": "paramount global inc.",
+        "countryCode": "US",
+        "tradeTotal": 2063,
+        "scope": "6 oz,t rib,ilp,trigger sprayer,frost,kala chana,husk,spice jar,packaging material,chas,bottles,dropper,hkm,diamond,non medical,tin box,bottle,jar pet,foma,spray",
+        "address": "yankee office park, 1458 yankee park pl,dayton oh 45458",
+        "tradeMatchTotal": 90,
+        "tradeMatchPercent": 4.36,
+        "latestTradeDate": 1757606400000,
+        "productDesc": "Hũ nhựa 8OZ - (Mới 100%) #&VN",
+        "productTags": [
+          "Plastic",
+          "Bucket",
+          "8OZ"
+        ],
+        "productNames": [
+          "Plastic Bucket"
+        ],
+        "productAlias": [
+          "Plastic Pail",
+          "Plastic Tub",
+          "Plastic Can",
+          "Plastic Bin",
+          "Plastic Vessel"
+        ],
+        "productSuperordinate": [
+          "Plastic Resin",
+          "Petrochemicals",
+          "Polymer",
+          "Additives",
+          "Plasticizer"
+        ],
+        "productDownstream": [
+          "Food Storage",
+          "Liquid Storage",
+          "Tool Storage",
+          "Chemical Storage",
+          "Agricultural Use"
+        ]
+      },
+      {
+        "companyId": 20199578,
+        "companyType": 2,
+        "name": "DENSO INDIA PRIVATE LIMITED",
+        "countryCode": "IN",
+        "tradeTotal": 45686,
+        "scope": "Electrical automotive components, alternator, starter, magneto, CDI, etc.",
+        "address": "B-1/D-4 , GROUND FLOOR MOHAN CO-OPERATIVE INDUSTRIAL ESTATE , MATHURA ROAD",
+        "tradeMatchTotal": 84,
+        "tradeMatchPercent": 0.18,
+        "latestTradeDate": 1753372800000,
+        "productDesc": "PLASTIC BUCKET - KB-04 (1.149 KGS/PCS (PACKING MATERIAL FOR RE-EXPORT GOODS)PLASTIC BUCKET KB-04",
+        "productTags": [],
+        "productNames": [],
+        "productAlias": [],
+        "productSuperordinate": [],
+        "productDownstream": []
+      },
+      {
+        "companyId": 191974,
+        "companyType": 2,
+        "name": "plasticos modernos s.a.",
+        "countryCode": "CR",
+        "tradeTotal": 112031,
+        "scope": "ecem,ail,agent,rib,xt,limon,kare,nivel,ipm,delivery,rod,3 pe,firestone,eco,l 50,mixture,25kg bag,tar,esenttia,sola",
+        "address": "451-4005, la ribera de belén, heredia, costa rica",
+        "tradeMatchTotal": 83,
+        "tradeMatchPercent": 0.07,
+        "latestTradeDate": 1734624000000,
+        "productDesc": "TAPA PLASTICA",
+        "productTags": [
+          "plastic bucket"
+        ],
+        "productNames": [],
+        "productAlias": [],
+        "productSuperordinate": [],
+        "productDownstream": []
+      },
+      {
+        "companyId": 217979,
+        "companyType": 2,
+        "name": "dollarama l p co",
+        "countryCode": "US",
+        "tradeTotal": 127197,
+        "scope": "clear diamond,cat dish,holder set,baking cup,bag a,colour pencil,ng tube,pvc anti slip,foam sticker,cool,foam paint brush,d clip,window squeegee,plastic hoop,gs m,wort,cover,litte,xmas snowman,3 ton",
+        "address": "5805 av royalmount mont-royal, qc h4p 0a1 canada",
+        "tradeMatchTotal": 75,
+        "tradeMatchPercent": 0.06,
+        "latestTradeDate": 1781193600000,
+        "productDesc": "RECTANGULAR PLASTIC BUCKET WITH HANDLE 1600 CARTON 9.7L RECTANGULAR PLASTIC BUCKET WITH HANDLE<br/>",
+        "productTags": [
+          "angular",
+          "carton",
+          "bucket with handle",
+          "plastic"
+        ],
+        "productNames": [],
+        "productAlias": [],
+        "productSuperordinate": [],
+        "productDownstream": []
+      },
+      {
+        "companyId": 71383355,
+        "companyType": 2,
+        "name": "C.H. ROBINSON INTERNATIONAL, INC.",
+        "countryCode": "PR",
+        "tradeTotal": 425093,
+        "scope": "",
+        "address": "Miami, Florida",
+        "tradeMatchTotal": 65,
+        "tradeMatchPercent": 0.02,
+        "latestTradeDate": 1753286400000,
+        "productDesc": "VEHICLES NOT MECHANICALLY PROPELLED NESOI TRUCK PLASTIC BASKET LAUDRY CART PLASTIC CAN PLASTIC CANS BACK BAR PLASTIC CANS PEDAL ...",
+        "productTags": [
+          "Vehicles",
+          "Plastic",
+          "Basket",
+          "Cart",
+          "Can"
+        ],
+        "productNames": [
+          "Vehicles not mechanically propelled",
+          "Truck plastic basket",
+          "Laundry cart",
+          "Plastic can"
+        ],
+        "productAlias": [
+          "Non - motorized vehicles",
+          "Plastic truck basket",
+          "Clothes cart",
+          "Plastic container",
+          "Plastic bucket"
+        ],
+        "productSuperordinate": [
+          "Plastic resin",
+          "Petroleum",
+          "Chemical additives",
+          "Colorants",
+          "Fillers"
+        ],
+        "productDownstream": [
+          "Warehouses",
+          "Laundries",
+          "Retail stores",
+          "Restaurants",
+          "Hospitals"
+        ]
+      },
+      {
+        "companyId": 71437269,
+        "companyType": 2,
+        "name": "LACINOS SPEEDCARGO CORP.",
+        "countryCode": "US",
+        "tradeTotal": 49767,
+        "scope": "",
+        "address": "El Monte, California",
+        "tradeMatchTotal": 60,
+        "tradeMatchPercent": 0.12,
+        "latestTradeDate": 1782835200000,
+        "productDesc": "NAC:HKHKGSPOT1 PLASTIC BUCKET/PLASTIC BAG/PLA STIC TRAY SCAC CODE: XXXX CUCC: CNNGBCASIN TH IS SHIPMENT CONTAINS NO SOLID WOOD P...",
+        "productTags": [],
+        "productNames": [],
+        "productAlias": [],
+        "productSuperordinate": [],
+        "productDownstream": []
+      },
+      {
+        "companyId": 209334,
+        "companyType": 2,
+        "name": "cotton valley",
+        "countryCode": "US",
+        "tradeTotal": 11036,
+        "scope": "drying rack,plastic bath mat,polyester shower curtain,bamboo fiber roll,kit,board,spring link,aluminium nonstick cookware,cap to,knob,foot,plastic spray,tato,tong,liner,plastic clothes hanger,picture hanging,hooks shower curtain,cement adhesive,nns",
+        "address": "96 distribution blvd, edison, nj usa",
+        "tradeMatchTotal": 57,
+        "tradeMatchPercent": 0.52,
+        "latestTradeDate": 1778947200000,
+        "productDesc": "PLASTIC BOTTLE PLASTIC BUCKET PLASTIC SPOON READGING GLASSES<br/>",
+        "productTags": [
+          "plastic bucket",
+          "plastic bottle",
+          "glasses",
+          "gin",
+          "plastic spoon"
+        ],
+        "productNames": [],
+        "productAlias": [],
+        "productSuperordinate": [],
+        "productDownstream": []
+      },
+      {
+        "companyId": 71368855,
+        "companyType": 2,
+        "name": "AIO INTERNATIONAL INC",
+        "countryCode": "US",
+        "tradeTotal": 4403,
+        "scope": "",
+        "address": "Fresh Meadows, New York",
+        "tradeMatchTotal": 56,
+        "tradeMatchPercent": 1.27,
+        "latestTradeDate": 1758556800000,
+        "productDesc": "PLASTIC BUCKET",
+        "productTags": [],
+        "productNames": [],
+        "productAlias": [],
+        "productSuperordinate": [],
+        "productDownstream": []
+      },
+      {
+        "companyId": 71396678,
+        "companyType": 2,
+        "name": "DHY SHIPPING LINE INC.",
+        "countryCode": "US",
+        "tradeTotal": 110846,
+        "scope": "",
+        "address": "Monterey Park, California",
+        "tradeMatchTotal": 55,
+        "tradeMatchPercent": 0.05,
+        "latestTradeDate": 1783267200000,
+        "productDesc": "PLASTIC BUCKET POLISHING BALL XXXXXXXXXX PLUM BLOSSOM SANDPAPER MASK FILTER BOX CHRISTMAS TREE EARPLUGS POLISHING AGENT LATEX WA...",
+        "productTags": [],
+        "productNames": [],
+        "productAlias": [],
+        "productSuperordinate": [],
+        "productDownstream": []
+      },
+      {
+        "companyId": 71438036,
+        "companyType": 2,
+        "name": "LC LOGISTICS SERVICES, INC.",
+        "countryCode": "CA",
+        "tradeTotal": 42977,
+        "scope": "",
+        "address": "Ontario, California",
+        "tradeMatchTotal": 45,
+        "tradeMatchPercent": 0.1,
+        "latestTradeDate": 1781884800000,
+        "productDesc": "PULP EGG TRAY 20L PLASTIC BUCKET WITH COVER US REGULAR HS CODE FLOWMETERS COMPONENTS CATALOG CELLOPHANE WRAPPING MACHINE PULP EG...",
+        "productTags": [],
+        "productNames": [],
+        "productAlias": [],
+        "productSuperordinate": [],
+        "productDownstream": []
+      },
+      {
+        "companyId": 71415997,
+        "companyType": 2,
+        "name": "GST FREIGHT, INC.",
+        "countryCode": "US",
+        "tradeTotal": 29405,
+        "scope": "",
+        "address": "Diamond Bar, California",
+        "tradeMatchTotal": 44,
+        "tradeMatchPercent": 0.15,
+        "latestTradeDate": 1783612800000,
+        "productDesc": "CLEANING BRUSH CLEANING BRUSH PLASTIC BUCKET FOOT STOOL ( HS 9603909090)",
+        "productTags": [],
+        "productNames": [],
+        "productAlias": [],
+        "productSuperordinate": [],
+        "productDownstream": []
+      }
+    ]
+  },
+  "fee": {
+    "apiCost": 150,
+    "accountBalance": 69790,
+    "uuid": "0aa71387-a45f-4b18-b72a-40c40240bdba"
+  }
+}
