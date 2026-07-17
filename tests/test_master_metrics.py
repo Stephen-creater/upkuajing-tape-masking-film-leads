@@ -1,4 +1,5 @@
 import json
+import re
 import unittest
 from pathlib import Path
 
@@ -41,6 +42,16 @@ class MasterMetricsTests(unittest.TestCase):
             len(companies),
         )
         self.assertEqual(sum(not email and not phone for email, phone in zip(has_email, has_phone)), 0)
+
+    def test_business_scope_is_fully_localized_for_workbook(self):
+        master = json.loads(MASTER_PATH.read_text(encoding="utf-8"))
+        for company in master["companies"]:
+            localized = str(company.get("business_scope_zh", "")).strip()
+            self.assertTrue(localized, f"公司 {company['company_id']} 缺少中文经营范围")
+            self.assertIsNone(
+                re.search(r"[A-Za-z]", localized),
+                f"公司 {company['company_id']} 的中文经营范围仍含外文：{localized}",
+            )
 
 
 if __name__ == "__main__":

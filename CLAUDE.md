@@ -16,7 +16,7 @@
 - Keep 277 globally deduplicated valid email strings and 284 company-email associations as technical audit counts, not business KPIs.
 - Preserve source URLs and raw API fields. Never invent missing contact details.
 - Localize business-facing workbook values into Chinese: `tape` = `胶带`, `masking film` = `遮蔽膜`; use the same Chinese terms for categories and search terms.
-- Prefer Chinese country and product terminology in the workbook, but preserve company names, contact details, URLs, trade descriptions, addresses, business scopes, model numbers, and uncertain terms in their original form.
+- Prefer Chinese country and product terminology in the workbook. The workbook's business-scope column must contain Chinese only; preserve its API original in `company-master.json` and raw evidence. Preserve company names, contact details, URLs, trade descriptions, addresses, model numbers, and uncertain terms in their original form.
 
 ## Paid API and secrets
 

@@ -15,6 +15,13 @@ const projectCap = 500.00;
 
 const source = JSON.parse(await fs.readFile(sourcePath, "utf8"));
 const companies = source.companies;
+for (const company of companies) {
+  const localizedScope = String(company.business_scope_zh || "").trim();
+  if (!localizedScope) throw new Error(`公司 ${company.company_id} 缺少中文经营范围`);
+  if (/\p{Script=Latin}/u.test(localizedScope)) {
+    throw new Error(`公司 ${company.company_id} 的中文经营范围仍含外文：${localizedScope}`);
+  }
+}
 const workbook = Workbook.create();
 const sheet = workbook.worksheets.add("客户总表");
 const costSheet = workbook.worksheets.add("成本与流程");
@@ -25,7 +32,7 @@ sheet.freezePanes.freezeColumns(5);
 const headers = [
   "研究状态", "市场优先级", "产品品类（中文）", "公司ID", "公司名称", "国家/地区（中文）",
   "首选邮箱", "邮箱可用状态", "首选电话", "官网", "联系完整度", "跟进状态", "负责人",
-  "API地址（原文）", "官网核验地址（原文）", "经营范围（原文）", "匹配贸易次数", "贸易总次数", "匹配占比",
+  "API地址（原文）", "官网核验地址（原文）", "经营范围（中文）", "匹配贸易次数", "贸易总次数", "匹配占比",
   "最近贸易日期", "API邮箱", "官网补充邮箱", "API电话", "官网补充电话", "电话验证详情", "WhatsApp",
   "社交媒体", "官网联系渠道", "邮箱验证详情", "产品名称", "产品标签",
   "报关品名/命中证据（原文）", "产品别名", "上游词", "下游词", "搜索词（中文）", "搜索原始来源",
@@ -189,7 +196,7 @@ sheet.getRange("A2").values = [[
 
 const cards = [
   ["A3:D3", "公司总数", "E3:H3", `=COUNTA(E${firstDataRow}:E${lastDataRow})`],
-  ["I3:L3", "有效联系方式公司", "M3:P3", "='成本与流程'!B5"],
+  ["I3:L3", "有效联系方式公司", "M3:P3", "='成本与流程'!B4"],
   ["Q3:T3", "有效邮箱公司", "U3:X3", `=COUNTIF(H${firstDataRow}:H${lastDataRow},"已验证有效")`],
   ["Y3:AB3", "有效电话公司", "AC3:AF3", `=COUNTIF(Y${firstDataRow}:Y${lastDataRow},"*状态1*")`],
 ];
@@ -232,7 +239,7 @@ const values = companies.map((company) => {
     "",
     company.address || "",
     company.website_address || "",
-    company.business_scope || "",
+    company.business_scope_zh || "暂无经营范围信息",
     Number(company.trade_match_total || 0),
     Number(company.trade_total || 0),
     Number(company.trade_match_percent || 0) / 100,
@@ -434,7 +441,7 @@ const fieldHelp = {
   "首选邮箱": "优先取官网补充邮箱，否则取API/人物邮箱", "邮箱可用状态": "有效、无效、不确定或接口未能检测",
   "首选电话": "优先取官网电话，否则取API电话", "官网": "公司网站", "联系完整度": "按有效邮箱、有效电话、官网、社媒加权",
   "跟进状态": "人工维护的销售进度", "负责人": "人工填写跟进人", "API地址（原文）": "跨境魔方返回的原始公司地址",
-  "官网核验地址（原文）": "官网或权威来源确认的原始地址", "经营范围（原文）": "API返回的公司经营或产品范围原文", "匹配贸易次数": "与本品类匹配的贸易记录数",
+  "官网核验地址（原文）": "官网或权威来源确认的原始地址", "经营范围（中文）": "API经营或产品范围的中文译文；原文保留在结构化主数据和原始证据中", "匹配贸易次数": "与本品类匹配的贸易记录数",
   "贸易总次数": "该公司全部贸易记录数", "匹配占比": "匹配贸易次数占总贸易次数", "最近贸易日期": "最近一笔相关贸易日期",
   "API邮箱": "海关公司API和审查后人物API获取的邮箱", "官网补充邮箱": "官网、政府或权威目录补充的邮箱",
   "API电话": "跨境魔方返回的电话", "官网补充电话": "官网、政府或权威目录补充的电话", "电话验证详情": "每个号码的有效状态、类型及WhatsApp状态",
@@ -508,6 +515,15 @@ const productLanguageCheck = await workbook.inspect({
 });
 console.log(productLanguageCheck.ndjson);
 
+const businessScopeLanguageCheck = await workbook.inspect({
+  kind: "match",
+  range: `客户总表!P${firstDataRow}:P${lastDataRow}`,
+  searchTerm: "[A-Za-z]",
+  options: { useRegex: true, maxResults: 20 },
+  summary: "经营范围外文扫描",
+});
+console.log(businessScopeLanguageCheck.ndjson);
+
 const previewA = await workbook.render({
   sheetName: "客户总表",
   range: `A1:N18`,
@@ -527,6 +543,16 @@ const previewB = await workbook.render({
 await fs.writeFile(
   path.join(workDir, "customer-master-preview-right.png"),
   new Uint8Array(await previewB.arrayBuffer()),
+);
+const previewScope = await workbook.render({
+  sheetName: "客户总表",
+  range: "N1:R18",
+  scale: 1.4,
+  format: "png",
+});
+await fs.writeFile(
+  path.join(workDir, "business-scope-preview.png"),
+  new Uint8Array(await previewScope.arrayBuffer()),
 );
 const previewCost = await workbook.render({
   sheetName: "成本与流程",
