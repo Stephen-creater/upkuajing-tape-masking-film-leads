@@ -85,6 +85,12 @@ def apply_results(master: dict[str, Any], plan: dict[str, Any], response: dict[s
         row["website_research_source"] = join_values(
             split_values(row.get("website_research_source", "")), [candidate["source"]]
         )
+        row["website_phones"] = join_values(
+            split_values(row.get("website_phones", "")), candidate.get("phones") or []
+        )
+        row["whatsapp"] = join_values(
+            split_values(row.get("whatsapp", "")), candidate.get("whatsapp") or []
+        )
         note = f"{candidate['source_quality']}；{candidate['notes']} 验证状态={status}。"
         row["website_research_notes"] = join_values(
             split_values(row.get("website_research_notes", "")), [note]
